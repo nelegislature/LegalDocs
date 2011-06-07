@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Arbortext, Inc., 1988-2004, v.4002-->
+<?APT Element gi="legaldoc"?>
+<?APT Element gi="law" attrs="type"?>
+<?APT Element gi="section" attrs="id"?>
+<?APT Element gi="sectno" attrs="id"?>
+<?APT Element gi="amendatorysection" attrs="amended chaptername id statutenumber"?>
+<?APT Element gi="bookinfo"?>
+<?APT Element gi="statuteno" attrs="id"?>
+<?APT Element gi="catchline" attrs="id"?>
+<?APT Element gi="para"?>
+<?APT Element gi="source"?>
+<?APT Element gi="effectivedate"?>
+<legaldoc><law type="statute"><section id="id76"><sectno id="id77">Sec. 18.</sectno><amendatorysection
+amended="yes" chaptername="Livestock" id="id78" statutenumber="54-619"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id80">54-619</statuteno><catchline
+id="id81">Dangerous dogs; confinement required; warning signs.</catchline><para>(1)
+No person, firm, partnership, limited liability company, or corporation shall
+own, keep, or harbor or allow to be in or on any premises occupied by him,
+her, or it or under his, her, or its charge or control any dangerous dog without
+such dog being confined so as to protect the public from injury.</para><para>(2)
+While unattended on the owner's property, a dangerous dog shall be securely
+confined, in a humane manner, indoors or in a securely enclosed and locked
+pen or structure suitably designed to prevent the entry of young children
+and to prevent the dog from escaping. The pen or structure shall have secure
+sides and a secure top. If the pen or structure has no bottom secured to the
+sides, the sides shall be embedded into the ground at a depth of at least
+one foot. The pen or structure shall also protect the dog from the elements.
+The pen or structure shall be at least ten feet from any property line of
+the owner. The owner of a dangerous dog shall post warning signs on the property
+where the dog is kept that are clearly visible from all areas of public access
+and that inform persons that a dangerous dog is on the property. Each warning
+sign shall be no less than ten inches by twelve inches and shall contain the
+words warning and dangerous animal in high-contrast lettering at least three
+inches high on a black background.</para></amendatorysection></section><source><para>Laws
+1989, LB 208, &#167; 3; </para><para>Laws 2008, LB1055, &#167; 18.</para></source> </law></legaldoc>

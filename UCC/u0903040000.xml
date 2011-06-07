@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="ucc"><section><sectno></sectno><amendatorysection chaptername="Uniform Commercial Code" statutenumber="9-340">
+<bookinfo>Uniform Commercial Code, Reissue Revised Statutes of Nebraska</bookinfo>
+<statuteno>9-340</statuteno>
+<catchline>Effectiveness of right of recoupment or set-off against deposit account.</catchline>
+<para>(a) Except as otherwise provided in subsection (c), a bank with which a deposit account is maintained may exercise any right of recoupment or set-off against a secured party that holds a security interest in the deposit account.</para>
+<para>(b) Except as otherwise provided in subsection (c), the application of this article to a security interest in a deposit account does not affect a right of recoupment or set-off of the secured party as to a deposit account maintained with the secured party.</para>
+<para>(c) The exercise by a bank of a set-off against a deposit account is ineffective against a secured party that holds a security interest in the deposit account which is perfected by control under section 9-104(a)(3), if the set-off is based on a claim against the debtor.</para>
+</amendatorysection></section>
+<source>
+<para>Laws 1999, LB 550, &#167; 133.</para>
+</source>
+<annotation>
+<para><emphasis>COMMENT</emphasis></para>
+<para><emphasis>1. Source.</emphasis> New; subsection (b) is based on a nonuniform Illinois amendment.</para>
+<para><emphasis>2. Set-off vs. Security Interest.</emphasis> This section resolves the conflict between a security interest in a deposit account and the bank's rights of recoupment and set-off.</para>
+<para>Subsection (a) states the general rule and provides that the bank may effectively exercise rights of recoupment and set-off against the secured party. Subsection (c) contains an exception: If the secured party has control under section 9-104(a)(3) (i.e., if it has become the bank's customer), then any set-off exercised by the bank against a debt owed by the debtor (as opposed to a debt owed to the bank by the secured party) is ineffective. The bank may, however, exercise its recoupment rights effectively. This result is consistent with the priority rule in section 9-327(4), under which the security interest of a bank in a deposit account is subordinate to that of a secured party who has control under section 9-104(a)(3).</para>
+<para>This section deals with rights of set-off and recoupment that a bank may have under other law. It does not create a right of set-off or recoupment, nor is it intended to override any limitations or restrictions that other law imposes on the exercise of those rights.</para>
+<para><emphasis>3. Preservation of Set-Off Right.</emphasis> Subsection (b) makes clear that a bank may hold both a right of set-off against, and an article 9 security interest in, the same deposit account. By holding a security interest in a deposit account, a bank does not impair any right of set-off it would otherwise enjoy. This subsection does not pertain to accounts evidenced by an instrument (e.g., certain certificates of deposit), which are excluded from the definition of "deposit accounts".</para></annotation></law></legaldoc>

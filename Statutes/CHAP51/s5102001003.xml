@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Arbortext, Inc., 1988-2004, v.4002-->
+<?APT Element gi="legaldoc"?>
+<?APT Element gi="law" attrs="type"?>
+<?APT Element gi="section" attrs="id"?>
+<?APT Element gi="sectno" attrs="id"?>
+<?APT Element gi="amendatorysection" attrs="amended chaptername id statutenumber"?>
+<?APT Element gi="bookinfo"?>
+<?APT Element gi="statuteno" attrs="id"?>
+<?APT Element gi="catchline" attrs="id"?>
+<?APT Element gi="para"?>
+<?APT Element gi="source"?>
+<?APT Element gi="effectivedate"?>
+<legaldoc><law type="statute"><section id="id41"><sectno id="id42">Sec. 12.</sectno><amendatorysection
+amended="yes" chaptername="Libraries and Museums" id="id43" statutenumber="51-201.03"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id45">51-201.03</statuteno><catchline
+id="id46">County library; petition to establish; procedure; election.</catchline><para>(1)
+The registered voters of the incorporated and unincorporated areas of a county
+which do not have a public library may file an initiative petition with the
+county board requesting the establishment of a county library. The petition
+shall be filed by July 31 prior to a statewide general election. Signatures
+gathered before the last statewide general election shall not be counted.
+An initiative petition shall conform to the requirements of section 32-628.
+Petition signers and petition circulators shall conform to the requirements
+of sections 32-629 and 32-630. The county board shall submit the petitions
+to the election commissioner or county clerk for signature verification pursuant
+to section 32-631. The required number of signatures shall be five percent
+of the voters registered at the last statewide general election in the incorporated
+and unincorporated areas of the county which do not have a public library.
+The election commissioner or county clerk shall notify the county board within
+thirty days after receiving the petitions from the county board whether the
+required number of signatures has been gathered.</para><para>(2) If the county
+board determines that the petitions are in proper form and signed by the necessary
+number of registered voters, the county board shall notify the governing body
+and library board of each incorporated area within the county within ten days
+after such determination and shall publish in a newspaper of general circulation
+in the county that the registered voters of the unincorporated area of the
+county and of the incorporated areas which do not have a public library will
+be asked to vote on the issue at the next statewide general election and shall
+submit the question of whether to establish a county library to the voters
+as required in section 51-201.</para></amendatorysection></section><source><para>Laws
+1997, LB 250, &#167; 11; </para><para>Laws 2008, LB269, &#167; 12.</para></source></law></legaldoc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Arbortext, Inc., 1988-2004, v.4002-->
+<?APT Element gi="legaldoc"?>
+<?APT Element gi="law" attrs="type"?>
+<?APT Element gi="section" attrs="id"?>
+<?APT Element gi="sectno" attrs="id"?>
+<?APT Element gi="amendatorysection" attrs="amended chaptername id publishedsource statutenumber"?>
+<?APT Element gi="bookinfo"?>
+<?APT Element gi="statuteno"?>
+<?APT Element gi="catchline"?>
+<?APT Element gi="para"?>
+<?APT Element gi="source"?>
+<?APT Element gi="operativedate"?>
+<legaldoc><law type="statute"><section id="id165"><sectno id="id166">Sec.
+20.</sectno><amendatorysection amended="no" chaptername="Motor Vehicles" id="id167"
+publishedsource="CumulativeSupplement" statutenumber="60-624.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>60-624.01</statuteno><catchline>Idle
+reduction technology, defined.</catchline><para>Idle reduction technology
+means any device or system of devices that is installed on a heavy-duty diesel-powered
+on-highway truck or truck-tractor and is designed to provide to such truck
+or truck-tractor those services, such as heat, air conditioning, or electricity,
+that would otherwise require the operation of the main drive engine while
+the truck or truck-tractor is temporarily parked or remains stationary.</para></amendatorysection></section><source><para>Laws
+2008, LB756, &#167; 20.</para></source> </law></legaldoc>

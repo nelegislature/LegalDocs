@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Arbortext, Inc., 1988-2004, v.4002-->
+<?APT Element gi="legaldoc"?>
+<?APT Element gi="law" attrs="type"?>
+<?APT Element gi="section" attrs="id"?>
+<?APT Element gi="sectno" attrs="id"?>
+<?APT Element gi="amendatorysection" attrs="amended chaptername id publishedsource statutenumber"?>
+<?APT Element gi="bookinfo"?>
+<?APT Element gi="statuteno"?>
+<?APT Element gi="catchline"?>
+<?APT Element gi="para"?>
+<?APT Element gi="source"?>
+<?APT Element gi="effectivedate"?>
+<legaldoc><law type="statute"><section id="id38"><sectno id="id39">Sec. 6.</sectno><amendatorysection
+amended="no" chaptername="Livestock" id="id40" publishedsource="CumulativeSupplement"
+statutenumber="54-506"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>54-506</statuteno><catchline>Release
+from program; when; recovery of payments.</catchline><para>(1) A veterinarian
+shall be released from the program contract without penalty if:</para><para>(a)
+The veterinarian has completed the service requirements of the contract;</para><para>(b)
+The veterinarian is unable to complete the service requirements of the contract
+because of a permanent physical disability;</para><para>(c) The veterinarian
+demonstrates extreme hardship or shows other good cause justifying the release;
+or</para><para>(d) The veterinarian dies.</para><para>(2)(a) A veterinarian
+shall be released from further performance of veterinary services under the
+program contract if he or she is unable to perform his or her contractual
+obligations to provide veterinary services due to the suspension or revocation
+of his or her federal accreditation or denial, refusal of renewal, limitation,
+suspension, revocation, or other disciplinary measure taken against his or
+her license to practice in Nebraska pursuant to section 71-1,163 until December
+1, 2008, and section 38-3324 on and after December 1, 2008.</para><para>(b)
+If a veterinarian is released from his or her contract pursuant to subdivision
+(a) of this subsection, the department may recover a portion of or all of
+the payments made to such veterinarian under section 54-505. The department
+shall remit any such funds to the State Treasurer for credit to the Food Supply
+Animal Veterinary Incentive Fund. The department may use appropriate remedies
+available to enforce this subdivision.</para><para>(3) The State of Nebraska
+shall be released from any further obligation under the Food Supply Animal
+Veterinary Incentive Program Act or any contract entered into with a veterinarian
+under the act if the veterinarian is released from the program pursuant to
+this section.</para></amendatorysection></section><source><para>Laws 2008,
+LB1172, &#167; 6.</para></source></law></legaldoc>

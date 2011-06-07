@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Arbortext, Inc., 1988-2004, v.4002-->
+<!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN"
+ "legaldoc.dtd">
+<legaldoc><law type="ucc">
+<section><sectno></sectno>
+<amendatorysection chaptername="Uniform Commercial Code" statutenumber="4A-103">
+<bookinfo>Uniform Commercial Code, Reissue Revised Statutes of Nebraska</bookinfo>
+<statuteno>4A-103</statuteno>
+<catchline>Payment order - definitions.</catchline>
+<para>(a) In this article:</para>
+<para>(1) "Payment order" means an instruction of a sender to a receiving
+bank, transmitted orally, electronically, or in writing, to pay, or to cause
+another bank to pay, a fixed or determinable amount of money to a beneficiary
+if:</para>
+<para>(i) the instruction does not state a condition to payment to the beneficiary
+other than time of payment,</para>
+<para>(ii) the receiving bank is to be reimbursed by debiting an account of,
+or otherwise receiving payment from, the sender, and</para>
+<para>(iii) the instruction is transmitted by the sender directly to the receiving
+bank or to an agent, funds-transfer system, or communication system for transmittal
+to the receiving bank.</para>
+<para>(2) "Beneficiary" means the person to be paid by the beneficiary's bank.</para>
+<para>(3) "Beneficiary's bank" means the bank identified in a payment order
+in which an account of the beneficiary is to be credited pursuant to the order
+or which otherwise is to make payment to the beneficiary if the order does
+not provide for payment to an account.</para>
+<para>(4) "Receiving bank" means the bank to which the sender's instruction
+is addressed.</para>
+<para>(5) "Sender" means the person giving the instruction to the receiving
+bank.</para>
+<para>(b) If an instruction complying with subsection (a)(1) is to make more
+than one payment to a beneficiary, the instruction is a separate payment order
+with respect to each payment.</para>
+<para>(c) A payment order is issued when it is sent to the receiving bank.</para>
+</amendatorysection></section>
+<source>
+<para>Laws 1991, LB 160, &#167; 4.</para></source>
+<annotation>
+<para><emphasis>COMMENT</emphasis></para>
+<para>This section is discussed in the comment following section 4A-104.</para>
+</annotation></law></legaldoc>

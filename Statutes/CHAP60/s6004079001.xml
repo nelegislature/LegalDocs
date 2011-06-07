@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?APT Element gi="legaldoc"?>
+<?APT Element gi="law" attrs="type"?>
+<?APT Element gi="section" attrs="id"?>
+<?APT Element gi="sectno" attrs="id"?>
+<?APT Element gi="amendatorysection" attrs="amended chaptername id publishedsource statutenumber"?>
+<?APT Element gi="bookinfo"?>
+<?APT Element gi="statuteno"?>
+<?APT Element gi="catchline"?>
+<?APT Element gi="para"?>
+<?APT Element gi="source"?>
+<?APT Element gi="effectivedate"?>
+<legaldoc><law type="statute"><section id="id41"><sectno id="id42">Sec. 8.</sectno><amendatorysection
+amended="no" chaptername="Motor Vehicles" id="id43" publishedsource="CumulativeSupplement"
+statutenumber="60-479.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>60-479.01</statuteno><catchline>Section; applicability;
+fraudulent document recognition training.</catchline><para>This section applies
+beginning on an implementation date designated by the director pursuant to
+section 60-462.02. All persons handling source documents or engaged in the
+issuance of new, renewed, or reissued operators' licenses or state identification
+cards shall have periodic fraudulent document recognition training.</para></amendatorysection></section><source><para>Laws
+2008, LB911, &#167; 8.</para></source> </law></legaldoc>

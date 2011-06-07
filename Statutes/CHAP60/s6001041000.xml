@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Arbortext, Inc., 1988-2004, v.4002-->
+<?APT Element gi="legaldoc"?>
+<?APT Element gi="law" attrs="type"?>
+<?APT Element gi="section" attrs="id"?>
+<?APT Element gi="sectno" attrs="id opdate"?>
+<?APT Element gi="amendatorysection" attrs="amended chaptername id statutenumber"?>
+<?APT Element gi="bookinfo"?>
+<?APT Element gi="statuteno" attrs="id"?>
+<?APT Element gi="catchline" attrs="id"?>
+<?APT Element gi="para"?>
+<?APT Element gi="source"?>
+<?APT Element gi="operativedate"?>
+<?APT Element gi="annotation"?>
+<legaldoc><law type="statute"><section id="id16"><sectno id="id17" opdate=" March 20, 2008">Sec.
+2.</sectno><amendatorysection amended="yes" chaptername="Motor Vehicles" id="id18"
+statutenumber="60-141"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno
+id="id20">60-141</statuteno><catchline id="id21">Dealer; inventory; certificates
+required; when.</catchline><para>A dealer need not apply for certificates
+of title for any vehicles in stock or acquired for stock purposes, but upon
+transfer of such vehicle in stock or acquired for stock purposes, the dealer
+shall give the transferee a reassignment of the certificate of title on such
+vehicle or an assignment of a manufacturer's or importer's certificate. If
+all reassignments on the manufacturer's or importer's certificate have been
+used, the dealer may attach a dealer assignment form prescribed by the department
+prior to any subsequent transfer. If all reassignments on the dealer assignment
+form or the certificate of title have been used, the dealer shall obtain title
+in the dealer's name prior to any subsequent transfer. No dealer shall execute
+a reassignment on or transfer ownership by way of a manufacturer's statement
+of origin unless the dealer is franchised by the manufacturer of the vehicle.</para></amendatorysection></section><source><para>Laws 2005, LB 276, &#167; 41; </para><para>Laws 2008, LB756, &#167; 2.</para></source><annotation><para>Purchasers,
+other than dealers, must acquire certificate of title. State Farm Mutual Auto
+Ins. Co. v. Drawbaugh, 159 Neb. 149, 65 N.W.2d 542 (1954).</para><para>Concluding
+proviso does not exempt dealer from having mortgage lien noted on certificate
+of title. Bank of Keystone v. Kayton, 155 Neb. 79, 50 N.W.2d 511 (1951).</para><para>A
+motor vehicle mortgage lien, not shown on certificate of title, is not valid
+against subsequent holder of mortgage lien shown on the certificate. Securities
+Credit Corp. v. Pindell, 153 Neb. 298, 44 N.W.2d 501 (1950).</para></annotation>  </law></legaldoc>

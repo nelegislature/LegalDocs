@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Arbortext, Inc., 1988-2004, v.4002-->
+<?APT Element gi="legaldoc"?>
+<?APT Element gi="law" attrs="type"?>
+<?APT Element gi="section" attrs="id"?>
+<?APT Element gi="sectno" attrs="id opdate"?>
+<?APT Element gi="amendatorysection" attrs="amended chaptername id statutenumber"?>
+<?APT Element gi="bookinfo"?>
+<?APT Element gi="statuteno" attrs="id"?>
+<?APT Element gi="catchline" attrs="id"?>
+<?APT Element gi="para"?>
+<?APT Element gi="source"?>
+<?APT Element gi="operativedate"?>
+<legaldoc><law type="statute"><section id="id4"><sectno id="id5" opdate="January 1, 2009">Section
+1.</sectno><amendatorysection amended="yes" chaptername="Law" id="id6" statutenumber="49-1474.02"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id8">49-1474.02</statuteno><catchline
+id="id9">Dissemination of message by telecommunication or electronic means;
+requirements.</catchline><para>(1) Any person who makes an expenditure reportable
+under the Nebraska Political Accountability and Disclosure Act to disseminate
+by any means of telecommunication a prerecorded message or a recorded message
+relating to a candidate or ballot question shall include, immediately preceding
+the message, the name of the person making the expenditure. Such messages
+shall be disseminated only between the hours of 8 a.m. and 9 p.m. at the location
+of the person receiving the messages.</para><para>(2) Any person who makes
+an expenditure reportable under the act to disseminate by any means of telecommunication
+a message relating to a candidate or ballot question which is not a recorded
+message or a prerecorded message shall, immediately upon the request of the
+recipient of the message, disclose the name of the person making the expenditure.
+If the message is disseminated through an employee or agent of the person
+making the expenditure, the employee or agent shall, immediately upon the
+request of the recipient of the message, disclose the name of the person making
+the expenditure.</para><para>(3) Any person who makes an expenditure reportable
+under the act to disseminate by any electronic means, including the Internet
+or email, a message relating to a candidate or ballot question shall include
+in the message the name of the person making the expenditure.</para></amendatorysection></section><source><para>Laws 2001, LB 242, &#167; 2; </para><para>R.S.1943, (2003), &#167; 49-1446.06; </para><para>Laws 2005, LB 242, &#167; 24; </para><para>Laws 2008, LB720, &#167; 1.</para></source> </law></legaldoc>

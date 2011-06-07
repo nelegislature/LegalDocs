@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Arbortext, Inc., 1988-2004, v.4002-->
+<?APT Element gi="legaldoc"?>
+<?APT Element gi="law" attrs="type"?>
+<?APT Element gi="section" attrs="id"?>
+<?APT Element gi="sectno" attrs="id"?>
+<?APT Element gi="amendatorysection" attrs="amended chaptername id statutenumber"?>
+<?APT Element gi="bookinfo"?>
+<?APT Element gi="statuteno" attrs="id"?>
+<?APT Element gi="catchline" attrs="id"?>
+<?APT Element gi="para"?>
+<?APT Element gi="source"?>
+<?APT Element gi="effectivedate"?>
+<legaldoc><law type="statute"><section id="id15"><sectno id="id16">Sec. 2.</sectno><amendatorysection
+amended="yes" chaptername="Motor Vehicles" id="id17" statutenumber="60-610"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id19">60-610</statuteno><catchline
+id="id20">Authorized emergency vehicle, defined.</catchline><para>Authorized
+emergency vehicle shall mean such fire department vehicles, police vehicles,
+rescue vehicles, and ambulances as are publicly owned, such other publicly
+or privately owned vehicles as are designated by the Director of Motor Vehicles,
+and such publicly owned military vehicles of the National Guard as are designated
+by the Adjutant General pursuant to section 55-133.</para></amendatorysection></section><source><para>Laws 1993, LB 370, &#167; 106; </para><para>Laws 2008, LB196, &#167; 2.</para></source> </law></legaldoc>

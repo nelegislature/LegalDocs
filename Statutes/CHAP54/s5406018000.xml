@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Arbortext, Inc., 1988-2004, v.4002-->
+<?APT Element gi="legaldoc"?>
+<?APT Element gi="law" attrs="type"?>
+<?APT Element gi="section" attrs="id"?>
+<?APT Element gi="sectno" attrs="id"?>
+<?APT Element gi="amendatorysection" attrs="amended chaptername id statutenumber"?>
+<?APT Element gi="bookinfo"?>
+<?APT Element gi="statuteno" attrs="id"?>
+<?APT Element gi="catchline" attrs="id"?>
+<?APT Element gi="para"?>
+<?APT Element gi="source"?>
+<?APT Element gi="effectivedate"?>
+<legaldoc><law type="statute"><section id="id66"><sectno id="id67">Sec. 17.</sectno><amendatorysection
+amended="yes" chaptername="Livestock" id="id68" statutenumber="54-618"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id70">54-618</statuteno><catchline
+id="id71">Dangerous dogs; actions required; costs; limitations on transport;
+permanent relocation; procedure.</catchline><para>(1) A dangerous dog that
+has been declared as such shall be spayed or neutered and implanted with a
+microchip identification number by a licensed veterinarian within thirty days
+after such declaration. The cost of both procedures is the responsibility
+of the owner of the dangerous dog. Written proof of both procedures and the
+microchip identification number shall be provided to the animal control authority
+after the procedures are completed.</para><para>(2) No owner of a dangerous
+dog shall permit the dog to go beyond the property of the owner unless the
+dog is restrained securely by a chain or leash.</para><para>(3) Except as
+provided in subsection (4) of this section or for a reasonable veterinary
+purpose, no owner of a dangerous dog shall transport such dog or permit such
+dog to be transported to another county, city, or village in this state.</para><para>(4)
+An owner of a dangerous dog may transport such dog or permit such dog to be
+transported to another county, city, or village in this state for the purpose
+of permanent relocation of the owner if the owner has obtained written permission
+prior to such relocation from the animal control authority of the county,
+city, or village in which the owner resides and from the county, city, or
+village in which the owner will reside. Each animal control authority may
+grant such permission based upon a reasonable evaluation of both the owner
+and the dog, including if the owner has complied with the laws of this state
+and of the county, city, or village in which he or she resides with regard
+to dangerous dogs after the dog was declared dangerous. An animal control
+authority shall not grant permission under this subsection if the county,
+city, or village has an ordinance or resolution prohibiting the relocation
+of dangerous dogs. After the permanent relocation, the animal control authority
+of the county, city, or village in which the owner resides shall monitor the
+owner and such dog for a period of at least thirty days but not to exceed
+ninety days to ensure the owner's compliance with the laws of this state and
+of such county, city, or village with regard to dangerous dogs. Nothing in
+this subsection shall permit the rescindment of the declaration of dangerous
+dog.</para></amendatorysection></section><source><para>Laws 1989, LB 208, &#167; 2; </para><para>Laws 2008, LB1055, &#167; 17.</para></source>  </law></legaldoc>

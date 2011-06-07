@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN"
+ "legaldoc.dtd">
+<legaldoc><law type="ucc">
+<section><sectno></sectno>
+<amendatorysection chaptername="Uniform Commercial Code" statutenumber="4-104">
+<bookinfo>Uniform Commercial Code, Revised Statutes Cumulative Supplement, 2010</bookinfo>
+<statuteno>4-104</statuteno>
+<catchline>Definitions and index of definitions.</catchline>
+<para>(a) In this article, unless the context otherwise requires:</para>
+<para>(1) "Account" means any deposit or credit account with a bank, including
+a demand, time, savings, passbook, share draft, or like account, other than
+an account evidenced by a certificate of deposit;</para>
+<para>(2) "Afternoon" means the period of a day between noon and midnight;</para>
+<para>(3) "Banking day" means that part of any day on which a bank is open
+to the public for carrying on substantially all of its banking functions but,
+for purposes of a bank's midnight deadline, shall not include Saturday, Sunday,
+or any holiday when the federal reserve banks are not performing check clearing
+functions;</para>
+<para>(4) "Clearinghouse" means an association of banks or other payors regularly
+clearing items;</para>
+<para>(5) "Customer" means a person having an account with a bank or for whom
+a bank has agreed to collect items, including a bank that maintains an account
+at another bank;</para>
+<para>(6) "Documentary draft" means a draft to be presented for acceptance
+or payment if specified documents, certificated securities (section 8-102)
+or instructions for uncertificated securities (section 8-102), or other certificates,
+statements, or the like are to be received by the drawee or other payor before
+acceptance or payment of the draft;</para>
+<para>(7) "Draft" means a draft as defined in section 3-104 or an item, other
+than an instrument, that is an order;</para>
+<para>(8) "Drawee" means a person ordered in a draft to make payment;</para>
+<para>(9) "Item" means an instrument or a promise or order to pay money handled
+by a bank for collection or payment. The term does not include a payment order
+governed by article 4A or a credit or debit card slip;</para>
+<para>(10) "Midnight deadline" with respect to a bank is midnight on its next
+banking day following the banking day on which it receives the relevant item
+or notice or from which the time for taking action commences to run, whichever
+is later;</para>
+<para>(11) "Settle" means to pay in cash, by clearinghouse settlement, in
+a charge or credit or by remittance, or otherwise as agreed. A settlement
+may be either provisional or final;</para>
+<para>(12) "Suspends payments" with respect to a bank means that it has been
+closed by order of the supervisory authorities, that a public officer has
+been appointed to take it over, or that it ceases or refuses to make payments
+in the ordinary course of business.</para>
+<para>(b) Other definitions applying to this article and the sections in which
+they appear are:</para>
+<para><table frame="none">
+<tgroup cols="2"><colspec colname="col1" colwidth="1.31*"/><colspec colname="col2"
+colwidth="0.69*"/>
+<tbody>
+<row>
+<entry colsep="0" rowsep="0">"Agreement for electronic presentment".</entry>
+<entry colsep="0" rowsep="0">Section 4-110. </entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0">"Bank".</entry>
+<entry colsep="0" rowsep="0">Section 4-105.</entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0">"Collecting bank".</entry>
+<entry colsep="0" rowsep="0">Section 4-105.</entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0">"Depositary bank".</entry>
+<entry colsep="0" rowsep="0">Section 4-105.</entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0">"Intermediary bank".</entry>
+<entry colsep="0" rowsep="0">Section 4-105.</entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0">"Payor bank".</entry>
+<entry colsep="0" rowsep="0">Section 4-105.</entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0">"Presenting bank".</entry>
+<entry colsep="0" rowsep="0">Section 4-105.</entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0">"Presentment notice".</entry>
+<entry colsep="0" rowsep="0">Section 4-110.</entry>
+</row>
+</tbody>
+</tgroup>
+</table></para>
+<para>(c) "Control" as provided in section 7-106 and the following definitions
+in other articles apply to this article:</para>
+<para><table frame="none">
+<tgroup cols="2"><colspec colname="col1" colwidth="1.31*"/><colspec colname="col2"
+colwidth="0.69*"/>
+<tbody>
+<row>
+<entry colsep="0" rowsep="0">"Acceptance".</entry>
+<entry colsep="0" rowsep="0">Section 3-409.</entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0">"Alteration".</entry>
+<entry colsep="0" rowsep="0">Section 3-407.</entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0">"Cashier's check".</entry>
+<entry colsep="0" rowsep="0">Section 3-104.</entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0">"Certificate of deposit".</entry>
+<entry colsep="0" rowsep="0">Section 3-104.</entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0">"Certified check".</entry>
+<entry colsep="0" rowsep="0">Section 3-409.</entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0">"Check".</entry>
+<entry colsep="0" rowsep="0">Section 3-104.</entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0">"Good faith".</entry>
+<entry colsep="0" rowsep="0">Section 3-103.</entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0">"Holder in due course".</entry>
+<entry colsep="0" rowsep="0">Section 3-302.</entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0">"Instrument".</entry>
+<entry colsep="0" rowsep="0">Section 3-104.</entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0">"Notice of dishonor".</entry>
+<entry colsep="0" rowsep="0">Section 3-503.</entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0">"Order".</entry>
+<entry colsep="0" rowsep="0">Section 3-103.</entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0">"Ordinary care".</entry>
+<entry colsep="0" rowsep="0">Section 3-103.</entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0">"Person entitled to enforce".</entry>
+<entry colsep="0" rowsep="0">Section 3-301.</entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0">"Presentment".</entry>
+<entry colsep="0" rowsep="0">Section 3-501.</entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0">"Promise".</entry>
+<entry colsep="0" rowsep="0">Section 3-103.</entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0">"Prove".</entry>
+<entry colsep="0" rowsep="0">Section 3-103.</entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0">"Teller's check".</entry>
+<entry colsep="0" rowsep="0">Section 3-104.</entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0">"Unauthorized signature".</entry>
+<entry colsep="0" rowsep="0">Section 3-403.</entry>
+</row>
+</tbody>
+</tgroup>
+</table></para>
+<para>(d) In addition article 1 contains general definitions and principles
+of construction and interpretation applicable throughout this article.</para>
+</amendatorysection></section>
+<source>
+<para>Laws 1963, c. 544, Art. IV, &#167; 4-104, p. 1812; </para>
+<para>Laws 1991, LB 161, &#167; 75; </para>
+<para>Laws 1994, LB 1015, &#167; 1; </para>
+<para>Laws 1995, LB 97, &#167; 3; </para>
+<para>Laws 2005, LB 570, &#167; 51.</para>
+</source>
+<annotation>
+<para>Generally, under former subsection (1)(e) of this section, payees of
+a cashier's check are not "customers." Hecker v. Ravenna Bank, 237 Neb. 810,
+468 N.W.2d 88 (1991).</para>
+<para><emphasis>COMMENT</emphasis></para>
+<para>1. Paragraph (a)(1): "Account" is defined to include both asset accounts
+in which a customer has deposited money and accounts from which a customer
+may draw on a line of credit. The limiting factor is that the account must
+be in a bank.</para>
+<para>2. Paragraph (a)(3): "Banking day". Under this definition that part
+of a business day when a bank is open only for limited functions, e.g., to
+receive deposits and cash checks, but with loan, bookkeeping, and other departments
+closed, is not part of a banking day.</para>
+<para>3. Paragraph (a)(4): "Clearinghouse".</para>
+<para>Occasionally express companies, governmental agencies, and other nonbanks
+deal directly with a clearinghouse; hence the definition does not limit the
+term to an association of banks.</para>
+<para>4. Paragraph (a)(5): "Customer". It is to be noted that this term includes
+a bank carrying an account with another bank as well as the more typical nonbank
+customer or depositor.</para>
+<para>5. Paragraph (a)(6): "Documentary draft" applies even though the documents
+do not accompany the draft but are to be received by the drawee or other payor
+before acceptance or payment of the draft. Documents may be either in electronic
+or tangible form. See article 5, section 5-102, comment 2 and article 1, section
+1-201 (definition of "document of title").</para>
+<para>6. Paragraph (a)(7): "Draft" is defined in section 3-104 as a form of
+instrument. Since article 4 applies to items that may not fall within the
+definition of instrument, the term is defined here to include an item that
+is a written order to pay money, even though the item may not qualify as an
+instrument. The term "order" is defined in section 3-103.</para>
+<para>7. Paragraph (a)(8): "Drawee" is defined in section 3-103 in terms of
+an article 3 draft which is a form of instrument. Here "drawee" is defined
+in terms of an article 4 draft which includes items that may not be instruments.</para>
+<para>8. Paragraph (a)(9): "Item" is defined broadly to include an instrument,
+as defined in section 3-104, as well as promises or orders that may not be
+within the definition of "instrument". The terms "promise" and "order" are
+defined in section 3-103. A promise is a written undertaking to pay money.
+An order is a written instruction to pay money. But see section 4-110(c).
+Since bonds and other investment securities under article 8 may be within
+the term "instrument" or "promise", they are items and when handled by banks
+for collection are subject to this article. See comment 1 to section 4-102.
+The functional limitation on the meaning of this term is the willingness of
+the banking system to handle the instrument, undertaking, or instruction for
+collection or payment.</para>
+<para>9. Paragraph (a)(10): "Midnight deadline". The use of this phrase is
+an example of the more mechanical approach used in this article. Midnight
+is selected as a termination point or time limit to obtain greater uniformity
+and definiteness than would be possible from other possible terminating points,
+such as the close of the banking day or business day.</para>
+<para>10. Paragraph (a)(11): The term "settle" has substantial importance
+throughout article 4. In the American Bankers Association Bank Collection
+Code, in deferred posting statutes, in Federal Reserve regulations and operating
+circulars, in clearinghouse rules, in agreements between banks and customers,
+and in legends on deposit tickets and collection letters, there is repeated
+reference to "conditional" or "provisional" credits or payments. Tied in with
+this concept of credits or payments being in some way tentative, has been
+a related but somewhat different problem as to when an item is "paid" or "finally
+paid" either to determine the relative priority of the item as against attachments,
+stop-payment orders, and the like or in insolvency situations. There has been
+extensive litigation in the various states on these problems. To a substantial
+extent the confusion, the litigation, and even the resulting court decisions
+fail to take into account that in the collection process some debits or credits
+are provisional or tentative, and others are final and that very many debits
+or credits are provisional or tentative for awhile but later become final.
+Similarly, some cases fail to recognize that within a single bank, particularly
+a payor bank, each item goes through a series of processes and that in a payor
+bank most of these processes are preliminary to the basic act of payment or
+"final payment".</para>
+<para>The term "settle" is used as a convenient term to characterize a broad
+variety of conditional, provisional, tentative, and also final payments of
+items. Such a comprehensive term is needed because it is frequently difficult
+or unnecessary to determine whether a particular action is tentative or final
+or when a particular credit shifts from the tentative class to the final class.
+Therefor, its use throughout the article indicates that in that particular
+context it is unnecessary or unwise to determine whether the debit or the
+credit or the payment is tentative or final. However, if qualified by the
+adjective "provisional" its tentative nature is intended, and if qualified
+by the adjective "final" its permanent nature is intended.</para>
+<para>Examples of the various types of settlement contemplated by the term
+include payments in cash; the efficient but somewhat complicated process of
+payment through the adjustment and offsetting of balances through clearinghouses;
+debit or credit entries in accounts between banks; the forwarding of various
+types of remittance instruments, sometimes to cover a particular item but
+more frequently to cover an entire group of items received on a particular
+day.</para>
+<para>11. Paragraph (a)(12): "Suspends payments".</para>
+<para>This term is designed to afford an objective test to determine when
+a bank is no longer operating as a part of the banking system.</para></annotation>
+</law></legaldoc>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?APT Element gi="legaldoc"?>
+<?APT Element gi="law" attrs="type"?>
+<?APT Element gi="section"?>
+<?APT Element gi="sectno"?>
+<?APT Element gi="amendatorysection" attrs="amended chaptername publishedsource statutenumber"?>
+<?APT Element gi="bookinfo"?>
+<?APT Element gi="statuteno"?>
+<?APT Element gi="catchline"?>
+<?APT Element gi="para"?>
+<?APT Element gi="source"?>
+<?APT Element gi="effectivedate"?>
+<legaldoc><law type="statute"><section><sectno></sectno><amendatorysection
+amended="yes" chaptername="Legislature" publishedsource="CumulativeSupplement"
+statutenumber="50-1206"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>50-1206</statuteno><catchline>Performance audits;
+how initiated; procedure.</catchline><para>(1) Requests for performance audits
+may be made by the Governor, any other constitutional officer of the State
+of Nebraska, a legislator, the Legislative Auditor, the Legislative Fiscal
+Analyst, or the Director of Research of the Legislature.</para><para>(2) Performance
+audit requests shall be submitted to the committee chairperson or Legislative
+Auditor by letter or on a form developed by the Legislative Auditor.</para><para>(3)
+When considering a performance audit request, if the committee determines
+that the request has potential merit but insufficient information is available,
+it may, by majority vote, instruct the Legislative Auditor to conduct a preaudit
+inquiry.</para><para>(4) Upon completion of the preaudit inquiry, the committee
+chairperson shall place the request on the agenda for the committee's next
+meeting and shall notify the request sponsor of that action.</para></amendatorysection></section><source><para>Laws 1992, LB 988, &#167; 6; </para><para>Laws 2003, LB 607, &#167; 9; </para><para>Laws
+2006, LB 956, &#167; 6; </para><para>Laws 2008, LB822, &#167; 3.</para></source>  </law></legaldoc>

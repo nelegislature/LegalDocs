@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Arbortext, Inc., 1988-2004, v.4002-->
+<?APT Element gi="legaldoc"?>
+<?APT Element gi="law" attrs="type"?>
+<?APT Element gi="section" attrs="id"?>
+<?APT Element gi="sectno" attrs="id"?>
+<?APT Element gi="amendatorysection" attrs="amended chaptername id publishedsource statutenumber"?>
+<?APT Element gi="bookinfo"?>
+<?APT Element gi="statuteno"?>
+<?APT Element gi="catchline"?>
+<?APT Element gi="para"?>
+<?APT Element gi="source"?>
+<?APT Element gi="effectivedate"?>
+<?APT Element gi="crossreference"?>
+<?APT Element gi="emphasis"?>
+<legaldoc><law type="statute"><section id="id48"><sectno id="id49">Sec. 7.</sectno><amendatorysection
+amended="no" chaptername="Livestock" id="id50" publishedsource="CumulativeSupplement"
+statutenumber="54-507"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>54-507</statuteno><catchline>Food
+Supply Animal Veterinary Incentive Fund; created; use; investment.</catchline><para>The
+Food Supply Animal Veterinary Incentive Fund is created. The fund may be used
+to carry out the purposes of the Food Supply Animal Veterinary Incentive Program
+Act. The State Treasurer shall credit to the fund any money appropriated to
+the fund by the Legislature and any money received as gifts or grants or other
+private or public funds received under the act. Any money in the fund available
+for investment shall be invested by the state investment officer pursuant
+to the Nebraska Capital Expansion Act and the Nebraska State Funds Investment
+Act.</para></amendatorysection></section><source><para>Laws 2008, LB1172, &#167; 7. </para></source><crossreference><para><emphasis>Nebraska
+Capital Expansion Act,</emphasis> see section 72-1269.</para><para><emphasis>Nebraska
+State Funds Investment Act,</emphasis> see section 72-1260.</para></crossreference></law></legaldoc>

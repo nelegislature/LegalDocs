@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="ucc"><section><sectno></sectno><amendatorysection chaptername="Uniform Commercial Code" statutenumber="7-202">
+<bookinfo>Uniform Commercial Code, Revised Statutes Cumulative Supplement, 2010</bookinfo>
+<statuteno>7-202</statuteno>
+<catchline>Form of warehouse receipt; effect of omission.</catchline>
+<para>(a) A warehouse receipt need not be in any particular form.</para>
+<para>(b) Unless a warehouse receipt provides for each of the following, the warehouse is liable for damages caused to a person injured by its omission:</para>
+<para>(1) a statement of the location of the warehouse facility where the goods are stored;</para>
+<para>(2) the date of issue of the receipt;</para>
+<para>(3) the unique identification code of the receipt;</para>
+<para>(4) a statement whether the goods received will be delivered to the bearer, to a named person, or to a named person or its order;</para>
+<para>(5) the rate of storage and handling charges, unless goods are stored under a field warehousing arrangement, in which case a statement of that fact is sufficient on a nonnegotiable receipt;</para>
+<para>(6) a description of the goods or the packages containing them;</para>
+<para>(7) the signature of the warehouse or its agent;</para>
+<para>(8) if the receipt is issued for goods that the warehouse owns, either solely, jointly, or in common with others, a statement of the fact of that ownership; and</para>
+<para>(9) a statement of the amount of advances made and of liabilities incurred for which the warehouse claims a lien or security interest, unless the precise amount of advances made or liabilities incurred, at the time of the issue of the receipt, is unknown to the warehouse or to its agent that issued the receipt, in which case a statement of the fact that advances have been made or liabilities incurred and the purpose of the advances or liabilities is sufficient.</para>
+<para>(c) A warehouse may insert in its receipt any terms that are not contrary to the Uniform Commercial Code and do not impair its obligation of delivery under section 7-403 or its duty of care under section 7-204. Any contrary provision is ineffective.</para>
+</amendatorysection></section>
+<source>
+<para>Laws 2005, LB 570, &#167; 64.</para>
+</source>
+<annotation>
+<para><emphasis>COMMENT</emphasis></para>
+<para><emphasis>Prior Uniform Statutory Provision:</emphasis> Former section 7-202.</para>
+<para><emphasis>Changes:</emphasis> Language is updated to accommodate electronic commerce and to reflect modern style.</para>
+<para><emphasis>Purposes:</emphasis></para>
+<para>1. This section does not displace any particular legislation that requires other terms in a warehouse receipt or that may require a particular form of a warehouse receipt. This section does not require that a warehouse receipt be issued. A warehouse receipt that is issued need not contain any of the terms listed in subsection (b) in order to qualify as a warehouse receipt as long as the receipt falls within the definition of "warehouse receipt" in article 1. Thus the title has been changed to eliminate the phrase "essential terms" as provided in prior law. The only consequence of a warehouse receipt not containing any term listed in subsection (b) is that a person injured by a term's omission has a right as against the warehouse for harm caused by the omission. Cases, such as In re Celotex Corp., 134 B.R. 993 (Bankr. M.D. Fla. (1991)), that held that in order to have a valid warehouse receipt all of the terms listed in this section must be contained in the receipt, are disapproved.</para>
+<para>2. The unique identification code referred to in subsection (b)(3) can include any combination of letters, numbers, signs, and/or symbols that provide a unique identification. Whether an electronic or tangible warehouse receipt contains a signature will be resolved with the definition of sign in section 7-102.</para>
+<para><emphasis>Cross References:</emphasis></para>
+<para>Sections 7-103 and 7-401.</para>
+<para><emphasis>Definitional Cross References:</emphasis></para>
+<para>"Bearer". Section 1-201.</para>
+<para>"Delivery". Section 1-201.</para>
+<para>"Goods". Section 7-102.</para>
+<para>"Person". Section 1-201.</para>
+<para>"Security interest". Section 1-201.</para>
+<para>"Sign". Section 7-102.</para>
+<para>"Term". Section 1-201.</para>
+<para>"Warehouse receipt". Section 1-201.</para>
+<para>"Warehouse". Section 7-102.</para>
+</annotation></law></legaldoc>

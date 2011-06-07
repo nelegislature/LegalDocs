@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Arbortext, Inc., 1988-2004, v.4002-->
+<?APT Element gi="legaldoc"?>
+<?APT Element gi="law" attrs="type"?>
+<?APT Element gi="section"?>
+<?APT Element gi="sectno"?>
+<?APT Element gi="amendatorysection" attrs="amended chaptername statutenumber"?>
+<?APT Element gi="bookinfo"?>
+<?APT Element gi="statuteno"?>
+<?APT Element gi="catchline"?>
+<?APT Element gi="para"?>
+<?APT Element gi="source"?>
+<?APT Element gi="effectivedate"?>
+<legaldoc><law type="statute"><section><sectno></sectno><amendatorysection
+amended="yes" chaptername="Motor Vehicles" statutenumber="60-4,117"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>60-4,117</statuteno><catchline>Issuance
+of license by county treasurer; form; operator's license or state identification
+card; delivery; form; county treasurer; duties.</catchline><para>(1)(a) This
+subsection applies until the implementation date designated by the director
+pursuant to section 60-462.02. Upon presentation of the certificate for an
+operator's license issued by the examining officer to the applicant for such
+license, the county treasurer shall issue such license to the applicant. The
+license shall be in full force and effect until the expiration date thereon,
+until officially revoked, suspended, canceled by an order of the director,
+or until ordered revoked or impounded by a court of competent jurisdiction.</para><para>(b)
+The operator's license shall be in a form prescribed by the department. The
+license may include security features prescribed by the department. The license
+shall be conspicuously marked Nebraska Operator's License, shall be, to the
+maximum extent practicable, tamper proof, and shall include the following
+information:</para><para>(i) The name and residential and post office address
+of the holder;</para><para>(ii) The holder's color photograph or digital image;</para><para>(iii)
+A physical description of the holder, including sex, height, weight, and eye
+and hair colors;</para><para>(iv) The holder's date of birth;</para><para>(v)
+The holder's signature;</para><para>(vi) The class of motor vehicle which
+the holder is authorized to operate and any endorsements or restrictions;</para><para>(vii)
+The dates between which the license is valid;</para><para>(viii) The organ
+and tissue donation information specified in section 60-494; and</para><para>(ix)
+Such other facts and information as the director may determine.</para><para>(c)
+Machine-readable information encoded on an operator's license shall be limited
+to the information appearing on the face of the license.</para><para>(2)(a)
+This subsection applies beginning on the implementation date designated by
+the director pursuant to section 60-462.02. Upon presentation of an issuance
+certificate for an operator's license or state identification card issued
+by department personnel to the applicant, the county treasurer shall collect
+the applicable fee and surcharge as prescribed in section 60-4,115 and issue
+a receipt which is valid for up to thirty days. If there is cause for an operator's
+license to be issued, the receipt shall also authorize driving privileges
+for such thirty-day period. The license or card shall be delivered as provided
+in section 60-4,113.</para><para>(b) The operator's license and state identification
+card shall be in a form prescribed by the department. The license and card
+may include security features prescribed by the department. The license and
+card shall be conspicuously marked Nebraska Operator's License or Nebraska
+Identification Card, shall be, to the maximum extent practicable, tamper and
+forgery proof, and shall include the following information:</para><para>(i)
+The full legal name and principal residence address of the holder;</para><para>(ii)
+The holder's full facial digital image;</para><para>(iii) A physical description
+of the holder, including gender, height, weight, and eye and hair colors;</para><para>(iv)
+The holder's date of birth;</para><para>(v) The holder's signature;</para><para>(vi)
+The class of motor vehicle which the holder is authorized to operate and any
+applicable endorsements or restrictions;</para><para>(vii) The issuance and
+expiration date of the license or card;</para><para>(viii) The organ and tissue
+donation information specified in section 60-494; and</para><para>(ix) Such
+other marks and information as the director may determine.</para><para>(c)
+Each operator's license and state identification card shall contain the following
+encoded, machine-readable information: The holder's full legal name; date
+of birth; gender; race or ethnicity; document issue date; document expiration
+date; principal residence address; unique identification number; revision
+date; inventory control number; and state of issuance.</para></amendatorysection></section><source><para>Laws
+1929, c. 148, &#167; 4, p. 513; </para><para>C.S.1929, &#167; 60-404; </para><para>Laws 1937, c. 141, &#167; 14, p. 512; </para><para>C.S.Supp.,1941, &#167; 60-404; </para><para>R.S.1943, &#167; 60-406; </para><para>Laws 1959, c. 286, &#167; 2, p. 1082; </para><para>Laws 1961, c. 315, &#167; 4, p. 1000; </para><para>Laws 1961, c. 316, &#167; 4, p. 1008; </para><para>Laws 1977, LB 90, &#167; 4; </para><para>R.S.1943, (1988), &#167; 60-406; </para><para>Laws 1989, LB 285, &#167; 67; </para><para>Laws 2001, LB 34, &#167; 4; </para><para>Laws 2001, LB 38, &#167; 29; </para><para>Laws 2001, LB 574, &#167; 12; </para><para>Laws 2008, LB911, &#167; 13.</para></source> </law></legaldoc>

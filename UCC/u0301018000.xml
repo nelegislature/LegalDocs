@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?APT Element gi="legaldoc"?>
+<?APT Element gi="law" attrs="type"?>
+<?APT Element gi="section"?>
+<?APT Element gi="sectno" attrs="opdate"?>
+<?APT Element gi="amendatorysection" attrs="amended chaptername statutenumber"?>
+<?APT Element gi="bookinfo"?>
+<?APT Element gi="statuteno"?>
+<?APT Element gi="catchline"?>
+<?APT Element gi="para"?>
+<?APT Element gi="source"?>
+<?APT Element gi="operativedate"?>
+<legaldoc><law type="ucc"><section><sectno opdate="July 1, 2008">Sec.
+2.</sectno><amendatorysection amended="yes" chaptername="Uniform Commercial Code"
+statutenumber="3-118"><bookinfo>Uniform Commercial Code, Revised Statutes Cumulative Supplement, 2010</bookinfo><statuteno>3-118</statuteno><catchline>Statute
+of limitations.</catchline><para>(a) Except as provided in subsection (e),
+an action to enforce the obligation of a party to pay a note payable at a
+definite time must be commenced within six years after the due date or dates
+stated in the note or, if a due date is accelerated, within six years after
+the accelerated due date.</para><para>(b) Except as provided in subsection
+(d) or (e), if demand for payment is made to the maker of a note payable on
+demand, an action to enforce the obligation of a party to pay the note must
+be commenced within six years after the demand. If no demand for payment is
+made to the maker, an action to enforce the note is barred if neither principal
+nor interest on the note has been paid for a continuous period of ten years.</para><para>(c)
+Except as provided in subsection (d), an action to enforce the obligation
+of a party to an unaccepted draft to pay the draft must be commenced within
+three years after dishonor of the draft or ten years after the date of the
+draft, whichever period expires first.</para><para>(d) An action to enforce
+the obligation of the acceptor of a certified check or the issuer of a teller's
+check, cashier's check, or traveler's check must be commenced within three
+years after demand for payment is made to the acceptor or issuer, as the case
+may be.</para><para>(e) Subject to the provisions of section 25-227, an action
+to enforce the obligation of a party to a certificate of deposit to pay the
+instrument must be commenced within six years after demand for payment is
+made to the maker, but if the instrument states a due date and the maker is
+not required to pay before that date, the six-year period begins when a demand
+for payment is in effect and the due date has passed.</para><para>(f) An action
+to enforce the obligation of a party to pay an accepted draft, other than
+a certified check, must be commenced (i) within six years after the due date
+or dates stated in the draft or acceptance if the obligation of the acceptor
+is payable at a definite time, or (ii) within six years after the date of
+the acceptance if the obligation of the acceptor is payable on demand.</para><para>(g)
+Unless governed by other law regarding claims for indemnity or contribution,
+an action (i) for conversion of an instrument, for money had and received,
+or like action based on conversion, (ii) for breach of warranty, or (iii)
+to enforce an obligation, duty, or right arising under this article and not
+governed by this section must be commenced within three years after the cause
+of action accrues.</para></amendatorysection></section><source><para>Laws 1991, LB 161, &#167; 22; </para><para>Laws 2008, LB151, &#167; 2.</para></source> </law></legaldoc>

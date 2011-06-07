@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?APT Element gi="legaldoc"?>
+<?APT Element gi="law" attrs="type"?>
+<?APT Element gi="section" attrs="id"?>
+<?APT Element gi="sectno" attrs="id opdate"?>
+<?APT Element gi="amendatorysection" attrs="amended chaptername id statutenumber"?>
+<?APT Element gi="bookinfo"?>
+<?APT Element gi="statuteno" attrs="id"?>
+<?APT Element gi="catchline" attrs="id"?>
+<?APT Element gi="para"?>
+<?APT Element gi="source"?>
+<?APT Element gi="operativedate"?>
+<?APT Element gi="annotation"?>
+<legaldoc><law type="statute"><section id="id83"><sectno id="id84" opdate="July 18, 2008">Sec.
+11.</sectno><amendatorysection amended="yes" chaptername="Motor Vehicles"
+id="id85" statutenumber="60-365"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id87">60-365</statuteno><catchline id="id88">Operation
+of vehicle without registration; limitation; proof of ownership.</catchline><para>Any
+person purchasing a motor vehicle or trailer in this state other than from
+a licensed dealer in motor vehicles or trailers shall not operate or tow such
+motor vehicle or trailer in this state without registration except as provided
+in this section. Such purchaser may operate or tow such motor vehicle or trailer
+without registration for a period not to exceed thirty days. Upon demand of
+proper authorities, there shall be presented by the person in charge of such
+motor vehicle or trailer, for examination, a certificate showing the date
+of transfer or the certificate of title to such motor vehicle or trailer with
+assignment thereof duly executed. When such motor vehicle or trailer is purchased
+from a nonresident, the person in charge of such motor vehicle or trailer
+shall present upon demand proper evidence of ownership from the state where
+such motor vehicle or trailer was purchased.</para></amendatorysection></section><source><para>Laws
+2005, LB 274, &#167; 65; </para><para>Laws 2008, LB756, &#167; 11.</para></source><annotation> <para>Pursuant
+to this section, one can lawfully operate an unregistered motor vehicle for
+30 days without display of license plates or in-transit tags after purchasing
+the vehicle from a nonlicensed seller, provided one can produce the proper
+documentation upon demand. State v. Bowers, 250 Neb. 151, 548 N.W.2d 725 (1996).</para></annotation>  </law></legaldoc>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?APT Element gi="legaldoc"?>
+<?APT Element gi="law" attrs="type"?>
+<?APT Element gi="section"?>
+<?APT Element gi="sectno" attrs="opdate"?>
+<?APT Element gi="amendatorysection" attrs="amended chaptername statutenumber"?>
+<?APT Element gi="bookinfo"?>
+<?APT Element gi="statuteno"?>
+<?APT Element gi="catchline"?>
+<?APT Element gi="para"?>
+<?APT Element gi="source"?>
+<?APT Element gi="operativedate"?>
+<legaldoc><law type="statute"><section><sectno opdate=" March 20, 2008">Sec.
+27.</sectno><amendatorysection amended="yes" chaptername="Motor Vehicles"
+statutenumber="60-6,310"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>60-6,310</statuteno><catchline>Moped; operation;
+license required.</catchline><para>No person shall operate a moped upon a
+highway unless such person has a valid operator's license.</para></amendatorysection></section><source><para>Laws
+1979, LB 23, &#167; 4; </para><para>R.S.1943, (1988), &#167; 39-6,197; </para><para>Laws 1993, LB 370, &#167; 406; </para><para>Laws 2008, LB756, &#167; 27.</para></source></law></legaldoc>

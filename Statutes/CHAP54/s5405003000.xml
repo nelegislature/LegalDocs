@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Arbortext, Inc., 1988-2004, v.4002-->
+<?APT Element gi="legaldoc"?>
+<?APT Element gi="law" attrs="type"?>
+<?APT Element gi="section" attrs="id"?>
+<?APT Element gi="sectno" attrs="id"?>
+<?APT Element gi="amendatorysection" attrs="amended chaptername id publishedsource statutenumber"?>
+<?APT Element gi="bookinfo"?>
+<?APT Element gi="statuteno"?>
+<?APT Element gi="catchline"?>
+<?APT Element gi="para"?>
+<?APT Element gi="source"?>
+<?APT Element gi="effectivedate"?>
+<legaldoc><law type="statute"><section id="id16"><sectno id="id17">Sec. 3.</sectno><amendatorysection
+amended="no" chaptername="Livestock" id="id18" publishedsource="CumulativeSupplement"
+statutenumber="54-503"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>54-503</statuteno><catchline>Program;
+participation; incentives.</catchline><para>Each year the department shall
+select from a pool of applicants up to four veterinarians to participate in
+the program. The selected veterinarians are eligible to receive up to eighty
+thousand dollars under the program as an incentive to locate in rural Nebraska
+and practice food supply animal veterinary medicine. </para></amendatorysection></section><source><para>Laws
+2008, LB1172, &#167; 3.</para></source></law></legaldoc>

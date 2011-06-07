@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Arbortext, Inc., 1988-2004, v.4002-->
+<?APT Element gi="legaldoc"?>
+<?APT Element gi="law" attrs="type"?>
+<?APT Element gi="section" attrs="id"?>
+<?APT Element gi="sectno" attrs="id"?>
+<?APT Element gi="amendatorysection" attrs="amended chaptername id publishedsource statutenumber"?>
+<?APT Element gi="bookinfo"?>
+<?APT Element gi="statuteno"?>
+<?APT Element gi="catchline"?>
+<?APT Element gi="para"?>
+<?APT Element gi="source"?>
+<?APT Element gi="effectivedate"?>
+<legaldoc><law type="statute"><section id="id29"><sectno id="id30">Sec. 5.</sectno><amendatorysection
+amended="no" chaptername="Livestock" id="id31" publishedsource="CumulativeSupplement"
+statutenumber="54-505"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>54-505</statuteno><catchline>Distribution
+of program funds.</catchline><para>(1) To the extent that funds are available,
+program funds shall be distributed as follows:</para><para>(a) After completing
+the first year of service under the contract, the veterinarian is eligible
+to receive up to fifteen thousand dollars;</para><para>(b) After completing
+the second year of service under the contract, the veterinarian is eligible
+to receive up to fifteen thousand dollars;</para><para>(c) After completing
+the third year of service under the contract, the veterinarian is eligible
+to receive up to twenty-five thousand dollars; and</para><para>(d) After completing
+the fourth year of service under the contract, the veterinarian is eligible
+to receive up to twenty-five thousand dollars.</para><para>(2) If the veterinarian
+does not complete an entire year of service or if sufficient funds are not
+available to provide the full dollar amount of incentive in a year, the amount
+distributed under this section for that year shall be prorated.</para></amendatorysection></section><source><para>Laws
+2008, LB1172, &#167; 5.</para></source> </law></legaldoc>

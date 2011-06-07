@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="ucc"><section><sectno></sectno><amendatorysection chaptername="Uniform Commercial Code" statutenumber="3-304">
+<bookinfo>Uniform Commercial Code, Reissue Revised Statutes of Nebraska</bookinfo>
+<statuteno>3-304</statuteno>
+<catchline>Overdue instrument.</catchline>
+<para>(a) An instrument payable on demand becomes overdue at the earliest of the following times:</para>
+<para>(1) on the day after the day demand for payment is duly made;</para>
+<para>(2) if the instrument is a check, ninety days after its date; or</para>
+<para>(3) if the instrument is not a check, when the instrument has been outstanding for a period of time after its date which is unreasonably long under the circumstances of the particular case in light of the nature of the instrument and usage of the trade.</para>
+<para>(b) With respect to an instrument payable at a definite time the following rules apply:</para>
+<para>(1) If the principal is payable in installments and a due date has not been accelerated, the instrument becomes overdue upon default under the instrument for nonpayment of an installment, and the instrument remains overdue until the default is cured.</para>
+<para>(2) If the principal is not payable in installments and the due date has not been accelerated, the instrument becomes overdue on the day after the due date.</para>
+<para>(3) If a due date with respect to the principal has been accelerated, the instrument becomes overdue on the day after the accelerated due date.</para>
+<para>(c) Unless the due date of the principal has been accelerated, an instrument does not become overdue if there is default in payment of interest but no default in payment of the principal.</para>
+</amendatorysection></section>
+<source>
+<para>Laws 1991, LB 161, &#167; 34.</para>
+</source>
+<annotation>
+<para>Knowledge of the fact that any person negotiating an instrument is or was a fiduciary does not of itself give the purchaser notice of claim or defense. Ashland State Bank v. Elkhorn Racquetball, Inc., 246 Neb. 411, 520 N.W.2d 189 (1994).</para>
+<para><emphasis>COMMENT</emphasis></para>
+<para>1. To be a holder in due course, one must take without notice that an instrument is overdue. Section 3-302(a)(2)(iii). Section 3-304 replaces subsection (3) of former section 3-304. For the sake of clarity it treats demand and time instruments separately. Subsection (a) applies to demand instruments. A check becomes stale after 90 days.</para>
+<para>Under former section 3-304(3)(c), a holder that took a demand note had notice that it was overdue if it was taken "more than a reasonable length of time after its issue". In substitution for this test, subsection (a)(3) requires the trier of fact to look at both the circumstances of the particular case and the nature of the instrument and trade usage. Whether a demand note is stale may vary a great deal depending on the facts of the particular case.</para>
+<para>2. Subsections (b) and (c) cover time instruments. They follow the distinction made under former article 3 between defaults in payment of principal and interest. In subsection (b) installment instruments and single-payment instruments are treated separately. If an installment is late, the instrument is overdue until the default is cured.</para></annotation></law></legaldoc>

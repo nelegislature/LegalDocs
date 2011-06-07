@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="ucc"><section><sectno></sectno><amendatorysection chaptername="Uniform Commercial Code" statutenumber="8-112">
+<bookinfo>Uniform Commercial Code, Reissue Revised Statutes of Nebraska</bookinfo>
+<statuteno>8-112</statuteno>
+<catchline>Creditor's legal process.</catchline>
+<para>(a) The interest of a debtor in a certificated security may be reached by a creditor only by actual seizure of the security certificate by the officer making the attachment or levy, except as otherwise provided in subsection (d). However, a certificated security for which the certificate has been surrendered to the issuer may be reached by a creditor by legal process upon the issuer.</para>
+<para>(b) The interest of a debtor in an uncertificated security may be reached by a creditor only by legal process upon the issuer at its chief executive office in the United States, except as otherwise provided in subsection (d).</para>
+<para>(c) The interest of a debtor in a security entitlement may be reached by a creditor only by legal process upon the securities intermediary with whom the debtor's securities account is maintained, except as otherwise provided in subsection (d).</para>
+<para>(d) The interest of a debtor in a certificated security for which the certificate is in the possession of a secured party, or in an uncertificated security registered in the name of a secured party, or a security entitlement maintained in the name of a secured party, may be reached by a creditor by legal process upon the secured party.</para>
+<para>(e) A creditor whose debtor is the owner of a certificated security, uncertificated security, or security entitlement is entitled to aid from a court of competent jurisdiction, by injunction or otherwise, in reaching the certificated security, uncertificated security, or security entitlement or in satisfying the claim by means allowed at law or in equity in regard to property that cannot readily be reached by other legal process.</para>
+</amendatorysection></section>
+<source>
+<para>Laws 1995, LB 97, &#167; 16.</para>
+</source>
+<annotation>
+<para><emphasis>COMMENT</emphasis></para>
+<para>1. In dealing with certificated securities the instrument itself is the vital thing, and therefor a valid levy cannot be made unless all possibility of the certificate wrongfully finding its way into a transferee's hands has been removed. This can be accomplished only when the certificate is in the possession of a public officer, the issuer, or an independent third party. A debtor who has been enjoined can still transfer the security in contempt of court. See Overlock v. Jerome-Portland Copper Mining Co., 29 Ariz. 560, 243 P. 400 (1926). Therefor, although injunctive relief is provided in subsection (e) so that creditors may use this method to gain control of the certificated security, the security certificate itself must be reached to constitute a proper levy whenever the debtor has possession.</para>
+<para>2. Subsection (b) provides that when the security is uncertificated and registered in the debtor's name, the debtor's interest can be reached only by legal process upon the issuer. The most logical place to serve the issuer would be the place where the transfer records are maintained, but that location might be difficult to identify, especially when the separate elements of a computer network might be situated in different places. The chief executive office is selected as the appropriate place by analogy to section 9-307. See comment 5(c) to that section. This section indicates only how attachment is to be made, not when it is legally justified. For that reason there is no conflict between this section and Shaffer v. Heitner, 433 U.S. 186 (1977).</para>
+<para>3. Subsection (c) provides that a security entitlement can be reached only by legal process upon the debtor's security intermediary. Process is effective only if directed to the debtor's own security intermediary. If Debtor holds securities through Broker, and Broker in turn holds through Clearing Corporation, Debtor's property interest is a security entitlement against Broker. Accordingly, Debtor's creditor cannot reach Debtor's interest by legal process directed to the Clearing Corporation. See also section 8-115.</para>
+<para>4. Subsection (d) provides that when a certificated security, an uncertificated security, or a security entitlement is controlled by a secured party, the debtor's interest can be reached by legal process upon the secured party. This section does not attempt to provide for rights as between the creditor and the secured party, as, for example, whether or when the secured party must liquidate the security.</para>
+<para><emphasis>Definitional Cross References:</emphasis></para>
+<para>"Certificated security". Section 8-102(a)(4).</para>
+<para>"Issuer". Section 8-201.</para>
+<para>"Secured party". Section 9-102(a)(72).</para>
+<para>"Securities intermediary". Section 8-102(a)(14).</para>
+<para>"Security certificate". Section 8-102(a)(16).</para>
+<para>"Security entitlement". Section 8-102(a)(17).</para>
+<para>"Uncertificated security". Section 8-102(a)(18).</para></annotation></law></legaldoc>

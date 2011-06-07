@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Arbortext, Inc., 1988-2004, v.4002-->
+<?APT Element gi="legaldoc"?>
+<?APT Element gi="law" attrs="type"?>
+<?APT Element gi="section"?>
+<?APT Element gi="sectno"?>
+<?APT Element gi="amendatorysection" attrs="amended chaptername statutenumber"?>
+<?APT Element gi="bookinfo"?>
+<?APT Element gi="statuteno"?>
+<?APT Element gi="catchline"?>
+<?APT Element gi="para"?>
+<?APT Element gi="source"?>
+<?APT Element gi="effectivedate"?>
+<?APT Element gi="annotation"?>
+<?APT Element gi="emphasis"?>
+<legaldoc><law type="statute"><section><sectno></sectno><amendatorysection
+amended="yes" chaptername="Livestock" statutenumber="54-401"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>54-401</statuteno><catchline>Estrays,
+trespassing animals; damages; liability.</catchline><para>The owners of cattle,
+horses, mules, swine, sheep, and goats in this state are liable for all damages
+done by such stock upon the lands of another in this state as provided by
+section 54-402 if the damages to the lands are not the result of negligent
+or willful damage to the division fence by the person claiming damages to
+the land.</para></amendatorysection></section><source><para>Laws 1871, &#167; 1, p. 120; </para><para>R.S.1913, &#167; 109; </para><para>C.S.1922, &#167; 117; </para><para>C.S.1929, &#167; 54-401; </para><para>R.S.1943, &#167; 54-401; </para><para>Laws 1983, LB 149, &#167; 1; </para><para>Laws 1996, LB 1174, &#167; 5; </para><para>Laws 2008, LB925, &#167; 1.</para></source><annotation><para><emphasis>1. Persons
+liable</emphasis></para><para><emphasis>2. Lien</emphasis></para><para><emphasis>3.
+Remedies</emphasis></para><para><emphasis>4. Miscellaneous</emphasis></para><para><emphasis>1.
+Persons liable</emphasis></para><para>Joint owners of herd are liable jointly.
+Wilson v. White, 77 Neb. 351, 109 N.W. 367 (1906).</para><para>Mortgagee,
+without possession, is not owner within meaning of statute. Goff v. Byers
+Bros. &amp; Co., 70 Neb. 1, 96 N.W. 1037 (1903).</para><para>The term owners
+is construed to include depasturer. Laflin v. Svoboda, 37 Neb. 368, 55 N.W.
+1049 (1893).</para><para><emphasis>2. Lien</emphasis></para><para>Owner of
+land damaged by trespassing stock has lien thereon for damages done and for
+care and feed while impounded. Angus Cattle Co. v. McLeod, 98 Neb. 108, 152
+N.W. 322 (1915).</para><para><emphasis>3. Remedies</emphasis></para><para>Negligence
+of plaintiff in maintenance of division fence immaterial in action for damages
+by livestock upon cultivated lands. Fiene v. Robertson, 184 Neb. 668, 171
+N.W.2d 179 (1969).</para><para>Action for damages by stock ranging at large
+upon uncultivated land will not lie, but driving of animals thereon is actionable
+wrong. Meyers v. Menter, 63 Neb. 427, 88 N.W. 662 (1902).</para><para>Remedy
+herein is not exclusive, and common-law liability is not abrogated. Lorance
+v. Hillyer, 57 Neb. 266, 77 N.W. 755 (1898).</para><para>Injunction will lie
+to restrain threatened trespass of stock. State Bank of Nebraska of Seward
+v. Rohren, 55 Neb. 223, 75 N.W. 543 (1898).</para><para>Where owner drives
+his stock upon unenclosed and uncultivated lands of another he is liable for
+trespass. Delaney v. Errickson, 11 Neb. 533, 10 N.W. 451 (1881).</para><para><emphasis>4.
+Miscellaneous</emphasis></para><para>The herd laws pertain to damage to property
+and do not alter the common law liability for personal injuries caused by
+trespassing bulls. Foland v. Malander, 222 Neb. 1, 381 N.W.2d 914 (1986).</para><para>A
+fenced pasture planted to wheat grass and not surrounded by a plowed strip
+constitutes "cultivated lands" for purposes of this statute. Fuchser v. Jacobson,
+205 Neb. 786, 290 N.W.2d 449 (1980).</para><para>Section is not applicable
+to uncultivated, unenclosed wild prairie lands of state. Delaney v. Errickson,
+10 Neb. 492, 6 N.W. 600 (1880).</para></annotation>  </law></legaldoc>

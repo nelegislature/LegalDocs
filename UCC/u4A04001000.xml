@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="ucc"><section><sectno></sectno><amendatorysection chaptername="Uniform Commercial Code" statutenumber="4A-401">
+<bookinfo>Uniform Commercial Code, Reissue Revised Statutes of Nebraska</bookinfo>
+<statuteno>4A-401</statuteno>
+<catchline>Payment date</catchline>
+<para>"Payment date" of a payment order means the day on which the amount of the order is payable to the beneficiary by the beneficiary's bank. The payment date may be determined by instruction of the sender but cannot be earlier than the day the order is received by the beneficiary's bank and, unless otherwise determined, is the day the order is received by the beneficiary's bank.</para>
+</amendatorysection></section>
+<source>
+<para>Laws 1991, LB 160, &#167; 27.</para>
+</source>
+<annotation>
+<para><emphasis>COMMENT</emphasis></para>
+<para>"Payment date" refers to the day the beneficiary's bank is to pay the beneficiary. The payment date may be expressed in various ways so long as it indicates the day the beneficiary is to receive payment. For example, in ACH transfers the payment date is the equivalent of "settlement date" or "effective date". Payment date applies to the payment order issued to the beneficiary's bank, but a payment order issued to a receiving bank other than the beneficiary's bank may also state a date for payment to the beneficiary. In the latter case, the statement of a payment date is to instruct the receiving bank concerning time of execution of the sender's order. Section 4A-301(b).</para></annotation></law></legaldoc>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Arbortext, Inc., 1988-2004, v.4002-->
+<?APT Element gi="legaldoc"?>
+<?APT Element gi="law" attrs="type"?>
+<?APT Element gi="section" attrs="id"?>
+<?APT Element gi="sectno" attrs="id opdate"?>
+<?APT Element gi="amendatorysection" attrs="amended chaptername id publishedsource statutenumber"?>
+<?APT Element gi="bookinfo"?>
+<?APT Element gi="statuteno" attrs="id"?>
+<?APT Element gi="catchline" attrs="id"?>
+<?APT Element gi="para"?>
+<?APT Element gi="source"?>
+<?APT Element gi="operativedate"?>
+<legaldoc><law type="statute"><section id="id106"><sectno id="id107" opdate="July 1, 2008">Sec.
+14.</sectno><amendatorysection amended="yes" chaptername="Motor Vehicles"
+id="id108" publishedsource="CumulativeSupplement" statutenumber="60-3,196"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id110">60-3,196</statuteno><catchline
+id="id111">Apportionable vehicles; International Registration Plan; effect.</catchline><para>Apportionable
+vehicles registered as provided in section 60-3,198 and apportionable vehicles
+covered under the International Registration Plan shall be deemed fully registered
+in all jurisdictions where apportioned or granted reciprocity for any type
+of movement or operation. The registrant must have proper interjurisdiction
+or intrajurisdiction authority from the appropriate regulatory agency of each
+jurisdiction of this state if not exempt from regulation by the regulatory
+agency.</para></amendatorysection></section><source><para>Laws 2005, LB 274, &#167; 196; </para><para>Laws 2006, LB 853, &#167; 4; </para><para>Laws 2007, LB239, &#167; 3; </para><para>Laws 2008, LB756, &#167; 14.</para></source> </law></legaldoc>

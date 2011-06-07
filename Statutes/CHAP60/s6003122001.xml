@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Arbortext, Inc., 1988-2004, v.4002-->
+<?APT Element gi="legaldoc"?>
+<?APT Element gi="law" attrs="type"?>
+<?APT Element gi="section"?>
+<?APT Element gi="sectno"?>
+<?APT Element gi="amendatorysection" attrs="chaptername statutenumber"?>
+<?APT Element gi="bookinfo"?>
+<?APT Element gi="statuteno"?>
+<?APT Element gi="catchline"?>
+<?APT Element gi="para"?>
+<?APT Element gi="source"?>
+<?APT Element gi="operativedate"?>
+<legaldoc><law type="statute"><section><sectno></sectno><amendatorysection
+chaptername="Motor Vehicles" statutenumber="60-3,122.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>60-3,122.01</statuteno><catchline>Gold
+Star Family plates; design requirements.</catchline><para>(1) The department
+shall design license plates to be known as Gold Star Family plates. The department
+shall create designs reflecting support for those who died while serving in
+good standing in the United States Armed Forces in consultation with the Department
+of Veterans' Affairs and the Military Department. The Department of Veterans'
+Affairs shall recommend the design of the plate to the Department of Motor
+Vehicles. The design shall be selected on the basis of limiting the manufacturing
+cost of each plate to an amount less than or equal to the amount charged for
+license plates pursuant to section 60-3,102. The department shall make applications
+available for this type of plate when it is designed. The department may adopt
+and promulgate rules and regulations to carry out this section and section
+60-3,122.02.</para><para>(2) One type of Gold Star Family plate shall be consecutively
+numbered plates. The department shall:</para><para>(a) Number the plates consecutively
+beginning with the number one, using numerals the size of which maximizes
+legibility and limiting the numerals to five characters or less; and</para><para>(b)
+Not use a county designation or any characters other than numbers on the plates.</para><para>(3)
+One type of Gold Star Family plate shall be personalized message plates. Such
+plates shall be issued subject to the same conditions specified for personalized
+message license plates in section 60-3,118, except that a maximum of five
+characters may be used.</para></amendatorysection></section><source><para>Laws
+2007, LB570, &#167; 2. </para></source></law></legaldoc>

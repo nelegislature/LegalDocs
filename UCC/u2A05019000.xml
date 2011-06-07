@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN"
+ "legaldoc.dtd">
+<legaldoc><law type="ucc">
+<section><sectno></sectno>
+<amendatorysection chaptername="Uniform Commercial Code" statutenumber="2A-519">
+<bookinfo>Uniform Commercial Code, Revised Statutes Cumulative Supplement, 2010</bookinfo>
+<statuteno>2A-519</statuteno>
+<catchline>Lessee's damages for nondelivery, repudiation, default,
+and breach of warranty in regard to accepted goods.</catchline>
+<para>(1) Except as otherwise provided with respect to damages liquidated
+in the lease agreement (section 2A-504) or otherwise determined pursuant to
+agreement of the parties (sections 1-302 and 2A-503), if a lessee elects not
+to cover or a lessee elects to cover and the cover is by lease agreement that
+for any reason does not qualify for treatment under section 2A-518(2), or
+is by purchase or otherwise, the measure of damages for nondelivery or repudiation
+by the lessor or for rejection or revocation of acceptance by the lessee is
+the present value, as of the date of the default, of the then market rent
+minus the present value as of the same date of the original rent, computed
+for the remaining lease term of the original lease agreement, together with
+incidental and consequential damages, less expenses saved in consequence of
+the lessor's default.</para>
+<para>(2) Market rent is to be determined as of the place for tender or, in
+cases of rejection after arrival or revocation of acceptance, as of the place
+of arrival.</para>
+<para>(3) Except as otherwise agreed, if the lessee has accepted goods and
+given notification (section 2A-516(3)), the measure of damages for nonconforming
+tender or delivery or other default by a lessor is the loss resulting in the
+ordinary course of events from the lessor's default as determined in any manner
+that is reasonable together with incidental and consequential damages, less
+expenses saved in consequence of the lessor's default.</para>
+<para>(4) Except as otherwise agreed, the measure of damages for breach of
+warranty is the present value at the time and place of acceptance of the difference
+between the value of the use of the goods accepted and the value if they had
+been as warranted for the lease term, unless special circumstances show proximate
+damages of a different amount, together with incidental and consequential
+damages, less expenses saved in consequence of the lessor's default or breach
+of warranty.</para></amendatorysection></section>
+<source>
+<para>Laws 1991, LB 159, &#167; 69; </para>
+<para>Laws 2005, LB 570, &#167; 46.</para>
+</source>
+<annotation>
+<para><emphasis>COMMENT</emphasis></para>
+<para><emphasis>Uniform Statutory Source:</emphasis> Sections 2-713 and 2-714.</para>
+<para><emphasis>Changes:</emphasis> Substantially revised.</para>
+<para><emphasis>Purposes:</emphasis></para>
+<para>1. Subsection (1), a revised version of the provisions of section 2-713(1),
+states the basic rule governing the measure of lessee's damages for nondelivery
+or repudiation by the lessor or for rightful rejection or revocation of acceptance
+by the lessee. This measure will apply, absent agreement to the contrary,
+if the lessee does not cover or if the cover does not qualify under section
+2A-518. There is no sanction for cover that does not qualify.</para>
+<para>2. The measure of damage is the present value, as of the date of default,
+of the market rent for the remaining term of the lease less the present value
+of the original rent for the remaining term of the lease, plus incidental
+and consequential damages less expenses saved in consequence of the default.
+Note that the reference in section 2A-519(1) is to the date of default not
+to the date of an event of default. An event of default under a lease agreement
+becomes a default under a lease agreement only after the expiration of any
+relevant period of grace and compliance with any notice requirements under
+this article and the lease agreement. American Bar Foundation, Commentaries
+on Indentures, section 5-1, at 216-217 (1971). Section 2A-501(1). This conclusion
+is also a function of whether, as a matter of fact or law, the event of default
+has been waived, suspended, or cured. Sections 1-103 and 2A-103(4).</para>
+<para>3. Subsection (2), a revised version of the provisions of section 2-713(2),
+states the rule with respect to determining market rent.</para>
+<para>4. Subsection (3), a revised version of the provisions of section 2-714(1)
+and (3), states the measure of damages where goods have been accepted and
+acceptance is not revoked. The subsection applies both to defaults which occur
+at the inception of the lease and to defaults which occur subsequently, such
+as failure to comply with an obligation to maintain the leased goods. The
+measure in essence is the loss, in the ordinary course of events, flowing
+from the default.</para>
+<para>5. Subsection (4), a revised version of the provisions of section 2-714(2),
+states the measure of damages for breach of warranty. The measure in essence
+is the present value of the difference between the value of the goods accepted
+and of the goods if they had been as warranted.</para>
+<para>6. Subsections (1), (3), and (4) specifically state that the parties
+may by contract vary the damages rules stated in those subsections.</para>
+<para><emphasis>Cross Reference:</emphasis></para>
+<para>Sections 2-713(1), 2-713(2), 2-714, and 2A-518.</para>
+<para><emphasis>Definitional Cross References:</emphasis></para>
+<para>"Conforming". Section 2A-103(1)(d).</para>
+<para>"Delivery". Section 1-201(b)(15).</para>
+<para>"Goods". Section 2A-103(1)(h).</para>
+<para>"Lease". Section 2A-103(1)(j).</para>
+<para>"Lease agreement". Section 2A-103(1)(k).</para>
+<para>"Lessee". Section 2A-103(1)(n).</para>
+<para>"Lessor". Section 2A-103(1)(p).</para>
+<para>"Notification". Section 1-202.</para>
+<para>"Present value". Section 1-201(b)(28).</para>
+<para>"Value". Section 1-204.</para></annotation></law></legaldoc>
+

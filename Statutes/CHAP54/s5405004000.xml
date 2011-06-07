@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Arbortext, Inc., 1988-2004, v.4002-->
+<?APT Element gi="legaldoc"?>
+<?APT Element gi="law" attrs="type"?>
+<?APT Element gi="section" attrs="id"?>
+<?APT Element gi="sectno" attrs="id"?>
+<?APT Element gi="amendatorysection" attrs="amended chaptername id publishedsource statutenumber"?>
+<?APT Element gi="bookinfo"?>
+<?APT Element gi="statuteno"?>
+<?APT Element gi="catchline"?>
+<?APT Element gi="para"?>
+<?APT Element gi="source"?>
+<?APT Element gi="effectivedate"?>
+<legaldoc><law type="statute"><section id="id20"><sectno id="id21">Sec. 4.</sectno><amendatorysection
+amended="no" chaptername="Livestock" id="id22" publishedsource="CumulativeSupplement"
+statutenumber="54-504"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>54-504</statuteno><catchline>Applicant;
+eligibility; preference.</catchline><para>(1) To be eligible for funds under
+the program, an applicant shall:</para><para>(a) Be a graduate of an approved
+veterinary medical school;</para><para>(b) Be licensed to practice veterinary
+medicine in this state;</para><para>(c) Enter into a contract with the department
+to provide full-time veterinary medicine services as a food supply animal
+veterinarian in a food supply animal veterinary practice or in a rural mixed
+animal veterinary practice for four years in one or more communities approved
+by the department; and</para><para>(d) Be accredited by the United States
+Department of Agriculture, Animal and Plant Health Inspection Service, Veterinary
+Services to provide services relating to food supply animals by the end of
+the first year of service.</para><para>(2) The department shall give preference
+for approving communities for purposes of subdivision (1)(c) of this section
+to communities located in areas designated by the department as shortage areas
+for food supply animal veterinary medical services. In designating such areas,
+the department may initially utilize shortage areas as designated by the American
+Veterinary Medical Association on July 18, 2008, and may revise designations
+as necessary and appropriate to achieve the purposes of the program.</para></amendatorysection></section><source><para>Laws
+2008, LB1172, &#167; 4.</para></source></law></legaldoc>

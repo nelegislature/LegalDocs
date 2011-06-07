@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="ucc"><section><sectno></sectno><amendatorysection chaptername="Uniform Commercial Code" statutenumber="4A-108">
+<bookinfo>Uniform Commercial Code, Reissue Revised Statutes of Nebraska</bookinfo>
+<statuteno>4A-108</statuteno>
+<catchline>Exclusion of consumer transactions governed by federal law.</catchline>
+<para>This article does not apply to a funds transfer any part of which is governed by the Electronic Fund Transfer Act of 1978, Title XX, Public Law 95-630, 92 Stat. 3728, 15 U.S.C. 1693 et seq., as amended from time to time.</para>
+</amendatorysection></section>
+<source>
+<para>Laws 1991, LB 160, &#167; 9.</para>
+</source>
+<annotation>
+<para><emphasis>COMMENT</emphasis></para>
+<para>The Electronic Fund Transfer Act of 1978 (EFTA) is a federal statute that covers a wide variety of electronic funds transfers involving consumers. The types of transfers covered by the federal statute are essentially different from the wholesale wire transfers that are the primary focus of article 4A. Section 4A-108 excludes a funds transfer from article 4A if any part of the transfer is covered by the federal law. Existing procedures designed to comply with federal law will not be affected by article 4A. The effect of section 4A-108 is to make article 4A and EFTA mutually exclusive. For example, if a funds transfer is to a consumer account in the beneficiary's bank and the funds transfer is made in part by use of Fedwire and in part by means of an automated clearinghouse, EFTA applies to the ACH part of the transfer but not to the Fedwire part. Under section 4A-108, article 4A does not apply to any part of the transfer. However, in the absence of any law to govern the part of the funds transfer that is not subject to EFTA, a court might apply appropriate principles from article 4A by analogy.</para></annotation></law></legaldoc>

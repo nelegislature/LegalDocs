@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Arbortext, Inc., 1988-2004, v.4002-->
+<?APT Element gi="legaldoc"?>
+<?APT Element gi="law" attrs="type"?>
+<?APT Element gi="section" attrs="id"?>
+<?APT Element gi="sectno" attrs="id"?>
+<?APT Element gi="amendatorysection" attrs="amended chaptername id statutenumber"?>
+<?APT Element gi="bookinfo"?>
+<?APT Element gi="statuteno" attrs="id"?>
+<?APT Element gi="catchline" attrs="id"?>
+<?APT Element gi="para"?>
+<?APT Element gi="source"?>
+<?APT Element gi="effectivedate"?>
+<legaldoc><law type="statute"><section id="id46"><sectno id="id47">Sec. 15.</sectno><amendatorysection
+amended="yes" chaptername="Livestock" id="id48" statutenumber="54-616"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id50">54-616</statuteno><catchline
+id="id51">County; pounds; erection; keepers; compensation; rules and regulations.</catchline><para>A
+county may provide for the erection of any pounds needed within the county,
+appoint and compensate keepers thereof, and establish and enforce rules governing
+such pounds.</para></amendatorysection></section><source><para>Laws 1963, c. 104, &#167; 3, p. 430; </para><para>Laws 2008, LB1055, &#167; 15.</para></source> </law></legaldoc>

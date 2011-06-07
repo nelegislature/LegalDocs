@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Arbortext, Inc., 1988-2004, v.4002-->
+<?APT Element gi="legaldoc"?>
+<?APT Element gi="law" attrs="type"?>
+<?APT Element gi="section"?>
+<?APT Element gi="sectno"?>
+<?APT Element gi="amendatorysection" attrs="amended chaptername statutenumber"?>
+<?APT Element gi="bookinfo"?>
+<?APT Element gi="statuteno"?>
+<?APT Element gi="catchline"?>
+<?APT Element gi="para"?>
+<?APT Element gi="source"?>
+<?APT Element gi="effectivedate"?>
+<?APT Element gi="crossreference"?>
+<?APT Element gi="emphasis"?>
+<legaldoc><law type="statute"><section><sectno></sectno><amendatorysection
+amended="yes" chaptername="Monopolies and Unlawful Combinations" statutenumber="59-1502"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>59-1502</statuteno><catchline>Terms,
+defined.</catchline><para>As used in the Unfair Cigarette Sales Act, unless
+the context otherwise requires:</para><para>(1) Person shall mean and include
+any individual, firm, association, company, partnership, limited liability
+company, corporation, joint-stock company, club, agency, syndicate, municipal
+corporation or other political subdivision of this state, trust, receiver,
+trustee, fiduciary, or conservator;</para><para>(2) Cigarettes shall mean
+and include any roll for smoking made wholly or in part of tobacco, irrespective
+of size or shape and whether or not such tobacco is flavored, adulterated,
+or mixed with any other ingredient, the wrapper or cover of which is made
+of paper or any other substance or material, excepting tobacco;</para><para>(3)
+Sale shall mean any transfer for a consideration, exchange, barter, gift,
+offer for sale, or distribution in any manner or by any means whatsoever;</para><para>(4)
+Wholesaler shall include any person who:</para><para>(a) Purchases cigarettes
+directly from the manufacturer;</para><para>(b) Purchases cigarettes from
+any other person who purchases from the manufacturer and who acquires such
+cigarettes solely for the purpose of bona fide resale to retail dealers or
+to other persons for the purpose of bona fide resale to retail dealers or
+to other persons for the purpose of resale only; or</para><para>(c) Services
+retail outlets by the maintenance of an established place of business for
+the purchase of cigarettes, including, but not limited to, the maintenance
+of warehousing facilities for the storage and distribution of cigarettes.</para><para>Nothing
+in the Unfair Cigarette Sales Act shall prevent a person from qualifying in
+different capacities as both a wholesaler and retailer under the applicable
+provisions of the act;</para><para>(5) Retailer shall mean and include any
+person who operates a store, stand, booth, or concession for the purpose of
+making sales of cigarettes at retail, including sales through vending machines;</para><para>(6)
+Sell at retail, sale at retail, and retail sales shall mean and include any
+transfer of title to cigarettes for a valuable consideration, made in the
+ordinary course of trade or usual conduct of the seller's business, to the
+purchaser for consumption or use, including sales through vending machines;</para><para>(7)
+Sell at wholesale, sale at wholesale, and wholesale sales shall mean and include
+any bona fide transfer of title to cigarettes for a valuable consideration,
+made in the ordinary course of trade or in the usual conduct of the wholesaler's
+business, to a retailer for the purpose of resale;</para><para>(8) Basic cost
+of cigarettes shall mean the replacement cost of cigarettes to the retailer
+or wholesaler, as the case may be, in the quantity last purchased, without
+subtracting any discounts, to which shall be added the full value of any stamps
+which may be required by any cigarette tax act of this state and by ordinance
+of any municipality of this state in effect or hereafter enacted, if not already
+included by the manufacturer in his or her list price;</para><para>(9) Division
+shall mean the cigarette tax division of the Tax Commissioner; and</para><para>(10)
+Business day shall mean any day other than a Sunday or legal holiday.</para></amendatorysection></section><source><para>Laws
+1965, c. 364, &#167; 2, p. 1184; </para><para>Laws 1967, c. 378, &#167; 1, p. 1187; </para><para>Laws 1987, LB 730, &#167; 26; </para><para>Laws 1993, LB 121, &#167; 377; </para><para>Laws
+2008, LB898, &#167; 1.</para></source><crossreference><para><emphasis>Cigarette tax,</emphasis> see Chapter 77, article 26.</para></crossreference>  </law></legaldoc>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Arbortext, Inc., 1988-2004, v.4002-->
+<?APT Element gi="legaldoc"?>
+<?APT Element gi="law" attrs="type"?>
+<?APT Element gi="section" attrs="id"?>
+<?APT Element gi="sectno" attrs="id opdate"?>
+<?APT Element gi="amendatorysection" attrs="amended chaptername id publishedsource statutenumber"?>
+<?APT Element gi="bookinfo"?>
+<?APT Element gi="statuteno" attrs="id"?>
+<?APT Element gi="catchline" attrs="id"?>
+<?APT Element gi="para"?>
+<?APT Element gi="source"?>
+<?APT Element gi="operativedate"?>
+<legaldoc><law type="statute"><section id="id72"><sectno id="id73" opdate="July 1, 2008">Sec.
+9.</sectno><amendatorysection amended="yes" chaptername="Motor Vehicles" id="id74"
+publishedsource="CumulativeSupplement" statutenumber="60-342"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id76">60-342</statuteno><catchline
+id="id77">Owner, defined.</catchline><para>Owner means a person, firm, or
+corporation which holds a legal title of a motor vehicle or trailer. If (1)
+a motor vehicle or trailer is the subject of an agreement for the conditional
+sale thereof with the right of purchase upon performance of the conditions
+stated in the agreement and with an immediate right of possession vested in
+the conditional vendee, (2) a motor vehicle or trailer is subject to a lease
+of thirty days or more with an immediate right of possession vested in the
+lessee, or (3) a mortgagor of a motor vehicle or trailer is entitled to possession,
+then such conditional vendee, lessee, or mortgagor shall be deemed the owner
+for purposes of the Motor Vehicle Registration Act.</para></amendatorysection></section><source><para>Laws
+2005, LB 274, &#167; 42; </para><para>Laws 2006, LB 853, &#167; 2; </para><para>Laws 2007, LB239, &#167; 2; </para><para>Laws 2008, LB756, &#167; 9.</para></source></law></legaldoc>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Arbortext, Inc., 1988-2004, v.4002-->
+<?APT Element gi="legaldoc"?>
+<?APT Element gi="law" attrs="type"?>
+<?APT Element gi="section"?>
+<?APT Element gi="sectno"?>
+<?APT Element gi="amendatorysection" attrs="amended chaptername statutenumber"?>
+<?APT Element gi="bookinfo"?>
+<?APT Element gi="statuteno"?>
+<?APT Element gi="catchline"?>
+<?APT Element gi="para"?>
+<?APT Element gi="source"?>
+<?APT Element gi="effectivedate"?>
+<legaldoc><law type="statute"><section><sectno></sectno><amendatorysection
+amended="yes" chaptername="Motor Vehicles" statutenumber="60-4,122"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>60-4,122</statuteno><catchline>Operator's
+license; state identification card; renewal procedure; law examination; exceptions.</catchline><para>(1)
+Except as otherwise provided in subsections (2), (3), and (8) of this section,
+no original or renewal operator's license shall be issued to any person until
+such person has demonstrated his or her ability to operate a motor vehicle
+safely as provided in section 60-4,114.</para><para>(2) Except as otherwise
+provided in this section and section 60-4,127, any person who renews his or
+her Class O or Class M license shall demonstrate his or her ability to drive
+and maneuver a motor vehicle safely as provided in subdivision (3)(b) of section
+60-4,114 only at the discretion of department personnel, except that a person
+required to use bioptic or telescopic lenses shall be required to demonstrate
+his or her ability to drive and maneuver a motor vehicle safely each time
+he or she renews his or her license.</para><para>(3) Any person who renews
+his or her Class O or Class M license prior to or within one year after its
+expiration may not be required to demonstrate his or her knowledge of the
+motor vehicle laws of this state as provided in subdivision (3)(c) of section
+60-4,114 if his or her driving record abstract maintained in the computerized
+records of the department shows that such person's license is not suspended,
+revoked, or canceled.</para><para>(4) Except for operators' licenses issued
+to persons required to use bioptic or telescopic lenses, any person who renews
+his or her operator's license which has been valid for fifteen months or less
+shall not be required to take any examination required under section 60-4,114.</para><para>(5)
+Any person who renews a state identification card shall appear before department
+personnel and present his or her current state identification card or shall
+follow the procedure for electronic renewal in subsection (9) of this section.
+Proof of identification shall be required as prescribed in sections 60-484
+and 60-4,181.</para><para>(6) A nonresident who applies for an initial operator's
+license in this state and who holds a valid operator's license from another
+state which is his or her state of residence may not be required to demonstrate
+his or her knowledge of the motor vehicle laws of this state if he or she
+surrenders to the examiner his or her valid out-of-state operator's license.</para><para>(7)
+An applicant for an original operator's license may not be required to demonstrate
+his or her knowledge of the motor vehicle laws of this state if he or she
+has been issued a Nebraska LPD-learner's permit that is valid or has been
+expired for no more than one year. The written examination shall not be waived
+if the original operator's license being applied for contains a class or endorsement
+which is different from the class or endorsement of the Nebraska LPD-learner's
+permit.</para><para>(8) A qualified licensee as determined by the department
+who is twenty-one years of age or older and less than sixty-five years of
+age and who has a digital image and digital signature preserved in the digital
+system may renew his or her Class O or Class M license once by electronic
+means in a manner prescribed by the department using the preserved digital
+image and digital signature without taking any examination required under
+section 60-4,114 if such renewal is prior to or within one year after the
+expiration of the license and if his or her driving record abstract maintained
+in the records of the department shows that such person's license is not suspended,
+revoked, or canceled. Every licensee must apply for renewal in person at least
+once every ten years and have a new digital image and digital signature taken.</para><para>(9)
+Any person who is twenty-one years of age or older and who has been issued
+a state identification card with a digital image and digital signature may
+electronically renew his or her state identification card once by electronic
+means in a manner prescribed by the department using the preserved digital
+image and digital signature. Every holder of a state identification card shall
+apply for renewal in person at least once every ten years and have a new digital
+image and digital signature taken.</para></amendatorysection></section><source><para>Laws
+1967, c. 234, &#167; 6, p. 625; </para><para>Laws 1984, LB 694, &#167; 1; </para><para>Laws 1989, LB 284, &#167; 8; </para><para>R.S.1943, (1988), &#167; 60-411.01; </para><para>Laws 1989, LB 285, &#167; 72; </para><para>Laws 1990, LB 369, &#167; 16; </para><para>Laws 1990, LB 742, &#167; 4; </para><para>Laws 1990, LB 980, &#167; 10; </para><para>Laws 1993, LB 370, &#167; 87; </para><para>Laws 1998, LB 320, &#167; 9; </para><para>Laws 1999, LB 704, &#167; 23; </para><para>Laws 2001, LB 387, &#167; 7; </para><para>Laws 2001, LB 574, &#167; 16; </para><para>Laws 2008, LB911, &#167; 16.</para></source> </law></legaldoc>

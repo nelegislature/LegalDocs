@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Arbortext, Inc., 1988-2004, v.4002-->
+<?APT Element gi="legaldoc"?>
+<?APT Element gi="law" attrs="type"?>
+<?APT Element gi="section" attrs="id"?>
+<?APT Element gi="sectno" attrs="id"?>
+<?APT Element gi="amendatorysection" attrs="amended chaptername id statutenumber"?>
+<?APT Element gi="bookinfo"?>
+<?APT Element gi="statuteno" attrs="id"?>
+<?APT Element gi="catchline" attrs="id"?>
+<?APT Element gi="para"?>
+<?APT Element gi="source"?>
+<?APT Element gi="effectivedate"?>
+<legaldoc><law type="statute"><section id="id4"><sectno id="id5">Section 1.</sectno><amendatorysection
+amended="yes" chaptername="Militia" id="id6" statutenumber="55-133"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id8">55-133</statuteno><catchline
+id="id9">Adjutant General; armories and equipment; assignment; military emergency
+vehicles; designation.</catchline><para>(1) The Adjutant General shall assign
+to each organization an armory and such other equipment as may be necessary
+to comply with the requirements of United States laws or regulations for National
+Guard units allotted to the State of Nebraska.</para><para>(2)(a) The Adjutant
+General may designate any publicly owned military vehicles of the National
+Guard described in subdivision (b) of this subsection as military emergency
+vehicles. Military emergency vehicles shall be operated as emergency vehicles
+only when responding to a public disaster, war, riot, invasion, insurrection,
+or resistance of process or in case of imminent danger of the occurrence of
+any of such events. The Adjutant General shall develop and enforce standard
+operating procedures for military emergency vehicles.</para><para>(b) Vehicles
+eligible for designation as military emergency vehicles shall be limited to
+vehicles assigned to:</para><para>(i) The Civil Support Team, or any successor
+unit; and</para><para>(ii) The chemical, biological, radiological, nuclear,
+and high-yield explosives enhanced response force package, commonly known
+as the CERFP unit, or any successor unit.</para></amendatorysection></section><source><para>Laws 1929, c. 189, &#167; 21, p. 662; </para><para>C.S.1929, &#167; 55-127; </para><para>R.S.1943, &#167; 55-152; </para><para>Laws 1969, c. 459, &#167; 31, p. 1592; </para><para>Laws 2008, LB196, &#167; 1.</para></source></law></legaldoc>
