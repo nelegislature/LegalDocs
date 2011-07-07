@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Elections" statutenumber="32-208"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>32-208</statuteno><catchline>Election commissioner; qualifications.</catchline><para>The election commissioner in counties having a population of more than one hundred thousand inhabitants shall be a registered voter, a resident of such county for at least one year, and of good moral character and integrity and capacity. No person who is a candidate for any elective office or is a deputy, clerk, or employee of any person who is a candidate for any elective office shall be eligible for the office of election commissioner. The election commissioner shall not hold any other elective office and shall not be eligible to any elective office or to become a candidate for an elective office during his or her term of office or within six months after leaving office.</para></amendatorysection></section><source><para>Laws 1994, LB 76, &#167; 28; </para><para>Laws 1997, LB 764, &#167; 14; </para><para>Laws 2001, LB 226, &#167; 1; </para><para>Laws 2003, LB 707, &#167; 1. </para></source><annotation><para>Under the act of 1889, a candidate for public office was not eligible to act as a supervisor of registration, but a supervisor of registration was eligible to be elected to public office. State ex rel. Roche v. Cosgrove, 34 Neb. 386, 51 N.W. 974 (1892).</para></annotation></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id3">
+<amendatorysection amended="yes" chaptername="Elections" id="id5" statutenumber="32-208"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>32-208</statuteno><catchline id="id8">Election commissioner;
+qualifications; appointment
+to elective office; effect.</catchline><para>The election
+commissioner in counties having a population of more than one hundred thousand
+inhabitants shall be a registered voter, a resident of such county for at
+least one year, and of good moral character and integrity and capacity. No
+person who is a candidate for any elective office or is a deputy, clerk, or
+employee of any person who is a candidate for any elective office shall be
+eligible for the office of election commissioner. The election commissioner
+shall not hold any other elective office or become a candidate for
+an elective office during his or her term of office or within six months after
+leaving office. An election
+commissioner may be appointed to an elective office during his or her term
+of office as election commissioner, and acceptance of such appointment shall
+be deemed to be his or her resignation from the office of election commissioner.</para>
+</amendatorysection></section><source><para>Laws 1994, LB 76, &#167; 28; </para><para>Laws 1997, LB 764, &#167; 14; </para><para>Laws 2001, LB 226, &#167; 1; </para><para>Laws 2003, LB 707, &#167; 1; </para><para>Laws 2011, LB449, &#167; 1.</para><effectivedate>August 27, 2011</effectivedate></source><annotation><para>Under the act of 1889, a candidate for public office was not eligible to act as a supervisor of registration, but a supervisor of registration was eligible to be elected to public office. State ex rel. Roche v. Cosgrove, 34 Neb. 386, 51 N.W. 974 (1892).</para></annotation>  </law>
+</legaldoc>

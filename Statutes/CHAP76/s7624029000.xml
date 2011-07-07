@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Real Property" statutenumber="76-2429"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>76-2429</statuteno><catchline>Sections; supersede common law; extent; construction.</catchline><para>Sections 76-2401 to 76-2430 shall supersede the duties and responsibilities of the parties under the common law, including fiduciary responsibilities of an agent to a principal, except as provided in subsection (6) of section 76-2422. Sections 76-2401 to 76-2430 shall be construed broadly to accomplish their purposes.</para></amendatorysection></section><source><para>Laws 1994, LB 883, &#167; 29. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Real Property" statutenumber="76-2429"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>76-2429</statuteno><catchline>Sections; supersede common law; extent;
+construction.</catchline><para>Sections 76-2401 to 76-2430 shall supersede
+the duties and responsibilities of the parties under the common law, including
+fiduciary responsibilities of an agent to a principal, except as provided
+in subsection (6) of section 76-2422. Sections 76-2401 to 76-2430 shall be
+construed broadly to accomplish their purposes.</para>
+</amendatorysection></section><source><para>Laws 1994, LB 883, &#167; 29; </para><para>Laws 2011, LB25, &#167; 14.</para><effectivedate>August 27, 2011</effectivedate></source>  </law>
+</legaldoc>

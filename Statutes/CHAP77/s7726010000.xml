@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Revenue and Taxation" statutenumber="77-2610"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>77-2610</statuteno><catchline>Stamps; redemption by Tax Commissioner; errors; adjust.</catchline><para>Upon the written request of the original purchaser thereof and upon the return of any unused stamps, the Tax Commissioner shall redeem such stamps. The Tax Commissioner shall prepare a voucher showing the amount of such returned unused stamps and shall cause to be drawn a warrant upon the State Treasurer for such amount in favor of the person returning such unused stamps. The refunds shall be paid from the various funds named in section 77-2602 in the same proportions as the proceeds of the tax are allocated. By the terms of sections 77-2601 to 77-2615, the Tax Commissioner and the State Treasurer are specifically authorized to adjust all errors in payments for unused stamps.</para></amendatorysection></section><source><para>Laws 1947, c. 267, &#167; 10, p. 864; </para><para>Laws 1959, c. 353, &#167; 7, p. 1246; </para><para>Laws 1965, c. 501, &#167; 4, p. 1597; </para><para>Laws 1965, c. 459, &#167; 20, p. 1462; </para><para>Laws 1969, c. 645, &#167; 11, p. 2562; </para><para>Laws 1971, LB 87, &#167; 3. </para></source><annotation><para>This act which includes sections 77-2602, 77-2610, 77-2616, and 85-1,100 is valid under the Constitutions of Nebraska and the United States. Sandberg v. State, 188 Neb. 335, 196 N.W.2d 501 (1972).</para></annotation></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id390">
+<amendatorysection amended="yes" chaptername="Revenue and Taxation" id="id392" statutenumber="77-2610">
+<bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>77-2610</statuteno><catchline id="id395">Stamps; redemption
+by Tax Commissioner; errors; adjust.</catchline><para>Upon the
+written request of the original purchaser thereof and upon the return of any
+unused stamps, the Tax Commissioner shall redeem such stamps. The Tax Commissioner
+shall prepare a voucher showing the amount of such returned unused stamps
+and shall cause to be drawn a warrant upon the State Treasurer for such amount
+in favor of the person returning such unused stamps. The refunds shall be
+paid from the various funds named in section 77-2602 in the same proportions
+as the proceeds of the tax are allocated. By the terms of sections 77-2601
+to 77-2615, the Tax Commissioner and the State Treasurer are specifically
+authorized to adjust all errors in payments for unused stamps.</para>
+</amendatorysection></section><source><para>Laws 1947, c. 267, &#167; 10, p. 864; </para><para>Laws 1959, c. 353, &#167; 7, p. 1246; </para><para>Laws 1965, c. 501, &#167; 4, p. 1597; </para><para>Laws 1965, c. 459, &#167; 20, p. 1462; </para><para>Laws 1969, c. 645, &#167; 11, p. 2562; </para><para>Laws 1971, LB 87, &#167; 3; </para><para>Laws 2011, LB590, &#167; 31.</para><operativedate>January 1, 2013</operativedate></source><annotation><para>This act which includes sections 77-2602, 77-2610, 77-2616, and 85-1,100 is valid under the Constitutions of Nebraska and the United States. Sandberg v. State, 188 Neb. 335, 196 N.W.2d 501 (1972).</para></annotation>  </law>
+</legaldoc>

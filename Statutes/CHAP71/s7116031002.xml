@@ -1,1 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Public Health and Welfare" statutenumber="71-1631.02"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>71-1631.02</statuteno><catchline>Local boards of health; retirement plan; reports.</catchline><para>(1) Beginning December 31, 1998, and each year thereafter, the health director of a board of health with an independent retirement plan established pursuant to section 71-1631 and section 401(a) of the Internal Revenue Code shall file with the Public Employees Retirement Board an annual report on such plan and shall submit copies of such report to the members of the Nebraska Retirement Systems Committee of the Legislature. The annual report shall be in a form prescribed by the Public Employees Retirement Board and shall contain the following information for each such retirement plan:</para><para>(a) The number of persons participating in the retirement plan;</para><para>(b) The contribution rates of participants in the plan;</para><para>(c) Plan assets and liabilities;</para><para>(d) The names and positions of persons administering the plan;</para><para>(e) The names and positions of persons investing plan assets;</para><para>(f) The form and nature of investments;</para><para>(g) For each independent defined contribution plan, a full description of investment policies and options available to plan participants; and</para><para>(h) For each independent defined benefit plan, the levels of benefits of participants in the plan, the number of members who are eligible for a benefit, and the total present value of such members' benefits, as well as the funding sources which will pay for such benefits.</para><para>If an independent plan contains no current active participants, the health director may file in place of such report a statement with the Public Employees Retirement Board indicating the number of retirees still drawing benefits, and the sources and amount of funding for such benefits.</para><para>(2) Beginning December 31, 1998, and every four years thereafter, if such retirement plan is a defined benefit plan, a board of health with an independent retirement plan established pursuant to section 71-1631 shall cause to be prepared a quadrennial report and the health director shall file the same with the Public Employees Retirement Board and submit to the members of the Nebraska Retirement Systems Committee of the Legislature a copy of such report. The report shall consist of a full actuarial analysis of each such independent retirement plan established pursuant to section 71-1631. The analysis shall be prepared by an independent private organization or public entity employing actuaries who are members in good standing of the American Academy of Actuaries, and which organization or entity has demonstrated expertise to perform this type of analysis and is unrelated to any organization offering investment advice or which provides investment management services to the retirement plan.</para></amendatorysection></section><source><para>Laws 1998, LB 1191, &#167; 43; </para><para>Laws 1999, LB 795, &#167; 12. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Public Health and Welfare" statutenumber="71-1631.02"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>71-1631.02</statuteno><catchline>Local boards of health; retirement
+plan; reports.</catchline><para>(1) Beginning December 31, 1998, and each
+year thereafter, the health director of a board of health with an independent
+retirement plan established pursuant to section 71-1631 and section 401(a)
+of the Internal Revenue Code shall file with the Public Employees Retirement
+Board an annual report on such plan and shall submit copies of such report
+to the Auditor of Public Accounts. The Auditor of Public Accounts
+may prepare a review of such report pursuant to section 84-304.02 but is not
+required to do so. The annual report shall be in a form prescribed
+by the Public Employees Retirement Board and shall contain the following information
+for each such retirement plan:</para>
+<para>(a) The number of persons participating in the retirement plan;</para>
+<para>(b) The contribution rates of participants in the plan;</para>
+<para>(c) Plan assets and liabilities;</para>
+<para>(d) The names and positions of persons administering the plan;</para>
+<para>(e) The names and positions of persons investing plan assets;</para>
+<para>(f) The form and nature of investments;</para>
+<para>(g) For each independent defined contribution plan, a full description
+of investment policies and options available to plan participants; and</para>
+<para>(h) For each independent defined benefit plan, the levels of benefits
+of participants in the plan, the number of members who are eligible for a
+benefit, and the total present value of such members' benefits, as well as
+the funding sources which will pay for such benefits.</para>
+<para>If an independent plan contains no current active participants, the
+health director may file in place of such report a statement with the Public
+Employees Retirement Board indicating the number of retirees still drawing
+benefits, and the sources and amount of funding for such benefits.</para>
+<para>(2) Beginning December 31, 1998, and every four years thereafter, if
+such retirement plan is a defined benefit plan, a board of health with an
+independent retirement plan established pursuant to section 71-1631 shall
+cause to be prepared a quadrennial report and the health director shall file
+the same with the Public Employees Retirement Board and submit to the Auditor
+of Public Accounts a copy of such report. The Auditor of Public Accounts may prepare a review of such
+report pursuant to section 84-304.02 but is not required to do so. The
+report shall consist of a full actuarial analysis of each such independent
+retirement plan established pursuant to section 71-1631. The analysis shall
+be prepared by an independent private organization or public entity employing
+actuaries who are members in good standing of the American Academy of Actuaries,
+and which organization or entity has demonstrated expertise to perform this
+type of analysis and is unrelated to any organization offering investment
+advice or which provides investment management services to the retirement
+plan.</para>
+</amendatorysection></section><source><para>Laws 1998, LB 1191, &#167; 43; </para><para>Laws 1999, LB 795, &#167; 12; </para><para>Laws 2011, LB474, &#167; 12.</para><effectivedate>August 27, 2011</effectivedate></source>  </law>
+</legaldoc>

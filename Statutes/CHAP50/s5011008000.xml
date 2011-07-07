@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Legislature" statutenumber="50-1108"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>50-1108</statuteno><catchline>District No. 7, description.</catchline><para>District No. 7 shall contain that part of Douglas County beginning at the intersection of the Grace Street Outfall and the Nebraska-Iowa state line, northwest along the Grace Street Outfall to Abbott Drive, west on Abbott Drive to North 6th Street, north on North 6th Street to Seward Street, west on Seward Street to North 11th Street, south on North 11th Street to Nicholas Street, west on Nicholas Street to North 15th Street, south on North 15th Street to Cuming Street, west on Cuming Street to North 24th Street, south on North 24th Street to South 24th Street, south on South 24th Street to St. Mary's Avenue, west on St. Mary's Avenue to South 24th Street, south on South 24th Street to Leavenworth Street, west on Leavenworth Street to Interstate Highway 480, south on Interstate Highway 480 to Ed Creighton Avenue, west on Ed Creighton Avenue to Hanscom Boulevard, south then southeast on Hanscom Boulevard and continuing along a southeast line extending southeast from Hanscom Boulevard to Interstate Highway 480, east then southeast on Interstate Highway 480 to John F. Kennedy Freeway, south on John F. Kennedy Freeway to the Union Pacific Railroad right-of-way, southeast along the Union Pacific Railroad right-of-way to the Douglas-Sarpy County line, east along the Douglas-Sarpy County line to the Nebraska-Iowa state line, and north along the Nebraska-Iowa state line to the point of beginning.</para></amendatorysection></section><source><para>Laws 1981, LB 406, &#167; 8; </para><para>R.S.1943, (1987), &#167; 5-208; </para><para>Laws 1991, LB 614, &#167; 8; </para><para>Laws 2001, LB 852, &#167; 8. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="50-1108">
+				<statuteno>50-1108</statuteno>
+				<catchline>Repealed. Laws 2011, LB 703, &#167; 5.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>May 27, 2011</operativedate></source>
+	</law>
+</legaldoc>

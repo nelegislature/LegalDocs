@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Labor" statutenumber="48-809"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>48-809</statuteno><catchline>Commission; powers.</catchline><para>The Commission of Industrial Relations is hereby granted full power to adopt all reasonable and proper regulations to govern its proceedings, the filing of pleadings, the issuance and service of process, the issuance of subpoenas for attendance of witnesses, the power to administer oaths, and to regulate the mode and manner of all its investigations, inspections, hearings and trials. In the taking of evidence, the rules of evidence, prevailing in the trial of civil cases in Nebraska shall be observed by the Commission of Industrial Relations.</para></amendatorysection></section><source><para>Laws 1947, c. 178, &#167; 9, p. 590. </para></source><annotation><para>Under powers granted in this section, Court of Industrial Relations may adopt rules required under the Administrative Procedures Act. School Dist. of Seward Education Assn. v. School Dist. of Seward, 188 Neb. 772, 199 N.W.2d 752 (1972).</para></annotation></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id52">
+<amendatorysection amended="yes" chaptername="Labor" id="id54" statutenumber="48-809"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>48-809</statuteno><catchline id="id57">Commission; powers.</catchline>
+<para>The commission may adopt all reasonable
+and proper regulations to govern its proceedings, the filing of pleadings,
+the issuance and service of process, and the
+issuance of subpoenas for attendance of witnesses, may administer
+oaths, and may regulate the mode and
+manner of all its investigations, inspections, hearings, and trials. Except as otherwise provided in the Industrial
+Relations Act or the State Employees Collective Bargaining Act, in the
+taking of evidence, the rules of evidence, prevailing in the trial of civil
+cases in Nebraska, shall
+be observed by the commission.</para>
+</amendatorysection></section><source><para>Laws 1947, c. 178, &#167; 9, p. 590; </para><para>Laws 2011, LB397, &#167; 5.</para><operativedate>October 1, 2011</operativedate></source><crossreference><para><emphasis>State Employees Collective Bargaining Act,</emphasis> see section 81-1369.</para></crossreference><annotation><para>Under powers granted in this section, Court of Industrial Relations may adopt rules required under the Administrative Procedures Act. School Dist. of Seward Education Assn. v. School Dist. of Seward, 188 Neb. 772, 199 N.W.2d 752 (1972).</para></annotation>  </law>
+</legaldoc>

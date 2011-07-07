@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Irrigation and Regulation of Water" statutenumber="46-2,135"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>46-2,135</statuteno><catchline>Meetings.</catchline><para>The Water Policy Task Force shall meet at least twice each year to consider the proposals and recommendations of the executive committee and any other additional times as the executive committee determines to be necessary to accomplish the objectives established in section 46-2,131.</para></amendatorysection></section><source><para>Laws 2002, LB 1003, &#167; 5; </para><para>Laws 2004, LB 962, &#167; 32. </para><terminationdate>December 31, 2009</terminationdate></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="46-2,135">
+				<statuteno>46-2,135</statuteno>
+				<catchline>Repealed. Laws 2011, LB 2, &#167; 8.</catchline>
+				
+			</amendatorysection>
+		</section>
+	</law>
+</legaldoc>

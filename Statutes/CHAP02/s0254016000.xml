@@ -1,35 +1,14 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section>
-<sectno></sectno><amendatorysection amended="yes" chaptername="Agriculture" statutenumber="2-5416"><bookinfo>Revised Statutes Cumulative Supplement, 2010</bookinfo><statuteno>2-5416</statuteno><catchline>Purposes of act.</catchline><para>The
-purposes of the Agricultural Opportunities and Value-Added Partnerships Act
-are to:</para>
-<para>(1) Support small enterprise formation in the agricultural sector of
-Nebraska's rural economy, including innovative cooperative efforts for value-added
-enterprises;</para>
-<para>(2) Support the development of agricultural communities and economic
-opportunity through innovative partnerships among farming and ranching operations,
-rural communities, and businesses for the development of value-added agricultural
-products;</para>
-<para>(3) Encourage collaboration between farming and ranching operations
-and between farming and ranching operations and communities, government, and
-businesses as well as between communities and regions;</para>
-<para>(4) Strengthen the value-added production industry by promoting strategic
-partnerships and networks through multigroup cooperation for the creation
-of employment opportunities in the value-added agriculture industry;</para>
-<para>(5) Enhance the income and opportunity for farming and ranching operations
-in Nebraska in order to stem the decline in their numbers;</para>
-<para>(6) Increase the farming and ranching operations' share of the food-system
-profit;</para>
-<para>(7) Enhance opportunities for farming and ranching operations to participate
-in electronic commerce and new and emerging markets that strengthen rural
-economic opportunities, including
-the implementation of electronic scanners or point-of-sale devices to expand
-the ability of Nebraskans to utilize federally subsidized food and nutrition
-program benefits at farmers markets; and </para>
-<para>(8) Encourage the production and marketing of specialty crops in Nebraska
-and to support the creation and development of agricultural enterprises and
-businesses that produce and market specialty crops in Nebraska.</para>
-</amendatorysection></section><source><para>Laws 2005, LB 90, &#167; 7; </para><para>Laws 2007, LB69, &#167; 2; </para><para>Laws 2010, LB986, &#167; 2.</para><terminationdate>January 1, 2015</terminationdate></source>  </law>
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="2-5416">
+				<statuteno>2-5416</statuteno>
+				<catchline>Repealed. Laws 2011, LB 387, &#167; 18.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>October 1, 2011</operativedate></source>
+	</law>
 </legaldoc>

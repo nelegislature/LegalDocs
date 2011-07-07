@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id368">
-<sectno id="id369">Sec. 37.</sectno><amendatorysection amended="yes" chaptername="Game and Parks" id="id370" statutenumber="37-1241.08"><bookinfo>Revised Statutes Cumulative Supplement, 2010</bookinfo><statuteno id="id372">37-1241.08</statuteno><catchline id="id373">Sections; applicability.</catchline><para>Sections 37-1241.01
-to 37-1241.07 shall not apply to a person participating in a regatta, race,
-marine parade, tournament, or exhibition which has been authorized or permitted
-by the commission pursuant to sections 37-1262 and 37-1263 or is otherwise
-exempt from the provisions of the State Boat Act.</para>
-</amendatorysection></section><source><para>Laws 1999, LB 176, &#167; 109; </para><para>Laws 2009, LB105, &#167; 37.</para></source>  </law>
+<section id="id13">
+<amendatorysection amended="yes" chaptername="Game and Parks" id="id15" statutenumber="37-1241.08">
+<bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>37-1241.08</statuteno><catchline id="id18">Sections;
+applicability.</catchline><para>Sections 37-1241.01 to 37-1241.07
+shall not apply to a person operating
+a motorboat or personal watercraft and participating in a regatta,
+race, marine parade, tournament, or exhibition which has been authorized or
+permitted by the commission pursuant to sections 37-1262 and 37-1263 or to a person who is otherwise
+exempt from the State Boat Act.</para>
+</amendatorysection></section><source><para>Laws 1999, LB 176, &#167; 109; </para><para>Laws 2009, LB105, &#167; 37; </para><para>Laws 2011, LB105, &#167; 2.</para><operativedate>January 1, 2012</operativedate></source>  </law>
 </legaldoc>

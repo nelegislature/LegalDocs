@@ -1,1 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="State Institutions" statutenumber="83-1,102" amended="yes" publishedsource="CumulativeSupplement"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>83-1,102</statuteno><catchline>Parole Administrator; duties.</catchline><para>The Parole Administrator shall:</para><para>(1) Supervise and administer the Office of Parole Administration;</para><para>(2) Establish and maintain policies, standards, and procedures for the field parole service and the community supervision of sex offenders pursuant to section 83-174.03;</para><para>(3) Divide the state into parole districts and appoint district parole officers, deputy parole officers, if required, and such other employees as may be required to carry out adequate parole supervision of all parolees, adequate probation supervision of probationers as ordered by district judges, prescribe their powers and duties, and obtain office quarters for staff in each district as may be necessary;</para><para>(4) Cooperate with the Board of Parole, the courts, the Community Corrections Council, and all other agencies, public and private, which are concerned with the treatment or welfare of persons on parole;</para><para>(5) Provide the Board of Parole and district judges with any record of a parolee or probationer which it may require;</para><para>(6) Make recommendations to the Board of Parole or district judge in cases of violation of the conditions of parole or probation, issue warrants for the arrest of parole or probation violators when so instructed by the board or district judge, notify the Director of Correctional Services of determinations made by the board, and upon instruction of the board, issue certificates of parole and of parole revocation to the facilities and certificates of discharge from parole to parolees;</para><para>(7) Organize and conduct training programs for the district parole officers and other employees;</para><para>(8) In consultation with the Community Corrections Council, use the funds provided under section 83-1,107.02 to augment operational or personnel costs associated with the development, implementation, and evaluation of enhanced parole-based programs and purchase services to provide such programs aimed at enhancing adult parolee supervision in the community and treatment needs of parolees. Such enhanced parole-based programs include, but are not limited to, specialized units of supervision, related equipment purchases and training, and programs developed by or through the council that address a parolee's vocational, educational, mental health, behavioral, or substance abuse treatment needs;</para><para>(9) Ensure that any risk or needs assessment instrument utilized by the system be periodically validated; and</para><para>(10) Exercise all powers and perform all duties necessary and proper in carrying out his or her responsibilities.</para></amendatorysection></section><source><para>Laws 1969, c. 817, &#167; 33, p. 3088; </para><para>Laws 1971, LB 680, &#167; 28; </para><para>Laws 2003, LB 46, &#167; 19; </para><para>Laws 2005, LB 538, &#167; 23; </para><para>Laws 2006, LB 1199, &#167; 93.</para></source><crossreference><para><emphasis>Definitions applicable,</emphasis> see section 29-2246.</para></crossreference></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id334">
+<amendatorysection amended="yes" chaptername="State Institutions" id="id336" publishedsource="CumulativeSupplement" statutenumber="83-1,102"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>83-1,102</statuteno><catchline id="id339">Parole Administrator;
+duties.</catchline><para>The Parole Administrator shall:</para>
+<para>(1) Supervise and administer the Office of Parole Administration;</para>
+<para>(2) Establish and maintain policies, standards, and procedures
+for the field parole service and the community supervision of sex offenders
+pursuant to section 83-174.03;</para>
+<para>(3) Divide the state into parole districts and appoint district
+parole officers, deputy parole officers, if required, and such other employees
+as may be required to carry out adequate parole supervision of all parolees,
+adequate probation supervision of probationers as ordered by district judges,
+prescribe their powers and duties, and obtain office quarters for staff in
+each district as may be necessary;</para>
+<para>(4) Cooperate with the Board of Parole, the courts, the Community
+Corrections Division of the Nebraska Commission on
+Law Enforcement and Criminal Justice, and all other agencies,
+public and private, which are concerned with the treatment or welfare of persons
+on parole;</para>
+<para>(5) Provide the Board of Parole and district judges with
+any record of a parolee or probationer which it may require;</para>
+<para>(6) Make recommendations to the Board of Parole or district
+judge in cases of violation of the conditions of parole or probation, issue
+warrants for the arrest of parole or probation violators when so instructed
+by the board or district judge, notify the Director of Correctional Services
+of determinations made by the board, and upon instruction of the board, issue
+certificates of parole and of parole revocation to the facilities and certificates
+of discharge from parole to parolees;</para>
+<para>(7) Organize and conduct training programs for the district
+parole officers and other employees;</para>
+<para>(8) Use the funds provided under section 83-1,107.02
+to augment operational or personnel costs associated with the development,
+implementation, and evaluation of enhanced parole-based programs and purchase
+services to provide such programs aimed at enhancing adult parolee supervision
+in the community and treatment needs of parolees. Such enhanced parole-based
+programs include, but are not limited to, specialized units of supervision,
+related equipment purchases and training, and programs that address
+a parolee's vocational, educational, mental health, behavioral, or substance
+abuse treatment needs;</para>
+<para>(9) Ensure that any risk or needs assessment instrument utilized
+by the system be periodically validated; and</para>
+<para>(10) Exercise all powers and perform all duties necessary
+and proper in carrying out his or her responsibilities.</para>
+</amendatorysection></section><source><para>Laws 1969, c. 817, &#167; 33, p. 3088; </para><para>Laws 1971, LB 680, &#167; 28; </para><para>Laws 2003, LB 46, &#167; 19; </para><para>Laws 2005, LB 538, &#167; 23; </para><para>Laws 2006, LB 1199, &#167; 93; </para><para>Laws 2011, LB390, &#167; 25.</para><operativedate>July 1, 2011</operativedate></source><crossreference><para><emphasis>Definitions applicable,</emphasis> see section 29-2246.</para></crossreference>  </law>
+</legaldoc>

@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id60">
-<sectno id="id61">Sec. 8.</sectno><amendatorysection amended="yes" chaptername="Interest, Loans, and Debt" id="id62" publishedsource="CumulativeSupplement" statutenumber="45-335"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id64">45-335</statuteno><catchline id="id65">Terms, defined.</catchline>
-<para>For purposes of the Nebraska Installment Sales Act, unless
-the context otherwise requires:</para>
-<para>(1) Goods means all personal property, except money or things
-in action, and includes goods which, at the time of sale or subsequently,
-are so affixed to realty as to become part thereof whether or not severable
-therefrom;</para>
-<para>(2) Services means work, labor, and services of any kind performed
-in conjunction with an installment sale but does not include services for
-which the prices charged are required by law to be established and regulated
-by the government of the United States or any state;</para>
-<para>(3) Buyer means a person who buys goods or obtains services
-from a seller in an installment sale;</para>
-<para>(4) Seller means a person who sells goods or furnishes services
-to a buyer under an installment sale;</para>
-<para>(5) Installment sale means any transaction, whether or not
-involving the creation or retention of a security interest, in which a buyer
-acquires goods or services from a seller pursuant to an agreement which provides
-for a time-price differential and under which the buyer agrees to pay all
-or part of the time-sale price in one or more installments and within one
-hundred forty-five months, except that installment contracts for the purchase
-of mobile homes may exceed such one-hundred-forty-five-month limitation. Installment
+<section>
+<amendatorysection amended="yes" chaptername="Interest, Loans, and Debt" id="id62" publishedsource="CumulativeSupplement" statutenumber="45-335"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>45-335</statuteno><catchline id="id65">Terms, defined.</catchline>
+<para>For purposes of the Nebraska Installment Sales Act, unless the context
+otherwise requires:</para>
+<para>(1) Goods means all personal property, except money or things in action,
+and includes goods which, at the time of sale or subsequently, are so affixed
+to realty as to become part thereof whether or not severable therefrom;</para>
+<para>(2) Services means work, labor, and services of any kind performed in
+conjunction with an installment sale but does not include services for which
+the prices charged are required by law to be established and regulated by
+the government of the United States or any state;</para>
+<para>(3) Buyer means a person who buys goods or obtains services from a seller
+in an installment sale;</para>
+<para>(4) Seller means a person who sells goods or furnishes services to a
+buyer under an installment sale;</para>
+<para>(5) Installment sale means any transaction, whether or not involving
+the creation or retention of a security interest, in which a buyer acquires
+goods or services from a seller pursuant to an agreement which provides for
+a time-price differential and under which the buyer agrees to pay all or part
+of the time-sale price in one or more installments and within one hundred
+forty-five months, except that installment contracts for the purchase of mobile
+homes may exceed such one-hundred-forty-five-month limitation. Installment
 sale does not include a consumer rental purchase agreement defined in and
 regulated by the Consumer Rental Purchase Agreement Act;</para>
-<para>(6) Installment contract means an agreement entered into in
-this state evidencing an installment sale except those otherwise provided
-for in separate acts;</para>
-<para>(7) Cash price or cash sale price means the price stated in
-an installment contract for which the seller would have sold or furnished
-to the buyer and the buyer would have bought or acquired from the seller goods
-or services which are the subject matter of the contract if such sale had
-been a sale for cash instead of an installment sale. It may include the cash
-price of accessories or services related to the sale such as delivery, installation,
+<para>(6) Installment contract means an agreement entered into in this state
+evidencing an installment sale except those otherwise provided for in separate
+acts;</para>
+<para>(7) Cash price or cash sale price means the price stated in an installment
+contract for which the seller would have sold or furnished to the buyer and
+the buyer would have bought or acquired from the seller goods or services
+which are the subject matter of the contract if such sale had been a sale
+for cash instead of an installment sale. It may include the cash price of
+accessories or services related to the sale such as delivery, installation,
 alterations, modifications, and improvements and may include taxes to the
 extent imposed on the cash sale;</para>
-<para>(8) Basic time price means the cash sale price of the goods
-or services which are the subject matter of an installment contract plus the
-amount included therein, if a separate identified charge is made therefor
-and stated in the contract, for insurance, registration, certificate of title, guaranteed asset protection waiver, and
+<para>(8) Basic time price means the cash sale price of the goods or services
+which are the subject matter of an installment contract plus the amount included
+therein, if a separate identified charge is made therefor and stated in the
+contract, for insurance, registration, certificate of title, debt cancellation contract, debt suspension contract, electronic
+title and lien services, guaranteed asset protection waiver, and
 license fees, filing fees, an origination fee, and fees and charges prescribed
 by law which actually are or will be paid to public officials for determining
 the existence of or for perfecting, releasing, or satisfying any security
@@ -49,39 +49,38 @@ such charge does not exceed the amount of fees and charges prescribed by law
 which would have been paid to public officials for filing, perfecting, releasing,
 and satisfying any security related to the credit transaction and less the
 amount of the buyer's downpayment in money or goods or both;</para>
-<para>(9) Time-price differential, however denominated or expressed,
-means the amount, as limited in the Nebraska Installment Sales Act, to be
-added to the basic time price;</para>
-<para>(10) Time-sale price means the total of the basic time price
-of the goods or services, the amount of the buyer's downpayment in money or
-goods or both, and the time-price differential;</para>
-<para>(11) Sales finance company means a person purchasing one or
-more installment contracts from one or more sellers. Sales finance company
-includes, but is not limited to, a financial institution or installment loan
-licensee, if so engaged;</para>
+<para>(9) Time-price differential, however denominated or expressed, means
+the amount, as limited in the Nebraska Installment Sales Act, to be added
+to the basic time price;</para>
+<para>(10) Time-sale price means the total of the basic time price of the
+goods or services, the amount of the buyer's downpayment in money or goods
+or both, and the time-price differential;</para>
+<para>(11) Sales finance company means a person purchasing one or more installment
+contracts from one or more sellers. Sales finance company includes, but is
+not limited to, a financial institution or installment loan licensee, if so
+engaged;</para>
 <para>(12) Director means the Director of Banking and Finance;</para>
-<para>(13) Financial institution has the same meaning as in section
-8-101;</para>
-<para>(14) Debt cancellation contract means a loan term or contractual
-arrangement modifying loan terms under which a financial institution agrees
-to cancel all or part of a buyer's obligation to repay an extension of credit
-from the financial institution upon the occurrence of a specified event. The
-debt cancellation contract may be separate from or a part of other loan documents.
-The term debt cancellation contract does not include loan payment deferral
-arrangements in which the triggering event is the buyer's unilateral election
-to defer repayment or the financial institution's unilateral decision to allow
-a deferral of repayment;</para>
-<para>(15) Debt suspension contract means a loan term or contractual
-arrangement modifying loan terms under which a financial institution agrees
-to suspend all or part of a buyer's obligation to repay an extension of credit
-from the financial institution upon the occurrence of a specified event. The
-debt suspension contract may be separate from or a part of other loan documents.
-The term debt suspension contract does not include loan payment deferral arrangements
-in which the triggering event is the buyer's unilateral election to defer
-repayment or the financial institution's unilateral decision to allow a deferral
-of repayment; and</para>
-<para>(16) Guaranteed asset
-protection waiver means a waiver that is offered, sold, or provided in accordance
-with the Guaranteed Asset Protection Waiver Act.</para></amendatorysection>
-</section><source><para>Laws 1965, c. 266, &#167; 1, p. 751; </para><para>Laws 1965, c. 268, &#167; 2, p. 757; </para><para>Laws 1969, c. 379, &#167; 1, p. 1340; </para><para>Laws 1969, c. 380, &#167; 1, p. 1343; </para><para>Laws 1969, c. 381, &#167; 1, p. 1345; </para><para>Laws 1973, LB 455, &#167; 1; </para><para>Laws 1978, LB 373, &#167; 1; </para><para>Laws 1989, LB 94, &#167; 1; </para><para>Laws 1989, LB 681, &#167; 16; </para><para>Laws 1992, LB 269, &#167; 1; </para><para>Laws 2003, LB 217, &#167; 34; </para><para>Laws 2006, LB 876, &#167; 25; </para><para>Laws 2010, LB571, &#167; 8.</para></source><crossreference><para><emphasis>Consumer Rental Purchase Agreement Act,</emphasis> see section 69-2101.</para><para><emphasis>Guaranteed Asset Protection Waiver Act,</emphasis> see section 45-1101.</para></crossreference><annotation><para>Classification made by this section is very comprehensive and covers almost all installment sales. Engelmeyer v. Murphy, 180 Neb. 295, 142 N.W.2d 342 (1966).</para></annotation>  </law>
+<para>(13) Financial institution has the same meaning as in section 8-101;</para>
+<para>(14) Debt cancellation contract means a loan term or contractual arrangement
+modifying loan terms under which a financial institution or licensee agrees to cancel all or part of
+a buyer's obligation to repay an extension of credit from the financial institution or licensee upon the occurrence
+of a specified event. The debt cancellation contract may be separate from
+or a part of other loan documents. The term debt cancellation contract does
+not include loan payment deferral arrangements in which the triggering event
+is the buyer's unilateral election to defer repayment or the financial institution's or licensee's unilateral decision
+to allow a deferral of repayment;</para>
+<para>(15) Debt suspension contract means a loan term or contractual arrangement
+modifying loan terms under which a financial institution or licensee agrees to suspend all or part of
+a buyer's obligation to repay an extension of credit from the financial institution or licensee upon the occurrence
+of a specified event. The debt suspension contract may be separate from or
+a part of other loan documents. The term debt suspension contract does not
+include loan payment deferral arrangements in which the triggering event is
+the buyer's unilateral election to defer repayment or the financial institution's or licensee's unilateral decision
+to allow a deferral of repayment;</para>
+<para>(16) Guaranteed asset protection waiver means a waiver that is offered,
+sold, or provided in accordance with the Guaranteed Asset Protection Waiver
+Act; and</para>
+<para>(17) Licensee means any
+person who obtains a license under the Nebraska Installment Sales Act.</para>
+</amendatorysection></section><source><para>Laws 1965, c. 266, &#167; 1, p. 751; </para><para>Laws 1965, c. 268, &#167; 2, p. 757; </para><para>Laws 1969, c. 379, &#167; 1, p. 1340; </para><para>Laws 1969, c. 380, &#167; 1, p. 1343; </para><para>Laws 1969, c. 381, &#167; 1, p. 1345; </para><para>Laws 1973, LB 455, &#167; 1; </para><para>Laws 1978, LB 373, &#167; 1; </para><para>Laws 1989, LB 94, &#167; 1; </para><para>Laws 1989, LB 681, &#167; 16; </para><para>Laws 1992, LB 269, &#167; 1; </para><para>Laws 2003, LB 217, &#167; 34; </para><para>Laws 2006, LB 876, &#167; 25; </para><para>Laws 2010, LB571, &#167; 8; </para><para>Laws 2011, LB77, &#167; 1.</para><effectivedate>March 11, 2011</effectivedate></source><crossreference><para><emphasis>Consumer Rental Purchase Agreement Act,</emphasis> see section 69-2101.</para><para><emphasis>Guaranteed Asset Protection Waiver Act,</emphasis> see section 45-1101.</para></crossreference><annotation><para>Classification made by this section is very comprehensive and covers almost all installment sales. Engelmeyer v. Murphy, 180 Neb. 295, 142 N.W.2d 342 (1966).</para></annotation>  </law>
 </legaldoc>

@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Agriculture" statutenumber="2-3748"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>2-3748</statuteno><catchline>Commission; members; terms.</catchline><para>(1) The initial term of office for members of the commission shall be as follows: Two district members and one processor shall be appointed for one year; one district member, one processor, and one member at large selected by the commission shall be appointed for two years; and one district member, one processor, and one member at large selected by the commission shall be appointed for three years.</para><para>(2) Except for the persons appointed to the initial commission, the term of a member shall be three years. No member shall serve more than three consecutive three-year terms.</para></amendatorysection></section><source><para>Laws 1987, LB 145, &#167; 14; </para><para>Laws 2003, LB 219, &#167; 2.</para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Agriculture" statutenumber="2-3748"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>2-3748</statuteno><catchline>Commission; members; terms.</catchline>
+
+<para>The term of a member of the commission shall be three years and until his or her successor is appointed
+and qualified. No member shall serve more than three consecutive
+three-year terms.</para>
+</amendatorysection></section><source><para>Laws 1987, LB 145, &#167; 14; </para><para>Laws 2003, LB 219, &#167; 2; </para><para>Laws 2011, LB394, &#167; 4.</para><effectivedate>May 18, 2011</effectivedate></source>  </law>
+</legaldoc>

@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Legislature" statutenumber="50-1107"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>50-1107</statuteno><catchline>District No. 6, description.</catchline><para>District No. 6 shall contain that part of Douglas County beginning at the intersection of North 132nd Street and West Maple Road, south on North 132nd Street to Blondo Street, east on Blondo Street to North 123rd Street, south on North 123rd Street to Decatur Street, west on Decatur Street to North 126th Street, south on North 126th Street to Charles Street, east on Charles Street to Rose Lane, follow Rose Lane south to North 122nd Street, south on North 122nd Street to Burt Street, west on Burt Street to Burt Plaza, west on Burt Plaza to North 124th Court, north on North 124th Court to Burt Court, west on Burt Court to Rose Lane, southwest on Rose Lane to Burt Street, west on Burt Street to the western boundary of Precinct 6-30, follow such boundary south to West Dodge Road, east on West Dodge Road to South 114th Street, south on South 114th Street to Pacific Street, east on Pacific Street to South 80th Street, south on South 80th Street to Woolworth Avenue, east on Woolworth Avenue to South 76th Street, southeast on South 76th Street to Hickory Street, east on Hickory Street to South 72nd Street, north on South 72nd Street to Pacific Street, east on Pacific Street to South 67th Street, north on South 67th Street to Leavenworth Street, west on Leavenworth Street to South 67th Street, north on South 67th Street to Howard Street, west on Howard Street to South 68th Street, north on South 68th Street to Dodge Street, east on Dodge Street to North Happy Hollow Boulevard, northeast on North Happy Hollow Boulevard to Underwood Avenue, east on Underwood Avenue to North 52nd Street, north on North 52nd Street to Western Avenue, west on Western Avenue to North 60th Street, north on North 60th Street to Hamilton Street, west on Hamilton Street to North 72nd Street, north on North 72nd Street to Blondo Street, west on Blondo Street to Big Papillion Creek, north along Big Papillion Creek to West Maple Road, and west on West Maple Road to the point of beginning.</para></amendatorysection></section><source><para>Laws 1981, LB 406, &#167; 7; </para><para>R.S.1943, (1987), &#167; 5-207; </para><para>Laws 1991, LB 614, &#167; 7; </para><para>Laws 2001, LB 852, &#167; 7. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="50-1107">
+				<statuteno>50-1107</statuteno>
+				<catchline>Repealed. Laws 2011, LB 703, &#167; 5.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>May 27, 2011</operativedate></source>
+	</law>
+</legaldoc>

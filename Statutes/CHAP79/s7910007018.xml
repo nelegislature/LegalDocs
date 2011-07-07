@@ -1,84 +1,49 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id23">
-<sectno id="id24">Sec. 9.</sectno><amendatorysection amended="yes" chaptername="Schools" id="id25" publishedsource="CumulativeSupplement" statutenumber="79-1007.18"><bookinfo>Revised Statutes Cumulative Supplement, 2010</bookinfo><statuteno id="id27">79-1007.18</statuteno><catchline id="id28">Averaging
-adjustment; calculation.</catchline><para>(1) For school fiscal
-year 2008-09 and each school fiscal year thereafter, the department shall
-calculate an averaging adjustment for districts if the basic funding per formula
-student is less than the averaging adjustment threshold and the general
-fund levy for the school fiscal year immediately preceding the school fiscal
-year for which aid is being calculated was at least ninety-six cents per one
-hundred dollars of taxable valuation for aid calculated for school fiscal
-year 2008-09 and at least one dollar per one hundred dollars of taxable valuation
-for aid calculated for school fiscal year 2009-10 and each school fiscal year
-thereafter. For school districts that are members of a learning community,
-the general fund levy for purposes of this section includes both the common
-general fund levy and the school district general fund levy authorized pursuant
-to subdivisions (2)(b) and (2)(c) of section 77-3442. The averaging adjustment
-for aid calculated for school fiscal year 2008-09 shall equal seventy-five
-percent of the product of the district's formula students multiplied by the
-percentage specified in subsection
-(4) of this section for such district of the difference between
-the averaging
-adjustment threshold minus such district's basic funding per formula
-student. The averaging adjustment for aid calculated for school fiscal year
-2009-10 and each school fiscal year thereafter shall equal the district's
-formula students multiplied by the percentage specified in this section for
-such district of the difference between the averaging adjustment threshold minus such district's
-basic funding per formula student.</para>
-<para>(2)(a) For
-school fiscal year 2008-09, the averaging adjustment threshold shall equal
-the statewide average basic funding per formula student.</para>
-<para>(b) For school
-fiscal year 2009-10 and each school fiscal year thereafter, the averaging
-adjustment threshold shall equal the lesser of (i) the averaging adjustment
-threshold for the school fiscal year immediately preceding the school fiscal
-year for which aid is being calculated increased by the sum of the basic allowable
+<section id="id165">
+<amendatorysection amended="yes" chaptername="Schools" id="id167" publishedsource="CumulativeSupplement" statutenumber="79-1007.18">
+<bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>79-1007.18</statuteno><catchline id="id170">Averaging
+adjustment; calculation.</catchline><para>(1) The department
+shall calculate an averaging adjustment for districts if the basic funding
+per formula student is less than the averaging adjustment threshold and the
+general fund levy for the school fiscal year immediately preceding the school
+fiscal year for which aid is being calculated was at least one
+dollar per one hundred dollars of taxable valuation. For school districts that are members of a learning
+community, the general fund levy for purposes of this section includes both
+the common general fund levy and the school district general fund levy authorized
+pursuant to subdivisions (2)(b) and (2)(c) of section 77-3442. The averaging
+adjustment shall equal
+the district's formula students multiplied by the percentage specified in
+this section for such district of the difference between the averaging adjustment
+threshold minus such district's basic funding per formula student.</para>
+<para>(2)(a) For school
+fiscal year 2010-11, the averaging adjustment
+threshold shall equal the lesser of (i) the averaging adjustment threshold
+for the school fiscal year immediately preceding the school fiscal year for
+which aid is being calculated increased by the sum of the basic allowable
 growth rate plus five-tenths of one percent or (ii) the statewide average
 basic funding per formula student for the school fiscal year for which aid
-is being calculated.</para><para>(3) The
-percentage to be used in the calculation of an averaging adjustment shall
-be based on the general fund levy for the school fiscal year immediately preceding
-the school fiscal year for which aid is being calculated.</para>
+is being calculated.</para>
+<para>(b) For school
+fiscal year 2011-12, the averaging adjustment threshold shall equal ninety-five
+percent of the lesser of (i) the averaging adjustment threshold for school
+fiscal year 2010-11 increased by the basic allowable growth rate or (ii) the
+statewide average basic funding per formula student for school fiscal year
+2011-12.</para><para>(c) For school fiscal year 2012-13 and each school fiscal year
+thereafter, the averaging adjustment threshold shall equal the lesser of (i)
+the averaging adjustment threshold for the school fiscal year immediately
+preceding the school fiscal year for which aid is being calculated increased
+by the basic allowable growth rate or (ii) the statewide average basic funding
+per formula student for the school fiscal year for which aid is being calculated.</para>
+<para>(3) The percentage to be used in the calculation of an averaging
+adjustment shall be based on the general fund levy for the school fiscal year
+immediately preceding the school fiscal year for which aid is being calculated.</para>
 <para>(4) The percentages to be
-used in the calculation of averaging adjustments for school fiscal year 2008-09
-shall be as follows:</para>
-<para>(a) If such levy was at least ninety-six cents per one hundred
-dollars of taxable valuation but less than ninety-seven cents per one hundred
-dollars of taxable valuation, the percentage shall be ten percent;</para>
-<para>(b) If such levy was at least ninety-seven cents per one hundred
-dollars of taxable valuation but less than ninety-eight cents per one hundred
-dollars of taxable valuation, the percentage shall be twenty percent;</para>
-<para>(c) If such levy was at least ninety-eight cents per one hundred
-dollars of taxable valuation but less than ninety-nine cents per one hundred
-dollars of taxable valuation, the percentage shall be thirty percent;</para>
-<para>(d) If such levy was at least ninety-nine cents per one hundred
-dollars of taxable valuation but less than one dollar per one hundred dollars
-of taxable valuation, the percentage shall be forty percent;</para>
-<para>(e) If such levy was at least one dollar per one hundred dollars
-of taxable valuation but less than one dollar and one cent per one hundred
-dollars of taxable valuation, the percentage shall be fifty percent;</para>
-<para>(f) If such levy was at least one dollar and one cent per
-one hundred dollars of taxable valuation but less than one dollar and two
-cents per one hundred dollars of taxable valuation, the percentage shall be
-sixty percent;</para>
-<para>(g) If such levy was at least one dollar and two cents per
-one hundred dollars of taxable valuation but less than one dollar and three
-cents per one hundred dollars of taxable valuation, the percentage shall be
-seventy percent;</para>
-<para>(h) If such levy was at least one dollar and three cents per
-one hundred dollars of taxable valuation but less than one dollar and four
-cents per one hundred dollars of taxable valuation, the percentage shall be
-eighty percent; and</para>
-<para>(i) If such levy was at least one dollar and four cents per
-one hundred dollars of taxable valuation, the percentage shall be ninety percent.</para>
-<para>(5) The percentages to be
-used in the calculation of averaging adjustments for school fiscal year 2009-10
-and each school fiscal year thereafter shall be as follows:</para>
-<para>(a) If such levy was at least one dollar per one hundred dollars
-of taxable valuation but less than one dollar and one cent per one hundred
-dollars of taxable valuation, the percentage shall be fifty percent;</para>
+used in the calculation of averaging adjustments shall be as follows:</para>
+<para>(a) If such levy was at least one dollar per one hundred
+dollars of taxable valuation but less than one dollar and one cent per one
+hundred dollars of taxable valuation, the percentage shall be fifty percent;</para>
 <para>(b) If such levy was at least one dollar and one cent per
 one hundred dollars of taxable valuation but less than one dollar and two
 cents per one hundred dollars of taxable valuation, the percentage shall be
@@ -87,11 +52,11 @@ sixty percent;</para>
 one hundred dollars of taxable valuation but less than one dollar and three
 cents per one hundred dollars of taxable valuation, the percentage shall be
 seventy percent;</para>
-<para>(d) If such levy was at least one dollar and three cents per
-one hundred dollars of taxable valuation but less than one dollar and four
-cents per one hundred dollars of taxable valuation, the percentage shall be
-eighty percent; and</para>
+<para>(d) If such levy was at least one dollar and three cents
+per one hundred dollars of taxable valuation but less than one dollar and
+four cents per one hundred dollars of taxable valuation, the percentage shall
+be eighty percent; and</para>
 <para>(e) If such levy was at least one dollar and four cents per
 one hundred dollars of taxable valuation, the percentage shall be ninety percent.</para>
-</amendatorysection></section><source><para>Laws 2008, LB988, &#167; 20; </para><para>Laws 2009, LB545, &#167; 9.</para></source>  </law>
+</amendatorysection></section><source><para>Laws 2008, LB988, &#167; 20; </para><para>Laws 2009, LB545, &#167; 9; </para><para>Laws 2011, LB235, &#167; 11.</para><effectivedate>April 27, 2011</effectivedate></source>  </law>
 </legaldoc>

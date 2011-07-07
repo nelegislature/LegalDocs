@@ -1,31 +1,62 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="ucc"><section><sectno></sectno><amendatorysection chaptername="Uniform Commercial Code" statutenumber="9-307">
-<bookinfo>Uniform Commercial Code, Reissue Revised Statutes of Nebraska</bookinfo>
-<statuteno>9-307</statuteno>
-<catchline>Location of debtor.</catchline>
-<para>(a) In this section, "place of business" means a place where a debtor conducts its affairs.</para>
-<para>(b) Except as otherwise provided in this section, the following rules determine a debtor's location:</para>
-<para>(1) A debtor who is an individual is located at the individual's principal residence.</para>
-<para>(2) A debtor that is an organization and has only one place of business is located at its place of business.</para>
-<para>(3) A debtor that is an organization and has more than one place of business is located at its chief executive office.</para>
-<para>(c) Subsection (b) applies only if a debtor's residence, place of business, or chief executive office, as applicable, is located in a jurisdiction whose law generally requires information concerning the existence of a nonpossessory security interest to be made generally available in a filing, recording, or registration system as a condition or result of the security interest's obtaining priority over the rights of a lien creditor with respect to the collateral. If subsection (b) does not apply, the debtor is located in the District of Columbia.</para>
-<para>(d) A person that ceases to exist, have a residence, or have a place of business continues to be located in the jurisdiction specified by subsections (b) and (c).</para>
-<para>(e) A registered organization that is organized under the law of a state is located in that state.</para>
-<para>(f) Except as otherwise provided in subsection (i), a registered organization that is organized under the law of the United States and a branch or agency of a bank that is not organized under the law of the United States or a state are located:</para>
-<para>(1) in the state that the law of the United States designates, if the law designates a state of location;</para>
-<para>(2) in the state that the registered organization, branch, or agency designates, if the law of the United States authorizes the registered organization, branch, or agency to designate its state of location; or</para>
-<para>(3) in the District of Columbia, if neither subdivision (1) nor subdivision (2) applies. </para>
-<para>(g) A registered organization continues to be located in the jurisdiction specified by subsection (e) or (f) notwithstanding:</para>
-<para>(1) the suspension, revocation, forfeiture, or lapse of the registered organization's status as such in its jurisdiction of organization; or</para>
-<para>(2) the dissolution, winding up, or cancellation of the existence of the registered organization.</para>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Uniform Commercial Code" statutenumber="9-307"><bookinfo>Revised Statutes Supplement, 2011</bookinfo>
+<statuteno>9-307</statuteno><catchline>Location of debtor.</catchline><para>(a)
+In this section, "place of business" means a place where a debtor conducts
+its affairs.</para>
+<para>(b) Except as otherwise provided in this section, the following rules
+determine a debtor's location:</para>
+<para>(1) A debtor who is an individual is located at the individual's principal
+residence.</para>
+<para>(2) A debtor that is an organization and has only one place of business
+is located at its place of business.</para>
+<para>(3) A debtor that is an organization and has more than one place of
+business is located at its chief executive office.</para>
+<para>(c) Subsection (b) applies only if a debtor's residence, place of business,
+or chief executive office, as applicable, is located in a jurisdiction whose
+law generally requires information concerning the existence of a nonpossessory
+security interest to be made generally available in a filing, recording, or
+registration system as a condition or result of the security interest's obtaining
+priority over the rights of a lien creditor with respect to the collateral.
+If subsection (b) does not apply, the debtor is located in the District of
+Columbia.</para>
+<para>(d) A person that ceases to exist, have a residence, or have a place
+of business continues to be located in the jurisdiction specified by subsections
+(b) and (c).</para>
+<para>(e) A registered organization that is organized under the law of a state
+is located in that state.</para>
+<para>(f) Except as otherwise provided in subsection (i), a registered organization
+that is organized under the law of the United States and a branch or agency
+of a bank that is not organized under the law of the United States or a state
+are located:</para>
+<para>(1) in the state that the law of the United States designates, if the
+law designates a state of location;</para>
+<para>(2) in the state that the registered organization, branch, or agency
+designates, if the law of the United States authorizes the registered organization,
+branch, or agency to designate its state of location, including by designating its main office, home office,
+or other comparable office; or</para>
+<para>(3) in the District of Columbia, if neither subdivision (1) nor subdivision
+(2) applies.</para>
+<para>(g) A registered organization continues to be located in the jurisdiction
+specified by subsection (e) or (f) notwithstanding:</para>
+<para>(1) the suspension, revocation, forfeiture, or lapse of the registered
+organization's status as such in its jurisdiction of organization; or</para>
+<para>(2) the dissolution, winding up, or cancellation of the existence of
+the registered organization.</para>
 <para>(h) The United States is located in the District of Columbia.</para>
-<para>(i) A branch or agency of a bank that is not organized under the law of the United States or a state is located in the state in which the branch or agency is licensed, if all branches and agencies of the bank are licensed in only one state.</para>
-<para>(j) A foreign air carrier under the Federal Aviation Act of 1958, as amended, is located at the designated office of the agent upon which service of process may be made on behalf of the carrier.</para>
+<para>(i) A branch or agency of a bank that is not organized under the law
+of the United States or a state is located in the state in which the branch
+or agency is licensed, if all branches and agencies of the bank are licensed
+in only one state.</para>
+<para>(j) A foreign air carrier under the Federal Aviation Act of 1958, as
+amended, is located at the designated office of the agent upon which service
+of process may be made on behalf of the carrier.</para>
 <para>(k) This section applies only for purposes of this part.</para>
-</amendatorysection></section>
-<source>
-<para>Laws 1999, LB 550, &#167; 100.</para>
-</source>
-<annotation>
+</amendatorysection></section><source>
+<para>Laws 1999, LB 550, § 100; </para>
+<para>Laws 2011, LB90, §  5.</para><operativedate>July 1, 2013</operativedate></source><annotation>
 <para><emphasis>COMMENT</emphasis></para>
 <para><emphasis>1. Source.</emphasis> Former section 9-103(3)(d), substantially revised.</para>
 <para><emphasis>2. General Rules.</emphasis> As a general matter, the location of the debtor determines the jurisdiction whose law governs perfection of a security interest. See sections 9-301(1) and 9-305(c). It also governs priority of a security interest in certain types of intangible collateral, such as accounts, electronic chattel paper, and general intangibles. This section determines the location of the debtor for choice of law purposes, but not for other purposes. See subsection (k).</para>
@@ -36,12 +67,13 @@
 <para>The general rule is subject to several exceptions, each of which is discussed below.</para>
 <para><emphasis>3. Non-U.S. Debtors.</emphasis> Under the general rules of this section, a non-U.S. debtor normally would be located in a foreign jurisdiction and, as a consequence, foreign law would govern perfection. When foreign law affords no public notice of security interests, the general rule yields unacceptable results.</para>
 <para>Accordingly, subsection (c) provides that the normal rules for determining the location of a debtor (i.e., the rules in subsection (b)) apply only if they yield a location that is "a jurisdiction whose law generally requires information concerning the existence of a nonpossessory security interest to be made generally available in a filing, recording, or registration system as a condition or result of the security interest's obtaining priority over the rights of a lien creditor with respect to the collateral". The phrase "generally requires" is meant to include legal regimes that generally require notice in a filing or recording system as a condition of perfecting nonpossessory security interests, but which permit perfection by another method (e.g., control, automatic perfection, temporary perfection) in limited circumstances. A jurisdiction that has adopted this article or an earlier version of this article is such a jurisdiction. If the rules in subsection (b) yield a jurisdiction whose law does not generally require notice in a filing or registration system, the debtor is located in the District of Columbia.</para>
-<para><emphasis>Example 1:</emphasis> Debtor is an English corporation with 7 offices in the United States and its chief executive office in London, England. Debtor creates a security interest in its accounts. Under subsection (b)(3), Debtor would be located in England. However, subsection (c) provides that subsection (b) applies only if English law generally conditions perfection on giving public notice in a filing, recording, or registration system. Otherwise, Debtor is located in the District of Columbia. Under section 9-301(1), perfection, the effect of perfection, and priority are governed by the law of the jurisdiction of the debtor's location &#8212; here, England or the District of Columbia (depending on the content of English law).</para>
-<para><emphasis>Example 2:</emphasis> Debtor is an English corporation with 7 offices in the United States and its chief executive office in London, England. Debtor creates a security interest in equipment located in London. Under subsection (b)(3) Debtor would be located in England. However, subsection (c) provides that subsection (b) applies only if English law generally conditions perfection on giving public notice in a filing, recording, or registration system. Otherwise, Debtor is located in the District of Columbia. Under section 9-301(1), perfection is governed by the law of the jurisdiction of the debtor's location, whereas, under section 9-301(3), the law of the jurisdiction in which the collateral is located &#8212; here, England &#8212; governs priority.</para>
+<para><emphasis>Example 1:</emphasis> Debtor is an English corporation with 7 offices in the United States and its chief executive office in London, England. Debtor creates a security interest in its accounts. Under subsection (b)(3), Debtor would be located in England. However, subsection (c) provides that subsection (b) applies only if English law generally conditions perfection on giving public notice in a filing, recording, or registration system. Otherwise, Debtor is located in the District of Columbia. Under section 9-301(1), perfection, the effect of perfection, and priority are governed by the law of the jurisdiction of the debtor's location — here, England or the District of Columbia (depending on the content of English law).</para>
+<para><emphasis>Example 2:</emphasis> Debtor is an English corporation with 7 offices in the United States and its chief executive office in London, England. Debtor creates a security interest in equipment located in London. Under subsection (b)(3) Debtor would be located in England. However, subsection (c) provides that subsection (b) applies only if English law generally conditions perfection on giving public notice in a filing, recording, or registration system. Otherwise, Debtor is located in the District of Columbia. Under section 9-301(1), perfection is governed by the law of the jurisdiction of the debtor's location, whereas, under section 9-301(3), the law of the jurisdiction in which the collateral is located — here, England — governs priority.</para>
 <para>The foregoing discussion assumes that each transaction bears an appropriate relation to the forum state. In the absence of an appropriate relation, the forum state's entire UCC, including the choice of law provisions in article 9 (sections 9-301 through 9-307), will not apply. See section 9-109, comment 9.</para>
 <para><emphasis>4. Registered Organizations Organized Under Law of a State.</emphasis> Under subsection (e), a registered organization (e.g., a corporation or limited partnership) organized under the law of a "state" (defined in section 9-102) is located in its state of organization. Subsection (g) makes clear that events affecting the status of a registered organization, such as the dissolution of a corporation or revocation of its charter, do not affect its location for purposes of subsection (e). However, certain of these events may result in, or be accompanied by, a transfer of collateral from the registered organization to another debtor. This section does not determine whether a transfer occurs, nor does it determine the legal consequences of any transfer.</para>
-<para>Determining the registered organization-debtor's location by reference to the jurisdiction of organization could provide some important side benefits for the filing systems. A jurisdiction could structure its filing system so that it would be impossible to make a mistake in a registered organization-debtor's name on a financing statement. For example, a filer would be informed if a filed record designated an incorrect corporate name for the debtor. Linking filing to the jurisdiction of organization also could reduce pressure on the system imposed by transactions in which registered organizations cease to exist &#8212; as a consequence of merger or consolidation, for example. The jurisdiction of organization might prohibit such transactions unless steps were taken to ensure that existing filings were refiled against a successor or terminated by the secured party.</para>
+<para>Determining the registered organization-debtor's location by reference to the jurisdiction of organization could provide some important side benefits for the filing systems. A jurisdiction could structure its filing system so that it would be impossible to make a mistake in a registered organization-debtor's name on a financing statement. For example, a filer would be informed if a filed record designated an incorrect corporate name for the debtor. Linking filing to the jurisdiction of organization also could reduce pressure on the system imposed by transactions in which registered organizations cease to exist — as a consequence of merger or consolidation, for example. The jurisdiction of organization might prohibit such transactions unless steps were taken to ensure that existing filings were refiled against a successor or terminated by the secured party.</para>
 <para><emphasis>5. Registered Organizations Organized Under Law of United States; Branches and Agencies of Banks Not Organized Under Law of United States.</emphasis> Subsection (f) specifies the location of a debtor that is a registered organization organized under the law of the United States. It defers to law of the United States, to the extent that that law determines, or authorizes the debtor to determine, the debtor's location. Thus, if the law of the United States designates a particular state as the debtor's location, that state is the debtor's location for purposes of this article's choice of law rules. Similarly, if the law of the United States authorizes the registered organization to designate its state of location, the state that the registered organization designates is the state in which it is located for purposes of this article's choice of law rules. In other cases, the debtor is located in the District of Columbia.</para>
 <para>Subsection (f) also determines the location of branches and agencies of banks that are not organized under the law of the United States or a state. However, if all the branches and agencies of the bank are licensed only in one state, then they are located in that state. See subsection (i).</para>
 <para><emphasis>6. United States.</emphasis> To the extent that article 9 governs (see sections 1-105 and 9-109(c)), the United States is located in the District of Columbia for purposes of this article's choice of law rules. See subsection (h).</para>
-<para><emphasis>7. Foreign Air Carriers.</emphasis> Subsection (j) follows former section 9-103(3)(d). To the extent that it is applicable, the Convention on the International Recognition of Rights in Aircraft (Geneva Convention) supersedes state legislation on this subject, as set forth in section 9-311(b), but some nations are not parties to that convention.</para></annotation></law></legaldoc>
+<para><emphasis>7. Foreign Air Carriers.</emphasis> Subsection (j) follows former section 9-103(3)(d). To the extent that it is applicable, the Convention on the International Recognition of Rights in Aircraft (Geneva Convention) supersedes state legislation on this subject, as set forth in section 9-311(b), but some nations are not parties to that convention.</para></annotation>  </law>
+</legaldoc>

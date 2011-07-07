@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN"
- "legaldoc.dtd">
-<legaldoc><law type="ucc">
-<section><sectno></sectno>
-<amendatorysection chaptername="Uniform Commercial Code" statutenumber="9-102">
-<bookinfo>Uniform Commercial Code, Revised Statutes Cumulative Supplement, 2010</bookinfo>
-<statuteno>9-102</statuteno>
-<catchline>Definitions and index of definitions.</catchline>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Uniform Commercial Code" statutenumber="9-102"><bookinfo>Revised Statutes Supplement, 2011</bookinfo>
+<statuteno>9-102</statuteno><catchline>Definitions and index of definitions.</catchline>
 <para>(a) In this article:</para>
 <para>(1) "Accession" means goods that are physically united with other goods
 in such a manner that the identity of the original goods is not lost.</para>
@@ -14,11 +11,11 @@ in such a manner that the identity of the original goods is not lost.</para>
 of a monetary obligation, whether or not earned by performance, (i) for property
 that has been or is to be sold, leased, licensed, assigned, or otherwise disposed
 of, (ii) for services rendered or to be rendered, (iii) for a policy of insurance
-issued or to be issued, (iv) for a secondary obligation incurred or to be 
-incurred, (v) for energy provided or to be provided, (vi) for the use or hire
-of a vessel under a charter or other contract, (vii) arising out of the use
-of a credit or charge card or information contained on or for use with the
-card, or (viii) as winnings in a lottery or other game of chance operated
+issued or to be issued, (iv) for a secondary obligation incurred or to be
+ incurred, (v) for energy provided or to be provided, (vi) for the use or
+hire of a vessel under a charter or other contract, (vii) arising out of the
+use of a credit or charge card or information contained on or for use with
+the card, or (viii) as winnings in a lottery or other game of chance operated
 or sponsored by a state, governmental unit of a state, or person licensed
 or authorized to operate the game by a state or governmental unit of a state.
 The term includes health-care-insurance receivables. The term does not include
@@ -37,8 +34,7 @@ chattel paper.</para>
 not more than thirty-five days earlier or thirty-five days later than the
 date of the record; and</para>
 <para>(C) identifying the components of the obligations in reasonable detail.</para>
-<para>(5) "Agricultural lien" means an interest, other than a security interest,
-in farm products:</para>
+<para>(5) "Agricultural lien" means an interest in farm products:</para>
 <para>(A) which secures payment or performance of an obligation for:</para>
 <para>(i) goods or services furnished in connection with a debtor's farming
 operation; or</para>
@@ -64,18 +60,22 @@ extraction; and</para>
 oil, gas, or other minerals in which the debtor had an interest before extraction.</para>
 <para>(7) "Authenticate" means:</para>
 <para>(A) to sign; or</para>
-<para>(B) to execute or otherwise adopt a symbol, or encrypt or similarly
-process a record in whole or in part, with the present intent of the authenticating
-person to identify the person and adopt or accept a record.</para>
-<para>(8) "Bank" means an organization that is engaged in the business of
-banking. The term includes savings banks, savings and loan associations, credit
-unions, and trust companies.</para>
+<para>(B) with present intent to adopt or accept a record,
+to attach to or logically associate with the record an electronic sound, symbol,
+or process.</para><para>(8) "Bank" means an organization that
+is engaged in the business of banking. The term includes savings banks, savings
+and loan associations, credit unions, and trust companies.</para>
 <para>(9) "Cash proceeds" means proceeds that are money, checks, deposit accounts,
 or the like.</para>
 <para>(10) "Certificate of title" means a certificate of title with respect
 to which a statute provides for the security interest in question to be indicated
 on the certificate as a condition or result of the security interest's obtaining
-priority over the rights of a lien creditor with respect to the collateral.</para>
+priority over the rights of a lien creditor with respect to the collateral. The term includes another record maintained
+as an alternative to a certificate of title by the governmental unit that
+issues certificates of title if a statute permits the security interest in
+question to be indicated on the record as a condition or result of the security
+interest's obtaining priority over the rights of a lien creditor with respect
+to the collateral.</para>
 <para>(11) "Chattel paper" means a record or records that evidence both a
 monetary obligation and a security interest in specific goods, a security
 interest in specific goods and software used in the goods, a security interest
@@ -125,7 +125,7 @@ pursuant to federal commodities law.</para>
 <para>(B) to transmit a record by any means agreed upon by the persons sending
 and receiving the record; or</para>
 <para>(C) in the case of transmission of a record to or by a filing office,
-to transmit a record by any means prescribed by filing-office rule. </para>
+to transmit a record by any means prescribed by filing-office rule.</para>
 <para>(19) "Consignee" means a merchant to which goods are delivered in a
 consignment.</para>
 <para>(20) "Consignment" means a transaction, regardless of its form, in which
@@ -184,7 +184,7 @@ consumer goods.</para>
 <para>(34) "Farm products" means goods, other than standing timber, with respect
 to which the debtor is engaged in a farming operation and which are:</para>
 <para>(A) crops grown, growing, or to be grown, including:</para>
-<para>(i) crops produced on trees, vines, and bushes; and </para>
+<para>(i) crops produced on trees, vines, and bushes; and</para>
 <para>(ii) aquatic goods produced in aquacultural operations;</para>
 <para>(B) livestock, born or unborn, including aquatic goods produced in aquacultural
 operations;</para>
@@ -236,7 +236,8 @@ on which interest is exempt from income taxation under the laws of the United
 States.</para>
 <para>(46) "Health-care-insurance receivable" means an interest in or claim
 under a policy of insurance which is a right to payment of a monetary obligation
-for health-care goods or services provided.</para>
+for health-care goods or services provided or
+to be provided.</para>
 <para>(47) "Instrument" means a negotiable instrument or any other writing
 that evidences a right to the payment of a monetary obligation, is not itself
 a security agreement or lease, and is of a type that in ordinary course of
@@ -258,7 +259,7 @@ consumed in a business.</para>
 uncertificated, security entitlement, securities account, commodity contract,
 or commodity account.</para>
 <para>(50) "Jurisdiction of organization", with respect to a registered organization,
-means the jurisdiction under whose law the organization is organized.</para>
+means the jurisdiction under whose law the organization is formed or organized.</para>
 <para>(51) "Letter-of-credit right" means a right to payment or performance
 under a letter of credit, whether or not the beneficiary has demanded or is
 at the time entitled to demand payment or performance. The term does not include
@@ -359,25 +360,45 @@ maturity of at least twenty years; and</para>
 obligated on collateral, assignor or assignee of a secured obligation, or
 assignor or assignee of a security interest is a state or a governmental unit
 of a state.</para>
-<para>(68) "Pursuant to commitment", with respect to an advance made or other
-value given by a secured party, means pursuant to the secured party's obligation,
-whether or not a subsequent event of default or other event not within the
-secured party's control has relieved or may relieve the secured party from
-its obligation.</para>
-<para>(69) "Record", except as used in "for record", "of record", "record
-or legal title", and "record owner", means information that is inscribed on
-a tangible medium or which is stored in an electronic or other medium and
-is retrievable in perceivable form.</para>
-<para>(70) "Registered organization" means an organization organized solely
-under the law of a single state or the United States and as to which the state
-or the United States must maintain a public record showing the organization
-to have been organized.</para>
-<para>(71) "Secondary obligor" means an obligor to the extent that:</para>
+<para>(68) "Public organic
+record" means a record that is available to the public for inspection and
+is:</para><para>(A)
+a record consisting of the record initially filed with or issued by a state
+or the United States to form or organize an organization and any record filed
+with or issued by the state or the United States which amends or restates
+the initial record;</para><para>(B)
+an organic record of a business trust consisting of the record initially filed
+with a state and any record filed with the state which amends or restates
+the initial record, if a statute of the state governing business trusts requires
+that the record be filed with the state; or</para><para>(C) a record consisting of legislation enacted by
+the legislature of a state or the Congress of the United States which forms
+or organizes an organization, any record amending the legislation, and any
+record filed with or issued by the state or United States which amends or
+restates the name of the organization.</para><para>(69) "Pursuant to commitment", with respect
+to an advance made or other value given by a secured party, means pursuant
+to the secured party's obligation, whether or not a subsequent event of default
+or other event not within the secured party's control has relieved or may
+relieve the secured party from its obligation.</para>
+<para>(70) "Record", except as used
+in "for record", "of record", "record or legal title", and "record owner",
+means information that is inscribed on a tangible medium or which is stored
+in an electronic or other medium and is retrievable in perceivable form.</para>
+<para>(71) "Registered organization"
+means an organization formed
+or organized solely under the law of a single state or the United
+States by
+the filing of a public organic record with, the issuance of a public organic
+record by, or the enactment of legislation by the state or the United States.
+The term includes a business trust that is formed or organized under the law
+of a single state if a statute of the state governing business trusts requires
+that the business trust's organic record be filed with the state.</para>
+<para>(72) "Secondary obligor" means
+an obligor to the extent that:</para>
 <para>(A) the obligor's obligation is secondary; or</para>
 <para>(B) the obligor has a right of recourse with respect to an obligation
 secured by collateral against the debtor, another obligor, or property of
 either.</para>
-<para>(72) "Secured party" means:</para>
+<para>(73) "Secured party" means:</para>
 <para>(A) a person in whose favor a security interest is created or provided
 for under a security agreement, whether or not any obligation to be secured
 is outstanding;</para>
@@ -390,35 +411,39 @@ representative in whose favor a security interest or agricultural lien is
 created or provided for; or</para>
 <para>(F) a person that holds a security interest arising under section 2-401,
 2-505, 2-711(3), 2A-508(5), 4-210, or 5-118.</para>
-<para>(73) "Security agreement" means an agreement that creates or provides
-for a security interest.</para>
-<para>(74) "Send", in connection with a record or notification, means:</para>
+<para>(74) "Security agreement"
+means an agreement that creates or provides for a security interest.</para>
+<para>(75) "Send", in connection
+with a record or notification, means:</para>
 <para>(A) to deposit in the mail, deliver for transmission, or transmit by
 any other usual means of communication, with postage or cost of transmission
 provided for, addressed to any address reasonable under the circumstances;
 or</para>
 <para>(B) to cause the record or notification to be received within the time
 that it would have been received if properly sent under subdivision (A).</para>
-<para>(75) "Software" means a computer program and any supporting information
-provided in connection with a transaction relating to the program. The term
-does not include a computer program that is included in the definition of
-goods.</para>
-<para>(76) "State" means a state of the United States, the District of Columbia,
-Puerto Rico, the United States Virgin Islands, or any territory or insular
-possession subject to the jurisdiction of the United States.</para>
-<para>(77) "Supporting obligation" means a letter-of-credit right or secondary
-obligation that supports the payment or performance of an account, chattel
-paper, a document, a general intangible, an instrument, or investment property.</para>
-<para>(78) "Tangible chattel paper" means chattel paper evidenced by a record
-or records consisting of information that is inscribed on a tangible medium.</para>
-<para>(79) "Termination statement" means an amendment of a financing statement
-which:</para>
+<para>(76) "Software" means a computer
+program and any supporting information provided in connection with a transaction
+relating to the program. The term does not include a computer program that
+is included in the definition of goods.</para>
+<para>(77) "State" means a state
+of the United States, the District of Columbia, Puerto Rico, the United States
+Virgin Islands, or any territory or insular possession subject to the jurisdiction
+of the United States.</para>
+<para>(78) "Supporting obligation"
+means a letter-of-credit right or secondary obligation that supports the payment
+or performance of an account, chattel paper, a document, a general intangible,
+an instrument, or investment property.</para>
+<para>(79) "Tangible chattel paper"
+means chattel paper evidenced by a record or records consisting of information
+that is inscribed on a tangible medium.</para>
+<para>(80) "Termination statement"
+means an amendment of a financing statement which:</para>
 <para>(A) identifies, by its file number, the initial financing statement
 to which it relates; and</para>
 <para>(B) indicates either that it is a termination statement or that the
 identified financing statement is no longer effective.</para>
-<para>(80) "Transmitting utility" means a person primarily engaged in the
-business of:</para>
+<para>(81) "Transmitting utility"
+means a person primarily engaged in the business of:</para>
 <para>(A) operating a railroad, subway, street railway, or trolley bus;</para>
 <para>(B) transmitting communications electrically, electromagnetically, or
 by light;</para>
@@ -430,210 +455,210 @@ in other articles apply to this article:</para>
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec colname="col1" colwidth="1.02*"/><colspec colname="col3" colwidth="0.65*"/>
+<colspec colname="col1" colwidth="1.02" /><colspec colname="col3" colwidth="0.65" />
 <tbody>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Applicant".</entry>
 <entry colsep="0" rowsep="0">Section 5-102.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Beneficiary".</entry>
 <entry colsep="0" rowsep="0">Section 5-102.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Broker".</entry>
 <entry colsep="0" rowsep="0">Section 8-102.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Certificated security".</entry>
 <entry colsep="0" rowsep="0">Section 8-102.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Check".</entry>
 <entry colsep="0" rowsep="0">Section 3-104.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Clearing corporation".</entry>
 <entry colsep="0" rowsep="0">Section 8-102.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Contract for sale".</entry>
 <entry colsep="0" rowsep="0">Section 2-106.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Customer".</entry>
 <entry colsep="0" rowsep="0">Section 4-104.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Entitlement holder".</entry>
 <entry colsep="0" rowsep="0">Section 8-102.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Financial asset".</entry>
 <entry colsep="0" rowsep="0">Section 8-102.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Holder in due course".</entry>
 <entry colsep="0" rowsep="0">Section 3-302.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Issuer" (with respect to</entry>
-<entry colsep="0" rowsep="0"></entry>
+<entry colsep="0" rowsep="0" />
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0"> a letter of credit or</entry>
-<entry colsep="0" rowsep="0"></entry>
+<entry colsep="0" rowsep="0" />
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0"> letter-of-credit right).</entry>
 <entry colsep="0" rowsep="0">Section 5-102.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Issuer" (with respect to</entry>
-<entry colsep="0" rowsep="0"></entry>
+<entry colsep="0" rowsep="0" />
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0"> a security).</entry>
 <entry colsep="0" rowsep="0">Section 8-201.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Issuer" (with respect to</entry>
-<entry colsep="0" rowsep="0"></entry>
+<entry colsep="0" rowsep="0" />
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0"> documents of title).</entry>
+<?PubTbl row rht="0.31in"?>
+<entry colsep="0" rowsep="0"> a document of title).</entry>
 <entry colsep="0" rowsep="0">Section 7-102.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Lease".</entry>
 <entry colsep="0" rowsep="0">Section 2A-103.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Lease agreement".</entry>
 <entry colsep="0" rowsep="0">Section 2A-103.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Lease contract".</entry>
 <entry colsep="0" rowsep="0">Section 2A-103.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Leasehold interest".</entry>
 <entry colsep="0" rowsep="0">Section 2A-103.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Lessee".</entry>
 <entry colsep="0" rowsep="0">Section 2A-103.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Lessee in ordinary course</entry>
-<entry colsep="0" rowsep="0"></entry>
+<entry colsep="0" rowsep="0" />
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0"> of business".</entry>
 <entry colsep="0" rowsep="0">Section 2A-103.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Lessor".</entry>
 <entry colsep="0" rowsep="0">Section 2A-103.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Lessor's residual interest".</entry>
 <entry colsep="0" rowsep="0">Section 2A-103.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Letter of credit".</entry>
 <entry colsep="0" rowsep="0">Section 5-102.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Merchant".</entry>
 <entry colsep="0" rowsep="0">Section 2-104.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Negotiable instrument".</entry>
 <entry colsep="0" rowsep="0">Section 3-104.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Nominated person".</entry>
 <entry colsep="0" rowsep="0">Section 5-102.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Note".</entry>
 <entry colsep="0" rowsep="0">Section 3-104.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Proceeds of a letter of credit".</entry>
 <entry colsep="0" rowsep="0">Section 5-114.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Prove".</entry>
 <entry colsep="0" rowsep="0">Section 3-103.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Sale".</entry>
 <entry colsep="0" rowsep="0">Section 2-106.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Securities account".</entry>
 <entry colsep="0" rowsep="0">Section 8-501.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Securities intermediary".</entry>
 <entry colsep="0" rowsep="0">Section 8-102.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Security".</entry>
 <entry colsep="0" rowsep="0">Section 8-102.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Security certificate".</entry>
 <entry colsep="0" rowsep="0">Section 8-102.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Security entitlement".</entry>
 <entry colsep="0" rowsep="0">Section 8-102.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Uncertificated security".</entry>
 <entry colsep="0" rowsep="0">Section 8-102.</entry>
 </row>
@@ -641,15 +666,13 @@ in other articles apply to this article:</para>
 </tgroup>
 </table></para>
 <para>(c) Article 1 contains general definitions and principles of construction
-and interpretation applicable throughout this article.</para></amendatorysection>
-</section>
-<source>
-<para>Laws 1999, LB 550, &#167; 75; </para>
-<para>Laws 2000, LB 929, &#167; 25; </para>
-<para>Laws 2001, LB 54, &#167; 28; </para>
-<para>Laws 2005, LB 570, &#167; 101.</para>
-</source>
-<annotation>
+and interpretation applicable throughout this article.</para>
+</amendatorysection></section><source>
+<para>Laws 1999, LB 550, § 75; </para>
+<para>Laws 2000, LB 929, § 25; </para>
+<para>Laws 2001, LB 54, § 28; </para>
+<para>Laws 2005, LB 570, § 101; </para>
+<para>Laws 2011, LB90, §  2.</para><operativedate>July 1, 2013</operativedate></source><annotation>
 <para><emphasis>COMMENT</emphasis></para>
 <para><emphasis>1. Source.</emphasis> All terms that are defined in article 9 and used in more than one section
 are consolidated in this section. Note that the definition of "security interest"
@@ -745,7 +768,7 @@ proceeds subject to a security interest. It also reflects the broadened scope
 of the article. It includes property subject to an agricultural lien as well
 as payment intangibles and promissory notes that have been sold.</para>
 <para><emphasis>b. "Security Agreement".</emphasis> The definition of "security agreement" is substantially the same as
-under former section 9-105 &#8212; an agreement that creates or provides for a security interest. However, the
+under former section 9-105 — an agreement that creates or provides for a security interest. However, the
 term frequently was used colloquially in former article 9 to refer to the
 document or writing that contained a debtor's security agreement. This article
 eliminates that usage, reserving the term for the more precise meaning specified
@@ -757,15 +780,15 @@ of "security interest" in section 1-201. Thus, an agreement that the parties
 characterize as a "lease" of goods may be a "security agreement", notwithstanding
 the parties' stated intention that the law treat the transaction as a lease
 and not as a secured transaction. See section 1-203.</para>
-<para><emphasis>4. Goods &#8212; Related Definitions.</emphasis></para>
+<para><emphasis>4. Goods — Related Definitions.</emphasis></para>
 <para><emphasis>a. "Goods"; "Consumer Goods"; "Equipment"; "Farm Products"; "Farming
 Operation"; "Inventory".</emphasis> The definition of "goods" is substantially the same
 as the definition in former section 9-105. This article also retains the four
 mutually-exclusive "types" of collateral that consist of goods: "Consumer goods"; "equipment"; "farm products"; and "inventory". The
 revisions are primarily for clarification.</para>
 <para>The classes of goods are mutually exclusive. For example, the same property
-cannot simultaneously be both equipment and inventory. In borderline cases &#8212; a physician's car or a farmer's
-truck that might be either consumer goods or equipment &#8212; the principal use to which the property is put is determinative. Goods can
+cannot simultaneously be both equipment and inventory. In borderline cases — a physician's car or a farmer's
+truck that might be either consumer goods or equipment — the principal use to which the property is put is determinative. Goods can
 fall into different classes at different times. For example, a radio may be
 inventory in the hands of a dealer and consumer goods in the hands of a consumer.
 As under former article 9, goods are "equipment" if they do not fall into
@@ -802,8 +825,8 @@ inventory. Products of crops or livestock, even though they remain in the
 possession of a person engaged in farming operations, lose their status as
 farm products if they are subjected to a manufacturing process. What is and
 what is not a manufacturing operation is not specified in this article. At
-one end of the spectrum, some processes are so closely connected with farming &#8212; such as pasteurizing milk
-or boiling sap to produce maple syrup or sugar &#8212;  that they would not constitute manufacturing. On the other hand an extensive
+one end of the spectrum, some processes are so closely connected with farming — such as pasteurizing milk
+or boiling sap to produce maple syrup or sugar —  that they would not constitute manufacturing. On the other hand an extensive
 canning operation would be manufacturing. Once farm products have been subjected
 to a manufacturing operation, they normally become inventory.</para>
 <para>The revised definition of "farm products" clarifies the distinction
@@ -862,7 +885,7 @@ interest in the oil to Bank. Although Bank's security interest attaches when
 the oil is extracted, Bank's security interest is not in "as-extracted collateral",
 inasmuch as its debtor, Buyer, did not have an interest in the oil before
 extraction.</para>
-<para><emphasis>5. Receivables &#8212; Related Definitions.</emphasis></para>
+<para><emphasis>5. Receivables — Related Definitions.</emphasis></para>
 <para><emphasis>a. "Account"; "Health-Care-Insurance Receivable"; "As-Extracted Collateral".</emphasis> The definition of "account" has been expanded and reformulated. It is no longer
 limited to rights to payment relating to goods or services. Many categories
 of rights to payment that were classified as general intangibles under former
@@ -1036,7 +1059,7 @@ programs. Depending on the nature of a right under a program, it could be
 an account, a payment intangible, a general intangible other than a payment
 intangible, or another type of collateral. The right also might be proceeds
 of collateral (e.g., crops).</para>
-<para><emphasis>6. Investment-Property &#8212; Related Definitions: "Commodity Account"; "Commodity Contract"; "Commodity
+<para><emphasis>6. Investment-Property — Related Definitions: "Commodity Account"; "Commodity Contract"; "Commodity
 Customer"; "Commodity Intermediary"; "Investment Property".</emphasis> These definitions
 are substantially the same as the corresponding definitions in former section
 9-115. "Investment property" includes securities, both certificated and uncertificated,
@@ -1131,7 +1154,7 @@ the firm may need to borrow funds temporarily to make the earlier payment.
 The rules on security interests in investment property would facilitate the
 use of positions in one market as collateral for loans needed to cover obligations
 in the other market.</para>
-<para><emphasis>7. Consumer &#8212; Related Definitions: "Consumer Debtor"; "Consumer Goods"; "Consumer-goods
+<para><emphasis>7. Consumer — Related Definitions: "Consumer Debtor"; "Consumer Goods"; "Consumer-goods
 transaction"; "Consumer Obligor"; "Consumer Transaction".</emphasis> The definition
 of "consumer goods" (discussed above) is substantially the same as the definition
 in former section 9-109. The definitions of "consumer debtor", "consumer obligor",
@@ -1153,7 +1176,7 @@ case of a consumer transaction. The fact that some of the obligations secured
 or some of the collateral for the obligation does not satisfy the tests (e.g.,
 some of the collateral is acquired for a business purpose) does not prevent
 a transaction from being a "consumer transaction" or "consumer-goods transaction".</para>
-<para><emphasis>8. Filing &#8212; Related Definitions: "Continuation Statement"; "File Number"; "Filing Office";
+<para><emphasis>8. Filing — Related Definitions: "Continuation Statement"; "File Number"; "Filing Office";
 "Filing-Office Rule"; "Financing Statement"; "Fixture Filing"; "Manufactured-Home
 Transaction"; "New Debtor"; "Original Debtor"; "Public-Finance Transaction";
 "Termination Statement"; "Transmitting Utility".</emphasis> These definitions are used
@@ -1224,7 +1247,7 @@ of "send" replaces, for purposes of this article, the corresponding term in
 section 1-201. The reference to "usual means of communication" in that definition
 contemplates an inquiry into the appropriateness of the method of transmission
 used in the particular circumstances involved.</para>
-<para><emphasis>10. Scope &#8212; Related Definitions.</emphasis></para>
+<para><emphasis>10. Scope — Related Definitions.</emphasis></para>
 <para><emphasis>a. Expanded Scope of Article: "Agricultural Lien"; "Consignment"; "Payment
 Intangible"; "Promissory Note".</emphasis> These new definitions reflect the expanded
 scope of article 9, as provided in section 9-109(a).</para>
@@ -1232,7 +1255,7 @@ scope of article 9, as provided in section 9-109(a).</para>
 Tort Claims".</emphasis> These new definitions reflect the reduced scope of the exclusions,
 provided in section 9-109(c) and (d), of transfers by governmental debtors
 and assignments of interests in insurance policies and commercial tort claims.</para>
-<para><emphasis>11. Choice-of-Law &#8212; Related Definitions: "Certificate of Title"; "Governmental Unit"; "Jurisdiction
+<para><emphasis>11. Choice-of-Law — Related Definitions: "Certificate of Title"; "Governmental Unit"; "Jurisdiction
 of Organization"; "Registered Organization"; "State".</emphasis> These new definitions
 reflect the changes in the law governing perfection and priority of security
 interests and agricultural liens provided in part 3, subpart 1.</para>
@@ -1244,7 +1267,7 @@ of partnership authority under section 303 of the Uniform Partnership Act
 whose law the partnership is organized is not required to maintain a public
 record showing that the partnership has been organized. In contrast, corporations,
 limited liability companies, and limited partnerships are "registered organizations".</para>
-<para><emphasis>12. Deposit-Account &#8212; Related Definitions: "Deposit Account"; "Bank".</emphasis> The revised definition of
+<para><emphasis>12. Deposit-Account — Related Definitions: "Deposit Account"; "Bank".</emphasis> The revised definition of
 "deposit account" incorporates the definition of "bank", which is new. The
 definition derives from the definitions of "bank" in sections 4-105(1) and
 4A-105(a)(2), which focus on whether the organization is "engaged in the business
@@ -1269,7 +1292,7 @@ and the special priority rules applicable to deposit accounts (see sections
 as securities and security entitlements. Thus, the term also does not include
 shares in a money-market mutual fund, even if the shares are redeemable by
 check.</para>
-<para><emphasis>13. Proceeds &#8212; Related Definitions: "Cash Proceeds"; "Noncash Proceeds"; "Proceeds".</emphasis> The
+<para><emphasis>13. Proceeds — Related Definitions: "Cash Proceeds"; "Noncash Proceeds"; "Proceeds".</emphasis> The
 revised definition of "proceeds" expands the definition beyond that contained
 in former section 9-306 and resolves ambiguities in the former section.</para>
 <para><emphasis>a. Distributions on Account of Collateral.</emphasis> The phrase "whatever is collected on, or distributed on account of,
@@ -1305,7 +1328,7 @@ definition in former section 9-306. The phrase "and the like" covers property
 that is functionally equivalent to "money, checks, or deposit accounts", such
 as some money market accounts that are securities or part of securities entitlements.
 Proceeds other than cash proceeds are noncash proceeds.</para>
-<para><emphasis>14. Consignment &#8212; Related Definitions: "Consignee"; "Consignment"; "Consignor".</emphasis> The definition
+<para><emphasis>14. Consignment — Related Definitions: "Consignee"; "Consignment"; "Consignor".</emphasis> The definition
 of "consignment" excludes, in subparagraphs (B) and (C), transactions for
 which filing would be inappropriate or of insufficient benefit to justify
 the costs. A consignment excluded from the application of this article by
@@ -1377,4 +1400,5 @@ with a letter-of-credit transaction (see section 9-107, comment 4), no significa
 should be placed on the use of one term or the other. Depending on the context,
 each term may refer to the assignment or transfer of an outright ownership
 interest or to the assignment or transfer of a limited interest, such as a
-security interest.</para></annotation></law></legaldoc>
+security interest.</para></annotation>  </law>
+</legaldoc>

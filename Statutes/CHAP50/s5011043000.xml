@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Legislature" statutenumber="50-1143"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>50-1143</statuteno><catchline>District No. 42, description.</catchline><para>District No. 42 shall contain the county of Lincoln.</para></amendatorysection></section><source><para>Laws 1981, LB 406, &#167; 43; </para><para>R.S.1943, (1987), &#167; 5-243; </para><para>Laws 1991, LB 614, &#167; 43; </para><para>Laws 2001, LB 852, &#167; 43. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="50-1143">
+				<statuteno>50-1143</statuteno>
+				<catchline>Repealed. Laws 2011, LB 703, &#167; 5.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>May 27, 2011</operativedate></source>
+	</law>
+</legaldoc>

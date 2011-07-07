@@ -1,37 +1,67 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="ucc"><section><sectno></sectno><amendatorysection chaptername="Uniform Commercial Code" statutenumber="9-516">
-<bookinfo>Uniform Commercial Code, Revised Statutes Cumulative Supplement, 2010</bookinfo><statuteno>9-516</statuteno>
-<catchline>What constitutes filing; effectiveness of filing.</catchline><para>(a) Except as otherwise provided in subsection (b), communication of a record to a filing office and tender of the filing fee or acceptance of the record by the filing office constitutes filing.</para>
-<para>(b) Filing does not occur with respect to a record that a filing office refuses to accept because:</para>
-<para>(1) the record is not communicated by a method or medium of communication authorized by the filing office;</para>
-<para>(2) an amount equal to or greater than the applicable filing fee is not tendered;</para>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Uniform Commercial Code" statutenumber="9-516"><bookinfo>Revised Statutes Supplement, 2011</bookinfo>
+<statuteno>9-516</statuteno><catchline>What constitutes filing; effectiveness
+of filing.</catchline><para>(a) Except as otherwise provided in subsection
+(b), communication of a record to a filing office and tender of the filing
+fee or acceptance of the record by the filing office constitutes filing.</para>
+<para>(b) Filing does not occur with respect to a record that a filing office
+refuses to accept because:</para>
+<para>(1) the record is not communicated by a method or medium of communication
+authorized by the filing office;</para>
+<para>(2) an amount equal to or greater than the applicable filing fee is
+not tendered;</para>
 <para>(3) the filing office is unable to index the record because:</para>
-<para>(A) in the case of an initial financing statement, the record does not provide a name for the debtor;</para>
-<para>(B) in the case of an amendment or correction statement, the record:</para>
-<para>(i) does not identify the initial financing statement as required by section 9-512 or 9-518, as applicable; or</para>
-<para>(ii) identifies an initial financing statement whose effectiveness has lapsed under section 9-515;</para>
-<para>(C) in the case of an initial financing statement that provides the name of a debtor identified as an individual or an amendment that provides a name of a debtor identified as an individual which was not previously provided in the financing statement to which the record relates, the record does not identify the debtor's last name; or</para>
-<para>(D) in the case of a record filed or recorded in the filing office described in section 9-501(a)(1), the record does not provide a sufficient description of the real property to which it relates;</para>
-<para>(4) in the case of an initial financing statement or an amendment that adds a secured party of record, the record does not provide a name and mailing address for the secured party of record;</para>
-<para>(5) in the case of an initial financing statement or an amendment that provides a name of a debtor which was not previously provided in the financing statement to which the amendment relates, the record does not:</para>
-<para>(A) provide a mailing address for the debtor;</para>
-<para>(B) indicate whether the debtor is an individual or an organization; or</para>
-<para>(C) if the financing statement indicates that the debtor is an organization, provide:</para>
-<para>(i) a type of organization for the debtor;</para>
-<para>(ii) a jurisdiction of organization for the debtor; or</para>
-<para>(iii) an organizational identification number for the debtor or indicate that the debtor has none;</para>
-<para>(6) in the case of an assignment reflected in an initial financing statement under section 9-514(a) or an amendment filed under section 9-514(b), the record does not provide a name and mailing address for the assignee;</para>
-<para>(7) in the case of a continuation statement, the record is not filed within the six-month period prescribed by section 9-515(d); or</para>
-<para>(8) in the case of a financing statement or an amendment to a financing statement, the same person or entity is listed as both debtor and secured party.</para>
+<para>(A) in the case of an initial financing statement, the record does not
+provide a name for the debtor;</para>
+<para>(B) in the case of an amendment or information statement, the
+record:</para>
+<para>(i) does not identify the initial financing statement as required by
+section 9-512 or 9-518, as applicable; or</para>
+<para>(ii) identifies an initial financing statement whose effectiveness has
+lapsed under section 9-515;</para>
+<para>(C) in the case of an initial financing statement that provides the
+name of a debtor identified as an individual or an amendment that provides
+a name of a debtor identified as an individual which was not previously provided
+in the financing statement to which the record relates, the record does not
+identify the debtor's surname; or</para>
+<para>(D) in the case of a record filed or recorded in the filing office described
+in section 9-501(a)(1), the record does not provide a sufficient description
+of the real property to which it relates;</para>
+<para>(4) in the case of an initial financing statement or an amendment that
+adds a secured party of record, the record does not provide a name and mailing
+address for the secured party of record;</para>
+<para>(5) in the case of an initial financing statement or an amendment that
+provides a name of a debtor which was not previously provided in the financing
+statement to which the amendment relates, the record does not:</para>
+<para>(A) provide a mailing address for the debtor; or</para>
+<para>(B) indicate whether the name
+provided as the name of the debtor is the name of an individual or an organization;</para>
+<para>(6) in the case of an assignment reflected in an initial financing statement
+under section 9-514(a) or an amendment filed under section 9-514(b), the record
+does not provide a name and mailing address for the assignee;</para>
+<para>(7) in the case of a continuation statement, the record is not filed
+within the six-month period prescribed by section 9-515(d); or</para>
+<para>(8) in the case of a financing statement or an amendment to a financing
+statement, the same person or entity is listed as both debtor and secured
+party.</para>
 <para>(c) For purposes of subsection (b):</para>
-<para>(1) a record does not provide information if the filing office is unable to read or decipher the information; and</para>
-<para>(2) a record that does not indicate that it is an amendment or identify an initial financing statement to which it relates, as required by section 9-512, 9-514, or 9-518, is an initial financing statement.</para>
-<para>(d) A record that is communicated to the filing office with tender of the filing fee, but which the filing office refuses to accept for a reason other than one set forth in subsection (b), is effective as a filed record except as against a purchaser of the collateral which gives value in reasonable reliance upon the absence of the record from the files.</para>
-</amendatorysection></section>
-<source>
-<para>Laws 1999, LB 550, &#167; 160; </para>
-<para>Laws 2003, LB 494, &#167; 1.</para>
-</source>
-<annotation>
+<para>(1) a record does not provide information if the filing office is unable
+to read or decipher the information; and</para>
+<para>(2) a record that does not indicate that it is an amendment or identify
+an initial financing statement to which it relates, as required by section
+9-512, 9-514, or 9-518, is an initial financing statement.</para>
+<para>(d) A record that is communicated to the filing office with tender of
+the filing fee, but which the filing office refuses to accept for a reason
+other than one set forth in subsection (b), is effective as a filed record
+except as against a purchaser of the collateral which gives value in reasonable
+reliance upon the absence of the record from the files.</para>
+</amendatorysection></section><source>
+<para>Laws 1999, LB 550, § 160; </para>
+<para>Laws 2003, LB 494, § 1; </para>
+<para>Laws 2011, LB90, §  18.</para><operativedate>July 1, 2013</operativedate></source><annotation>
 <para><emphasis>COMMENT</emphasis></para>
 <para><emphasis>1. Source.</emphasis> Subsection (a): Former section 9-403(1); the remainder is new.</para>
 <para><emphasis>2. What Constitutes Filing.</emphasis> Subsection (a) deals generically with what constitutes filing of a record, including an initial financing statement and amendments of all kinds (e.g., assignments, termination statements, and continuation statements). It follows former section 9-403(1), under which either acceptance of a record by the filing office or presentation of the record and tender of the filing fee constitutes filing.</para>
@@ -43,4 +73,5 @@
 <para><emphasis>6. Uncertainty Concerning Individual Debtor's Last Name.</emphasis> Subsection (b)(3)(C) requires the filing office to reject an initial financing statement or amendment adding an individual debtor if the office cannot index the record because it does not identify the debtor's last name (e.g., it is unclear whether the debtor's name is Elton John or John Elton).</para>
 <para><emphasis>7. Inability of Filing Office to Read or Decipher Information.</emphasis> Under subsection (c)(1), if the filing office cannot read or decipher information, the information is not provided by a record for purposes of subsection (b).</para>
 <para><emphasis>8. Classification of Records.</emphasis> For purposes of subsection (b), a record that does not indicate it is an amendment or identify an initial financing statement to which it relates is deemed to be an initial financing statement. See subsection (c)(2).</para>
-<para><emphasis>9. Effectiveness of Rejectable But Unrejected Record.</emphasis> Section 9-520(a) requires the filing office to refuse to accept an initial financing statement for a reason set forth in subsection (b). However, if the filing office accepts such a financing statement nevertheless, the financing statement generally is effective if it complies with the requirements of section 9-502(a) and (b). See section 9-520(c). Similarly, an otherwise effective financing statement generally remains so even though the information in the financing statement becomes incorrect. See section 9-507(b). (Note that if the information required by subsection (b)(5) is incorrect when the financing statement is filed, section 9-338 applies.)</para></annotation></law></legaldoc>
+<para><emphasis>9. Effectiveness of Rejectable But Unrejected Record.</emphasis> Section 9-520(a) requires the filing office to refuse to accept an initial financing statement for a reason set forth in subsection (b). However, if the filing office accepts such a financing statement nevertheless, the financing statement generally is effective if it complies with the requirements of section 9-502(a) and (b). See section 9-520(c). Similarly, an otherwise effective financing statement generally remains so even though the information in the financing statement becomes incorrect. See section 9-507(b). (Note that if the information required by subsection (b)(5) is incorrect when the financing statement is filed, section 9-338 applies.)</para></annotation>  </law>
+</legaldoc>

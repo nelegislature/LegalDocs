@@ -1,14 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="ucc"><section><sectno></sectno><amendatorysection chaptername="Uniform Commercial Code" statutenumber="9-531">
-<bookinfo>Uniform Commercial Code, Revised Statutes Cumulative Supplement, 2010</bookinfo>
-<statuteno>9-531</statuteno>
-<catchline>Uniform Commercial Code Cash Fund; created; use; Secretary of State; duties; fees.</catchline>
-<para>(a) There is created the Uniform Commercial Code Cash Fund. Except as otherwise specifically provided, all funds received pursuant to this part and sections 52-1312, 52-1313, 52-1316, and 52-1602, Reissue Revised Statutes of Nebraska, shall be placed in the fund and used by the Secretary of State to carry out this part, sections 52-1301 to 52-1322, Reissue Revised Statutes of Nebraska, and sections 52-1601 to 52-1605, Reissue Revised Statutes of Nebraska, except that transfers from the Uniform Commercial Code Cash Fund to the General Fund and the Records Management Cash Fund may be made at the direction of the Legislature.</para>
-<para>(b)(1) The Secretary of State shall furnish each county clerk with computer terminal hardware, including a printer, compatible with the centralized computer system implemented and maintained pursuant to section 9-529, for inquiries and searches of information in such centralized computer system. The terminals shall be readily and reasonably available and accessible to members of the public for such inquiries and searches.</para>
-<para>(2) The fees charged by county clerks for inquiries and other services regarding information in the centralized computer system shall be the same as set forth for filing offices in this part.</para>
-</amendatorysection></section>
-<source>
-<para>Laws 1999, LB 550, &#167; 175; </para>
-<para>Laws 2001, LB 541, &#167; 10; </para>
-<para>Laws 2003, LB 4, &#167; 9; </para>
-<para>Laws 2007, LB124, &#167; 73.</para>
-</source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="ucc">
+<section>
+<amendatorysection amended="yes" chaptername="Uniform Commercial Code" statutenumber="9-531"><bookinfo>Uniform Commercial Code, Revised Statutes Supplement, 2011</bookinfo><statuteno>9-531</statuteno><para>Uniform Commercial Code Cash Fund; created;
+use; Secretary of State; duties; fees.</para>
+<para>(a) There is created the Uniform Commercial Code Cash Fund. Except as
+otherwise specifically provided, all funds received pursuant to this part
+and sections 52-1312, 52-1313, 52-1316, and 52-1602, Reissue Revised Statutes
+of Nebraska, shall be placed in the fund and used by the Secretary of State
+to carry out this part, sections 52-1301 to 52-1322, Reissue Revised Statutes
+of Nebraska, and sections 52-1601 to 52-1605, Reissue Revised Statutes of
+Nebraska, except that transfers from the Uniform Commercial Code Cash Fund
+to the General Fund, the Election
+Administration Fund, and the Records Management Cash Fund may
+be made at the direction of the Legislature.</para>
+<para>(b)(1) The Secretary of State shall furnish each county clerk with computer
+terminal hardware, including a printer, compatible with the centralized computer
+system implemented and maintained pursuant to section 9-529, for inquiries
+and searches of information in such centralized computer system. The terminals
+shall be readily and reasonably available and accessible to members of the
+public for such inquiries and searches.</para>
+<para>(2) The fees charged by county clerks for inquiries and other services
+regarding information in the centralized computer system shall be the same
+as set forth for filing offices in this part.</para>
+</amendatorysection></section><source><para>Laws 2011, LB378, &#167; 35.</para><effectivedate>May 18, 2011</effectivedate></source>  </law>
+</legaldoc>

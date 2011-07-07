@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Legislature" statutenumber="50-1134"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>50-1134</statuteno><catchline>District No. 33, description.</catchline><para>District No. 33 shall contain the county of Adams and that part of Hall County beginning at the intersection of the Hall-Buffalo County line and West Airport Road, east on West Airport Road to North 80th Road, south on North 80th Road to South 80th Road, south on South 80th Road to West Schimmer Drive, east on West Schimmer Drive to U.S. Highway 281, south on U.S. Highway 281 to the Hall-Adams County line, west along the Hall-Adams County line to the Hall-Buffalo County line, and north along the Hall-Buffalo County line to the point of beginning.</para></amendatorysection></section><source><para>Laws 1981, LB 406, &#167; 34; </para><para>R.S.1943, (1987), &#167; 5-234; </para><para>Laws 1991, LB 614, &#167; 34; </para><para>Laws 2001, LB 852, &#167; 34. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="50-1134">
+				<statuteno>50-1134</statuteno>
+				<catchline>Repealed. Laws 2011, LB 703, &#167; 5.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>May 27, 2011</operativedate></source>
+	</law>
+</legaldoc>

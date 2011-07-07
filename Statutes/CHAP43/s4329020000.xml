@@ -1,1 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Infants and Juveniles" statutenumber="43-2920"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>43-2920</statuteno><catchline>Act, how cited.</catchline><para>Sections 43-2920 to 43-2943 shall be known and may be cited as the Parenting Act.</para></amendatorysection></section><source><para>Laws 2007, LB554, &#167; 1. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id19">
+<amendatorysection amended="yes" chaptername="Infants and Juveniles" id="id21" statutenumber="43-2920"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>43-2920</statuteno><catchline id="id24">Act, how cited.</catchline>
+<para>Sections 43-2920 to 43-2943 shall be known and may be cited
+as the Parenting Act.</para>
+</amendatorysection></section><source><para>Laws 2007, LB554, &#167; 1; </para><para>Laws 2011, LB673, &#167; 2.</para><effectivedate>August 27, 2011</effectivedate></source>  </law>
+</legaldoc>

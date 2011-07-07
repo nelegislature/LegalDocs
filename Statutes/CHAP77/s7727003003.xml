@@ -1,1 +1,79 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Revenue and Taxation" statutenumber="77-2703.03"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>77-2703.03</statuteno><catchline>Direct mail sourcing.</catchline><para>(1) Notwithstanding section 77-2703.01, a purchaser of direct mail that is not a holder of a direct payment permit shall provide to the seller in conjunction with the purchase either a direct mail form or information to show the jurisdictions to which the direct mail is delivered to recipients.</para><para>(2) Upon receipt of the direct mail form, the seller is relieved of all obligations to collect, pay, or remit the applicable tax and the purchaser is obligated to pay or remit the applicable tax on a direct-pay basis. A direct mail form shall remain in effect for all future sales of direct mail by the seller to the purchaser until it is revoked in writing.</para><para>(3) Upon receipt of information from the purchaser showing the jurisdictions to which the direct mail is delivered to recipients, the seller shall collect the tax according to the delivery information provided by the purchaser. In the absence of bad faith, the seller is relieved of any further obligation to collect tax on any transaction where the seller has collected tax pursuant to the delivery information provided by the purchaser.</para><para>(4) If the purchaser of direct mail does not have a direct payment permit and does not provide the seller with either a direct mail form or delivery information as required by subsection (1) of this section, the seller shall collect the tax according to subsection (6) of section 77-2703.01. Nothing in this subsection shall limit a purchaser's obligation for sales or use tax to any state to which the direct mail is delivered.</para><para>(5) If a purchaser of direct mail provides the seller with documentation of direct-pay authority, the purchaser shall not be required to provide a direct mail form or delivery information to the seller.</para></amendatorysection></section><source><para>Laws 2003, LB 282, &#167; 51. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Revenue and Taxation" statutenumber="77-2703.03"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>77-2703.03</statuteno><catchline>Direct mail sourcing.</catchline>
+<para>(1)
+This section applies when sourcing sales of direct mail. For purposes of this
+section:</para><para>(a)
+Advertising and promotional direct mail means direct mail that has the primary
+purpose of attracting public attention to a product, person, business, or
+organization or attempting to sell, popularize, or secure financial support
+for a product, person, business, or organization; and</para><para>(b)(i) Other direct mail means any
+direct mail that is not advertising and promotional direct mail, regardless
+of whether advertising and promotional direct mail is included in the same
+mailing.</para><para>(ii)
+Other direct mail includes, but is not limited to:</para><para>(A) Transactional direct mail that
+contains personal information specific to the addressee, including, but not
+limited to, invoices, bills, statements of account, and payroll advices;</para>
+<para>(B) Any legally required
+mailings, including, but not limited to, privacy notices, tax reports, and
+stockholder reports; and</para><para>(C)
+Other nonpromotional direct mail delivered to existing or former shareholders,
+customers, employees, or agents, including, but not limited to, newsletters
+and informational pieces.</para><para>(iii)
+Other direct mail does not include the development of billing information
+or any data processing service that is more than incidental.</para>
+<para>(2) The sale of advertising
+and promotional direct mail shall be sourced as follows:</para>
+<para>(a) If the purchaser
+of advertising and promotional direct mail provides the retailer with a direct
+payment permit, certificate of exemption authorized by the streamlined sales
+and use tax agreement, or written statement claiming exemption that has been
+approved, authorized, or accepted by the Tax Commissioner, the purchaser shall
+source the sale to the jurisdictions to which the advertising and promotional
+direct mail is to be delivered to recipients and shall report and pay any
+applicable tax due. In the absence of bad faith, the retailer is relieved
+of all obligations to collect, pay, or remit any tax on any transaction involving
+advertising and promotional direct mail to which the direct payment permit,
+certificate of exemption, or written statement applies;</para>
+<para>(b) If the purchaser
+of advertising and promotional direct mail provides the retailer with information
+showing the jurisdictions to which the advertising and promotional direct
+mail is to be delivered to recipients, the retailer shall source the sale
+to the jurisdictions to which the advertising and promotional direct mail
+is to be delivered to recipients and shall collect and remit the applicable
+tax. In the absence of bad faith, the retailer is relieved of any further
+obligation to collect any additional tax on the sale of advertising and promotional
+direct mail; or</para><para>(c)
+If neither subdivision (a) of this subsection nor subdivision (b) of this
+subsection applies, then the sale of advertising and promotional direct mail
+shall be sourced according to subsection (6) of section 77-2703.01. The tax
+paid shall not constitute a properly paid tax for purposes of allowing credit
+against state and local option sales and use tax due.</para><para>(3) The sale of other direct mail
+shall be sourced as follows:</para><para>(a) If the purchaser of other direct mail provides
+the retailer with a direct payment permit, certificate of exemption authorized
+by the streamlined sales and use tax agreement, or written statement claiming
+exemption that has been approved, authorized, or accepted by the Tax Commissioner,
+the purchaser shall source the sale to the jurisdictions to which the other
+direct mail is to be delivered to recipients and shall report and pay any
+applicable tax due. In the absence of bad faith, the retailer is relieved
+of all obligations to collect, pay, or remit any tax on any transaction involving
+other direct mail to which the direct payment permit, certificate of exemption,
+or written statement applies; or</para><para>(b) If subdivision (a) of this subsection does not
+apply, then the sale of other direct mail shall be sourced according to subsection
+(4) of section 77-2703.01. The tax paid shall not constitute a properly paid
+tax for purposes of allowing credit against state and local option sales and
+use tax due.</para><para>(4)
+This section applies to transactions characterized under state law as sales
+of services only if the service is an integral part of the production and
+distribution of direct mail.</para><para>(5) If a transaction is a bundled transaction that
+includes advertising and promotional direct mail, this section applies only
+if the primary purpose of the transaction is the sale of advertising and promotional
+direct mail.</para><para>(6)
+This section does not apply to any transaction that includes the development
+of billing information or the provision of any data processing service that
+is more than incidental, regardless of whether advertising and promotional
+direct mail is included in the same mailing.</para></amendatorysection>
+</section><source><para>Laws 2003, LB 282, &#167; 51; </para><para>Laws 2011, LB211, &#167; 4.</para><operativedate>October 1, 2011</operativedate></source>  </law>
+</legaldoc>

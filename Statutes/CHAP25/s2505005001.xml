@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id69">
-<sectno id="id70" opdate="August 30, 2009">Sec. 6.</sectno><amendatorysection amended="yes" chaptername="Courts; Civil Procedure" id="id71" statutenumber="25-505.01"><bookinfo>Revised Statutes Cumulative Supplement, 2010</bookinfo><statuteno id="id73">25-505.01</statuteno><catchline id="id74">Service of
-summons; methods.</catchline><para>(1) Unless otherwise limited
-by statute or by the court, a plaintiff may elect to have service made by
-any of the following methods:</para>
+<section id="id48">
+<amendatorysection amended="yes" chaptername="Courts; Civil Procedure" id="id50" statutenumber="25-505.01">
+<bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>25-505.01</statuteno><catchline id="id53">Service of
+summons; methods; State Court
+Administrator; maintain list.</catchline><para>(1) Unless
+otherwise limited by statute or by the court, a plaintiff may elect to have
+service made by any of the following methods:</para>
 <para>(a) Personal service which shall be made by leaving the summons
 with the individual to be served;</para>
 <para>(b) Residence service which shall be made by leaving the summons
@@ -16,12 +18,18 @@ ten days of issuance, sending the summons to the defendant by certified mail
 with a return receipt requested showing to whom and where delivered and the
 date of delivery, and (ii) filing with the court proof of service with the
 signed receipt attached; or</para>
-<para>(d) By depositing
-with a designated delivery service authorized pursuant to 26 U.S.C. 7502(f)(2)
-a copy of the summons and complaint, addressed to the party to be served,
-delivering to the addressee, and obtaining a delivery receipt. As used in
-this subdivision, delivery receipt includes an electronic or facsimile receipt.</para>
-<para>(2) Failure to make service by the method elected by the plaintiff
+<para>(d) Designated
+delivery service which shall be made by (i) within ten days of issuance, sending
+the summons by a designated delivery service to the defendant, (ii) obtaining
+a signed delivery receipt showing to whom and where delivered and the date
+of delivery, and (iii) filing with the court proof of service with a copy
+of the signed delivery receipt attached. As used in this subdivision, a designated
+delivery service means a delivery service designated as such pursuant to 26
+U.S.C. 7502(f) and a signed delivery receipt includes an electronic or facsimile
+receipt with an image of the recipient's signature.</para><para>(2) Failure to make service by the method elected by the plaintiff
 does not affect the validity of the service.</para>
-</amendatorysection></section><source><para>Laws 1983, LB 447, &#167; 22; </para><para>Laws 1984, LB 845, &#167; 21; </para><para>Laws 2009, LB35, &#167; 6.</para></source><crossreference><para><emphasis>Workers' compensation cases,</emphasis> manner of service, see sections 48-174, 48-175, 48-175.01, and 48-190.</para></crossreference><annotation><para>Plaintiff may elect to have service made by any of the methods specified in the statute. West Town Homeowners Assn. v. Schneider, 221 Neb. 674, 380 N.W.2d 265 (1986).</para><para>Personal service at work rather than at home, despite the designation on the praecipe of where service should be effected, is nonetheless valid service. Hatcher v. McShane, 12 Neb. App. 239, 670 N.W.2d 638 (2003).</para></annotation>  </law>
+<para>(3) The State
+Court Administrator shall maintain on the web site of the Supreme Court a
+list of designated delivery services.</para></amendatorysection>
+</section><source><para>Laws 1983, LB 447, &#167; 22; </para><para>Laws 1984, LB 845, &#167; 21; </para><para>Laws 2009, LB35, &#167; 6; </para><para>Laws 2011, LB669, &#167; 7.</para><operativedate>May 27, 2011</operativedate></source><crossreference><para><emphasis>Workers' compensation cases,</emphasis> manner of service, see sections 48-174, 48-175, 48-175.01, and 48-190.</para></crossreference><annotation><para>Plaintiff may elect to have service made by any of the methods specified in the statute. West Town Homeowners Assn. v. Schneider, 221 Neb. 674, 380 N.W.2d 265 (1986).</para><para>Personal service at work rather than at home, despite the designation on the praecipe of where service should be effected, is nonetheless valid service. Hatcher v. McShane, 12 Neb. App. 239, 670 N.W.2d 638 (2003).</para></annotation>  </law>
 </legaldoc>

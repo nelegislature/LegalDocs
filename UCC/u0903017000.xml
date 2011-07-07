@@ -1,30 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="ucc"><section><sectno></sectno><amendatorysection chaptername="Uniform Commercial Code" statutenumber="9-317">
-<bookinfo>Uniform Commercial Code, Revised Statutes Cumulative Supplement, 2010</bookinfo>
-<statuteno>9-317</statuteno>
-<catchline>Interests that take priority over or take free of security interest or agricultural lien.</catchline>
-<para>(a) A security interest or agricultural lien is subordinate to the rights of:</para>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Uniform Commercial Code" statutenumber="9-317"><bookinfo>Revised Statutes Supplement, 2011</bookinfo>
+<statuteno>9-317</statuteno><catchline>Interests that take priority over or
+take free of security interest or agricultural lien.</catchline><para>(a)
+A security interest or agricultural lien is subordinate to the rights of:</para>
 <para>(1) a person entitled to priority under section 9-322; and </para>
-<para>(2) except as otherwise provided in subsection (e), a person that becomes a lien creditor before the earlier of the time:</para>
+<para>(2) except as otherwise provided in subsection (e), a person that becomes
+a lien creditor before the earlier of the time:</para>
 <para>(A) the security interest or agricultural lien is perfected; or</para>
-<para>(B) one of the conditions specified in section 9-203(b)(3) is met and a financing statement covering the collateral is filed.</para>
-<para>(b) Except as otherwise provided in subsection (e), a buyer, other than a secured party, of tangible chattel paper, tangible documents, goods, instruments, or a security certificate takes free of a security interest or agricultural lien if the buyer gives value and receives delivery of the collateral without knowledge of the security interest or agricultural lien and before it is perfected.</para>
-<para>(c) Except as otherwise provided in subsection (e), a lessee of goods takes free of a security interest or agricultural lien if the lessee gives value and receives delivery of the collateral without knowledge of the security interest or agricultural lien and before it is perfected.</para>
-<para>(d) A licensee of a general intangible or a buyer, other than a secured party, of accounts, electronic chattel paper, electronic documents, general intangibles, or investment property other than a certificated security takes free of a security interest if the licensee or buyer gives value without knowledge of the security interest and before it is perfected.</para>
-<para>(e) Except as otherwise provided in sections 9-320 and 9-321, if a person files a financing statement with respect to a purchase-money security interest before or within thirty days after the debtor receives delivery of the collateral, the security interest takes priority over the rights of a buyer, lessee, or lien creditor which arise between the time the security interest attaches and the time of filing.</para>
-</amendatorysection></section>
-<source>
-<para>Laws 1999, LB 550, &#167; 110; </para>
-<para>Laws 2000, LB 929, &#167; 29; </para> 
-<para>Laws 2005, LB 82, &#167; 8; </para>
-<para>Laws 2005, LB 570, &#167; 110.</para>
-</source>
-<annotation>
+<para>(B) one of the conditions specified in section 9-203(b)(3) is met and
+a financing statement covering the collateral is filed.</para>
+<para>(b) Except as otherwise provided in subsection (e), a buyer, other than
+a secured party, of tangible chattel paper, tangible documents, goods, instruments,
+or a certificated security takes
+free of a security interest or agricultural lien if the buyer gives value
+and receives delivery of the collateral without knowledge of the security
+interest or agricultural lien and before it is perfected.</para>
+<para>(c) Except as otherwise provided in subsection (e), a lessee of goods
+takes free of a security interest or agricultural lien if the lessee gives
+value and receives delivery of the collateral without knowledge of the security
+interest or agricultural lien and before it is perfected.</para>
+<para>(d) A licensee of a general intangible or a buyer, other than a secured
+party, of collateral other than tangible chattel paper, tangible documents,
+goods, instruments, or a certificated security takes free of a
+security interest if the licensee or buyer gives value without knowledge of
+the security interest and before it is perfected.</para>
+<para>(e) Except as otherwise provided in sections 9-320 and 9-321, if a person
+files a financing statement with respect to a purchase-money security interest
+before or within thirty days after the debtor receives delivery of the collateral,
+the security interest takes priority over the rights of a buyer, lessee, or
+lien creditor which arise between the time the security interest attaches
+and the time of filing.</para>
+</amendatorysection></section><source>
+<para>Laws 1999, LB 550, § 110; </para>
+<para>Laws 2000, LB 929, § 29; </para> 
+<para>Laws 2005, LB 82, § 8; </para>
+<para>Laws 2005, LB 570, § 110; </para>
+<para>Laws 2011, LB90, §  9.</para><operativedate>July 1, 2013</operativedate></source><annotation>
 <para><emphasis>COMMENT</emphasis></para>
 <para><emphasis>1. Source.</emphasis> Former sections 2A-307(2) and 9-301.</para>
 <para><emphasis>2. Scope of This Section.</emphasis> As did former section 9-301, this section lists the classes of persons who take priority over, or take free of, an unperfected security interest. Section 9-308 explains when a security interest or agricultural lien is "perfected". A security interest that has attached (see section 9-203) but as to which a required perfection step has not been taken is "unperfected". Certain provisions have been moved from former section 9-301. The definition of "lien creditor" now appears in section 9-102, and the rules governing priority in future advances are found in section 9-323.</para>
 <para><emphasis>3. Competing Security Interests.</emphasis> Section 9-322 states general rules for determining priority among conflicting security interests and refers to other sections that state special rules of priority in a variety of situations. The security interests given priority under section 9-322 and the other sections to which it refers take priority in general even over a perfected security interest. A fortiori they take priority over an unperfected security interest.</para>
 <para><emphasis>4. Filed but Unattached Security Interest vs. Lien Creditor.</emphasis> Under former section 9-301(1)(b), a lien creditor's rights had priority over an unperfected security interest. Perfection required attachment (former section 9-303) and attachment required the giving of value (former section 9-203). It followed that, if a secured party had filed a financing statement, but the debtor had not entered into a security agreement and value had not yet been given, an intervening lien creditor whose lien arose after filing but before attachment of the security interest acquired rights that are senior to those of the secured party who later gives value. This result comported with the nemo dat concept: When the security interest attached, the collateral was already subject to the judicial lien.</para>
-<para>On the other hand, this approach treated the first secured advance differently from all other advances, even in circumstances in which a security agreement covering the collateral had been entered into before the judicial lien attached. The special rule for future advances in former section 9-301(4)  (substantially reproduced in section 9-323(b)) afforded priority to a discretionary advance made by a secured party within 45 days after the lien creditor's rights arose as long as the secured party was "perfected" when the lien creditor's lien arose &#8212; i.e., as long as the advance was not the first one and an earlier advance had been made.</para>
+<para>On the other hand, this approach treated the first secured advance differently from all other advances, even in circumstances in which a security agreement covering the collateral had been entered into before the judicial lien attached. The special rule for future advances in former section 9-301(4)  (substantially reproduced in section 9-323(b)) afforded priority to a discretionary advance made by a secured party within 45 days after the lien creditor's rights arose as long as the secured party was "perfected" when the lien creditor's lien arose — i.e., as long as the advance was not the first one and an earlier advance had been made.</para>
 <para>Subsection (a)(2) revises former section 9-301(1)(b) and, in appropriate cases, treats the first advance the same as subsequent advances. More specifically, a judicial lien that arises after the security-agreement condition of section 9-203(b)(3) is satisfied and a financing statement is filed, but before the security interest attaches and becomes perfected, is subordinate to all advances secured by the security interest, even the first advance, except as otherwise provided in section 9-323(b). However, if the security interest becomes unperfected (e.g., because the effectiveness of the filed financing statement lapses) before the judicial lien arises, the security interest is subordinate. If a financing statement is filed but a security interest does not attach, then no priority contest arises. The lien creditor has the only enforceable claim to the property.</para>
 <para><emphasis>5. Security Interest of Consignor or Receivables Buyer vs. Lien Creditor.</emphasis> Section 1-201(37) defines "security interest" to include the interest of most true consignors of goods and the interest of most buyers of certain receivables (accounts, chattel paper, payment intangibles, and promissory notes). A consignee of goods or a seller of accounts or chattel paper each is deemed to have rights in the collateral which a lien creditor may reach, as long as the competing security interest of the consignor or buyer is unperfected. This is so even though, as between the consignor and the debtor-consignee, the latter has only limited rights, and, as between the buyer and debtor-seller, the latter does not have any rights in the collateral. See sections 9-318 (seller) and 9-319 (consignee). Security interests arising from sales of payment intangibles and promissory notes are automatically perfected. See section 9-309. Accordingly, a subsequent judicial lien always would be subordinate to the rights of a buyer of those types of receivables.</para>
 <para><emphasis>6. Purchasers Other Than Secured Parties.</emphasis> Subsections (b), (c), and (d) afford priority over an unperfected security interest to certain purchasers (other than secured parties) of collateral. They derive from former sections 2A-307(2), 9-301(1)(c), and 9-301(1)(d). Former section 9-301(1)(c) and (1)(d) provided that unperfected security interests are "subordinate" to the rights of certain purchasers. But, as former comment 9 suggested, the practical effect of subordination in this context is that the purchaser takes free of the security interest. To avoid any possible misinterpretation, subsections (b) and (d) of this section use the phrase "takes free".</para>
@@ -34,4 +54,5 @@
 <para>Unless section 9-109 excludes the transaction from this article, a buyer of accounts, chattel paper, payment intangibles, or promissory notes is a "secured party" (defined in section 9-102), and subsections (b) and (d) do not determine priority of the security interest created by the sale. Rather, the priority rules generally applicable to competing security interests apply. See section 9-322.</para>
 <para><emphasis>7. Agricultural Liens.</emphasis> Subsections (a), (b), and (c) subordinate unperfected agricultural liens in the same manner in which they subordinate unperfected security interests.</para>
 <para><emphasis>8. Purchase-Money Security Interests.</emphasis> Subsection (e) derives from former section 9-301(2). It provides that, if a purchase-money security interest is perfected by filing no later than 20 days after the debtor receives delivery of the collateral, the security interest takes priority over the rights of buyers, lessees, or lien creditors which arise between the time the security interest attaches and the time of filing. Subsection (e) differs from former section 9-301(2) in two significant respects. First, subsection (e) protects a purchase-money security interest against all buyers and lessees, not just against transferees in bulk. Second, subsection (e) conditions this protection on filing within 20, as opposed to ten, days after delivery.</para>
-<para>Section 9-311(b) provides that compliance with the perfection requirements of a statute or treaty described in section 9-311(a) "is equivalent to the filing of a financing statement". It follows that a person who perfects a security interest in goods covered by a certificate of title by complying with the perfection requirements of an applicable certificate-of-title statute "files a financing statement" within the meaning of subsection (e).</para></annotation></law></legaldoc>
+<para>Section 9-311(b) provides that compliance with the perfection requirements of a statute or treaty described in section 9-311(a) "is equivalent to the filing of a financing statement". It follows that a person who perfects a security interest in goods covered by a certificate of title by complying with the perfection requirements of an applicable certificate-of-title statute "files a financing statement" within the meaning of subsection (e).</para></annotation>  </law>
+</legaldoc>

@@ -1,19 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="ucc"><section><sectno></sectno><amendatorysection chaptername="Uniform Commercial Code" statutenumber="9-515">
-<bookinfo>Uniform Commercial Code, Reissue Revised Statutes of Nebraska</bookinfo>
-<statuteno>9-515</statuteno>
-<catchline>Duration and effectiveness of financing statement; effect of lapsed financing statement.</catchline>
-<para>(a) Except as otherwise provided in subsections (b), (e), (f), and (g), a filed financing statement is effective for a period of five years after the date of filing.</para>
-<para>(b) Except as otherwise provided in subsections (e), (f) and (g), an initial financing statement filed in connection with a public-finance transaction or manufactured-home transaction is effective for a period of thirty years after the date of filing if it indicates that it is filed in connection with a public-finance transaction or manufactured-home transaction.</para>
-<para>(c) The effectiveness of a filed financing statement lapses on the expiration of the period of its effectiveness unless before the lapse a continuation statement is filed pursuant to subsection (d). Upon lapse, a financing statement ceases to be effective and any security interest or agricultural lien that was perfected by the financing statement becomes unperfected, unless the security interest is perfected otherwise. If the security interest or agricultural lien becomes unperfected upon lapse, it is deemed never to have been perfected as against a purchaser of the collateral for value.</para>
-<para>(d) A continuation statement may be filed only within six months before the expiration of the five-year period specified in subsection (a) or the thirty-year period specified in subsection (b), whichever is applicable.</para>
-<para>(e) Except as otherwise provided in section 9-510, upon timely filing of a continuation statement, the effectiveness of the initial financing statement continues for a period of five years commencing on the day on which the financing statement would have become ineffective in the absence of the filing. Upon the expiration of the five-year period, the financing statement lapses in the same manner as provided in subsection (c), unless, before the lapse, another continuation statement is filed pursuant to subsection (d). Succeeding continuation statements may be filed in the same manner to continue the effectiveness of the initial financing statement.</para>
-<para>(f) If a debtor is a transmitting utility and a filed financing statement so indicates, the financing statement is effective until a termination statement is filed.</para>
-<para>(g) A record of a mortgage that is effective as a financing statement filed as a fixture filing under section 9-502(c) remains effective as a financing statement filed as a fixture filing until the mortgage is released or satisfied of record or its effectiveness otherwise terminates as to the real property.</para>
-</amendatorysection></section>
-<source>
-<para>Laws 1999, LB 550, &#167; 159.</para>
-</source>
-<annotation>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Uniform Commercial Code" statutenumber="9-515"><bookinfo>Revised Statutes Supplement, 2011</bookinfo>
+<statuteno>9-515</statuteno><catchline>Duration and effectiveness of financing
+statement; effect of lapsed financing statement.</catchline><para>(a) Except
+as otherwise provided in subsections (b), (e), (f), and (g), a filed financing
+statement is effective for a period of five years after the date of filing.</para>
+<para>(b) Except as otherwise provided in subsections (e), (f), and (g), an initial financing statement filed
+in connection with a public-finance transaction or manufactured-home transaction
+is effective for a period of thirty years after the date of filing if it indicates
+that it is filed in connection with a public-finance transaction or manufactured-home
+transaction.</para>
+<para>(c) The effectiveness of a filed financing statement lapses on the expiration
+of the period of its effectiveness unless before the lapse a continuation
+statement is filed pursuant to subsection (d). Upon lapse, a financing statement
+ceases to be effective and any security interest or agricultural lien that
+was perfected by the financing statement becomes unperfected, unless the security
+interest is perfected otherwise. If the security interest or agricultural
+lien becomes unperfected upon lapse, it is deemed never to have been perfected
+as against a purchaser of the collateral for value.</para>
+<para>(d) A continuation statement may be filed only within six months before
+the expiration of the five-year period specified in subsection (a) or the
+thirty-year period specified in subsection (b), whichever is applicable.</para>
+<para>(e) Except as otherwise provided in section 9-510, upon timely filing
+of a continuation statement, the effectiveness of the initial financing statement
+continues for a period of five years commencing on the day on which the financing
+statement would have become ineffective in the absence of the filing. Upon
+the expiration of the five-year period, the financing statement lapses in
+the same manner as provided in subsection (c), unless, before the lapse, another
+continuation statement is filed pursuant to subsection (d). Succeeding continuation
+statements may be filed in the same manner to continue the effectiveness of
+the initial financing statement.</para>
+<para>(f) If a debtor is a transmitting utility and a filed initial financing statement so indicates, the
+financing statement is effective until a termination statement is filed.</para>
+<para>(g) A record of a mortgage that is effective as a financing statement
+filed as a fixture filing under section 9-502(c) remains effective as a financing
+statement filed as a fixture filing until the mortgage is released or satisfied
+of record or its effectiveness otherwise terminates as to the real property.</para>
+</amendatorysection></section><source>
+<para>Laws 1999, LB 550, § 159; </para>
+<para>Laws 2011, LB90, §  17.</para><operativedate>July 1, 2013</operativedate></source><annotation>
 <para><emphasis>COMMENT</emphasis></para>
 <para><emphasis>1. Source.</emphasis> Former section 9-403(2), (3), and (6).</para>
 <para><emphasis>2. Period of Financing Statement's Effectiveness.</emphasis> Subsection (a) states the general rule: A financing statement is effective for a five-year period unless its effectiveness is continued under this section or terminated under section 9-513. Subsection (b) provides that if the financing statement relates to a public-finance transaction or a manufactured-home transaction and so indicates, the financing statement is effective for 30 years. These financings typically extend well beyond the standard, five-year period. Under subsection (f), a financing statement filed against a transmitting utility remains effective indefinitely, until a termination statement is filed. Likewise, under subsection (g), a mortgage effective as a fixture filing remains effective until its effectiveness terminates under real property law.</para>
@@ -21,4 +48,5 @@
 <para><emphasis>Example 1:</emphasis> SP-1 and SP-2 both hold security interests in the same collateral. Both security interests are perfected by filing. SP-1 filed first and has priority under section 9-322(a)(1). The effectiveness of SP-1's filing lapses. As long as SP-2's security interest remains perfected thereafter, SP-2 is entitled to priority over SP-1's security interest, which is deemed never to have been perfected as against a purchaser for value (SP-2). See section 9-322(a)(2).</para>
 <para><emphasis>Example 2:</emphasis> SP holds a security interest perfected by filing. On July 1, LC acquires a judicial lien on the collateral. Two weeks later, the effectiveness of the financing statement lapses. Although the security interest becomes unperfected upon lapse, it was perfected when LC acquired its lien. Accordingly, notwithstanding the lapse, the perfected security interest has priority over the rights of LC, who is not a purchaser. See section 9-317(a)(2).</para>
 <para><emphasis>4. Effect of Debtor's Bankruptcy.</emphasis> Under former section 9-403(2), lapse was tolled if the debtor entered bankruptcy or another insolvency proceeding. Nevertheless, being unaware that insolvency proceedings had been commenced, filing offices routinely removed records from the files as if lapse had not been tolled. Subsection (c) deletes the former tolling provision and thereby imposes a new burden on the secured party: To be sure that a financing statement does not lapse during the debtor's bankruptcy. The secured party can prevent lapse by filing a continuation statement, even without first obtaining relief from the automatic stay. See Bankruptcy Code section 362(b)(3). Of course, if the debtor enters bankruptcy before lapse, the provisions of this article with respect to lapse would be of no effect to the extent that federal bankruptcy law dictates a contrary result (e.g., to the extent that the Bankruptcy Code determines rights as of the date of the filing of the bankruptcy petition).</para>
-<para><emphasis>5. Continuation Statements.</emphasis> Subsection (d) explains when a continuation statement may be filed. A continuation statement filed at a time other than that prescribed by subsection (d) is ineffective, see section 9-510(c), and the filing office may not accept it. See sections 9-516(b) and 9-520(a). Subsection (e) specifies the effect of a continuation statement and provides for successive continuation statements.</para></annotation></law></legaldoc>
+<para><emphasis>5. Continuation Statements.</emphasis> Subsection (d) explains when a continuation statement may be filed. A continuation statement filed at a time other than that prescribed by subsection (d) is ineffective, see section 9-510(c), and the filing office may not accept it. See sections 9-516(b) and 9-520(a). Subsection (e) specifies the effect of a continuation statement and provides for successive continuation statements.</para></annotation>  </law>
+</legaldoc>

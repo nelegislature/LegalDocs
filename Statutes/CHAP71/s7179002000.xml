@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Public Health and Welfare" statutenumber="71-7902"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>71-7902</statuteno><catchline>Peer review committee; report or information; privilege.</catchline><para>Any person or entity making a report or providing information to a peer review committee of a clinic, organization, or association at the request of such committee has the privilege to refuse to disclose such report or information and to prevent any other person or entity from disclosing the report or information, except as provided in section 71-7903. Such disclosure shall not constitute a waiver of any privilege by the person or entity.</para></amendatorysection></section><source><para>Laws 1997, LB 222, &#167; 2. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="71-7902">
+				<statuteno>71-7902</statuteno>
+				<catchline>Repealed. Laws 2011, LB 431, &#167; 17.</catchline>
+				
+			</amendatorysection>
+		</section>
+	</law>
+</legaldoc>

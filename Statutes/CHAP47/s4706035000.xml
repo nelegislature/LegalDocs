@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Jails and Correctional Facilities" statutenumber="47-635"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>47-635</statuteno><catchline>Act, how cited.</catchline><para>Sections 47-635 to 47-639 shall be known and may be cited as the Probation and Parole Services Study Act.</para></amendatorysection></section><source><para>Laws 2007, LB540, &#167; 1. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="47-635">
+				<statuteno>47-635</statuteno>
+				<catchline>Repealed. Laws 2011, LB 390, &#167; 39.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>July 1, 2011</operativedate></source>
+	</law>
+</legaldoc>

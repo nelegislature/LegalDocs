@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Labor" statutenumber="48-181"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>48-181</statuteno><catchline>Applicability of prior law.</catchline><para>Applications for rehearing pending in the Nebraska Workers' Compensation Court on July 15, 1992, and cases in which a hearing has been held prior to such date but in which no award has been issued as of such date shall not be affected by the changes made in sections 48-125, 48-155, 48-156, 48-169, 48-170, 48-178, 48-179, 48-182, and 48-185 by Laws 1992, LB 360, but any cause of action not in suit as of July 15, 1992, and any action in suit in which a hearing has not been held by the compensation court prior to such date shall follow the procedures in such sections as amended by Laws 1992, LB 360.</para></amendatorysection></section><source><para>Laws 1992, LB 360, &#167; 25. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="48-181">
+				<statuteno>48-181</statuteno>
+				<catchline>Repealed. Laws 2011, LB 7, &#167; 1.</catchline>
+				
+			</amendatorysection>
+		</section>
+	</law>
+</legaldoc>

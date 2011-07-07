@@ -1,1 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Real Property" statutenumber="76-2430"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>76-2430</statuteno><catchline>Commission; rules and regulations.</catchline><para>The commission shall adopt and promulgate rules and regulations to carry out sections 76-2401 to 76-2430.</para></amendatorysection></section><source><para>Laws 1994, LB 883, &#167; 30. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Real Property" statutenumber="76-2430"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>76-2430</statuteno><catchline>Commission; rules and regulations.</catchline>
+<para>The commission shall adopt and promulgate rules and regulations to carry
+out sections 76-2401 to 76-2430.</para>
+</amendatorysection></section><source><para>Laws 1994, LB 883, &#167; 30; </para><para>Laws 2011, LB25, &#167; 15.</para><effectivedate>August 27, 2011</effectivedate></source>  </law>
+</legaldoc>

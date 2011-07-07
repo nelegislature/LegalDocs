@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Public Health and Welfare" statutenumber="71-2046"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>71-2046</statuteno><catchline>Medical staff committee; utilization review committee; duties.</catchline><para>Each hospital licensed in the State of Nebraska shall cause a medical staff committee and a utilization review committee to be formed and operated for the purpose of reviewing, from time to time, the medical and hospital care provided in such hospital and the use of such hospital facilities and for assisting individual physicians and surgeons practicing in such hospital and the administrators and nurses employed in the operation of such hospital in maintaining and providing a high standard of medical and hospital care and promoting the most efficient use of such hospital facilities.</para></amendatorysection></section><source><para>Laws 1971, LB 148, &#167; 1. </para></source><annotation><para>This section provides that Nebraska hospitals will create one of each of the committees set forth in the statute to perform their functions on a hospital-wide basis. State ex rel. AMISUB, Inc. v. Buckley, 260 Neb. 596, 618 N.W.2d 684 (2000).</para></annotation></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="71-2046">
+				<statuteno>71-2046</statuteno>
+				<catchline>Repealed. Laws 2011, LB 431, &#167; 17.</catchline>
+				
+			</amendatorysection>
+		</section>
+	</law>
+</legaldoc>

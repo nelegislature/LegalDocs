@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Schools" statutenumber="79-947.03"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>79-947.03</statuteno><catchline>Annual benefit adjustment; terms, defined.</catchline><para>For purposes of this section and sections 79-947.04 and 79-947.05:</para><para>(1) Eligible retiree means (a) a member or a beneficiary who has been receiving a retirement benefit for at least five years, which member had at least twenty-five years of creditable service; (b) a member who has been receiving a disability retirement allowance for at least five years pursuant to section 79-952; or (c) a beneficiary who has been receiving a death benefit pursuant to section 79-956 for at least five years, and which member's or beneficiary's monthly accrual rate is less than or equal to the minimum accrual rate as determined by section 79-947.04;</para><para>(2) Monthly accrual rate means the eligible retiree's total monthly benefit divided by the number of years of creditable service earned by the retiree or deceased member; and</para><para>(3) Total monthly benefit means the total benefit received by an eligible retiree pursuant to the School Employees Retirement Act, previous adjustments made pursuant to section 79-947.05, or any other provision of Nebraska law which grants a benefit or cost-of-living increase within the act, but total monthly benefit does not include sums received by an eligible retiree from federal sources.</para></amendatorysection></section><source><para>Laws 1998, LB 532, &#167; 6. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="79-947.03">
+				<statuteno>79-947.03</statuteno>
+				<catchline>Repealed. Laws 2011, LB 509, &#167; 55.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>July 1, 2011</operativedate></source>
+	</law>
+</legaldoc>

@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><!--Arbortext, Inc., 1988-2004, v.4002--><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Elections" statutenumber="32-1608" amended="yes" publishedsource="CumulativeSupplement"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>32-1608</statuteno><catchline>Covered elective office; contributions; limitations.</catchline><para>During the election period, no candidate for a covered elective office shall accept contributions from independent committees, businesses, including corporations, unions, industry, trade, or professional associations, and political parties which, when aggregated, are in excess of fifty percent of the spending limitation for the office set pursuant to section 32-1604. The commission shall calculate the limitation on contributions under this section at the time it calculates the adjustments on the campaign spending limitations under section 32-1604. The commission shall publish the new contribution limits on its web site and shall notify any candidate who files for an office which is subject to the spending limitation of the contribution limits applicable at the time of filing.</para></amendatorysection></section><source><para>Laws 1992, LB 556, &#167; 8; </para><para>Laws 1993, LB 587, &#167; 6; </para><para>Laws 1997, LB 420, &#167; 9; </para><para>Laws 2001, LB 768, &#167; 9; </para><para>Laws 2006, LB 188, &#167; 9. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id4">
+<amendatorysection amended="yes" chaptername="Elections" id="id6" publishedsource="CumulativeSupplement" statutenumber="32-1608"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>32-1608</statuteno><catchline id="id9">Covered elective
+office; contributions; limitations.</catchline><para>During the
+election period, no candidate for a covered elective office shall accept contributions
+from independent committees, businesses, including corporations, unions, industry,
+trade, or professional associations, and political parties which, when aggregated,
+are in excess of seventy-five percent of the
+spending limitation for the office set pursuant to section 32-1604. The commission
+shall calculate the limitation on contributions under this section at the
+time it calculates the adjustments on the campaign spending limitations under
+section 32-1604. The commission shall publish the new contribution limits
+on its web site and shall notify any candidate who files for an office which
+is subject to the spending limitation of the contribution limits applicable
+at the time of filing.</para>
+</amendatorysection></section><source><para>Laws 1992, LB 556, &#167; 8; </para><para>Laws 1993, LB 587, &#167; 6; </para><para>Laws 1997, LB 420, &#167; 9; </para><para>Laws 2001, LB 768, &#167; 9; </para><para>Laws 2006, LB 188, &#167; 9; </para><para>Laws 2011, LB142, &#167; 1.</para><effectivedate>August 27, 2011</effectivedate></source>  </law>
+</legaldoc>

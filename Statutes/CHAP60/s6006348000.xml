@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Motor Vehicles" statutenumber="60-6,348"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>60-6,348</statuteno><catchline>Minibikes and off-road vehicles; use; emergencies; parades.</catchline><para>Minibikes and all off-road vehicles, including but not limited to golf carts, go-carts, riding lawnmowers, garden tractors, and snowmobiles, shall be exempt from the provisions of sections 60-678 and 60-6,351 to 60-6,353 during any public emergency or while being used in parades by regularly organized units of any recognized charitable, social, educational, or community service organization.</para></amendatorysection></section><source><para>Laws 1971, LB 644, &#167; 7; </para><para>Laws 1972, LB 1196, &#167; 6; </para><para>Laws 1987, LB 80, &#167; 12; </para><para>R.S.1943, (1988), &#167; 60-2102; </para><para>Laws 1993, LB 370, &#167; 444. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id259">
+<amendatorysection amended="yes" chaptername="Motor Vehicles" id="id261" statutenumber="60-6,348">
+<bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>60-6,348</statuteno><catchline id="id264">Minibikes
+and off-road designed vehicles;
+use; emergencies; parades.</catchline><para>Minibikes and all off-road designed vehicles not authorized by law for use on a highway,
+including, but
+not limited to, golf
+carts, go-carts, riding lawnmowers, garden tractors, and snowmobiles, shall
+be exempt from the provisions of sections 60-678, 60-6,351
+to 60-6,353, and 60-6,380 during
+any public emergency or while being used in parades by regularly organized
+units of any recognized charitable, social, educational, or community service
+organization.</para>
+</amendatorysection></section><source><para>Laws 1971, LB 644, &#167; 7; </para><para>Laws 1972, LB 1196, &#167; 6; </para><para>Laws 1987, LB 80, &#167; 12; </para><para>R.S.1943, (1988), &#167; 60-2102; </para><para>Laws 1993, LB 370, &#167; 444; </para><para>Laws 2011, LB289, &#167; 33.</para><operativedate>January 1, 2012</operativedate></source>  </law>
+</legaldoc>

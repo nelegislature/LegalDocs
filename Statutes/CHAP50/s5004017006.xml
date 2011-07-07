@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Legislature" statutenumber="50-417.06"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>50-417.06</statuteno><catchline>State and political subdivisions; liability.</catchline><para>Neither the state nor any political subdivision shall be held liable for providing information requested or be responsible for the payment of the actuarial survey under the Law Enforcement Officers Retirement Survey Act.</para></amendatorysection></section><source><para>Laws 2007, LB328, &#167; 16. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="50-417.06">
+				<statuteno>50-417.06</statuteno>
+				<catchline>Repealed. Laws 2011, LB 509, &#167; 55.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>July 1, 2011</operativedate></source>
+	</law>
+</legaldoc>

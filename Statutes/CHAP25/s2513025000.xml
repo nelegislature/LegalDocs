@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Courts; Civil Procedure" statutenumber="25-1325"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>25-1325</statuteno><catchline>Complete record; action dismissed; setoff and counterclaim.</catchline><para>Unless waived by the parties, a complete record shall be made in cases where a setoff or a counterclaim has been presented by the defendant and the plaintiff's cause dismissed by himself or by the court.</para></amendatorysection></section><source><para>R.S.1867, Code &#167; 450, p. 468; </para><para>R.S.1913, &#167; 8018; </para><para>C.S.1922, &#167; 8959; </para><para>C.S.1929, &#167; 20-1325; </para><para>R.S.1943, &#167; 25-1325.</para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="25-1325">
+				<statuteno>25-1325</statuteno>
+				<catchline>Repealed. Laws 2011, LB 17, &#167; 8.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>January 1, 2012</operativedate></source>
+	</law>
+</legaldoc>

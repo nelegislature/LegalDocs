@@ -1,14 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="ucc"><section><sectno></sectno><amendatorysection chaptername="Uniform Commercial Code" statutenumber="9-326">
-<bookinfo>Uniform Commercial Code, Reissue Revised Statutes of Nebraska</bookinfo>
-<statuteno>9-326</statuteno>
-<catchline>Priority of security interests created by new debtor.</catchline>
-<para>(a) Subject to subsection (b), a security interest created by a new debtor which is perfected by a filed financing statement that is effective solely under section 9-508 in collateral in which a new debtor has or acquires rights is subordinate to a security interest in the same collateral which is perfected other than by a filed financing statement that is effective solely under section 9-508.</para>
-<para>(b) The other provisions of this part determine the priority among conflicting security interests in the same collateral perfected by filed financing statements that are effective solely under section 9-508. However, if the security agreements to which a new debtor became bound as debtor were not entered into by the same original debtor, the conflicting security interests rank according to priority in time of the new debtor's having become bound.</para>
-</amendatorysection></section>
-<source>
-<para>Laws 1999, LB 550, &#167; 119.</para>
-</source>
-<annotation>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Uniform Commercial Code" statutenumber="9-326"><bookinfo>Revised Statutes Supplement, 2011</bookinfo>
+<statuteno>9-326</statuteno><catchline>Priority of security interests created
+by new debtor.</catchline><para>(a) Subject to subsection (b), a security
+interest that is created
+by a new debtor in collateral in which the new debtor
+has or acquires rights and is perfected solely by a filed financing statement that would be ineffective to perfect the security
+interest but for the application of section 9-316(i)(1) or 9-508 is
+subordinate to a security interest in the same collateral which is perfected
+other than by such a
+filed financing statement.</para>
+<para>(b) The other provisions of this part determine the priority among conflicting
+security interests in the same collateral perfected by filed financing statements described
+in subsection (a). However, if the security agreements to which
+a new debtor became bound as debtor were not entered into by the same original
+debtor, the conflicting security interests rank according to priority in time
+of the new debtor's having become bound.</para>
+</amendatorysection></section><source>
+<para>Laws 1999, LB 550, § 119; </para>
+<para>Laws 2011, LB90, §  10.</para><operativedate>July 1, 2013</operativedate></source><annotation>
 <para><emphasis>COMMENT</emphasis></para>
 <para><emphasis>1. Source.</emphasis> New.</para>
 <para><emphasis>2. Subordination of Security Interests Created by New Debtor.</emphasis> This section addresses the priority contests that may arise when a new debtor becomes bound by the security agreement of an original debtor and each debtor has a secured creditor.</para>
@@ -21,4 +33,5 @@
 <para>The second sentence of subsection (b) effectively limits the applicability of the first sentence to situations in which a new debtor has become bound by more than one security agreement entered into by the same original debtor. When the new debtor has become bound by security agreements entered into by different original debtors, the second sentence provides that priority is based on priority in time of the new debtor's becoming bound.</para>
 <para><emphasis>Example 5:</emphasis> Under the facts of example 2, SP-W holds a perfected-by-filing security interest in W Corp's existing and after-acquired inventory. After Z Corp became bound by X Corp's security agreement in favor of SP-X, Z Corp became bound by W Corp's security agreement. Under subsection (b), SP-W's security interest in inventory acquired by Z Corp is subordinate to that of SP-X, because Z Corp became bound under SP-X's security agreement before it became bound under SP-W's security agreement. This is the result regardless of which financing statement (SP-X's or SP-W's) was filed first.</para>
 <para>The second sentence of subsection (b) reflects the generally accepted view that priority based on the first-to-file rule is inappropriate for resolving priority disputes when the filings were made against different debtors. Like subsection (a) and the first sentence of subsection (b), however, the second sentence of subsection (b) relates only to priority conflicts among security interests perfected by filed financing statements that are "effective solely under section 9-508".</para>
-<para><emphasis>Example 6:</emphasis> Under the facts of example 5, after Z Corp became bound by W Corp's security agreement, SP-W promptly filed a new initial financing statement against Z Corp. At that time, SP-X's security interest was perfected only pursuant to its original filing against X Corp which was "effective solely under section 9-508". Because SP-W's security interest is not perfected by a financing statement that is "effective solely under section 9-508", this section does not apply to the priority contest. Rather, the normal priority rules apply. Under section 9-322, because SP-W's financing statement was the first to be filed against Z Corp, the new debtor, SP-W's security interest is senior to that of SP-X. Similarly, the normal priority rules would govern priority between SP-W and SP-Z.</para></annotation></law></legaldoc>
+<para><emphasis>Example 6:</emphasis> Under the facts of example 5, after Z Corp became bound by W Corp's security agreement, SP-W promptly filed a new initial financing statement against Z Corp. At that time, SP-X's security interest was perfected only pursuant to its original filing against X Corp which was "effective solely under section 9-508". Because SP-W's security interest is not perfected by a financing statement that is "effective solely under section 9-508", this section does not apply to the priority contest. Rather, the normal priority rules apply. Under section 9-322, because SP-W's financing statement was the first to be filed against Z Corp, the new debtor, SP-W's security interest is senior to that of SP-X. Similarly, the normal priority rules would govern priority between SP-W and SP-Z.</para></annotation>  </law>
+</legaldoc>

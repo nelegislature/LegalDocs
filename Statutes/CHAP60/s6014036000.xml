@@ -1,75 +1,123 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section>
-<sectno></sectno><amendatorysection amended="yes" chaptername="Motor Vehicles" statutenumber="60-1436"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>60-1436</statuteno><catchline>Manufacturer or distributor; prohibited
-acts with respect to new motor vehicle dealers.</catchline><para>A manufacturer
-or distributor shall not require or coerce any new motor vehicle dealer in
-this state to do any of the following:</para>
-<para>(1) Order or accept delivery of any new motor vehicle, part or accessory,
-equipment, or other commodity not required by law which was not voluntarily
-ordered by the new motor vehicle dealer. This section shall not be construed
-to prevent the manufacturer or distributor from requiring that new motor vehicle
-dealers carry a reasonable inventory of models offered for sale by the manufacturer
-or distributor;</para>
-<para>(2) Offer or accept delivery of any new motor vehicle with special features,
-accessories, or equipment not included in the list price of the new motor
-vehicle as publicly advertised by the manufacturer or distributor;</para>
-<para>(3) Participate monetarily in any advertising campaign or contest or
-purchase any promotional materials, display devices, or display decorations
-or materials at the expense of the new motor vehicle dealer;</para>
-<para>(4) Join, contribute
-to, or affiliate with an advertising association;</para><para>(5) Enter into any agreement with the manufacturer
-or distributor or do any other act prejudicial to the new motor vehicle dealer
-by threatening to terminate a dealer agreement or any contractual agreement
-or understanding existing between the dealer and the manufacturer or distributor.
-Notice in good faith to any dealer of the dealer's violation of any terms
-or provisions of the dealer agreement shall not constitute a violation of the Motor Vehicle Industry Regulation
-Act;</para>
-<para>(6) Change the capital structure
-of the new motor vehicle dealership or the means by or through which the dealer
-finances the operation of the dealership, if the dealership at all times meets
-any reasonable capital standards determined by the manufacturer in accordance
-with uniformly applied criteria;</para>
-<para>(7) Refrain from participation
-in the management of, investment in, or the acquisition of any other line
-of new motor vehicle or related products as long as the dealer maintains a
-reasonable line of credit for each make or line of vehicle, remains in compliance
-with reasonable facilities requirements, and makes no change in the principal
-management of the dealer;</para>
-<para>(8) Prospectively assent to
-a release, assignment, novation, waiver, or estoppel which would relieve any
-person from liability imposed by the
-act or require any controversy between the new motor vehicle dealer
+<section id="id56">
+<amendatorysection amended="yes" chaptername="Motor Vehicles" id="id58" statutenumber="60-1436"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>60-1436</statuteno><catchline id="id61">Manufacturer
+or distributor; prohibited acts with respect to new motor vehicle dealers.</catchline>
+<para>A manufacturer or distributor shall not require or coerce
+any new motor vehicle dealer in this state to do any of the following:</para>
+<para>(1) Order or accept delivery of any new motor vehicle, part
+or accessory, equipment, or other commodity not required by law which was
+not voluntarily ordered by the new motor vehicle dealer or retain any part or accessory that the dealer has not
+sold within twelve months if the part or accessory was not obtained through
+a specific order initiated by the dealer but was specified for, sold to, and
+shipped to the dealer pursuant to an automatic ordering system, if the part
+or accessory is in the condition required for return, and if the part or accessory
+is returned within thirty days after such twelve-month period. For purposes of this subdivision, automatic
+ordering system means a computerized system required by the franchisor, manufacturer,
+or distributor that automatically specifies parts and accessories for sale
+and shipment to the dealer without specific order thereof initiated by the
+dealer. The manufacturer, factory branch, distributor, or distributor branch
+shall not charge a restocking or handling fee for any part or accessory returned
+under this subdivision. In determining whether parts or accessories in the
+dealer's inventory were specified and sold under an automated ordering system,
+the parts and accessories in the dealer's inventory are presumed to be the
+most recent parts and accessories that were sold to the dealer. This
+section shall not be construed to prevent the manufacturer or distributor
+from requiring that new motor vehicle dealers carry a reasonable inventory
+of models offered for sale by the manufacturer or distributor;</para>
+<para>(2) Offer or accept delivery of any new motor vehicle with
+special features, accessories, or equipment not included in the list price
+of the new motor vehicle as publicly advertised by the manufacturer or distributor;</para>
+<para>(3) Participate monetarily in any advertising campaign or
+contest or purchase any promotional materials, display devices, or display
+decorations or materials at the expense of the new motor vehicle dealer;</para>
+<para>(4) Join, contribute to, or affiliate with an advertising
+association;</para>
+<para>(5) Enter into any agreement with the manufacturer or distributor
+or do any other act prejudicial to the new motor vehicle dealer by threatening
+to terminate a dealer agreement or any contractual agreement or understanding
+existing between the dealer and the manufacturer or distributor. Notice in
+good faith to any dealer of the dealer's violation of any terms or provisions
+of the dealer agreement shall not constitute a violation of the Motor Vehicle
+Industry Regulation Act;</para>
+<para>(6) Change the capital structure of the new motor vehicle
+dealership or the means by or through which the dealer finances the operation
+of the dealership, if the dealership at all times meets any reasonable capital
+standards determined by the manufacturer in accordance with uniformly applied
+criteria;</para>
+<para>(7) Refrain from participation in the management of, investment
+in, or the acquisition of any other line of new motor vehicle or related products
+as long as the dealer maintains a reasonable line of credit for each make
+or line of vehicle, remains in compliance with reasonable facilities requirements,
+and makes no change in the principal management of the dealer;</para>
+<para>(8) Prospectively assent to a release, assignment, novation,
+waiver, or estoppel which would relieve any person from liability imposed
+by the act or require any controversy between the new motor vehicle dealer
 and a manufacturer or distributor to be referred to a person other than the
 duly constituted courts of the state or the United States, if the referral
 would be binding upon the new motor vehicle dealer;</para>
-<para>(9) Change the location of
-the new motor vehicle dealership or make any substantial alterations to the
-dealership premises, if such changes or alterations would be unreasonable;</para>
-<para>(10) Release, convey, or otherwise
-provide customer information if to do so is unlawful or if the customer objects
-in writing to doing so, unless the information is necessary for the manufacturer,
-factory branch, or distributor to meet its obligations to consumers or the
-new motor vehicle dealer including vehicle recalls or other requirements imposed
-by state or federal law;</para>
-<para>(11) Release to any unaffiliated
-third party any customer information which has been provided by the new motor
-vehicle dealer to the manufacturer except as provided in subdivision (10) of this section;</para>
-<para>(12) Establish in connection
-with the sale of a motor vehicle prices at which the dealer must sell products
-or services not manufactured or distributed by the manufacturer or distributor,
-whether by agreement, program, incentive provision, or otherwise; or</para>
-<para>(13) Underutilize the
-dealer's facilities by requiring or coercing a dealer to exclude or remove
-from the dealer's facilities operations for selling or servicing a line-make
-of motor vehicles for which the dealer has a franchise agreement to utilize
-the facilities, except that this subdivision does not prohibit a manufacturer
-from requiring exclusive sales facilities that are in compliance with reasonable
-requirements for the facilities.</para><para>Any action prohibited for a manufacturer or distributor
-under the Motor Vehicle Industry Regulation Act is also prohibited for a subsidiary
+<para>(9) Change the location of the new motor vehicle dealership
+or make any substantial alterations to the dealership premises, if such changes
+or alterations would be unreasonable,
+including unreasonably requiring a franchisee to establish, maintain, or continue
+exclusive sales facilities, sales display space, personnel, service, parts,
+or administrative facilities for a line-make, unless such exclusivity is reasonable
+and otherwise justified by reasonable business considerations. In making that
+determination, the franchisor shall take into consideration the franchisee's
+compliance with facility requirements as required by the franchise agreement.
+The franchisor shall have the burden of proving that business considerations
+justify exclusivity;</para>
+<para>(10) Release, convey, or otherwise provide customer information
+if to do so is unlawful or if the customer objects in writing to doing so,
+unless the information is necessary for the manufacturer, factory branch,
+or distributor to meet its obligations to consumers or the new motor vehicle
+dealer including vehicle recalls or other requirements imposed by state or
+federal law;</para>
+<para>(11) Release to any unaffiliated third party any customer
+information which has been provided by the new motor vehicle dealer to the
+manufacturer except as provided in subdivision (10) of this section. A manufacturer, importer, or distributor
+may not share, sell, or transfer customer information, obtained from a dealer
+and not otherwise publicly available, to other dealers franchised by the manufacturer
+while the originating dealer is still a franchised dealer of the manufacturer
+unless otherwise agreed to by the originating dealer. A manufacturer, importer,
+or distributor may not use any nonpublic personal information, as that term
+is used in 16 C.F.R. part 313, which is obtained from a dealer unless such
+use falls within one or more of the exceptions to opt out requirements under
+16 C.F.R. 313.14 or 313.15;</para>
+<para>(12) Establish in connection with the sale of a motor vehicle
+prices at which the dealer must sell products or services not manufactured
+or distributed by the manufacturer or distributor, whether by agreement, program,
+incentive provision, or otherwise;</para>
+<para>(13) Underutilize the dealer's facilities by requiring or
+coercing a dealer to exclude or remove from the dealer's facilities operations
+for selling or servicing a line-make of motor vehicles for which the dealer
+has a franchise agreement to utilize the facilities, except that this subdivision
+does not prohibit a manufacturer from requiring an exclusive sales area within the facilities that are in compliance
+with reasonable requirements for the facilities if the dealer complies with subdivision (9) of this section;
+or</para>
+<para>(14)(a) Enter
+into any agreement with a manufacturer, factory branch, distributor, distributor
+branch, or one of its affiliates which gives site control of the premises
+of the dealer that does not terminate upon the occurrence of any of the following
+events:</para><para>(i) The right of the franchisor to manufacture or distribute the
+line-make of vehicles covered by the dealer's franchise is sold, assigned,
+or otherwise transferred by the manufacturer, factory branch, distributor,
+or distributor branch to another; or</para><para>(ii) The final termination of the dealer's
+franchise for any reason unless an agreement for site control is voluntarily
+negotiated separately and apart from the franchise agreement and consideration
+has been offered by the manufacturer and accepted by the dealer. If a dealer
+voluntarily terminates and has entered into a separately negotiated site control
+agreement, the agreement may survive the termination if the agreement clearly
+states that fact.</para><para>(b) For purposes of this subdivision, site control means the contractual
+right to control in any way the commercial use and development of the premises
+upon which a dealer's business operations are located, including the right
+to approve of additional or different uses for the property beyond those of
+its franchise, the right to lease or sublease the dealer's property, or the
+right or option to purchase the dealer's property.</para><para>Any action prohibited for a manufacturer or distributor under the
+Motor Vehicle Industry Regulation Act is also prohibited for a subsidiary
 which is wholly owned or controlled by contract by a manufacturer or distributor
 or in which a manufacturer or distributor has more than a ten percent ownership
-interest, including a financing division.</para></amendatorysection>
-</section><source><para>Laws 1984, LB 825, &#167; 19; </para><para>Laws 1999, LB 632, &#167; 7; </para><para>Laws 2010, LB816, &#167; 81.</para></source>  </law>
+interest, including a financing division.</para>
+</amendatorysection></section><source><para>Laws 1984, LB 825, &#167; 19; </para><para>Laws 1999, LB 632, &#167; 7; </para><para>Laws 2010, LB816, &#167; 81; </para><para>Laws 2011, LB477, &#167; 7.</para><effectivedate>August 27, 2011</effectivedate></source>  </law>
 </legaldoc>

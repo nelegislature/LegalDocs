@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="iso-8859-1"?> <legaldoc> <law type="statute"> <section id="id59"> <sectno id="id60" opdate="July 1, 2011">Sec. 7.</sectno><amendatorysection chaptername="Revenue and Taxation" id="id61" publishedsource="AnnualSupplement" statutenumber="77-27,137.03"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>77-27,137.03</statuteno><catchline>Aid to counties; distribution; manner.</catchline><para>The Legislature shall appropriate funds as aid to counties in an amount equal to a percentage of the total real and personal property valuation of all counties, such percent to be not less than .0075 percent nor more than .0125 percent.</para> <para>Of the appropriation, each county shall receive thirty thousand dollars and the remaining amount shall be distributed to each county on the basis of the ratio of the total real and personal property valuation in the county to the total real and personal property valuation in the state.</para><para>The Tax Commissioner shall determine the amount to be distributed to the various counties under this section and certify such amounts to the Director of Administrative Services on or before July 1 of each year. Each amount shall be distributed in nine as nearly as possible equal monthly payments on the last business day of each month beginning in September.</para></amendatorysection></section><source><para>Laws 2009, LB218, &#167; 7.</para><operativedate>July 1, 2011</operativedate></source>  </law> </legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="77-27,137.03">
+				<statuteno>77-27,137.03</statuteno>
+				<catchline>Repealed. Laws 2011, LB 383, &#167; 9.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>July 1, 2011</operativedate></source>
+	</law>
+</legaldoc>

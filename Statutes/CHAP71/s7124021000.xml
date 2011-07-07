@@ -1,1 +1,58 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection amended="yes" chaptername="Public Health and Welfare" statutenumber="71-2421"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>71-2421</statuteno><catchline>Return of dispensed drugs and devices; conditions.</catchline><para>(1) To protect the public safety, dispensed drugs or devices may be returned to the dispensing pharmacy only under the following conditions:</para><para>(a) For immediate destruction by a pharmacist, except that drugs and devices dispensed to residents of a long-term care facility shall be destroyed on the site of the long-term care facility;</para><para>(b) In response to a recall by the manufacturer, packager, or distributor;</para><para>(c) If a device is defective or malfunctioning; or</para><para>(d) Return from a long-term care facility for credit, except that:</para><para>(i) No controlled substance may be returned;</para><para>(ii) The decision to accept the return of the dispensed drug or device shall rest solely with the pharmacist;</para><para>(iii) The dispensed drug or device shall have been in the control of the long-term care facility at all times;</para><para>(iv) The dispensed drug or device shall be in the original and unopened labeled container with a tamper-evident seal intact, as dispensed by the pharmacy. Such container shall bear the expiration date or calculated expiration date and lot number; and</para><para>(v) Tablets or capsules shall have been dispensed in a unit dose with a tamper-evident container which is impermeable to moisture and approved by the Board of Pharmacy.</para><para>(2) Returned dispensed drugs or devices shall not be retained in inventory nor made available for subsequent dispensing, except as provided in subdivision (1)(d) of this section.</para><para>(3) For purposes of this section:</para><para>(a) Calculated expiration date means an expiration date on the prepackaged product which is not greater than twenty-five percent of the time between the date of repackaging and the expiration date of the bulk container nor greater than six months from the date of repackaging;</para><para>(b) Dispense, drugs, and devices are defined in the Pharmacy Practice Act; and</para><para>(c) Long-term care facility does not include an assisted-living facility as defined in section 71-406.</para></amendatorysection></section><source><para>Laws 1999, LB 333, &#167; 1; </para><para>Laws 2001, LB 398, &#167; 74; </para><para>Laws 2002, LB 1062, &#167; 53; </para><para>Laws 2007, LB247, &#167; 51; </para><para>Laws 2007, LB463, &#167; 1199.</para></source><crossreference><para><emphasis>Pharmacy Practice Act,</emphasis> see section 38-2801.</para></crossreference></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Public Health and Welfare" statutenumber="71-2421"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>71-2421</statuteno><catchline>Collection or return of dispensed
+drugs and devices; conditions;
+fee; liability; professional disciplinary action.</catchline>
+<para>(1) To protect the public safety, dispensed drugs or devices:</para>
+<para>(a) May be collected in a pharmacy for disposal;</para>
+<para>(b) May be returned to a pharmacy in response
+to a recall by the manufacturer, packager, or distributor or if a device is
+defective or malfunctioning;</para>
+<para>(c) Shall not be returned
+to saleable inventory nor made available for subsequent relabeling and redispensing,
+except as provided in subdivision (1)(d) of this section; or</para>
+<para>(d) May be returned from a long-term care
+facility to the pharmacy from which they were dispensed for credit or for
+relabeling and redispensing, except that:</para>
+<para>(i) No controlled substance may be returned;</para>
+<para>(ii) The decision to accept the return of the dispensed drug or device
+shall rest solely with the pharmacist;</para>
+<para>(iii) The dispensed drug or device shall have been in the control of
+the long-term care facility at all times;</para>
+<para>(iv) The dispensed drug or device shall be in the original and unopened
+labeled container with a tamper-evident seal intact, as dispensed by the pharmacist. Such container shall bear the expiration
+date or calculated expiration date and lot number; and</para>
+<para>(v) Tablets or capsules shall have been dispensed in a unit dose container
+which is impermeable to moisture and approved by the Board of Pharmacy.</para>
+
+<para>(2) Pharmacies may charge
+a fee for collecting dispensed drugs or devices for disposal or from a long-term
+care facility for credit or for relabeling and redispensing.</para>
+<para>(3) Any person or entity
+which exercises reasonable care in collecting dispensed drugs or devices for
+disposal or from a long-term care facility for credit or for relabeling and
+redispensing pursuant to this section shall be immune from civil or criminal
+liability or professional disciplinary action of any kind for any injury,
+death, or loss to person or property relating to such activities.</para>
+<para>(4) A drug manufacturer
+which exercises reasonable care shall be immune from civil or criminal liability
+for any injury, death, or loss to persons or property relating to the relabeling
+and redispensing of drugs returned from a long-term care facility.</para>
+<para>(5) Notwithstanding subsection
+(4) of this section, the relabeling and redispensing of drugs returned from
+a long-term care facility does not absolve a drug manufacturer of any criminal
+or civil liability that would have existed but for the relabeling and redispensing
+and such relabeling and redispensing does not increase the liability of such
+drug manufacturer that would have existed but for the relabeling and redispensing.</para>
+<para>(6) For purposes of this section:</para>
+<para>(a) Calculated expiration date means the expiration date on the manufacturer's,
+packager's, or distributor's container or one year from the date the drug
+or device is repackaged, whichever is earlier;</para>
+<para>(b) Dispense, drugs, and devices are defined in the Pharmacy Practice
+Act; and</para>
+<para>(c) Long-term care facility does not include an assisted-living facility
+as defined in section 71-406.</para>
+</amendatorysection></section><source><para>Laws 1999, LB 333, &#167; 1; </para><para>Laws 2001, LB 398, &#167; 74; </para><para>Laws 2002, LB 1062, &#167; 53; </para><para>Laws 2007, LB247, &#167; 51; </para><para>Laws 2007, LB463, &#167; 1199; </para><para>Laws 2011, LB274, &#167; 1.</para><effectivedate>August 27, 2011</effectivedate></source><crossreference><para><emphasis>Pharmacy Practice Act,</emphasis> see section 38-2801.</para></crossreference>  </law>
+</legaldoc>

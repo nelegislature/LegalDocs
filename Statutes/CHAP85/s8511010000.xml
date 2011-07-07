@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="State Uni., State Colleges, and Post. Education" statutenumber="85-1110"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>85-1110</statuteno><catchline>Petition; effect of approval or disapproval.</catchline><para>If the petition is approved, the petitioner shall be authorized to proceed with the establishment of the proposed college. If the petition is disapproved, the college shall not be established.</para></amendatorysection></section><source><para>Laws 1967, c. 513, &#167; 6, p. 1720; </para><para>R.S.1943, (1976), &#167; 79-2406. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="85-1110">
+				<statuteno>85-1110</statuteno>
+				<catchline>Repealed. Laws 2011, LB 637, &#167; 35.</catchline>
+				
+			</amendatorysection>
+		</section>
+	</law>
+</legaldoc>

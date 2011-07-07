@@ -1,1 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Labor" statutenumber="48-631"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>48-631</statuteno><catchline>Claims; redetermination; time; notice; appeal.</catchline><para>The deputy may reconsider a determination whenever he finds that an error in computation or identity has occurred in connection therewith, or that wages of the claimant pertinent to such determination, but not considered in connection therewith, have been newly discovered, or that benefits have been allowed or denied or the amount of benefits fixed on the basis of misrepresentations of fact, but no such redetermination shall be made after two years from the date of the original determination. Notice of any such redetermination shall be promptly given to the parties entitled to notice of the original determination, in the manner prescribed in section 48-630 with respect to notice of an original determination. If the amount of benefits is increased or decreased upon such redetermination, an appeal therefrom solely with respect to the matters involved in such increase or decrease may be filed in the manner and subject to the limitations provided in section 48-633. Subject to the same limitations and for the same reasons, the Commissioner of Labor may reconsider the determination, in any case in which the final decision has been rendered by an appeal tribunal or a court, and may apply to the tribunal or court which rendered such final decision to issue a revised decision. In the event that an appeal involving an original determination is pending as of the date a redetermination thereof is issued, such appeal, unless withdrawn, shall be treated as an appeal from such redetermination.</para></amendatorysection></section><source><para>Laws 1941, c. 94, &#167; 4, p. 385; </para><para>C.S.Supp.,1941, &#167; 48-706; </para><para>R.S.1943, &#167; 48-631; </para><para>Laws 1961, c. 238, &#167; 5, p. 711. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Labor" statutenumber="48-631"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>48-631</statuteno><catchline>Claims; redetermination; time; notice;
+appeal.</catchline><para>The deputy may reconsider a determination whenever
+he or she finds
+that an error in computation or identity has occurred in connection therewith,
+or that wages of the claimant pertinent to such determination, but not considered
+in connection therewith, have been newly discovered, or that benefits have
+been allowed or denied or the amount of benefits fixed on the basis of misrepresentations
+of fact, but no such redetermination shall be made after two years from the
+date of the original determination. Notice of any such redetermination shall
+be promptly given to the parties entitled to notice of the original determination,
+in the manner prescribed in section 48-630 with respect to notice of an original
+determination. If the amount of benefits is increased or decreased upon such
+redetermination, an appeal therefrom solely with respect to the matters involved
+in such increase or decrease may be filed in the manner and subject to the
+limitations provided in section 48-634. Subject to the same
+limitations and for the same reasons, the Commissioner of Labor may reconsider
+the determination, in any case in which the final decision has been rendered
+by an appeal tribunal or a court, and may apply to the tribunal or court which
+rendered such final decision to issue a revised decision. In the event that
+an appeal involving an original determination is pending as of the date a
+redetermination thereof is issued, such appeal, unless withdrawn, shall be
+treated as an appeal from such redetermination.</para>
+</amendatorysection></section><source><para>Laws 1941, c. 94, &#167; 4, p. 385; </para><para>C.S.Supp.,1941, &#167; 48-706; </para><para>R.S.1943, &#167; 48-631; </para><para>Laws 1961, c. 238, &#167; 5, p. 711; </para><para>Laws 2011, LB11, &#167; 1.</para><effectivedate>August 27, 2011</effectivedate></source>  </law>
+</legaldoc>

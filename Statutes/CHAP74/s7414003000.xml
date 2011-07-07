@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Railroads" statutenumber="74-1403"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>74-1403</statuteno><catchline>Acquisition project, defined.</catchline><para>Acquisition project means a project to acquire, by purchase, lease, or other appropriate method, a line of railroad or other rail properties or an interest in a line of railroad or other rail properties for existing or future rail freight service or to maintain existing transportation corridors for future rail or other transportation uses.</para></amendatorysection></section><source><para>Laws 1996, LB 463, &#167; 4. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="74-1403">
+				<statuteno>74-1403</statuteno>
+				<catchline>Repealed. Laws 2011, LB 259, &#167; 5.</catchline>
+				
+			</amendatorysection>
+		</section>
+	</law>
+</legaldoc>

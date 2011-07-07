@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id44">
-<sectno id="id45">Sec. 6.</sectno><amendatorysection amended="yes" chaptername="Criminal Procedure" id="id46" statutenumber="29-2258"><bookinfo>Revised Statutes Cumulative Supplement, 2010</bookinfo><statuteno id="id48">29-2258</statuteno><catchline id="id49">District probation
+<section id="id58">
+<amendatorysection amended="yes" chaptername="Criminal Procedure" id="id60" statutenumber="29-2258">
+<bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>29-2258</statuteno><catchline id="id63">District probation
 officer; duties; powers.</catchline><para>A district probation officer
 shall:</para>
 <para>(1) Conduct juvenile intake interviews and investigations
-in accordance with section 43-253 utilizing a standardized juvenile detention
-screening instrument described in section 43-260.01;</para>
+in accordance with sections
+43-253 and 43-260.01;</para>
 <para>(2) Make presentence and other investigations, as may be required
 by law or directed by a court in which he or she is serving;</para>
 <para>(3) Supervise probationers in accordance with the rules and
@@ -21,8 +22,8 @@ of a probationer may require a modification of the conditions of probation
 or when a probationer's adjustment is such as to warrant termination of probation;</para>
 <para>(6) Provide each probationer with a statement of the period
 and conditions of his or her probation;</para>
-<para>(7) Whenever necessary, exercise the power of arrest or temporary custody as provided
-in section 29-2262.08 or 29-2266;</para>
+<para>(7) Whenever necessary, exercise the power of arrest or temporary
+custody as provided in section 29-2266 or 43-286.01;</para>
 <para>(8) Establish procedures for the direction and guidance of
 deputy probation officers under his or her jurisdiction and advise such officers
 in regard to the most effective performance of their duties;</para>
@@ -52,5 +53,5 @@ Probation Administration Act or the rules and regulations of the office as
 a court may from time to time direct; and</para>
 <para>(17) Exercise all powers and perform all duties necessary
 and proper to carry out his or her responsibilities.</para>
-</amendatorysection></section><source><para>Laws 1971, LB 680, &#167; 13; </para><para>Laws 1979, LB 536, &#167; 8; </para><para>Laws 1986, LB 529, &#167; 40; </para><para>Laws 2001, LB 451, &#167; 4; </para><para>Laws 2003, LB 43, &#167; 10; </para><para>Laws 2005, LB 538, &#167; 9; </para><para>Laws 2010, LB800, &#167; 6.</para></source><annotation><para>While performing their duties under this section, juvenile probation officers are considered to be the personnel of the separate juvenile courts they serve. In re Interest of Chad S., 263 Neb. 184, 639 N.W.2d 84 (2002).</para></annotation>  </law>
+</amendatorysection></section><source><para>Laws 1971, LB 680, &#167; 13; </para><para>Laws 1979, LB 536, &#167; 8; </para><para>Laws 1986, LB 529, &#167; 40; </para><para>Laws 2001, LB 451, &#167; 4; </para><para>Laws 2003, LB 43, &#167; 10; </para><para>Laws 2005, LB 538, &#167; 9; </para><para>Laws 2010, LB800, &#167; 6; </para><para>Laws 2011, LB463, &#167; 2.</para><operativedate>May 12, 2011</operativedate></source><annotation><para>While performing their duties under this section, juvenile probation officers are considered to be the personnel of the separate juvenile courts they serve. In re Interest of Chad S., 263 Neb. 184, 639 N.W.2d 84 (2002).</para></annotation>  </law>
 </legaldoc>

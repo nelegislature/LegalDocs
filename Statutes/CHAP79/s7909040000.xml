@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Schools" statutenumber="79-940"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>79-940</statuteno><catchline>Supplemental retirement benefit; determination.</catchline><para>Commencing September 1, 1980, the retirement board shall determine a supplemental retirement benefit for each person who is retired from the School Retirement System of the State of Nebraska or from the retirement system for Class V districts as provided by the Class V School Employees Retirement Act with twenty-five or more years of creditable service as of July 1, 1980. The computation and payment to persons shall be determined with the funds available as of January 1, 1981. Any person who would have been eligible for the supplemental retirement benefits provided under this section if this section and sections 79-942 to 79-944 had been operative on January 1, 1981, but who did not, during the months of January and February 1981, receive such benefits shall be entitled to an accumulated payment for such months to be made in March 1981.</para></amendatorysection></section><source><para>Laws 1980, LB 228, &#167; 1; </para><para>Laws 1981, LB 141, &#167; 1; </para><para>R.S.1943, (1994), &#167; 79-1558; </para><para>Laws 1996, LB 900, &#167; 575; </para><para>Laws 1998, LB 497, &#167; 2. </para></source><crossreference><para><emphasis>Class V School Employees Retirement Act,</emphasis> see section 79-978.01.</para></crossreference></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="79-940">
+				<statuteno>79-940</statuteno>
+				<catchline>Repealed. Laws 2011, LB 509, &#167; 55.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>July 1, 2011</operativedate></source>
+	</law>
+</legaldoc>

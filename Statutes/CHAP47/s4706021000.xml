@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Jails and Correctional Facilities" statutenumber="47-621"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>47-621</statuteno><catchline>Terms, defined.</catchline><para>For purposes of the Community Corrections Act:</para><para>(1) Community correctional facility or program means a community-based or community-oriented facility or program which (a) is operated either by the state or by a contractor which may be a unit of local government or a nongovernmental agency, (b) may be designed to provide residential accommodations for adult offenders, (c) provides programs and services to aid adult offenders in obtaining and holding regular employment, enrolling in and maintaining participation in academic courses, participating in vocational training programs, utilizing the resources of the community to meet their personal and family needs, obtaining mental health, alcohol, and drug treatment, and participating in specialized programs that exist within the community, and (d) offers community supervision options, including, but not limited to, drug treatment, mental health programs, and day reporting centers;</para><para>(2) Council means the Community Corrections Council;</para><para>(3) Director means the executive director of the Community Corrections Council;</para><para>(4) Nongovernmental agency means any person, private nonprofit agency, corporation, association, labor organization, or entity other than the state or a political subdivision of the state; and</para><para>(5) Unit of local government means a county, city, village, or entity established pursuant to the Interlocal Cooperation Act or the Joint Public Agency Act.</para></amendatorysection></section><source><para>Laws 2003, LB 46, &#167; 33; </para><para>Laws 2005, LB 538, &#167; 12. </para></source><crossreference><para><emphasis>Interlocal Cooperation Act,</emphasis> see section 13-801.</para><para><emphasis>Joint Public Agency Act,</emphasis> see section 13-2501.</para></crossreference></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id72">
+<amendatorysection amended="yes" chaptername="Jails and Correctional Facilities" id="id74" statutenumber="47-621">
+<bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>47-621</statuteno><catchline id="id77">Terms, defined.</catchline>
+<para>For purposes of the Community Corrections Act:</para>
+<para>(1) Community correctional facility or program means a community-based
+or community-oriented facility or program which (a) is operated either by
+the state or by a contractor which may be a unit of local government or a
+nongovernmental agency, (b) may be designed to provide residential accommodations
+for adult offenders, (c) provides programs and services to aid adult offenders
+in obtaining and holding regular employment, enrolling in and maintaining
+participation in academic courses, participating in vocational training programs,
+utilizing the resources of the community to meet their personal and family
+needs, obtaining mental health, alcohol, and drug treatment, and participating
+in specialized programs that exist within the community, and (d) offers community
+supervision options, including, but not limited to, drug treatment, mental
+health programs, and day reporting centers;</para>
+<para>(2) Director means the executive director of
+the Nebraska Commission on Law Enforcement
+and Criminal Justice;</para>
+<para>(3) Division
+means the Community Corrections Division of the Nebraska Commission on Law
+Enforcement and Criminal Justice;</para><para>(4) Nongovernmental
+agency means any person, private nonprofit agency, corporation, association,
+labor organization, or entity other than the state or a political subdivision
+of the state; and</para>
+<para>(5) Unit of local government means a county, city, village,
+or entity established pursuant to the Interlocal Cooperation Act or the Joint
+Public Agency Act.</para>
+</amendatorysection></section><source><para>Laws 2003, LB 46, &#167; 33; </para><para>Laws 2005, LB 538, &#167; 12; </para><para>Laws 2011, LB390, &#167; 6.</para><operativedate>July 1, 2011</operativedate></source><crossreference><para><emphasis>Interlocal Cooperation Act,</emphasis> see section 13-801.</para><para><emphasis>Joint Public Agency Act,</emphasis> see section 13-2501.</para></crossreference>  </law>
+</legaldoc>

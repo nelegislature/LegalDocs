@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id4">
-<sectno id="id5">Sec. 2.</sectno><amendatorysection chaptername="Irrigation and Regulation of Water" id="id6" publishedsource="CumulativeSupplement" statutenumber="46-2,141"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>46-2,141</statuteno><catchline>Republican River Basin Water Sustainability
-Task Force Cash Fund; created; use; investment.</catchline><para>The Republican River Basin Water Sustainability
-Task Force Cash Fund is created. The fund shall be administered by the Department
-of Natural Resources and expended at the direction of the Republican River
-Basin Water Sustainability Task Force. The fund shall consist of funds appropriated
-by the Legislature, money received as gifts, grants, and donations, and transfers
-authorized under section 46-2,137. Any money in the fund available for investment
-shall be invested by the state investment officer pursuant to the Nebraska
-Capital Expansion Act and the Nebraska State Funds Investment Act.</para>
-</amendatorysection></section><source><para>Laws 2010, LB1057, &#167; 2.</para></source><crossreference><para><emphasis>Nebraska Capital Expansion Act,</emphasis> see section 72-1269.</para><para><emphasis>Nebraska State Funds Investment Act,</emphasis> see section 72-1260.</para></crossreference>  </law>
+<section>
+<amendatorysection amended="yes" chaptername="Irrigation and Regulation of Water" id="id6" publishedsource="CumulativeSupplement" statutenumber="46-2,141">
+<bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>46-2,141</statuteno><catchline>Republican River Basin Water Sustainability
+Task Force Cash Fund; created; use; investment.</catchline><para>The Republican
+River Basin Water Sustainability Task Force Cash Fund is created. The fund
+shall be administered by the Department of Natural Resources and expended
+at the direction of the Republican River Basin Water Sustainability Task Force.
+The fund shall consist of funds appropriated by the Legislature, money received
+as gifts, grants, and donations, and transfers authorized by the Legislature. Any money in the fund available
+for investment shall be invested by the state investment officer pursuant
+to the Nebraska Capital Expansion Act and the Nebraska State Funds Investment
+Act.</para>
+</amendatorysection></section><source><para>Laws 2010, LB1057, &#167; 2; </para><para>Laws 2011, LB2, &#167; 2.</para><effectivedate>August 27, 2011</effectivedate></source><crossreference><para><emphasis>Nebraska Capital Expansion Act,</emphasis> see section 72-1269.</para><para><emphasis>Nebraska State Funds Investment Act,</emphasis> see section 72-1260.</para></crossreference>  </law>
 </legaldoc>

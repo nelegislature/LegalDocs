@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Courts; Civil Procedure" statutenumber="25-1324"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>25-1324</statuteno><catchline>Complete record; action dismissed without prejudice.</catchline><para>In cases where an action has been dismissed without prejudice to a future action, the clerk shall make a complete record of the proceedings, upon being paid for making the same by the party desiring the record to be made.</para></amendatorysection></section><source><para>R.S.1867, Code &#167; 449, p. 468; </para><para>R.S.1913, &#167; 8017; </para><para>C.S.1922, &#167; 8958; </para><para>C.S.1929, &#167; 20-1324; </para><para>R.S.1943, &#167; 25-1324.</para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="25-1324">
+				<statuteno>25-1324</statuteno>
+				<catchline>Repealed. Laws 2011, LB 17, &#167; 8.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>January 1, 2012</operativedate></source>
+	</law>
+	</legaldoc>

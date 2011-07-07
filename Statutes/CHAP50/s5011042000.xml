@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Legislature" statutenumber="50-1142"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>50-1142</statuteno><catchline>District No. 41, description.</catchline><para>District No. 41 shall contain the counties of Garfield, Wheeler, Valley, Greeley, Sherman, Howard, Antelope, and Boone and that part of Hall County beginning at the intersection of the Buffalo, Hall, and Howard County lines, south along the Buffalo-Hall County line to West Airport Road, east on West Airport Road to East Airport Road, east on East Airport Road to the Hall-Merrick County line, north then west along the Hall-Merrick County line to the Hall-Howard County line, and west along the Hall-Howard County line to the point of beginning.</para></amendatorysection></section><source><para>Laws 1981, LB 406, &#167; 42; </para><para>R.S.1943, (1987), &#167; 5-242; </para><para>Laws 1991, LB 614, &#167; 42; </para><para>Laws 2001, LB 852, &#167; 42. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="50-1142">
+				<statuteno>50-1142</statuteno>
+				<catchline>Repealed. Laws 2011, LB 703, &#167; 5.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>May 27, 2011</operativedate></source>
+	</law>
+</legaldoc>

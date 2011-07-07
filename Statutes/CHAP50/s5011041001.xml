@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Legislature" statutenumber="50-1141.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>50-1141.01</statuteno><catchline>District No. 40, description.</catchline><para>District No. 40 shall contain the counties of Knox, Cedar, and Pierce and that part of Holt County which includes the precincts of Coleman, Rock Falls, Paddock, Scott, Steel Creek, Shields, Willowdale, Antelope, Iowa, Grattan, O'Neill Wards I through IV, Verdigris, Golden, Inman, Shamrock, Chambers, Conley, McClure, Lake, Ewing, and Deloit.</para></amendatorysection></section><source><para>Laws 1992, Second Spec. Sess., LB 7, &#167; 5; </para><para>Laws 2001, LB 852, &#167; 41. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="50-1141.01">
+				<statuteno>50-1141.01</statuteno>
+				<catchline>Repealed. Laws 2011, LB 703, &#167; 5.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>May 27, 2011</operativedate></source>
+	</law>
+</legaldoc>

@@ -1,1 +1,73 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Criminal Procedure" statutenumber="29-2252"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>29-2252</statuteno><catchline>Probation administrator; duties.</catchline><para>The administrator shall:</para><para>(1) Supervise and administer the office;</para><para>(2) Establish and maintain policies, standards, and procedures for the system, with the concurrence of the Supreme Court;</para><para>(3) Prescribe and furnish such forms for records and reports for the system as shall be deemed necessary for uniformity, efficiency, and statistical accuracy;</para><para>(4) Establish minimum qualifications for employment as a probation officer in this state and establish and maintain such additional qualifications as he or she deems appropriate for appointment to the system. Qualifications for probation officers shall be established in accordance with subsection (4) of section 29-2253. An ex-offender released from a penal complex or a county jail may be appointed to a position of deputy probation or parole officer. Such ex-offender shall maintain a record free of arrests, except for minor traffic violations, for one year immediately preceding his or her appointment;</para><para>(5) Establish and maintain advanced periodic inservice training requirements for the system;</para><para>(6) Cooperate with all agencies, public or private, which are concerned with treatment or welfare of persons on probation;</para><para>(7) Organize and conduct training programs for probation officers;</para><para>(8) Collect, develop, and maintain statistical information concerning probationers, probation practices, and the operation of the system;</para><para>(9) Interpret the probation program to the public with a view toward developing a broad base of public support;</para><para>(10) Conduct research for the purpose of evaluating and improving the effectiveness of the system;</para><para>(11) Adopt and promulgate such rules and regulations as may be necessary or proper for the operation of the office or system;</para><para>(12) Transmit a report during each even-numbered year to the Supreme Court on the operation of the office for the preceding two calendar years which shall include a historical analysis of probation officer workload, including participation in non-probation-based programs and services. The report shall be transmitted by the Supreme Court to the Governor and the Clerk of the Legislature;</para><para>(13) Administer the payment by the state of all salaries, travel, and actual and necessary expenses incident to the conduct and maintenance of the office;</para><para>(14) In consultation with the Community Corrections Council, use the funds provided under section 29-2262.07 to augment operational or personnel costs associated with the development, implementation, and evaluation of enhanced probation-based programs and non-probation-based programs and services in which probation personnel or probation resources are utilized pursuant to an interlocal agreement authorized by subdivision (16) of this section and to purchase services to provide such programs aimed at enhancing adult probationer or non-probation-based program participant supervision in the community and treatment needs of probationers and non-probation-based program participants. Enhanced probation-based programs include, but are not limited to, specialized units of supervision, related equipment purchases and training, and programs developed by or through the council that address a probationer's vocational, educational, mental health, behavioral, or substance abuse treatment needs;</para><para>(15) Ensure that any risk or needs assessment instrument utilized by the system be periodically validated;</para><para>(16) Have the authority to enter into interlocal agreements in which probation resources or probation personnel may be utilized in conjunction with or as part of non-probation-based programs and services. Any such interlocal agreement shall comply with section 29-2255; and</para><para>(17) Exercise all powers and perform all duties necessary and proper to carry out his or her responsibilities.</para><para>Each member of the Legislature shall receive a copy of the report required by subdivision (12) of this section by making a request for it to the administrator.</para></amendatorysection></section><source><para>Laws 1971, LB 680, &#167; 7; </para><para>Laws 1973, LB 126, &#167; 2; </para><para>Laws 1978, LB 625, &#167; 9; </para><para>Laws 1979, LB 322, &#167; 9; </para><para>Laws 1979, LB 536, &#167; 6; </para><para>Laws 1981, LB 545, &#167; 6; </para><para>Laws 1984, LB 13, &#167; 65; </para><para>Laws 1986, LB 529, &#167; 37; </para><para>Laws 1990, LB 663, &#167; 16; </para><para>Laws 1992, LB 447, &#167; 5; </para><para>Laws 2003, LB 46, &#167; 5; </para><para>Laws 2005, LB 538, &#167; 7. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id4">
+<amendatorysection amended="yes" chaptername="Criminal Procedure" id="id6" statutenumber="29-2252">
+<bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>29-2252</statuteno><catchline id="id9">Probation administrator;
+duties.</catchline><para>The administrator shall:</para>
+<para>(1) Supervise and administer the office;</para>
+<para>(2) Establish and maintain policies, standards, and procedures
+for the system, with the concurrence of the Supreme Court;</para>
+<para>(3) Prescribe and furnish such forms for records and reports
+for the system as shall be deemed necessary for uniformity, efficiency, and
+statistical accuracy;</para>
+<para>(4) Establish minimum qualifications for employment as a probation
+officer in this state and establish and maintain such additional qualifications
+as he or she deems appropriate for appointment to the system. Qualifications
+for probation officers shall be established in accordance with subsection
+(4) of section 29-2253. An ex-offender released from a penal complex or a
+county jail may be appointed to a position of deputy probation or parole officer.
+Such ex-offender shall maintain a record free of arrests, except for minor
+traffic violations, for one year immediately preceding his or her appointment;</para>
+<para>(5) Establish and maintain advanced periodic inservice training
+requirements for the system;</para>
+<para>(6) Cooperate with all agencies, public or private, which
+are concerned with treatment or welfare of persons on probation;</para>
+<para>(7) Organize and conduct training programs for probation officers;</para>
+<para>(8) Collect, develop, and maintain statistical information
+concerning probationers, probation practices, and the operation of the system;</para>
+<para>(9) Interpret the probation program to the public with a view
+toward developing a broad base of public support;</para>
+<para>(10) Conduct research for the purpose of evaluating and improving
+the effectiveness of the system;</para>
+<para>(11) Adopt and promulgate such rules and regulations as may
+be necessary or proper for the operation of the office or system;</para>
+<para>(12) Transmit a report during each even-numbered year to the
+Supreme Court on the operation of the office for the preceding two calendar
+years which shall include a historical analysis of probation officer workload,
+including participation in non-probation-based programs and services. The
+report shall be transmitted by the Supreme Court to the Governor and the Clerk
+of the Legislature;</para>
+<para>(13) Administer the payment by the state of all salaries,
+travel, and actual and necessary expenses incident to the conduct and maintenance
+of the office;</para>
+<para>(14) Use the funds provided under section 29-2262.07
+to augment operational or personnel costs associated with the development,
+implementation, and evaluation of enhanced probation-based programs and non-probation-based
+programs and services in which probation personnel or probation resources
+are utilized pursuant to an interlocal agreement authorized by subdivision
+(16) of this section and to purchase services to provide such programs aimed
+at enhancing adult probationer or non-probation-based program participant
+supervision in the community and treatment needs of probationers and non-probation-based
+program participants. Enhanced probation-based programs include, but are not
+limited to, specialized units of supervision, related equipment purchases
+and training, and programs that address a probationer's vocational,
+educational, mental health, behavioral, or substance abuse treatment needs;</para>
+<para>(15) Ensure that any risk or needs assessment instrument utilized
+by the system be periodically validated;</para>
+<para>(16) Have the authority to enter into interlocal agreements
+in which probation resources or probation personnel may be utilized in conjunction
+with or as part of non-probation-based programs and services. Any such interlocal
+agreement shall comply with section 29-2255;</para>
+<para>(17) Collaborate
+with the Community Corrections Division of the Nebraska Commission on Law
+Enforcement and Criminal Justice and the Office of Parole Administration to
+develop rules governing the participation of parolees in community corrections
+programs operated by the Office of Probation Administration; and</para>
+<para>(18) Exercise all powers and
+perform all duties necessary and proper to carry out his or her responsibilities.</para>
+<para>Each member of the Legislature shall receive a copy of the
+report required by subdivision (12) of this section by making a request for
+it to the administrator.</para>
+</amendatorysection></section><source><para>Laws 1971, LB 680, &#167; 7; </para><para>Laws 1973, LB 126, &#167; 2; </para><para>Laws 1978, LB 625, &#167; 9; </para><para>Laws 1979, LB 322, &#167; 9; </para><para>Laws 1979, LB 536, &#167; 6; </para><para>Laws 1981, LB 545, &#167; 6; </para><para>Laws 1984, LB 13, &#167; 65; </para><para>Laws 1986, LB 529, &#167; 37; </para><para>Laws 1990, LB 663, &#167; 16; </para><para>Laws 1992, LB 447, &#167; 5; </para><para>Laws 2003, LB 46, &#167; 5; </para><para>Laws 2005, LB 538, &#167; 7; </para><para>Laws 2011, LB390, &#167; 1.</para><operativedate>July 1, 2011</operativedate></source>  </law>
+</legaldoc>

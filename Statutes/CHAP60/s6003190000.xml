@@ -2,7 +2,7 @@
 <legaldoc>
 <law type="statute">
 <section>
-<sectno opdate="January 1, 2011">Sec. 29.</sectno><amendatorysection amended="yes" chaptername="Motor Vehicles" statutenumber="60-3,190"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>60-3,190</statuteno><catchline>Motor vehicle fee; fee schedules;
+<amendatorysection amended="yes" chaptername="Motor Vehicles" statutenumber="60-3,190"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>60-3,190</statuteno><catchline>Motor vehicle fee; fee schedules;
 Motor Vehicle Fee Fund; created; use; investment.</catchline><para>(1) A motor
 vehicle fee is imposed on all motor vehicles registered for operation in this
 state. An owner of a motor vehicle which is exempt from the imposition of
@@ -23,26 +23,26 @@ by multiplying the base fee times the fraction which corresponds to the age
 category of the automobile as shown in the following table:</para>
 <para><table frame="none">
 <tgroup align="left" cols="2">
-
-<colspec colname="col1" colwidth="200.00pt" /><colspec align="right" colname="col2" colwidth="100.00pt" />
+<?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
+<colspec colname="col1" colwidth="66.67" /><colspec align="right" colname="col2" colwidth="33.33" />
 <tbody>
 <row valign="middle">
-
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">YEAR</entry>
 <entry colsep="0" rowsep="0">FRACTION</entry>
 </row>
 <row valign="middle">
-
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">First through fifth</entry>
 <entry colsep="0" rowsep="0">1.00</entry>
 </row>
 <row valign="middle">
-
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">Sixth through tenth</entry>
 <entry colsep="0" rowsep="0">.70</entry>
 </row>
 <row valign="middle">
-
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">Eleventh and over</entry>
 <entry colsep="0" rowsep="0">.35</entry>
 </row>
@@ -59,15 +59,16 @@ automobiles &#8212; $5</para>
 <para>(f) Trucks over seven tons and buses &#8212; $30</para>
 <para>(g) Trailers other than semitrailers &#8212; $10</para>
 <para>(h) Semitrailers &#8212; $30</para>
-<para>(i) Minitrucks &#8212; $10.</para>
-<para>(5) The motor vehicle tax, motor vehicle fee, and registration fee shall
-be paid to the county treasurer or designated official prior to the registration
-of the motor vehicle for the following registration period. After retaining
-one percent of the motor vehicle fee collected for costs, the remaining proceeds
-shall be remitted to the State Treasurer for credit to the Motor Vehicle Fee
-Fund. The State Treasurer shall return funds from the Motor Vehicle Fee Fund
-remitted by a county treasurer or designated county official which are needed
-for refunds or credits authorized by law.</para>
+<para>(i) Minitrucks &#8212; $10</para>
+<para>(j) Low-speed vehicles
+&#8212; $10.</para><para>(5) The motor vehicle tax, motor vehicle fee,
+and registration fee shall be paid to the county treasurer or designated official
+prior to the registration of the motor vehicle for the following registration
+period. After retaining one percent of the motor vehicle fee collected for
+costs, the remaining proceeds shall be remitted to the State Treasurer for
+credit to the Motor Vehicle Fee Fund. The State Treasurer shall return funds
+from the Motor Vehicle Fee Fund remitted by a county treasurer or designated
+county official which are needed for refunds or credits authorized by law.</para>
 <para>(6)(a) The Motor Vehicle Fee Fund is created. On or before the last
 day of each calendar quarter, the State Treasurer shall distribute all funds
 in the Motor Vehicle Fee Fund as follows: (i) Fifty percent to the county
@@ -94,5 +95,5 @@ model year by the manufacturer's designation, the motor vehicle is subject
 to the initial motor vehicle fee for six registration periods.</para>
 <para>(10) Assembled vehicles other than assembled automobiles shall follow
 the schedules for the motor vehicle body type.</para>
-</amendatorysection></section><source><para>Laws 2005, LB 274, &#167; 190; </para><para>Laws 2007, LB286, &#167; 55; </para><para>Laws 2010, LB650, &#167; 29.</para></source><crossreference><para><emphasis>Nebraska Capital Expansion Act,</emphasis> see section 72-1269.</para><para><emphasis>Nebraska State Funds Investment Act,</emphasis> see section 72-1260.</para></crossreference>  </law>
+</amendatorysection></section><source><para>Laws 2005, LB 274, &#167; 190; </para><para>Laws 2007, LB286, &#167; 55; </para><para>Laws 2010, LB650, &#167; 29; </para><para>Laws 2011, LB289, &#167; 23.</para><operativedate>January 1, 2012</operativedate></source><crossreference><para><emphasis>Nebraska Capital Expansion Act,</emphasis> see section 72-1269.</para><para><emphasis>Nebraska State Funds Investment Act,</emphasis> see section 72-1260.</para></crossreference>  </law>
 </legaldoc>

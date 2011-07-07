@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="State Uni., State Colleges, and Post. Education" statutenumber="85-961"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>85-961</statuteno><catchline>Community colleges; responsibility in less than baccalaureate degree program areas.</catchline><para>The community colleges shall have, except in specified program areas authorized by statute and the Coordinating Commission for Postsecondary Education, sole responsibility for the award of associate degrees, diplomas, and certificates in less than baccalaureate degree program areas approved by the commission pursuant to sections 85-1413 and 85-1414.</para></amendatorysection></section><source><para>Laws 1978, LB 756, &#167; 45; </para><para>Laws 1991, LB 663, &#167; 102. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id169">
+<amendatorysection amended="yes" chaptername="State Uni., State Colleges, and Post. Education" id="id171" statutenumber="85-961"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>85-961</statuteno><catchline id="id174">Community colleges;
+responsibility for courses at associate-degree level or below.</catchline>
+<para>The community colleges shall have, except in specified program
+areas authorized by statute and the Coordinating Commission for Postsecondary
+Education, sole responsibility for the award of associate degrees, diplomas,
+and certificates comprised of courses at the associate-degree
+level or below and approved by the commission pursuant to sections
+85-1413 and 85-1414.</para>
+</amendatorysection></section><source><para>Laws 1978, LB 756, &#167; 45; </para><para>Laws 1991, LB 663, &#167; 102; </para><para>Laws 2011, LB637, &#167; 28.</para><effectivedate>May 5, 2011</effectivedate></source>  </law>
+</legaldoc>

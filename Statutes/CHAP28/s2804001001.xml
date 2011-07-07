@@ -1,1 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection amended="yes" chaptername="Crimes and Punishments" statutenumber="28-401.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>28-401.01</statuteno><catchline>Act, how cited.</catchline><para>Sections 28-401 to 28-456.01 shall be known and may be cited as the Uniform Controlled Substances Act.</para></amendatorysection></section><source><para>Laws 1977, LB 38, &#167; 98; </para><para>R.S.1943, (1995), &#167; 28-438; </para><para>Laws 2001, LB 113, &#167; 17; </para><para>Laws 2001, LB 398, &#167; 2; </para><para>Laws 2005, LB 117, &#167; 2; </para><para>Laws 2007, LB463, &#167; 1120.</para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id11">
+<amendatorysection amended="yes" chaptername="Crimes and Punishments" id="id13" statutenumber="28-401.01">
+<bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>28-401.01</statuteno><catchline id="id16">Act, how cited.</catchline>
+<para>Sections 28-401 to 28-456.01 and 28-458 to 28-462 shall be known and may
+be cited as the Uniform Controlled Substances Act.</para>
+</amendatorysection></section><source><para>Laws 1977, LB 38, &#167; 98; </para><para>R.S.1943, (1995), &#167; 28-438; </para><para>Laws 2001, LB 113, &#167; 17; </para><para>Laws 2001, LB 398, &#167; 2; </para><para>Laws 2005, LB 117, &#167; 2; </para><para>Laws 2007, LB463, &#167; 1120; </para><para>Laws 2011, LB20, &#167; 2.</para><operativedate>January 1, 2012</operativedate></source>  </law>
+</legaldoc>

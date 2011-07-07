@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Railroads" statutenumber="74-1412.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>74-1412.01</statuteno><catchline>Revolving fund, defined.</catchline><para>Revolving fund means the Light-Density Rail Line Assistance Revolving Fund.</para></amendatorysection></section><source><para>Laws 1991, LB 783, &#167; 11; </para><para>Laws 1996, LB 463, &#167; 18. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="74-1412.01">
+				<statuteno>74-1412.01</statuteno>
+				<catchline>Repealed. Laws 2011, LB 259, &#167; 5.</catchline>
+				
+			</amendatorysection>
+		</section>
+	</law>
+</legaldoc>

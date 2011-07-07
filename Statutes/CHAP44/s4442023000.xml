@@ -1,1 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Insurance" statutenumber="44-4223"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>44-4223</statuteno><catchline>Selection of administering insurer; procedure.</catchline><para>(1) The board shall select an insurer or insurers through a competitive bidding process to administer the pool. The board shall evaluate bids submitted on the basis of criteria established by the board which shall include:</para><para>(a) The insurer's proven ability to handle individual sickness and accident insurance;</para><para>(b) The efficiency of the insurer's claim-paying procedures;</para><para>(c) The insurer's estimate of total charges for administering the pool; and</para><para>(d) The insurer's ability to administer the pool in a cost-effective manner.</para><para>(2) The administering insurer shall serve for a period of three years subject to removal for cause. At least one year prior to the expiration of each three-year period of service by an administering insurer, the board shall invite all insurers, including the current administering insurer, to submit bids to serve as the administering insurer for the succeeding three-year period. Selection of the administering insurer for the succeeding period shall be made at least six months prior to the end of the current three-year period.</para></amendatorysection></section><source><para>Laws 1985, LB 391, &#167; 23; </para><para>Laws 1992, LB 1006, &#167; 37. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id31">
+<amendatorysection amended="yes" chaptername="Insurance" id="id33" statutenumber="44-4223"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>44-4223</statuteno><catchline id="id36">Selection of pool administrator; procedure.</catchline>
+<para>(1) The board shall select a
+pool administrator through a competitive bidding process to administer
+the pool. The pool administrator
+may be an insurer or a third-party administrator authorized to transact business
+in this state. The board shall evaluate bids submitted on the
+basis of criteria established by the board which shall include:</para>
+<para>(a) The applicant's proven ability
+to handle individual sickness and accident insurance;</para>
+<para>(b) The efficiency of the applicant's claim-paying procedures;</para>
+<para>(c) The applicant's estimate of total
+charges for administering the pool;</para>
+<para>(d) The applicant's ability to administer
+the pool in a cost-effective manner;
+and</para>
+<para>(e) The applicant's
+ability to negotiate reduced health care provider reimbursement rates for
+benefits payable under pool coverage for covered services.</para>
+<para>(2) The pool administrator shall
+serve for a period of three years subject to removal for cause. At least one
+year prior to the expiration of each three-year period of service by a pool administrator, the
+board shall invite all insurers and
+third-party administrators authorized to transact business in this state,
+including the current pool administrator, to
+submit bids to serve as the pool administrator for
+the succeeding three-year period. Selection of the pool administrator for the succeeding period
+shall be made at least six months prior to the end of the current three-year
+period.</para>
+</amendatorysection></section><source><para>Laws 1985, LB 391, &#167; 23; </para><para>Laws 1992, LB 1006, &#167; 37; </para><para>Laws 2011, LB73, &#167; 4.</para><effectivedate>May 18, 2011</effectivedate></source>  </law>
+</legaldoc>

@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection amended="yes" chaptername="Public Health and Welfare" statutenumber="71-541"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>71-541</statuteno><catchline>Immunization information; sharing authorized.</catchline><para>A physician, an advanced practice registered nurse practicing under and in accordance with his or her applicable certification act, a physician assistant, a pharmacist, a licensed health care facility, a public immunization clinic, a local or district health department, and the Department of Health and Human Services may share immunization information which is not restricted under section 71-540. The unrestricted immunization information shared may include, but is not limited to, the patient's name, date of birth, dates and vaccine types administered, and any immunization information obtained from other sources.</para></amendatorysection></section><source><para>Laws 1998, LB 1063, &#167; 13; </para><para>Laws 2000, LB 1115, &#167; 25; </para><para>Laws 2005, LB 256, &#167; 34; </para><para>Laws 2007, LB296, &#167; 398.</para></source><crossreference><para><emphasis>Advanced practice registered nurse certification acts,</emphasis> see section 38-208.</para></crossreference></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Public Health and Welfare" statutenumber="71-541"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>71-541</statuteno><catchline>Immunization information system; immunization information; access; fee.</catchline>
+<para>Any person or entity authorized under
+section 71-541.01<?Pub Caret?> to access immunization information in the immunization
+information system established pursuant to section 71-541.01 may access such
+information pursuant to rules and regulations of the Department of Health
+and Human Services for purposes of direct patient care, public health activities,
+or enrollment in school or child care services. The unrestricted
+immunization information shared may include, but is not limited to, the patient's
+name and date of birth, the dates and vaccine types
+administered, and any immunization information obtained from other sources. A person or entity listed in section
+71-539 which provides immunization information to a licensed child care program,
+a school, or a postsecondary educational institution may charge a reasonable
+fee to recover the cost of providing such immunization information.</para>
+</amendatorysection></section><source><para>Laws 1998, LB 1063, &#167; 13; </para><para>Laws 2000, LB 1115, &#167; 25; </para><para>Laws 2005, LB 256, &#167; 34; </para><para>Laws 2007, LB296, &#167; 398; </para><para>Laws 2011, LB591, &#167; 9.</para><effectivedate>August 27, 2011</effectivedate></source><crossreference><para><emphasis>Advanced practice registered nurse certification acts,</emphasis> see section 38-208.</para></crossreference>  </law>
+</legaldoc>

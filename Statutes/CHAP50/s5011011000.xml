@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Legislature" statutenumber="50-1111"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>50-1111</statuteno><catchline>District No. 10, description.</catchline><para>District No. 10 shall contain that part of Douglas County beginning at the intersection of Blondo Street and North 72nd Street, west on Blondo Street to Big Papillion Creek, north along Big Papillion Creek to West Maple Road, east on West Maple Road to North 114th Avenue, north on North 114th Avenue to Manderson Street, northeast on Manderson Street to Old Maple Road, east on Old Maple Road to North 108th Street, north on North 108th Street to the intersection of an east-west line extending west from Hilltop Road, west along such line to North 112th Street, north on North 112th Street to Fowler Avenue, northwest on Fowler Avenue to North 113th Street, follow North 113th Street north to Camden Avenue, west on Camden Avenue to North 114th Street, north on North 114th Street to Fort Street, east on Fort Street to North 108th Street, north on North 108th Street to Hartman Avenue, east on Hartman Avenue to Laurel Avenue, southeast on Laurel Avenue to North 103rd Street, southeast on North 103rd Street to Wiesman Drive, east on Wiesman Drive to North 102nd Street, north on North 102nd Street to Military Road, east on Military Road to Interstate Highway 680, follow Interstate Highway 680 northeast to North 60th Street, south on North 60th Street to Sorenson Parkway, west on Sorenson Parkway to 66th Street, north on 66th Street and continuing north along a north-south line extending north from 66th Street to the northernmost boundary of Precinct 1-13, follow such boundary west to North 72nd Street, and south on North 72nd Street to the point of beginning.</para></amendatorysection></section><source><para>Laws 1981, LB 406, &#167; 11; </para><para>R.S.1943, (1987), &#167; 5-211; </para><para>Laws 1991, LB 614, &#167; 11; </para><para>Laws 2001, LB 852, &#167; 11. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="50-1111">
+				<statuteno>50-1111</statuteno>
+				<catchline>Repealed. Laws 2011, LB 703, &#167; 5.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>May 27, 2011</operativedate></source>
+	</law>
+</legaldoc>

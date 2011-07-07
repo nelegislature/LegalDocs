@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Public Health and Welfare" statutenumber="71-6906"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>71-6906</statuteno><catchline>Performance of abortion; notice not required; when.</catchline><para>Notification shall not be required pursuant to sections 71-6901 to 71-6908 if any of the following conditions exist:</para><para>(1) The attending physician certifies in writing in the pregnant woman's medical record that continuation of the pregnancy provides an immediate threat and grave risk to the life or health of the pregnant woman and there is insufficient time to provide the required notification;</para><para>(2) The abortion is authorized in writing by the person who is entitled to notification; or</para><para>(3) The pregnant woman declares that she is a victim of abuse as defined in section 28-351, sexual abuse as defined in section 28-367, or child abuse or neglect as defined in section 28-710. Notice of such a declaration shall be made to the proper authorities as provided in sections 28-372 and 28-711. If such a declaration is made, the attending physician or his or her agent shall inform the pregnant woman of his or her duty to notify the proper authorities as provided in sections 28-372 and 28-711.</para></amendatorysection></section><source><para>Laws 1991, LB 425, &#167; 6; </para><para>Laws 2005, LB 116, &#167; 23. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id87">
+<amendatorysection amended="yes" chaptername="Public Health and Welfare" id="id89" statutenumber="71-6906"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>71-6906</statuteno><catchline id="id92">Performance of
+abortion; consent not required; when.</catchline>
+<para>Consent shall not be required
+pursuant to sections 71-6901 to 71-6911 if any of the following
+conditions exist:</para>
+<para>(1) The attending physician certifies in the pregnant woman's medical
+record that a medical emergency exists and there is insufficient time to obtain
+the required consent; or</para><para>(2) Consent is waived under section 71-6903.</para>
+</amendatorysection></section><source><para>Laws 1991, LB 425, &#167; 6; </para><para>Laws 2005, LB 116, &#167; 23; </para><para>Laws 2011, LB690, &#167; 10.</para><effectivedate>August 27, 2011</effectivedate></source>  </law>
+</legaldoc>

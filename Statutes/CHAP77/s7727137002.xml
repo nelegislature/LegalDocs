@@ -1,30 +1,14 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section>
-<sectno opdate="July 1, 2010">Section 1.</sectno><amendatorysection amended="yes" chaptername="Revenue and Taxation" id="id54" statutenumber="77-27,137.02">
-<bookinfo>Revised Statutes Cumulative Supplement, 2010</bookinfo><statuteno id="id56">77-27,137.02</statuteno><catchline id="id57">Aid to natural
-resources districts; distribution; manner.</catchline><para>The appropriation
-made pursuant to the authority in section 77-27,136 for aid to natural resources
-districts shall be distributed to the various natural resources districts
-of the state on the basis of the ratio of the total amount of property taxes
-levied by the particular natural resources district to the total amount of
-property taxes levied by all natural resources districts within the state
-based on amounts stated in the most recent certificate of taxes levied statement
-and schedules submitted by each county pursuant to section 77-1613.01. For purposes of calculating the ratio
-in this section, in determining the total amount of property taxes levied
-by natural resources districts, the total shall exclude those property taxes
-levied for the payment of principal or interest on bonds. The
-Tax Commissioner shall determine the amount to be distributed to the various
-natural resources districts and certify such amounts by voucher to the Director
-of Administrative Services. Each amount shall be distributed in seven as nearly
-as possible equal monthly payments between the fifth and twentieth day of
-each month beginning December 1, 1982, and each December thereafter. The State
-Treasurer shall, between the fifth and twentieth day of each month, notify
-the Director of Administrative Services of the amount of funds available in
-the General Fund for payment purposes. The Director of Administrative Services
-shall, upon receipt of such notification and vouchers, draw warrants against
-funds appropriated. The proceeds of the payments received by the various natural
-resources districts shall be credited to the general fund of the district.</para>
-</amendatorysection></section><source><para>Laws 1982, LB 816, &#167; 6; </para><para>Laws 1985, LB 268, &#167; 29; </para><para>Laws 1994, LB 480, &#167; 30; </para><para>Laws 1996, LB 108, &#167; 77; </para><para>Laws 2004, LB 962, &#167; 109; </para><para>Laws 2009, LB218, &#167; 6; </para><para>Laws 2010, LB210, &#167;  1.</para><operativedate>July 1, 2010</operativedate></source>  </law>
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="77-27,137.02">
+				<statuteno>77-27,137.02</statuteno>
+				<catchline>Repealed. Laws 2011, LB 383, &#167; 9.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>July 1, 2011</operativedate></source>
+	</law>
 </legaldoc>

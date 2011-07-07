@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Railroads" statutenumber="74-1404"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>74-1404</statuteno><catchline>Benefit-cost methodology, defined.</catchline><para>Benefit-cost methodology means the methodology to be used for calculating the ratio of benefits to costs of the projects considered for financial assistance as established by the Federal Railroad Administration on July 1, 1990, pursuant to 49 U.S.C. app. 1654(N).</para></amendatorysection></section><source><para>Laws 1996, LB 463, &#167; 5. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="74-1404">
+				<statuteno>74-1404</statuteno>
+				<catchline>Repealed. Laws 2011, LB 259, &#167; 5.</catchline>
+				
+			</amendatorysection>
+		</section>
+	</law>
+</legaldoc>

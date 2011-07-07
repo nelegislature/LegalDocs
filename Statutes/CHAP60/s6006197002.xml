@@ -1,50 +1,57 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id44">
-<sectno id="id45">Sec. 6.</sectno><amendatorysection amended="yes" chaptername="Motor Vehicles" id="id46" statutenumber="60-6,197.02"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id48">60-6,197.02</statuteno><catchline id="id49">Driving under
-influence of alcoholic liquor or drugs; implied consent to submit to chemical
-test; terms, defined; prior convictions; use;
-sentencing provisions; when applicable.</catchline><para>(1)
-A violation of section 60-6,196 or 60-6,197 shall be punished as provided
-in section 60-6,197.03. For purposes of sentencing under section 60-6,197.03:</para>
+<section id="id349">
+<amendatorysection amended="yes" chaptername="Motor Vehicles" id="id351" statutenumber="60-6,197.02">
+<bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>60-6,197.02</statuteno><catchline id="id354">Driving
+under influence of alcoholic liquor or drugs; implied consent to submit to
+chemical test; terms, defined; prior convictions; use; sentencing provisions;
+when applicable.</catchline><para>(1) A violation of section 60-6,196
+or 60-6,197 shall be punished as provided in sections
+60-6,196.01 and 60-6,197.03. For purposes of sentencing under sections 60-6,196.01 and 60-6,197.03:</para>
 <para>(a) Prior conviction means a conviction for a violation committed
-within the twelve-year period prior to the offense for which the sentence
-is being imposed as follows:</para>
+within the fifteen-year period prior
+to the offense for which the sentence is being imposed as follows:</para>
 <para>(i) For a violation of section 60-6,196:</para>
-<para>(A) Any conviction for a violation of section 60-6,196;</para>
+<para>(A) Any conviction for a violation of subdivision (3)(b) or (c) of section 28-306, subdivision
+(3)(b) or (c) of section 28-394, or section 28-1254, 60-6,196, 60-6,197, or 60-6,198;</para>
 <para>(B) Any conviction for a violation of a city or village ordinance
-enacted in conformance with section 60-6,196;</para>
+enacted in conformance with section 60-6,196 or
+60-6,197; or</para>
 <para>(C) Any conviction under a law of another state if, at the
 time of the conviction under the law of such other state, the offense for
-which the person was convicted would have been a violation of section 60-6,196;
-or</para>
-<para>(D) Any conviction for a violation of section 60-6,198; or</para>
-<para>(ii) For a violation of section 60-6,197:</para>
-<para>(A) Any conviction for a violation of section 60-6,197;</para>
+which the person was convicted would have been a violation of subdivision (3)(b) or (c) of section 28-306, subdivision
+(3)(b) or (c) of section 28-394, or section 28-1254, 60-6,196, 60-6,197, or 60-6,198; or</para>
+<para>(ii)
+For a violation of section 60-6,197:</para>
+<para>(A) Any conviction for a violation of subdivision (3)(b) or (c) of section 28-306, subdivision
+(3)(b) or (c) of section 28-394, or section 28-1254, 60-6,196, 60-6,197, or 60-6,198;</para>
 <para>(B) Any conviction for a violation of a city or village ordinance
-enacted in conformance with section 60-6,197; or</para>
+enacted in conformance with section 60-6,196
+or 60-6,197; or</para>
 <para>(C) Any conviction under a law of another state if, at the
 time of the conviction under the law of such other state, the offense for
-which the person was convicted would have been a violation of section 60-6,197;</para>
-<para>(b) Prior conviction includes any conviction under section
-60-6,196, 60-6,197, or 60-6,198, or any city or village ordinance enacted
-in conformance with any of such sections, as such sections or city or village
-ordinances existed at the time of such conviction regardless of subsequent
-amendments to any of such sections or city or village ordinances; and</para>
-<para>(c) Twelve-year period means the period computed from the
-date of the prior offense to the date of the offense which resulted in the
-conviction for which the sentence is being imposed.</para>
-<para>(2) In any case charging a violation of section 60-6,196 or
-60-6,197, the prosecutor or investigating agency shall use due diligence to
-obtain the person's driving record from the Department of Motor Vehicles and
-the person's driving record from other states where he or she is known to
-have resided within the last twelve years. The prosecutor shall certify to
-the court, prior to sentencing, that such action has been taken. The prosecutor
-shall present as evidence for purposes of sentence enhancement a court-certified
-copy or an authenticated copy of a prior conviction in another state. The
-court-certified or authenticated copy shall be prima facie evidence of such
-prior conviction.</para>
+which the person was convicted would have been a violation of subdivision (3)(b) or (c) of section 28-306, subdivision
+(3)(b) or (c) of section 28-394, or section 28-1254, 60-6,196, 60-6,197, or 60-6,198;</para>
+<para>(b) Prior conviction includes any conviction under subdivision (3)(b) or (c) of section 28-306,
+subdivision (3)(b) or (c) of section 28-394, or section 28-1254, 60-6,196, 60-6,197,
+or 60-6,198, or any city or village ordinance enacted in conformance with section 60-6,196 or 60-6,197, as
+such sections or city or village ordinances existed at the time of such conviction
+regardless of subsequent amendments to any of such sections or city or village
+ordinances; and</para>
+<para>(c) Fifteen-year period means
+the period computed from the date of the prior offense to the date of the
+offense which resulted in the conviction for which the sentence is being imposed.</para>
+<para>(2) In any case charging a violation of section 60-6,196
+or 60-6,197, the prosecutor or investigating agency shall use due diligence
+to obtain the person's driving record from the Department of Motor Vehicles
+and the person's driving record from other states where he or she is known
+to have resided within the last fifteen years. The prosecutor
+shall certify to the court, prior to sentencing, that such action has been
+taken. The prosecutor shall present as evidence for purposes of sentence enhancement
+a court-certified copy or an authenticated copy of a prior conviction in another
+state. The court-certified or authenticated copy shall be prima facie evidence
+of such prior conviction.</para>
 <para>(3) For each conviction for a violation of section 60-6,196
 or 60-6,197, the court shall, as part of the judgment of conviction, make
 a finding on the record as to the number of the convicted person's prior convictions.
@@ -52,9 +59,11 @@ The convicted person shall be given the opportunity to review the record of
 his or her prior convictions, bring mitigating facts to the attention of the
 court prior to sentencing, and make objections on the record regarding the
 validity of such prior convictions.</para>
-<para>(4) A person
-arrested for a violation of section 60-6,196 or 60-6,197 before May 14, 2009,
-but sentenced pursuant to section 60-6,197.03 for such violation on or after
-May 14, 2009, shall be sentenced according to the provisions of section 60-6,197.03
-in effect on the date of arrest.</para></amendatorysection></section><source><para>Laws 2004, LB 208, &#167; 12; </para><para>Laws 2005, LB 594, &#167; 2; </para><para>Laws 2009, LB497, &#167; 6.</para></source><annotation><para><emphasis>1. Enhancement</emphasis></para><para><emphasis>2. Offense</emphasis></para><para><emphasis>3. Sufficiency of the evidence</emphasis></para><para><emphasis>4. Miscellaneous</emphasis></para><para><emphasis>1. Enhancement</emphasis></para><para>This section (formerly subsection (2) of section 60-6,196) authorizes a trial court to consider prior convictions of a defendant for driving under the influence of alcoholic liquor or drug within the 12 years prior to the offense for which a defendant currently stands trial and is not ex post facto as to a conviction prior to its passage, since an offender subject to enhancement of punishment under this statute is not receiving additional punishment for his or her previous convictions but is being penalized for an offense committed after its passage. This section deals with offenses committed after its passage, permits an inquiry into a defendant's previous convictions, and in fixing the penalty, does not punish the defendant for previous offenses but for persistence in violating this section. State v. Hansen, 258 Neb. 752, 605 N.W.2d 461 (2000).</para><para>The language of this section permits a defendant to challenge the validity of a prior driving under the influence conviction offered for purposes of enhancement on the ground that it was obtained in violation of the defendant's Sixth Amendment right to counsel. State v. Louthan, 257 Neb. 174, 595 N.W.2d 917 (1999).</para><para>Legislative amendments to the length of the cleansing period provided by this section will not implicate vested due process rights of individuals with prior convictions used for enhancement. State v. Grant, 9 Neb. App. 919, 623 N.W.2d 337 (2001).</para><para>Prior driving under the influence convictions are not necessary elements of a subsequent driving under the influence charge, but, rather, are used to determine the sentence to be imposed for a later driving under the influence conviction. Thus, the district court did not violate the Double Jeopardy Clause when it remanded a conviction for second-offense driving under the influence to the county court with directions to enter a judgment finding the defendant guilty of third-offense driving under the influence and to sentence her accordingly. State v. Werner, 8 Neb. App. 684, 600 N.W.2d 500 (1999).</para><para><emphasis>2. Offense</emphasis></para><para>In a prosecution under this section (formerly subsection (6) of section 60-6,196) for driving when one's operator's license has been revoked pursuant to subdivision (2)(c) of this section, proof of the prior conviction under subdivision (2)(c) is an essential element of the offense, and thus, the State has the burden to prove the prior conviction. A prior third-offense drunk driving conviction may be used as an element of a violation under this section (formerly subsection (6) of section 60-6,196) even though the prior conviction is not subject to a collateral attack. State v. Lee, 251 Neb. 661, 558 N.W.2d 571 (1997).</para><para>This section is a continuance and affirmation of the previous section 39-669.07. Convictions under section 39-669.07 can be used for the purpose of sentence enhancements under this section. State v. Sundling, 248 Neb. 732, 538 N.W.2d 749 (1995).</para><para><emphasis>3. Sufficiency of the evidence</emphasis></para><para>Subsection (c) of this section (formerly section 39-669.07 (Reissue 1988)) limits the proof which can be used to establish the defendant's prior driving while under the influence convictions. State v. Jenson, 236 Neb. 869, 464 N.W.2d 326 (1991).</para><para><emphasis>4. Miscellaneous</emphasis></para><para>The time limitations for the use of prior driving under the influence convictions set forth in this section do not apply to the use of prior driving under the influence convictions to section 28-306. State v. Tlamka, 7 Neb. App. 579, 585 N.W.2d 101 (1998).</para></annotation>  </law>
+<para>(4) A person arrested for a violation of section 60-6,196
+or 60-6,197 before January 1,
+2012, but sentenced pursuant to section 60-6,197.03 for such violation
+on or after January 1, 2012, shall be
+sentenced according to the provisions of section 60-6,197.03 in effect on
+the date of arrest.</para>
+</amendatorysection></section><source><para>Laws 2004, LB 208, &#167; 12; </para><para>Laws 2005, LB 594, &#167; 2; </para><para>Laws 2009, LB497, &#167; 6; </para><para>Laws 2011, LB667, &#167; 34; </para><para>Laws 2011, LB675, &#167; 8.</para><operativedate>January 1, 2012</operativedate><note>The Revisor of Statutes has pursuant to section 49-769 correlated LB667, section 34, with LB675, section 8, to reflect all amendments.</note></source><annotation><para><emphasis>1. Enhancement</emphasis></para><para><emphasis>2. Offense</emphasis></para><para><emphasis>3. Sufficiency of the evidence</emphasis></para><para><emphasis>4. Miscellaneous</emphasis></para><para><emphasis>1. Enhancement</emphasis></para><para>This section (formerly subsection (2) of section 60-6,196) authorizes a trial court to consider prior convictions of a defendant for driving under the influence of alcoholic liquor or drug within the 12 years prior to the offense for which a defendant currently stands trial and is not ex post facto as to a conviction prior to its passage, since an offender subject to enhancement of punishment under this statute is not receiving additional punishment for his or her previous convictions but is being penalized for an offense committed after its passage. This section deals with offenses committed after its passage, permits an inquiry into a defendant's previous convictions, and in fixing the penalty, does not punish the defendant for previous offenses but for persistence in violating this section. State v. Hansen, 258 Neb. 752, 605 N.W.2d 461 (2000).</para><para>The language of this section permits a defendant to challenge the validity of a prior driving under the influence conviction offered for purposes of enhancement on the ground that it was obtained in violation of the defendant's Sixth Amendment right to counsel. State v. Louthan, 257 Neb. 174, 595 N.W.2d 917 (1999).</para><para>Legislative amendments to the length of the cleansing period provided by this section will not implicate vested due process rights of individuals with prior convictions used for enhancement. State v. Grant, 9 Neb. App. 919, 623 N.W.2d 337 (2001).</para><para>Prior driving under the influence convictions are not necessary elements of a subsequent driving under the influence charge, but, rather, are used to determine the sentence to be imposed for a later driving under the influence conviction. Thus, the district court did not violate the Double Jeopardy Clause when it remanded a conviction for second-offense driving under the influence to the county court with directions to enter a judgment finding the defendant guilty of third-offense driving under the influence and to sentence her accordingly. State v. Werner, 8 Neb. App. 684, 600 N.W.2d 500 (1999).</para><para><emphasis>2. Offense</emphasis></para><para>In a prosecution under this section (formerly subsection (6) of section 60-6,196) for driving when one's operator's license has been revoked pursuant to subdivision (2)(c) of this section, proof of the prior conviction under subdivision (2)(c) is an essential element of the offense, and thus, the State has the burden to prove the prior conviction. A prior third-offense drunk driving conviction may be used as an element of a violation under this section (formerly subsection (6) of section 60-6,196) even though the prior conviction is not subject to a collateral attack. State v. Lee, 251 Neb. 661, 558 N.W.2d 571 (1997).</para><para>This section is a continuance and affirmation of the previous section 39-669.07. Convictions under section 39-669.07 can be used for the purpose of sentence enhancements under this section. State v. Sundling, 248 Neb. 732, 538 N.W.2d 749 (1995).</para><para><emphasis>3. Sufficiency of the evidence</emphasis></para><para>Subsection (c) of this section (formerly section 39-669.07 (Reissue 1988)) limits the proof which can be used to establish the defendant's prior driving while under the influence convictions. State v. Jenson, 236 Neb. 869, 464 N.W.2d 326 (1991).</para><para><emphasis>4. Miscellaneous</emphasis></para><para>The time limitations for the use of prior driving under the influence convictions set forth in this section do not apply to the use of prior driving under the influence convictions to section 28-306. State v. Tlamka, 7 Neb. App. 579, 585 N.W.2d 101 (1998).</para></annotation>  </law>
 </legaldoc>

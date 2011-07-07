@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="iso-8859-1"?> <legaldoc> <law type="statute"> <section id="id31"> <sectno id="id32" opdate="July 1, 2011">Sec. 3.</sectno><amendatorysection amended="yes" chaptername="Public Health and Welfare" id="id33" statutenumber="71-5326"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id35">71-5326</statuteno><catchline id="id36">Delinquent payment; how treated.</catchline><para>If a municipality, county, or natural resources district fails to make any payment pursuant to a loan within sixty days of the date due, such payment shall be deducted from the amount of aid to municipalities, counties, or natural resources districts to which the municipality, county, or natural resources district is entitled under sections 77-27,136 to 77-27,137.03. Such amount shall be paid directly to the fund from which the loan was made.</para> </amendatorysection></section><source><para>Laws 1997, LB 517, &#167; 15; </para><para>Laws 2009, LB218, &#167; 3.</para></source>  </law> </legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="71-5326">
+				<statuteno>71-5326</statuteno>
+				<catchline>Repealed. Laws 2011, LB 383, &#167; 9.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>July 1, 2011</operativedate></source>
+	</law>
+</legaldoc>

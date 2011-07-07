@@ -1,205 +1,283 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN"
- "legaldoc.dtd">
-<legaldoc><law type="ucc">
-<section><sectno></sectno>
-<amendatorysection chaptername="Uniform Commercial Code" statutenumber="2-103">
-<bookinfo>Uniform Commercial Code, Revised Statutes Cumulative Supplement, 2010</bookinfo>
-<statuteno>2-103</statuteno>
-<catchline>Definitions and index of definitions.</catchline>
-<para>(1) In this article unless the context otherwise requires</para>
-<para>(a) "Buyer" means a person who buys or contracts to buy goods.</para>
-<para>(b) "Good faith" in the case of a merchant means honesty in fact and
-the observance of reasonable commercial standards of fair dealing in the trade.</para>
-<para>(c) "Receipt" of goods means taking physical possession of them.</para>
-<para>(d) "Seller" means a person who sells or contracts to sell goods.</para>
-<para>(2) Other definitions applying to this article or to specified parts
-thereof, and the sections in which they appear are:</para>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Uniform Commercial Code" publishedsource="AnnualSupplement" statutenumber="2A-103">
+<bookinfo>Revised Statutes Supplement, 2011</bookinfo>
+<statuteno>2A-103</statuteno><catchline>Definitions and index of definitions.</catchline>
+<para>(1) In this article unless the context otherwise requires:</para>
+<para>(a) "Buyer in ordinary course of business" means a person who in good
+faith and without knowledge that the sale to him or her is in violation of
+the ownership rights or security interest or leasehold interest of a third
+party in the goods, buys in ordinary course from a person in the business
+of selling goods of that kind but does not include a pawnbroker. "Buying"
+may be for cash or by exchange of other property or on secured or unsecured
+credit and includes acquiring goods or documents of title under a preexisting
+contract for sale but does not include a transfer in bulk or as security for
+or in total or partial satisfaction of a money debt.</para>
+<para>(b) "Cancellation" occurs when either party puts an end to the lease
+contract for default by the other party.</para>
+<para>(c) "Commercial unit" means such a unit of goods as by commercial usage
+is a single whole for purposes of lease and division of which materially impairs
+its character or value on the market or in use. A commercial unit may be a
+single article, as a machine, or a set of articles, as a suite of furniture
+or a line of machinery, or a quantity, as a gross or carload, or any other
+unit treated in use or in the relevant market as a single whole.</para>
+<para>(d) "Conforming" goods or performance under a lease contract means goods
+or performance that are in accordance with the obligations under the lease
+contract.</para>
+<para>(e) "Consumer lease" means a lease that a lessor regularly engaged in
+the business of leasing or selling makes to a lessee who is an individual
+and who takes under the lease primarily for a personal, family, or household
+purpose, if the total payments to be made under the lease contract, excluding
+payments for options to renew or buy, do not exceed twenty-five thousand dollars.</para>
+<para>(f) "Fault" means wrongful act, omission, breach, or default.</para>
+<para>(g) "Finance lease" means a lease with respect to which:</para>
+<para>(i) the lessor does not select, manufacture, or supply the goods;</para>
+<para>(ii) the lessor acquires the goods or the right to possession and use
+of the goods in connection with the lease; and</para>
+<para>(iii) one of the following occurs:</para>
+<para>(A) the lessee receives a copy of the contract by which the lessor acquired
+the goods or the right to possession and use of the goods before signing the
+lease contract;</para>
+<para>(B) the lessee's approval of the contract by which the lessor acquired
+the goods or the right to possession and use of the goods is a condition to
+effectiveness of the lease contract;</para>
+<para>(C) the lessee, before signing the lease contract, receives an accurate
+and complete statement designating the promises and warranties, and any disclaimers
+of warranties, limitations or modifications of remedies, or liquidated damages,
+including those of a third party, such as the manufacturer of the goods, provided
+to the lessor by the person supplying the goods in connection with or as part
+of the contract by which the lessor acquired the goods or the right to possession
+and use of the goods; or</para>
+<para>(D) if the lease is not a consumer lease, the lessor, before the lessee
+signs the lease contract, informs the lessee in writing (a) of the identity
+of the person supplying the goods to the lessor, unless the lessee has selected
+that person and directed the lessor to acquire the goods or the right to possession
+and use of the goods from that person, (b) that the lessee is entitled under
+this article to the promises and warranties, including those of any third
+party, provided to the lessor by the person supplying the goods in connection
+with or as part of the contract by which the lessor acquired the goods or
+the right to possession and use of the goods, and (c) that the lessee may
+communicate with the person supplying the goods to the lessor and receive
+an accurate and complete statement of those promises and warranties, including
+any disclaimers and limitations of them or of remedies.</para>
+<para>(h) "Goods" means all things that are movable at the time of identification
+to the lease contract, or are fixtures (section 2A-309), but the term does
+not include money, documents, instruments, accounts, chattel paper, general
+intangibles, or minerals or the like, including oil and gas, before extraction.
+The term also includes the unborn young of animals.</para>
+<para>(i) "Installment lease contract" means a lease contract that authorizes
+or requires the delivery of goods in separate lots to be separately accepted,
+even though the lease contract contains a clause "each delivery is a separate
+lease" or its equivalent.</para>
+<para>(j) "Lease" means a transfer of the right to possession and use of goods
+for a term in return for consideration, but a sale, including a sale on approval
+or a sale or return, or retention or creation of a security interest is not
+a lease. Unless the context clearly indicates otherwise, the term includes
+a sublease.</para>
+<para>(k) "Lease agreement" means the bargain, with respect to the lease,
+of the lessor and the lessee in fact as found in their language or by implication
+from other circumstances including course of dealing or usage of trade or
+course of performance as provided in this article. Unless the context clearly
+indicates otherwise, the term includes a sublease agreement.</para>
+<para>(l) "Lease contract" means the total legal obligation that results from
+the lease agreement as affected by this article and any other applicable rules
+of law. Unless the context clearly indicates otherwise, the term includes
+a sublease contract.</para>
+<para>(m) "Leasehold interest" means the interest of the lessor or the lessee
+under a lease contract.</para>
+<para>(n) "Lessee" means a person who acquires the right to possession and
+use of goods under a lease. Unless the context clearly indicates otherwise,
+the term includes a sublessee.</para>
+<para>(o) "Lessee in ordinary course of business" means a person who in good
+faith and without knowledge that the lease to him or her is in violation of
+the ownership rights or security interest or leasehold interest of a third
+party in the goods leases in ordinary course from a person in the business
+of selling or leasing goods of that kind but does not include a pawnbroker.
+"Leasing" may be for cash or by exchange of other property or on secured or
+unsecured credit and includes acquiring goods or documents of title under
+a preexisting lease contract but does not include a transfer in bulk or as
+security for or in total or partial satisfaction of a money debt.</para>
+<para>(p) "Lessor" means a person who transfers the right to possession and
+use of goods under a lease. Unless the context clearly indicates otherwise,
+the term includes a sublessor.</para>
+<para>(q) "Lessor's residual interest" means the lessor's interest in the
+goods after expiration, termination, or cancellation of the lease contract.</para>
+<para>(r) "Lien" means a charge against or interest in goods to secure payment
+of a debt or performance of an obligation, but the term does not include a
+security interest.</para>
+<para>(s) "Lot" means a parcel or a single article that is the subject matter
+of a separate lease or delivery, whether or not it is sufficient to perform
+the lease contract.</para>
+<para>(t) "Merchant lessee" means a lessee that is a merchant with respect
+to goods of the kind subject to the lease.</para>
+<para>(u) "Present value" means the amount as of a date certain of one or
+more sums payable in the future, discounted to the date certain. The discount
+is determined by the interest rate specified by the parties if the rate was
+not manifestly unreasonable at the time the transaction was entered into;
+otherwise, the discount is determined by a commercially reasonable rate that
+takes into account the facts and circumstances of each case at the time the
+transaction was entered into.</para>
+<para>(v) "Purchase" includes taking by sale, lease, mortgage, security interest,
+pledge, gift, or any other voluntary transaction creating an interest in goods.</para>
+<para>(w) "Sublease" means a lease of goods the right to possession and use
+of which was acquired by the lessor as a lessee under an existing lease.</para>
+<para>(x) "Supplier" means a person from whom a lessor buys or leases goods
+to be leased under a finance lease.</para>
+<para>(y) "Supply contract" means a contract under which a lessor buys or
+leases goods to be leased.</para>
+<para>(z) "Termination" occurs when either party pursuant to a power created
+by agreement or law puts an end to the lease contract otherwise than for default.</para>
+<para>(2) Other definitions applying to this article and the sections in which
+they appear are:</para>
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<?PubTbl tgroup dispwid="444.00px"?>
-<colspec colname="col1" colwidth="1.63*"/><colspec colname="col2" colwidth="1.10*"/>
+<colspec colname="col1" colwidth="1.59" /><colspec colname="col2" colwidth="1.15" />
 <tbody>
 <row>
-<?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0">"Acceptance".</entry>
-<entry colsep="0" rowsep="0">Section 2-606.</entry>
+<?PubTbl row rht="0.31in"?>
+<entry colsep="0" rowsep="0">"Accessions".</entry>
+<entry colsep="0" rowsep="0">Section 2A-310(1).</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0">"Banker's credit".</entry>
-<entry colsep="0" rowsep="0">Section 2-325.</entry>
+<?PubTbl row rht="0.31in"?>
+<entry colsep="0" rowsep="0">"Construction mortgage".</entry>
+<entry colsep="0" rowsep="0">Section 2A-309(1)(d).</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
+<entry colsep="0" rowsep="0">"Encumbrance".</entry>
+<entry colsep="0" rowsep="0">Section 2A-309(1)(e).</entry>
+</row>
+<row>
+<?PubTbl row rht="0.31in"?>
+<entry colsep="0" rowsep="0">"Fixtures".</entry>
+<entry colsep="0" rowsep="0">Section 2A-309(1)(a).</entry>
+</row>
+<row>
+<?PubTbl row rht="0.31in"?>
+<entry colsep="0" rowsep="0">"Fixture filing".</entry>
+<entry colsep="0" rowsep="0">Section 2A-309(1)(b).</entry>
+</row>
+<row>
+<?PubTbl row rht="0.31in"?>
+<entry colsep="0" rowsep="0">"Purchase money lease".</entry>
+<entry colsep="0" rowsep="0">Section 2A-309(1)(c).</entry>
+</row>
+</tbody>
+</tgroup>
+</table></para>
+<para>(3) The following definitions in other articles apply to this article: </para>
+<para><table frame="none">
+<tgroup cols="2">
+<?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
+<colspec colname="col1" colwidth="1.59" /><colspec colname="col2" colwidth="1.15" />
+<tbody>
+<row>
+<?PubTbl row rht="0.31in"?>
+<entry colsep="0" rowsep="0">"Account".</entry>
+<entry colsep="0" rowsep="0">Section 9-102(a)(2).</entry>
+</row>
+<row>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Between merchants".</entry>
-<entry colsep="0" rowsep="0">Section 2-104.</entry>
+<entry colsep="0" rowsep="0">Section 2-104(3).</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0">"Cancellation".</entry>
-<entry colsep="0" rowsep="0">Section 2-106(4).</entry>
+<?PubTbl row rht="0.31in"?>
+<entry colsep="0" rowsep="0">"Buyer".</entry>
+<entry colsep="0" rowsep="0">Section 2-103(1)(a).</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0">"Commercial unit".</entry>
-<entry colsep="0" rowsep="0">Section 2-105.</entry>
+<?PubTbl row rht="0.31in"?>
+<entry colsep="0" rowsep="0">"Chattel paper".</entry>
+<entry colsep="0" rowsep="0">Section 9-102(a)(11).</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0">"Confirmed credit".</entry>
-<entry colsep="0" rowsep="0">Section 2-325.</entry>
+<?PubTbl row rht="0.31in"?>
+<entry colsep="0" rowsep="0">"Consumer goods".</entry>
+<entry colsep="0" rowsep="0">Section 9-102(a)(23).</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0">"Conforming to contract".</entry>
-<entry colsep="0" rowsep="0">Section 2-106.</entry>
+<?PubTbl row rht="0.31in"?>
+<entry colsep="0" rowsep="0">"Document".</entry>
+<entry colsep="0" rowsep="0">Section 9-102(a)(30).</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0">"Contract for sale".</entry>
-<entry colsep="0" rowsep="0">Section 2-106.</entry>
-</row>
-<row>
-<?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0">"Cover".</entry>
-<entry colsep="0" rowsep="0">Section 2-712.</entry>
-</row>
-<row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Entrusting".</entry>
-<entry colsep="0" rowsep="0">Section 2-403.</entry>
+<entry colsep="0" rowsep="0">Section 2-403(3).</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0">"Financing agency".</entry>
-<entry colsep="0" rowsep="0">Section 2-104.</entry>
+<?PubTbl row rht="0.31in"?>
+<entry colsep="0" rowsep="0">"General intangible".</entry>
+<entry colsep="0" rowsep="0">Section 9-102(a)(42).</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0">"Future goods".</entry>
-<entry colsep="0" rowsep="0">Section 2-105.</entry>
+<?PubTbl row rht="0.31in"?>
+<entry colsep="0" rowsep="0">"Good faith".</entry>
+<entry colsep="0" rowsep="0">Section 2-103(1)(b).</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0">"Goods".</entry>
-<entry colsep="0" rowsep="0">Section 2-105.</entry>
+<?PubTbl row rht="0.31in"?>
+<entry colsep="0" rowsep="0">"Instrument".</entry>
+<entry colsep="0" rowsep="0">Section 9-102(a)(47).</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0">"Identification".</entry>
-<entry colsep="0" rowsep="0">Section 2-501.</entry>
-</row>
-<row>
-<?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0">"Installment contract".</entry>
-<entry colsep="0" rowsep="0">Section 2-612.</entry>
-</row>
-<row>
-<?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0">"Letter of credit".</entry>
-<entry colsep="0" rowsep="0">Section 2-325.</entry>
-</row>
-<row>
-<?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0">"Lot".</entry>
-<entry colsep="0" rowsep="0">Section 2-105.</entry>
-</row>
-<row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Merchant".</entry>
-<entry colsep="0" rowsep="0">Section 2-104.</entry>
+<entry colsep="0" rowsep="0">Section 2-104(1).</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0">"Overseas".</entry>
-<entry colsep="0" rowsep="0">Section 2-323.</entry>
+<?PubTbl row rht="0.31in"?>
+<entry colsep="0" rowsep="0">"Mortgage".</entry>
+<entry colsep="0" rowsep="0">Section 9-102(a)(55).</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0">"Person in position of seller".</entry>
-<entry colsep="0" rowsep="0">Section 2-707.</entry>
+<?PubTbl row rht="0.31in"?>
+<entry colsep="0" rowsep="0">"Pursuant
+to commitment".</entry>
+<entry colsep="0" rowsep="0">Section
+9-102(a)(69).</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0">"Present sale".</entry>
-<entry colsep="0" rowsep="0">Section 2-106.</entry>
+<?PubTbl row rht="0.31in"?>
+<entry colsep="0" rowsep="0">"Receipt".</entry>
+<entry colsep="0" rowsep="0">Section 2-103(1)(c).</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Sale".</entry>
-<entry colsep="0" rowsep="0">Section 2-106.</entry>
+<entry colsep="0" rowsep="0">Section 2-106(1).</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Sale on approval".</entry>
 <entry colsep="0" rowsep="0">Section 2-326.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">"Sale or return".</entry>
 <entry colsep="0" rowsep="0">Section 2-326.</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0">"Termination".</entry>
-<entry colsep="0" rowsep="0">Section 2-106.</entry>
+<?PubTbl row rht="0.31in"?>
+<entry colsep="0" rowsep="0">"Seller".</entry>
+<entry colsep="0" rowsep="0">Section 2-103(1)(d).</entry>
 </row>
 </tbody>
 </tgroup>
 </table></para>
-<para>(3) "Control" as provided in section 7-106 and the following definitions
-in other articles apply to this article:</para>
-<para><table frame="none">
-<tgroup cols="2">
-<?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<?PubTbl tgroup rth="1.00pt" dispwid="444.00px"?>
-<colspec colname="col1" colwidth="1.65*"/><colspec colname="col2" colwidth="1.11*"/>
-<tbody>
-<row>
-<?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0">"Check".</entry>
-<entry colsep="0" rowsep="0">Section 3-104.</entry>
-</row>
-<row>
-<?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0">"Consignee".</entry>
-<entry colsep="0" rowsep="0">Section 7-102.</entry>
-</row>
-<row>
-<?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0">"Consignor".</entry>
-<entry colsep="0" rowsep="0">Section 7-102.</entry>
-</row>
-<row>
-<?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0">"Consumer goods".</entry>
-<entry colsep="0" rowsep="0">Section 9-102.</entry>
-</row>
-<row>
-<?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0">"Dishonor".</entry>
-<entry colsep="0" rowsep="0">Section 3-502.</entry>
-</row>
-<row>
-<?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0">"Draft".</entry>
-<entry colsep="0" rowsep="0">Section 3-104.</entry>
-</row>
-</tbody>
-</tgroup>
-</table></para>
-<para>(4) In addition article 1 contains general definitions and principles
+<para>(4) In addition, article 1 contains general definitions and principles
 of construction and interpretation applicable throughout this article.</para>
-</amendatorysection></section>
-<source>
-<para>Laws 1963, c. 544, Art. II, &#167; 2-103, p. 1706; </para>
-<para>Laws 1991, LB 161, &#167; 3; </para>
-<para>Laws 1999, LB 550, &#167; 54; </para>
-<para>Laws 2005, LB 570, &#167; 30.</para>
-</source>
-<annotation>
+</amendatorysection></section><source>
+<para>Laws 1963, c. 544, Art. II, § 2-103, p. 1706; </para>
+<para>Laws 1991, LB 161, § 3; </para>
+<para>Laws 1999, LB 550, § 54; </para>
+<para>Laws 2005, LB 570, § 30; </para>
+<para>Laws 2011, LB90, §  1.</para><operativedate>July 1, 2013</operativedate></source><annotation>
 <para>Purchase money priority is exception to basic rule of priority to first filed financing statement and should be applied only in strict compliance with all limitations in Uniform Commercial Code. North Platte State Bank v. Production Credit Assn., 189 Neb. 45, 200 N.W.2d 1 (1972).</para>
 <para><emphasis>COMMENT</emphasis></para>
 <para><emphasis>Prior Uniform Statutory Provision:</emphasis> Subsection (1): Section 76, Uniform Sales Act.</para>
@@ -211,4 +289,5 @@ of construction and interpretation applicable throughout this article.</para>
 <para>Point 1: See section 2-210 and comment thereon.</para>
 <para>Point 2: Section 1-201.</para>
 <para><emphasis>Definitional Cross References:</emphasis></para>
-<para>"Person". Section 1-201.</para></annotation></law></legaldoc>
+<para>"Person". Section 1-201.</para></annotation>  </law>
+</legaldoc>

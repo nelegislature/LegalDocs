@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id3">
-<sectno id="id4" opdate="January 1, 2010">Section 1.</sectno><amendatorysection amended="yes" chaptername="Health Occupations and Professions" id="id5" statutenumber="38-2001"><bookinfo>Revised Statutes Cumulative Supplement, 2010</bookinfo><statuteno id="id7">38-2001</statuteno><catchline id="id8">Act, how cited.</catchline>
-<para>Sections 38-2001 to 38-2062 shall be known and
-may be cited as the Medicine and Surgery Practice Act.</para>
-</amendatorysection></section><source><para>Laws 2007, LB463, &#167; 659; </para><para>Laws 2009, LB394, &#167; 1.</para></source>  </law>
+<section>
+<amendatorysection amended="yes" chaptername="Health Occupations and Professions" id="id5" statutenumber="38-2001"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>38-2001</statuteno><catchline id="id8">Act, how cited.</catchline>
+<para>Sections 38-2001 to 38-2062 shall be known and may be cited as the Medicine
+and Surgery Practice Act.</para>
+</amendatorysection></section><source><para>Laws 2007, LB463, &#167; 659; </para><para>Laws 2009, LB394, &#167; 1; </para><para>Laws 2011, LB406, &#167; 1.</para><effectivedate>August 27, 2011</effectivedate></source>  </law>
 </legaldoc>

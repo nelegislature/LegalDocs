@@ -1,1 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Irrigation and Regulation of Water" statutenumber="46-1117"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>46-1117</statuteno><catchline>Permit required; exception; application.</catchline><para>After January 1, 1987, no person shall apply or authorize the application of chemicals to land or crops through the use of chemigation unless such person obtains a permit from the district in which the well or diversion is located, except that nothing in this section shall require a person to obtain a chemigation permit to pump or divert water to or through an open discharge system. After such date any person who intends to engage in chemigation shall, before commencing, file with the district an application for a chemigation permit for each injection location on forms provided by the department. Forms shall be made available by the department to each district office and at such other places as may be deemed appropriate. Except as provided in sections 46-1118 and 46-1119, the district shall review each application, conduct an inspection, and approve or deny the application within forty-five days after the application is filed. An application shall be approved and a permit issued by the district if the irrigation distribution system complies with the equipment requirements of section 46-1127 and the applicator has been certified as a chemigation applicator under sections 46-1128 and 46-1129. A copy of each approved application shall immediately be forwarded by the district to the department. This section shall not be construed to prevent the use of portable chemigation equipment if such equipment meets the requirements of section 46-1127.</para></amendatorysection></section><source><para>Laws 1986, LB 284, &#167; 17. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Irrigation and Regulation of Water" statutenumber="46-1117"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>46-1117</statuteno><catchline>Permit required; exception; application.</catchline>
+<para>No person
+shall apply or authorize the application of chemicals to land or crops through
+the use of chemigation unless such person obtains a permit from the district
+in which the well or diversion is located, except that nothing in this section
+shall require a person to obtain a chemigation permit to pump or divert water
+to or through an open discharge system. Any person
+who intends to engage in chemigation shall, before commencing, file with the
+district an application for a chemigation permit for each injection location
+on forms provided by the department or
+by the district. Upon request, forms shall
+be made available by the department to each district office and at such other
+places as may be deemed appropriate. Except as provided in section <?Pub Caret?>46-1119, the district shall
+review each application, conduct an inspection, and approve or deny the application
+within forty-five days after the application is filed. An application shall
+be approved and a permit issued by the district if the irrigation distribution
+system complies with the equipment requirements of section 46-1127 and the
+applicator has been certified as a chemigation applicator under sections 46-1128
+and 46-1129. A copy of each approved application or the information contained in the application
+shall be maintained by the district and provided to the department upon request.
+This section shall not be construed to prevent the use of portable chemigation
+equipment if such equipment meets the requirements of section 46-1127.</para>
+</amendatorysection></section><source><para>Laws 1986, LB 284, &#167; 17; </para><para>Laws 2011, LB2, &#167; 4; </para><para>Laws 2011, LB28, &#167; 1.</para><effectivedate>August 27, 2011</effectivedate><note>The Revisor of Statutes has pursuant to section 49-769 correlated LB2, section 4, with LB28, section 1, to reflect all amendments.</note></source>  </law>
+</legaldoc>

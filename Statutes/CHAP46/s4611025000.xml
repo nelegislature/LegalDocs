@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Irrigation and Regulation of Water" statutenumber="46-1125"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>46-1125</statuteno><catchline>Permit denial, suspension, revocation; grounds.</catchline><para>The district shall deny, refuse renewal of, suspend, or revoke a permit applied for or issued pursuant to section 46-1117 or 46-1118 on any of the following grounds:</para><para>(1) Practice of fraud or deceit in obtaining a permit; or</para><para>(2) Violation of any of the provisions of the Nebraska Chemigation Act or any standards or rules and regulations adopted and promulgated pursuant to such act.</para></amendatorysection></section><source><para>Laws 1986, LB 284, &#167; 25. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section><?Pub Caret1?>
+<amendatorysection amended="yes" chaptername="Irrigation and Regulation of Water" statutenumber="46-1125"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>46-1125</statuteno><catchline>Permit denial, suspension, revocation;
+grounds.</catchline><para>The district shall deny, refuse renewal of, suspend,
+or revoke a permit applied for or issued pursuant to section 46-1117 on any of the following
+grounds:</para>
+<para>(1) Practice of fraud or deceit in obtaining a permit; or</para>
+<para>(2) Violation of any of the provisions of the Nebraska Chemigation Act
+or any standards or rules and regulations adopted and promulgated pursuant
+to such act.</para>
+</amendatorysection></section><source><para>Laws 1986, LB 284, &#167; 25; </para><para>Laws 2011, LB2, &#167; 5.</para><effectivedate>August 27, 2011</effectivedate></source>  </law>
+</legaldoc>

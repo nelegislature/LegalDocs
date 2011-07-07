@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Motor Vehicles" statutenumber="60-2137"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>60-2137</statuteno><catchline>Motorcycle safety course; cost reimbursement; conditions.</catchline><para>A school, business, or organization conducting a basic or advanced motorcycle safety course shall be eligible for reimbursement for the cost of conducting such course for any student if (1) the teacher is an approved motorcycle safety instructor, (2) the course is approved by the department, (3) the student taking the course had a learner's permit or a motor vehicle operator's license while enrolled in the class, and (4) each student for whom reimbursement is claimed completed the course. The amount of reimbursement shall be determined under section 60-2133 and pursuant to the priorities provided in such section.</para></amendatorysection></section><source><para>Laws 1981, LB 22, &#167; 12; </para><para>R.S.1943, (1984), &#167; 60-2117; </para><para>Laws 1986, LB 1004, &#167; 19. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="60-2137">
+				<statuteno>60-2137</statuteno>
+				<catchline>Repealed. Laws 2011, LB 170, &#167; 17.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>January 1, 2012</operativedate></source>
+	</law>
+</legaldoc>

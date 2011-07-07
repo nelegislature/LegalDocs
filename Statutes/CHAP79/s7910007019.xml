@@ -1,32 +1,13 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section>
-<sectno></sectno><amendatorysection amended="yes" chaptername="Schools" id="id220" publishedsource="CumulativeSupplement" statutenumber="79-1007.19">
-<bookinfo>Revised Statutes Cumulative Supplement, 2010</bookinfo>
-<statuteno>79-1007.19</statuteno><catchline>Teacher education adjustment;
-calculation.</catchline><para>For school fiscal years 2008-09 and 2009-10, the
-department shall calculate a teacher education adjustment for each district
-as follows:</para>
-<para>(1) Teacher education points shall be calculated for each district by
-the department based upon data from the fall personnel report required pursuant
-to section 79-804 for the school fiscal year immediately preceding the school
-fiscal year in which aid is to be paid. Each full-time equivalent teacher
-shall (a) be under contract with a school district as required pursuant to
-section 79-818 and (b) only be counted one time in the awarding of any points
-pursuant to this section. Each district shall receive one point for each full-time
-equivalent teacher who has earned and been awarded a master's degree or an
-education specialist's degree and two points for each full-time equivalent
-teacher who has earned and been awarded a doctoral degree;</para>
-<para>(2) A teacher education index shall be calculated for each district
-by dividing the ratio of teacher education points for the district divided
-by the number of full-time equivalent teachers in the district by the ratio
-of teacher education points for all districts divided by the number of full-time
-equivalent teachers in all districts; and</para>
-<para>(3) The teacher education adjustment for each district shall equal ten
-percent of the district's basic funding
-multiplied by the difference of the product of the district's teacher education
-index minus one, except that if the result is less than zero, the teacher
-education adjustment shall equal zero.</para>
-</amendatorysection></section><source><para>Laws 2008, LB988, &#167;  21; </para><para>Laws 2009, First Spec. Sess., LB5, &#167; 7.</para><effectivedate>November 21, 2009</effectivedate></source>  </law>
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="79-1007.19">
+				<statuteno>79-1007.19</statuteno>
+				<catchline>Repealed. Laws 2011, LB 235, &#167; 26.</catchline>
+				
+			</amendatorysection>
+		</section>
+	</law>
 </legaldoc>

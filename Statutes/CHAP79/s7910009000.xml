@@ -1,1 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="statute"><section id="id383"><sectno id="id384">Sec. 35.</sectno><amendatorysection amended="yes" chaptername="Schools" id="id385" statutenumber="79-1009"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id387">79-1009</statuteno><catchline id="id388">Option school districts; net option funding; calculation.</catchline><para>(1) A district shall receive net option funding if option students as defined in section 79-233 were actually enrolled in the school year immediately preceding the school year in which the aid is to be paid.  The determination of the net number of option students shall be based on the number of students enrolled in the district as option students and the number of students residing in the district but enrolled in another district as option students as of the day of the fall membership count pursuant to section 79-528, for the school fiscal year immediately preceding the school fiscal year in which aid is to be paid. Net number of option students means the difference of the number of option students enrolled in the district minus the number of students residing in the district but enrolled in another district as option students.</para><para>(2) For purposes of this section: (a) For school fiscal years 2002-03 through 2007-08, net option funding shall be calculated by subtracting the temporary aid adjustment factor from the sum of the products of the net number of option students in each grade range multiplied by the statewide average cost grouping cost per student multiplied by the weighting factor for the corresponding grade range pursuant to section 79-1007.01; and (b) for school fiscal year 2008-09 and each school fiscal year thereafter, net option funding shall be the sum of the product of the net number of option students multiplied by the statewide average basic funding per formula student.</para><para>(3) A district's net option funding shall be zero if the calculation produces a negative result. </para><para>Payments made under this section shall be made from the funds to be disbursed under section 79-1005.01 or 79-1005.02. </para><para>Such payments shall go directly to the option school district but shall count as a formula resource for the local system.</para></amendatorysection></section><source><para>Laws 1996, LB 1050, &#167; 18; </para><para>Laws 1997, LB 806, &#167; 40; </para><para>Laws 1998, Spec. Sess., LB 1, &#167; 21; </para><para>Laws 1999, LB 813, &#167; 21; </para><para>Laws 2001, LB 797, &#167; 22; </para><para>Laws 2001, LB 833, &#167; 5; </para><para>Laws 2002, LB 898, &#167; 10; </para><para>Laws 2004, LB 1093, &#167; 6; </para><para>Laws 2008, LB988, &#167; 35.</para></source>  </law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id197">
+<amendatorysection amended="yes" chaptername="Schools" id="id199" statutenumber="79-1009"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>79-1009</statuteno><catchline id="id202">Option school
+districts; net option funding; calculation.</catchline><para>(1)(a) A district shall receive
+net option funding if option students as defined in section 79-233 (i) were actually enrolled
+in the school year immediately preceding the school year in which the aid
+is to be paid or (ii) will
+be enrolled in the school year in which the aid is to be paid as converted
+contract option students.</para>
+<para>(b) The determination of the
+net number of option students shall be based on (i) the number of students enrolled in the district
+as option students and the number of students residing in the district but
+enrolled in another district as option students as of the day of the fall
+membership count pursuant to section 79-528, for the school fiscal year immediately
+preceding the school fiscal year in which aid is to be paid, and (ii) the number of option students that will be enrolled
+in the district or enrolled in another district as converted contract option
+students for the fiscal year in which the aid is to be paid.</para>
+<para>(c) Net number of option students
+means the difference of the number of option students enrolled in the district
+minus the number of students residing in the district but enrolled in another
+district as option students.</para>
+<para>(2) For purposes of this section, net option funding shall be the sum of the product
+of the net number of option students multiplied by the statewide average basic
+funding per formula student.</para>
+<para>(3) A district's net option funding shall be zero if the
+calculation produces a negative result.</para>
+<para>Payments made under this section shall be made from the funds
+to be disbursed under section 79-1005.01.</para>
+<para>Such payments shall go directly to the option school district
+but shall count as a formula resource for the local system.</para>
+</amendatorysection></section><source><para>Laws 1996, LB 1050, &#167; 18; </para><para>Laws 1997, LB 806, &#167; 40; </para><para>Laws 1998, Spec. Sess., LB 1, &#167; 21; </para><para>Laws 1999, LB 813, &#167; 21; </para><para>Laws 2001, LB 797, &#167; 22; </para><para>Laws 2001, LB 833, &#167; 5; </para><para>Laws 2002, LB 898, &#167; 10; </para><para>Laws 2004, LB 1093, &#167; 6; </para><para>Laws 2008, LB988, &#167; 35; </para><para>Laws 2011, LB235, &#167; 14.</para><effectivedate>April 27, 2011</effectivedate></source>  </law>
+</legaldoc>

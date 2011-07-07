@@ -1,46 +1,14 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section>
-<sectno opdate="July 1, 2009">Sec. 2.</sectno><amendatorysection amended="yes" chaptername="State Administrative Departments" statutenumber="81-188.04"><bookinfo>Revised Statutes Cumulative Supplement, 2010</bookinfo><statuteno>81-188.04</statuteno><catchline>University Building Renewal Assessment
-Fund; capital improvement project; depreciation charges.</catchline><para>(1)
-For purposes of this section, capital improvement project means (a) construction
-of a new facility, structure, or building, (b) construction of additions to
-an existing facility, structure, or building, (c) renovation of an existing
-facility, structure, or building if the total project cost of such renovation
-represents not less than fifteen percent of the value of the existing facility,
-structure, or building as determined by the Department of Administrative Services,
-(d) purchase of an existing facility, structure, or building, and (e) acquisition
-of a facility, structure, or building through means of conveyance other than
-sale and purchase.</para>
-<para>(2) Beginning with the fiscal year that commences subsequent to the
-calendar year in which has occurred substantial completion of a capital improvement
-project by the University of Nebraska as defined in subdivisions (1)(a) through
-(1)(c) of this section or acquisition of a capital improvement project by
-the University of Nebraska as defined in subdivisions (1)(d) and (1)(e) of
-this section, the department shall assess a capital improvement depreciation
-charge to the Board of Regents of the University of Nebraska and shall assess
-such charge for each fiscal year thereafter,
-except that no depreciation charges shall be assessed or paid pursuant to
-this section for the period beginning July 1, 2009, and ending June 30, 2011.</para>
-<para>(3) The annual depreciation charge for a capital improvement project
-as defined in subdivisions (1)(a) through (1)(c) of this section shall be
-computed as one percent of the total project cost of the capital improvement
-project. The annual depreciation charge for a capital improvement project
-as defined in subdivision (1)(d) of this section shall be computed as one
-percent of the greater of the purchase price or the value, as determined by
-the department, of the capital improvement project at the time of acquisition.
-The annual depreciation charge for a capital improvement project as defined
-in subdivision (1)(e) of this section shall be computed as one percent of
-the value, as determined by the department, of the capital improvement project
-at the time of acquisition. The department may assess the charge annually
-or in monthly, quarterly, or semiannual installments.</para>
-<para>(4) Depreciation charges shall not be assessed pursuant to this section
-for capital improvement projects relating to facilities, structures, or buildings
-from which revenue is derived and pledged for the retirement of revenue bonds
-issued under sections 85-403 to 85-411.</para>
-<para>(5) Payment of depreciation charges assessed pursuant to this section
-shall be remitted to the State Treasurer for credit to the University Building
-Renewal Assessment Fund.</para>
-</amendatorysection></section><source><para>Laws 1998, LB 1100, &#167; 11; </para><para>Laws 2002, LB 1310, &#167; 16; </para><para>Laws 2003, LB 410, &#167; 7; </para><para>Laws 2004, LB 1092, &#167; 5; </para><para>Laws 2007, LB322, &#167; 22; </para><para>Laws 2009, LB318, &#167; 2.</para></source>  </law>
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="81-188.04">
+				<statuteno>81-188.04</statuteno>
+				<catchline>Repealed. Laws 2011, LB 380, &#167; 6.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>July 1, 2011</operativedate></source>
+	</law>
 </legaldoc>

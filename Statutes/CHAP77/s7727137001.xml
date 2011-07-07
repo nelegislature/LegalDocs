@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="iso-8859-1"?> <legaldoc> <law type="statute"> <section id="id45"> <sectno id="id46" opdate="July 1, 2011">Sec. 5.</sectno><amendatorysection amended="yes" chaptername="Revenue and Taxation" id="id47" statutenumber="77-27,137.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id49">77-27,137.01</statuteno><catchline id="id50">Aid to incorporated municipalities; distribution; manner.</catchline><para>The appropriation made pursuant to the authority in section 77-27,136 for aid to incorporated municipalities shall be allocated by the Tax Commissioner to the various incorporated municipalities. The Tax Commissioner shall determine the amount to be distributed to the incorporated municipalities and certify such amounts by voucher to the Director of Administrative Services. Each amount shall be distributed in seven as nearly as possible equal monthly payments on the last business day of each month beginning in December. The State Treasurer shall, on the business day preceding the last business day of each month, notify the Director of Administrative Services of the amount of funds available in the General Fund for payment purposes. The Director of Administrative Services shall, on the last business day of each month, draw warrants against funds appropriated. The Tax Commissioner shall compute the amount due the incorporated municipalities on the ratio of the population of the particular incorporated municipality to the total population of all incorporated municipalities in the state as determined by the most recent federal census figures certified by the Tax Commissioner as provided in section 77-3,119, which amounts shall be placed in the general fund of such municipalities.</para> </amendatorysection></section><source><para>Laws 1971, LB 707, &#167; 3; </para><para>Laws 1975, Spec. Sess., LB 3, &#167; 5; </para><para>Laws 1976, LB 903, &#167; 6; </para><para>Laws 1977, LB 514, &#167; 4; </para><para>Laws 1982, LB 816, &#167; 5; </para><para>Laws 1983, LB 59, &#167; 3; </para><para>Laws 1986, LB 929, &#167; 3; </para><para>Laws 1993, LB 726, &#167; 11; </para><para>Laws 1994, LB 1127, &#167; 7; </para><para>Laws 2003, LB 440, &#167; 3; </para><para>Laws 2005, LB 426, &#167; 16; </para><para>Laws 2009, LB218, &#167; 5.</para><operativedate>July 1, 2011</operativedate></source> </law> </legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="77-27,137.01">
+				<statuteno>77-27,137.01</statuteno>
+				<catchline>Repealed. Laws 2011, LB 383, &#167; 9.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>July 1, 2011</operativedate></source>
+	</law>
+</legaldoc>

@@ -1,1 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Motor Vehicles" statutenumber="60-6,349"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>60-6,349</statuteno><catchline>Minibikes and similar vehicles; sale; notice.</catchline><para>All minibikes and similar two-wheeled, three-wheeled, and four-wheeled miniature vehicles offered for sale in this state shall bear the following notice to the customer and user: This vehicle as manufactured or sold is for off-road use only. This section shall not apply to an electric personal assistive mobility device.</para></amendatorysection></section><source><para>Laws 1971, LB 644, &#167; 8; </para><para>Laws 1972, LB 1196, &#167; 7; </para><para>R.S.1943, (1988), &#167; 60-2103; </para><para>Laws 1993, LB 370, &#167; 445; </para><para>Laws 2002, LB 1105, &#167; 464. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id266">
+<amendatorysection amended="yes" chaptername="Motor Vehicles" id="id268" statutenumber="60-6,349">
+<bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>60-6,349</statuteno><catchline id="id271">Minibikes
+and similar vehicles; sale; notice.</catchline><para>All minibikes
+and similar two-wheeled, three-wheeled, and four-wheeled miniature vehicles
+offered for sale in this state shall bear the following notice to the customer
+and user: This vehicle as manufactured or sold is for off-road use only. This
+section shall not apply to a
+low-speed vehicle, as applicable to its design, or to an electric
+personal assistive mobility device.</para>
+</amendatorysection></section><source><para>Laws 1971, LB 644, &#167; 8; </para><para>Laws 1972, LB 1196, &#167; 7; </para><para>R.S.1943, (1988), &#167; 60-2103; </para><para>Laws 1993, LB 370, &#167; 445; </para><para>Laws 2002, LB 1105, &#167; 464; </para><para>Laws 2011, LB289, &#167; 34.</para><operativedate>January 1, 2012</operativedate></source>  </law>
+</legaldoc>

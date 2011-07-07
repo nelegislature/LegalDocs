@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Schools" statutenumber="79-942"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>79-942</statuteno><catchline>Supplemental retirement benefit; how computed.</catchline><para>For each person who qualifies under sections 79-940 to 79-946, the retirement board shall determine the value of the total monthly benefit being received from the School Retirement System of the State of Nebraska or from the retirement system for Class V districts as provided by the Class V School Employees Retirement Act. From one hundred fifty-five dollars, the retirement board shall subtract the total monthly benefit. Such difference, if positive, shall be the supplemental benefit and shall be paid to the retired person each month until July 1, 2004, from the Retired Teachers Supplementary Benefits Fund and on and after July 1, 2004, from the School Retirement Fund, except that if this difference is less than five dollars, a minimum payment of five dollars per month shall be made to such person.</para></amendatorysection></section><source><para>Laws 1980, LB 228, &#167; 3; </para><para>Laws 1981, LB 141, &#167; 2; </para><para>R.S.1943, (1994), &#167; 79-1560; </para><para>Laws 1996, LB 900, &#167; 577; </para><para>Laws 1998, LB 497, &#167; 3; </para><para>Laws 2004, LB 1097, &#167; 25. </para></source><crossreference><para><emphasis>Class V School Employees Retirement Act,</emphasis> see section 79-978.01.</para></crossreference></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id331">
+<amendatorysection amended="yes" chaptername="Schools" id="id333" statutenumber="79-942"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>79-942</statuteno><catchline id="id336">Supplemental
+retirement benefit; how computed.</catchline><para>For each person
+who qualifies under sections 79-941 to 79-946, the retirement
+board shall determine the value of the total monthly benefit being received
+from the School Employees Retirement
+System of the State of Nebraska or from the retirement system for Class V
+districts as provided by the Class V School Employees Retirement Act. From
+one hundred fifty-five dollars, the retirement board shall subtract the total
+monthly benefit. Such difference, if positive, shall be the supplemental benefit
+and shall be paid to the retired person each month from the School Retirement
+Fund, except that if this difference is less than five dollars, a minimum
+payment of five dollars per month shall be made to such person.</para>
+</amendatorysection></section><source><para>Laws 1980, LB 228, &#167; 3; </para><para>Laws 1981, LB 141, &#167; 2; </para><para>R.S.1943, (1994), &#167; 79-1560; </para><para>Laws 1996, LB 900, &#167; 577; </para><para>Laws 1998, LB 497, &#167; 3; </para><para>Laws 2004, LB 1097, &#167; 25; </para><para>Laws 2011, LB509, &#167; 28.</para><operativedate>July 1, 2011</operativedate></source><crossreference><para><emphasis>Class V School Employees Retirement Act,</emphasis> see section 79-978.01.</para></crossreference>  </law>
+</legaldoc>

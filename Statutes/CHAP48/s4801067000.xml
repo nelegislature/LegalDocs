@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Labor" statutenumber="48-167"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>48-167</statuteno><catchline>Compensation court; office located at State Capitol; record.</catchline><para>The Nebraska Workers' Compensation Court shall keep and maintain, in its office at the State Capitol, full and true record of all proceedings, documents, or papers ordered filed, rules and regulations, and decisions or orders.</para></amendatorysection></section><source><para>Laws 1917, c. 85, &#167; 29, p. 221; </para><para>C.S.1922, &#167; 3080; </para><para>C.S.1929, &#167; 48-157; </para><para>Laws 1935, c. 57, &#167; 36, p. 205; </para><para>C.S.Supp.,1941, &#167; 48-157; </para><para>R.S.1943, &#167; 48-167; </para><para>Laws 1945, c. 113, &#167; 7, p. 366; </para><para>Laws 1986, LB 811, &#167; 100. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id57">
+<amendatorysection amended="yes" chaptername="Labor" id="id59" statutenumber="48-167"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>48-167</statuteno><catchline id="id62">Compensation court;
+office located at State Capitol; record.</catchline><para>The Nebraska
+Workers' Compensation Court shall keep and maintain a full and true record of
+all proceedings, documents, or papers ordered filed, rules and regulations,
+and decisions or orders.</para>
+</amendatorysection></section><source><para>Laws 1917, c. 85, &#167; 29, p. 221; </para><para>C.S.1922, &#167; 3080; </para><para>C.S.1929, &#167; 48-157; </para><para>Laws 1935, c. 57, &#167; 36, p. 205; </para><para>C.S.Supp.,1941, &#167; 48-157; </para><para>R.S.1943, &#167; 48-167; </para><para>Laws 1945, c. 113, &#167; 7, p. 366; </para><para>Laws 1986, LB 811, &#167; 100; </para><para>Laws 2011, LB151, &#167; 6.</para><operativedate>May 25, 2011</operativedate></source>  </law>
+</legaldoc>

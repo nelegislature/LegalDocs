@@ -1,1 +1,57 @@
-<?xml version="1.0" encoding="utf-8"?><!--Arbortext, Inc., 1988-2004, v.4002--><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Motor Vehicles" statutenumber="60-6,211.08" amended="yes" publishedsource="CumulativeSupplement"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>60-6,211.08</statuteno><catchline>Open alcoholic beverage container; consumption of alcoholic beverages; prohibited acts.</catchline><para>(1) For purposes of this section:</para><para>(a) Alcoholic beverage means (i) beer, ale porter, stout, and other similar fermented beverages, including sake or similar products, of any name or description containing one-half of one percent or more of alcohol by volume, brewed or produced from malt, wholly or in part, or from any substitute therefor, (ii) wine of not less than one-half of one percent of alcohol by volume, or (iii) distilled spirits which is that substance known as ethyl alcohol, ethanol, or spirits of wine in any form, including all dilutions and mixtures thereof from whatever source or by whatever process produced. Alcoholic beverage does not include trace amounts not readily consumable as a beverage;</para><para>(b) Highway means a road or street including the entire area within the right-of-way;</para><para>(c) Open alcoholic beverage container, except as provided in subsection (3) of section 53-123.04 and subdivision (1)(c) of section 53-123.11, means any bottle, can, or other receptacle:</para><para>(i) That contains any amount of alcoholic beverage; and</para><para>(ii)(A) That is open or has a broken seal or (B) the contents of which are partially removed; and</para><para>(d) Passenger area means the area designed to seat the driver and passengers while the motor vehicle is in operation and any area that is readily accessible to the driver or a passenger while in their seating positions, including any compartments in such area. Passenger area does not include the area behind the last upright seat of such motor vehicle if the area is not normally occupied by the driver or a passenger and the motor vehicle is not equipped with a trunk.</para><para>(2) It is unlawful for any person in the passenger area of a motor vehicle to possess an open alcoholic beverage container while the motor vehicle is located in a public parking area or on any highway in this state.</para><para>(3) Except as provided in section 53-186, it is unlawful for any person to consume an alcoholic beverage (a) in a public parking area or on any highway in this state or (b) inside a motor vehicle while in a public parking area or on any highway in this state.</para></amendatorysection></section><source><para>Laws 1999, LB 585, &#167; 4; </para><para>Laws 2006, LB 562, &#167; 6. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Motor Vehicles" publishedsource="CumulativeSupplement" statutenumber="60-6,211.08"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>60-6,211.08</statuteno><catchline>Open alcoholic beverage container;
+consumption of alcoholic beverages; prohibited acts; applicability of section to certain passengers of limousine
+or bus.</catchline><para>(1) For purposes of this section:</para>
+<para>(a) Alcoholic beverage means (i) beer, ale porter, stout, and other
+similar fermented beverages, including sake or similar products, of any name
+or description containing one-half of one percent or more of alcohol by volume,
+brewed or produced from malt, wholly or in part, or from any substitute therefor,
+(ii) wine of not less than one-half of one percent of alcohol by volume, or
+(iii) distilled spirits which is that substance known as ethyl alcohol, ethanol,
+or spirits of wine in any form, including all dilutions and mixtures thereof
+from whatever source or by whatever process produced. Alcoholic beverage does
+not include trace amounts not readily consumable as a beverage;</para>
+<para>(b) Highway means a road or street including the entire area within
+the right-of-way;</para>
+<para>(c) Limousine means a
+luxury vehicle used to provide prearranged passenger transportation on a dedicated
+basis at a premium fare that has a seating capacity of at least five and no
+more than fourteen persons behind the driver with a physical partition separating
+the driver seat from the passenger compartment. Limousine does not include
+taxicabs, hotel or airport buses or shuttles, or buses;</para>
+<para>(d) Open alcoholic beverage
+container, except as provided in subsection (3) of section 53-123.04 and subdivision
+(1)(c) of section 53-123.11, means any bottle, can, or other receptacle:</para>
+<para>(i) That contains any amount of alcoholic beverage; and</para>
+<para>(ii)(A) That is open or has a broken seal or (B) the contents of which
+are partially removed; and</para>
+<para>(e) Passenger area means the
+area designed to seat the driver and passengers while the motor vehicle is
+in operation and any area that is readily accessible to the driver or a passenger
+while in their seating positions, including any compartments in such area.
+Passenger area does not include the area behind the last upright seat of such
+motor vehicle if the area is not normally occupied by the driver or a passenger
+and the motor vehicle is not equipped with a trunk.</para>
+<para>(2) Except as otherwise provided in this section,
+it is unlawful for any person in the passenger area of a motor
+vehicle to possess an open alcoholic beverage container while the motor vehicle
+is located in a public parking area or on any highway in this state.</para>
+<para>(3) Except as provided in section 53-186 or subsection (4) of this section, it is unlawful
+for any person to consume an alcoholic beverage (a) in a public parking area
+or on any highway in this state or (b) inside a motor vehicle while in a public
+parking area or on any highway in this state.</para>
+<para>(4) This section does
+not apply to persons who are passengers of, but not drivers of, a limousine
+or bus being used in a charter or special party service as defined by rules
+and regulations adopted and promulgated by the Public Service Commission and
+subject to Chapter 75, article 3. Such passengers may possess open alcoholic
+beverage containers and may consume alcoholic beverages while such limousine
+or bus is in a public parking area or on any highway in this state if (a)
+the driver of the limousine or bus is prohibited from consuming alcoholic
+liquor and (b) alcoholic liquor is not present in any area that is readily
+accessible to the driver while in the driver's seat, including any compartments
+in such area.</para></amendatorysection></section><source><para>Laws 1999, LB 585, &#167; 4; </para><para>Laws 2006, LB 562, &#167; 6; </para><para>Laws 2011, LB281, &#167; 3.</para><effectivedate>August 27, 2011</effectivedate></source>  </law>
+</legaldoc>

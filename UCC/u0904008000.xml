@@ -1,31 +1,78 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="ucc"><section><sectno></sectno><amendatorysection chaptername="Uniform Commercial Code" statutenumber="9-408">
-<bookinfo>Uniform Commercial Code, Reissue Revised Statutes of Nebraska</bookinfo>
-<statuteno>9-408</statuteno>
-<catchline>Restrictions on assignment of promissory notes, health-care-insurance receivables, and certain general intangibles ineffective.</catchline>
-<para>(a) Except as otherwise provided in subsection (b), a term in a promissory note or in an agreement between an account debtor and a debtor which relates to a health-care-insurance receivable or a general intangible, including a contract, permit, license, or franchise, and which term prohibits, restricts, or requires the consent of the person obligated on the promissory note or the account debtor to, the assignment or transfer of, or creation, attachment, or perfection of a security interest in, the promissory note, health-care-insurance receivable, or general intangible, is ineffective to the extent that the term:</para>
-<para>(1) would impair the creation, attachment, or perfection of a security interest; or </para>
-<para>(2) provides that the assignment or transfer or the creation, attachment, or perfection of the security interest may give rise to a default, breach, right of recoupment, claim, defense, termination, right of termination, or remedy under the promissory note, health-care-insurance receivable, or general intangible.</para>
-<para>(b) Subsection (a) applies to a security interest in a payment intangible or promissory note only if the security interest arises out of a sale of the payment intangible or promissory note. </para>
-<para>(c) A rule of law, statute, or regulation that prohibits, restricts, or requires the consent of a government, governmental body or official, person obligated on a promissory note, or account debtor to the assignment or transfer of, or creation of a security interest in, a promissory note, health-care-insurance receivable, or general intangible, including a contract, permit, license, or franchise between an account debtor and a debtor, is ineffective to the extent that the rule of law, statute, or regulation:</para>
-<para>(1) would impair the creation, attachment, or perfection of a security interest; or </para>
-<para>(2) provides that the assignment or transfer or the creation, attachment, or perfection of the security interest may give rise to a default, breach, right of recoupment, claim, defense, termination, right of termination, or remedy under the promissory note, health-care-insurance receivable, or general intangible.</para>
-<para>(d) To the extent that a term in a promissory note or in an agreement between an account debtor and a debtor which relates to a health-care-insurance receivable or general intangible or a rule of law, statute, or regulation described in subsection (c) would be effective under law other than this article but is ineffective under subsection (a) or (c), the creation, attachment, or perfection of a security interest in the promissory note, health-care-insurance receivable, or general intangible:</para>
-<para>(1) is not enforceable against the person obligated on the promissory note or the account debtor;</para>
-<para>(2) does not impose a duty or obligation on the person obligated on the promissory note or the account debtor;</para>
-<para>(3) does not require the person obligated on the promissory note or the account debtor to recognize the security interest, pay or render performance to the secured party, or accept payment or performance from the secured party;</para>
-<para>(4) does not entitle the secured party to use or assign the debtor's rights under the promissory note, health-care-insurance receivable, or general intangible, including any related information or materials furnished to the debtor in the transaction giving rise to the promissory note, health-care-insurance receivable, or general intangible;</para>
-<para>(5) does not entitle the secured party to use, assign, possess, or have access to any trade secrets or confidential information of the person obligated on the promissory note or the account debtor; and</para>
-<para>(6) does not entitle the secured party to enforce the security interest in the promissory note, health-care-insurance receivable, or general intangible.</para>
-<para>(e) This section prevails over any inconsistent provisions of the law of this state.</para>
-</amendatorysection></section>
-<source>
-<para>Laws 1999, LB 550, &#167; 143; </para>
-<para>Laws 2000, LB 929, &#167; 36.</para>
-</source>
-<annotation>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Uniform Commercial Code" statutenumber="9-408"><bookinfo>Revised Statutes Supplement, 2011</bookinfo>
+<statuteno>9-408</statuteno><catchline>Restrictions on assignment of promissory
+notes, health-care-insurance receivables, and certain general intangibles
+ineffective.</catchline><para>(a) Except as otherwise provided in subsection
+(b), a term in a promissory note or in an agreement between an account debtor
+and a debtor which relates to a health-care-insurance receivable or a general
+intangible, including a contract, permit, license, or franchise, and which
+term prohibits, restricts, or requires the consent of the person obligated
+on the promissory note or the account debtor to, the assignment or transfer
+of, or creation, attachment, or perfection of a security interest in, the
+promissory note, health-care-insurance receivable, or general intangible,
+is ineffective to the extent that the term:</para>
+<para>(1) would impair the creation, attachment, or perfection of a security
+interest; or</para>
+<para>(2) provides that the assignment or transfer or the creation, attachment,
+or perfection of the security interest may give rise to a default, breach,
+right of recoupment, claim, defense, termination, right of termination, or
+remedy under the promissory note, health-care-insurance receivable, or general
+intangible.</para>
+<para>(b) Subsection (a) applies to a security interest in a payment intangible
+or promissory note only if the security interest arises out of a sale of the
+payment intangible or promissory note,
+other than a sale pursuant to a disposition under section 9-610 or an acceptance
+of collateral under section 9-620.</para>
+<para>(c) A rule of law, statute, or regulation that prohibits, restricts,
+or requires the consent of a government, governmental body or official, person
+obligated on a promissory note, or account debtor to the assignment or transfer
+of, or creation of a security interest in, a promissory note, health-care-insurance
+receivable, or general intangible, including a contract, permit, license,
+or franchise between an account debtor and a debtor, is ineffective to the
+extent that the rule of law, statute, or regulation:</para>
+<para>(1) would impair the creation, attachment, or perfection of a security
+interest; or</para>
+<para>(2) provides that the assignment or transfer or the creation, attachment,
+or perfection of the security interest may give rise to a default, breach,
+right of recoupment, claim, defense, termination, right of termination, or
+remedy under the promissory note, health-care-insurance receivable, or general
+intangible.</para>
+<para>(d) To the extent that a term in a promissory note or in an agreement
+between an account debtor and a debtor which relates to a health-care-insurance
+receivable or general intangible or a rule of law, statute, or regulation
+described in subsection (c) would be effective under law other than this article
+but is ineffective under subsection (a) or (c), the creation, attachment,
+or perfection of a security interest in the promissory note, health-care-insurance
+receivable, or general intangible:</para>
+<para>(1) is not enforceable against the person obligated on the promissory
+note or the account debtor;</para>
+<para>(2) does not impose a duty or obligation on the person obligated on
+the promissory note or the account debtor;</para>
+<para>(3) does not require the person obligated on the promissory note or
+the account debtor to recognize the security interest, pay or render performance
+to the secured party, or accept payment or performance from the secured party;</para>
+<para>(4) does not entitle the secured party to use or assign the debtor's
+rights under the promissory note, health-care-insurance receivable, or general
+intangible, including any related information or materials furnished to the
+debtor in the transaction giving rise to the promissory note, health-care-insurance
+receivable, or general intangible;</para>
+<para>(5) does not entitle the secured party to use, assign, possess, or have
+access to any trade secrets or confidential information of the person obligated
+on the promissory note or the account debtor; and</para>
+<para>(6) does not entitle the secured party to enforce the security interest
+in the promissory note, health-care-insurance receivable, or general intangible.</para>
+<para>(e) This section prevails over any inconsistent provisions of the law
+of this state.</para>
+</amendatorysection></section><source>
+<para>Laws 1999, LB 550, § 143; </para>
+<para>Laws 2000, LB 929, § 36; </para>
+<para>Laws 2011, LB90, §  12.</para><operativedate>July 1, 2013</operativedate></source><annotation>
 <para><emphasis>COMMENT</emphasis></para>
 <para><emphasis>1. Source.</emphasis> New.</para>
-<para><emphasis>2. Free Assignability.</emphasis> This section makes ineffective any attempt to restrict the assignment of a general intangible, health-care-insurance receivable, or promissory note, whether the restriction appears in the terms of a promissory note or the agreement between an account debtor and a debtor (subsection (a)) or in a rule of law, including a statute or governmental rule or regulation (subsection (c)). This result allows the creation, attachment, and perfection of a security interest in a general intangible, such as an agreement for the nonexclusive license of software, as well as sales of certain receivables, such as a health-care-insurance receivable (which is an "account"), payment intangible, or promissory note, without giving rise to a default or breach by the assignor or from triggering a remedy of the account debtor or person obligated on a promissory note. This enhances the ability of certain debtors to obtain credit. On the other hand, subsection (d) protects the other party &#8212; the "account debtor" on a general intangible or the person obligated on a promissory note &#8212; from adverse effects arising from the security interest. It leaves the account debtor's or obligated person's rights and obligations unaffected in all material respects if a restriction rendered ineffective by subsection (a) or (c) would be effective under law other than article 9.</para>
+<para><emphasis>2. Free Assignability.</emphasis> This section makes ineffective any attempt to restrict the assignment of a general intangible, health-care-insurance receivable, or promissory note, whether the restriction appears in the terms of a promissory note or the agreement between an account debtor and a debtor (subsection (a)) or in a rule of law, including a statute or governmental rule or regulation (subsection (c)). This result allows the creation, attachment, and perfection of a security interest in a general intangible, such as an agreement for the nonexclusive license of software, as well as sales of certain receivables, such as a health-care-insurance receivable (which is an "account"), payment intangible, or promissory note, without giving rise to a default or breach by the assignor or from triggering a remedy of the account debtor or person obligated on a promissory note. This enhances the ability of certain debtors to obtain credit. On the other hand, subsection (d) protects the other party — the "account debtor" on a general intangible or the person obligated on a promissory note — from adverse effects arising from the security interest. It leaves the account debtor's or obligated person's rights and obligations unaffected in all material respects if a restriction rendered ineffective by subsection (a) or (c) would be effective under law other than article 9.</para>
 <para><emphasis>Example 1:</emphasis> A term of an agreement for the nonexclusive license of computer software prohibits the licensee from assigning any of its rights as licensee with respect to the software. The agreement also provides that an attempt to assign rights in violation of the restriction is a default entitling the licensor to terminate the license agreement. The licensee, as debtor, grants to a secured party a security interest in its rights under the license and in the computers in which it is installed. Under this section, the term prohibiting assignment and providing for a default upon an attempted assignment is ineffective to prevent the creation, attachment, or perfection of the security interest or entitle the licensor to terminate the license agreement. However, under subsection (d), the secured party (absent the licensor's agreement) is not entitled to enforce the license or to use, assign, or otherwise enjoy the benefits of the licensed software, and the licensor need not recognize (or pay any attention to) the secured party. Even if the secured party takes possession of the computers on the debtor's default, the debtor would remain free to remove the software from the computer, load it on another computer, and continue to use it, if the license so permits. If the debtor does not remove the software, other law may require the secured party to remove it before disposing of the computer. Disposition of the software with the computer could violate an effective prohibition on enforcement of the security interest. See subsection (d).</para>
 <para><emphasis>3. Nature of Debtor's Interest.</emphasis> Neither this section nor any other provision of this article determines whether a debtor has a property interest. The definition of the term "security interest" provides that it is an "interest in personal property". See section 1-201(37). Ordinarily, a debtor can create a security interest in collateral only if it has "rights in the collateral". See section 9-203(b). Other law determines whether a debtor has a property interest ("rights in the collateral") and the nature of that interest. For example, the nonexclusive license addressed in example 1 may not create any property interest whatsoever in the intellectual property (e.g., copyright) that underlies the license and that effectively enables the licensor to grant the license. The debtor's property interest may be confined solely to its interest in the promises made by the licensor in the license agreement (e.g., a promise not to sue the debtor for its use of the software).</para>
 <para><emphasis>4. Scope: Sales of Payment Intangibles and Other General Intangibles; Assignments Unaffected by this Section.</emphasis> Subsections (a) and (c) render ineffective restrictions on assignments only "to the extent" that the assignments restrict the "creation, attachment, or perfection of a security interest", including sales of payment intangibles and promissory notes. This section does not render ineffective a restriction on an assignment that does not create a security interest. For example, if the debtor in comment 2, example 1, purported to assign the license to another entity that would use the computer software itself, other law would govern the effectiveness of the anti-assignment provisions.</para>
@@ -41,4 +88,5 @@
 <para><emphasis>Example 4:</emphasis> A debtor is the owner of a cable television franchise that, under applicable law, cannot be assigned without the consent of the municipal franchisor. A lender wishes to extend credit to the debtor, provided that the credit is secured by the debtor's "going business" value. To secure the loan, the debtor grants a security interest in all its existing and after-acquired property. The franchise represents the principal value of the business. The municipality refuses to consent to any assignment for collateral purposes. If other law were given effect, the security interest in the franchise would not attach; and if the debtor were to enter bankruptcy and sell the business, the secured party would receive but a fraction of the business's value. Under this section, however, the security interest would attach to the franchise. As a result, the security interest would attach to the proceeds of any sale of the franchise while a bankruptcy is pending. However, this section would protect the interests of the municipality by preventing the secured party from enforcing its security interest to the detriment of the municipality.</para>
 <para><emphasis>8. Effect Outside of Bankruptcy.</emphasis> The principal effects of this section will take place outside of bankruptcy. Compared to the relatively few debtors that enter bankruptcy, there are many more that do not. By making available previously unavailable property as collateral, this section should enable debtors to obtain additional credit. For purposes of determining whether to extend credit, under some circumstances a secured party may ascribe value to the collateral to which its security interest has attached, even if this section precludes the secured party from enforcing the security interest without the agreement of the account debtor or person obligated on the promissory note. This may be the case where the secured party sees a likelihood of obtaining that agreement in the future. This may also be the case where the secured party anticipates that the collateral will give rise to a type of proceeds as to which this section would not apply.</para>
 <para><emphasis>Example 5:</emphasis> Under the facts of example 4, the debtor does not enter bankruptcy. Perhaps in exchange for a fee, the municipality agrees that the debtor may transfer the franchise to a buyer. As consideration for the transfer, the debtor receives from the buyer its check for part of the purchase price and its promissory note for the balance. The security interest attaches to the check and promissory note as proceeds. See section 9-315(a)(1)(B). This section does not apply to the security interest in the check, which is not a promissory note, health-care-insurance receivable, or general intangible. Nor does it apply to the security interest in the promissory note, inasmuch as it was not sold to the secured party.</para>
-<para><emphasis>9. Contrary Federal Law.</emphasis> This section does not override federal law to the contrary. However, it does reflect an important policy judgment that should provide a template for future federal law reforms.</para></annotation></law></legaldoc>
+<para><emphasis>9. Contrary Federal Law.</emphasis> This section does not override federal law to the contrary. However, it does reflect an important policy judgment that should provide a template for future federal law reforms.</para></annotation>  </law>
+</legaldoc>

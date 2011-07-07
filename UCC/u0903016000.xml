@@ -1,29 +1,101 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="ucc"><section><sectno></sectno><amendatorysection chaptername="Uniform Commercial Code" statutenumber="9-316">
-<bookinfo>Uniform Commercial Code, Reissue Revised Statutes of Nebraska</bookinfo>
-<statuteno>9-316</statuteno>
-<catchline> Continued perfection of security interest following change in governing law.</catchline>
-<para>(a) A security interest perfected pursuant to the law of the jurisdiction designated in section 9-301(1) or 9-305(c) remains perfected until the earliest of:</para>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Uniform Commercial Code" statutenumber="9-316"><bookinfo>Revised Statutes Supplement, 2011</bookinfo>
+<statuteno>9-316</statuteno><catchline>Effect of change in governing law.</catchline>
+<para>(a) A security interest perfected pursuant to the law of the jurisdiction
+designated in section 9-301(1) or 9-305(c) remains perfected until the earliest
+of:</para>
 <para>(1) the time perfection would have ceased under the law of that jurisdiction;</para>
-<para>(2) the expiration of four months after a change of the debtor's location to another jurisdiction; or</para>
-<para>(3) the expiration of one year after a transfer of collateral to a person that thereby becomes a debtor and is located in another jurisdiction.</para>
-<para>(b) If a security interest described in subsection (a) becomes perfected under the law of the other jurisdiction before the earliest time or event described in that subsection, it remains perfected thereafter. If the security interest does not become perfected under the law of the other jurisdiction before the earliest time or event, it becomes unperfected and is deemed never to have been perfected as against a purchaser of the collateral for value.</para>
-<para>(c) A possessory security interest in collateral, other than goods covered by a certificate of title and as-extracted collateral consisting of goods, remains continuously perfected if:</para>
-<para>(1) the collateral is located in one jurisdiction and subject to a security interest perfected under the law of that jurisdiction;</para>
-<para>(2) thereafter the collateral is brought into another jurisdiction; and</para>
-<para>(3) upon entry into the other jurisdiction, the security interest is perfected under the law of the other jurisdiction.</para>
-<para>(d) Except as otherwise provided in subsection (e), a security interest in goods covered by a certificate of title which is perfected by any method under the law of another jurisdiction when the goods become covered by a certificate of title from this state remains perfected until the security interest would have become unperfected under the law of the other jurisdiction had the goods not become so covered.</para>
-<para>(e) A security interest described in subsection (d) becomes unperfected as against a purchaser of the goods for value and is deemed never to have been perfected as against a purchaser of the goods for value if the applicable requirements for perfection under section 9-311(b) or 9-313 are not satisfied before the earlier of:</para>
-<para>(1) the time the security interest would have become unperfected under the law of the other jurisdiction had the goods not become covered by a certificate of title from this state; or</para>
+<para>(2) the expiration of four months after a change of the debtor's location
+to another jurisdiction; or</para>
+<para>(3) the expiration of one year after a transfer of collateral to a person
+that thereby becomes a debtor and is located in another jurisdiction.</para>
+<para>(b) If a security interest described in subsection (a) becomes perfected
+under the law of the other jurisdiction before the earliest time or event
+described in that subsection, it remains perfected thereafter. If the security
+interest does not become perfected under the law of the other jurisdiction
+before the earliest time or event, it becomes unperfected and is deemed never
+to have been perfected as against a purchaser of the collateral for value.</para>
+<para>(c) A possessory security interest in collateral, other than goods covered
+by a certificate of title and as-extracted collateral consisting of goods,
+remains continuously perfected if:</para>
+<para>(1) the collateral is located in one jurisdiction and subject to a security
+interest perfected under the law of that jurisdiction;</para>
+<para>(2) thereafter the collateral is brought into another jurisdiction;
+and</para>
+<para>(3) upon entry into the other jurisdiction, the security interest is
+perfected under the law of the other jurisdiction.</para>
+<para>(d) Except as otherwise provided in subsection (e), a security interest
+in goods covered by a certificate of title which is perfected by any method
+under the law of another jurisdiction when the goods become covered by a certificate
+of title from this state remains perfected until the security interest would
+have become unperfected under the law of the other jurisdiction had the goods
+not become so covered.</para>
+<para>(e) A security interest described in subsection (d) becomes unperfected
+as against a purchaser of the goods for value and is deemed never to have
+been perfected as against a purchaser of the goods for value if the applicable
+requirements for perfection under section 9-311(b) or 9-313 are not satisfied
+before the earlier of:</para>
+<para>(1) the time the security interest would have become unperfected under
+the law of the other jurisdiction had the goods not become covered by a certificate
+of title from this state; or</para>
 <para>(2) the expiration of four months after the goods had become so covered.</para>
-<para>(f) A security interest in deposit accounts, letter-of-credit rights, or investment property which is perfected under the law of the bank's jurisdiction, the issuer's jurisdiction, a nominated person's jurisdiction, the securities intermediary's jurisdiction, or the commodity intermediary's jurisdiction, as applicable, remains perfected until the earlier of:</para>
-<para>(1) the time the security interest would have become unperfected under the law of that jurisdiction; or</para>
-<para>(2) the expiration of four months after a change of the applicable jurisdiction to another jurisdiction.</para>
-<para>(g) If a security interest described in subsection (f) becomes perfected under the law of the other jurisdiction before the earlier of the time or the end of the period described in that subsection, it remains perfected thereafter. If the security interest does not become perfected under the law of the other jurisdiction before the earlier of that time or the end of that period, it becomes unperfected and is deemed never to have been perfected as against a purchaser of the collateral for value.</para>
-</amendatorysection></section>
-<source>
-<para>Laws 1999, LB 550, &#167; 109.</para>
-</source>
-<annotation>
+<para>(f) A security interest in deposit accounts, letter-of-credit rights,
+or investment property which is perfected under the law of the bank's jurisdiction,
+the issuer's jurisdiction, a nominated person's jurisdiction, the securities
+intermediary's jurisdiction, or the commodity intermediary's jurisdiction,
+as applicable, remains perfected until the earlier of:</para>
+<para>(1) the time the security interest would have become unperfected under
+the law of that jurisdiction; or</para>
+<para>(2) the expiration of four months after a change of the applicable jurisdiction
+to another jurisdiction.</para>
+<para>(g) If a security interest described in subsection (f) becomes perfected
+under the law of the other jurisdiction before the earlier of the time or
+the end of the period described in that subsection, it remains perfected thereafter.
+If the security interest does not become perfected under the law of the other
+jurisdiction before the earlier of that time or the end of that period, it
+becomes unperfected and is deemed never to have been perfected as against
+a purchaser of the collateral for value.</para>
+<para>(h) The following rules
+apply to collateral to which a security interest attaches within four months
+after the debtor changes its location to another jurisdiction:</para>
+<para>(1) A financing statement
+filed before the change pursuant to the law of the jurisdiction designated
+in section 9-301(1) or 9-305(c) is effective to perfect a security interest
+in the collateral if the financing statement would have been effective to
+perfect a security interest in the collateral had the debtor not changed its
+location.</para><para>(2)
+If a security interest perfected by a financing statement that is effective
+under subdivision (1) becomes perfected under the law of the other jurisdiction
+before the earlier of the time the financing statement would have become ineffective
+under the law of the jurisdiction designated in section 9-301(1) or 9-305(c)
+or the expiration of the four-month period, it remains perfected thereafter.
+If the security interest does not become perfected under the law of the other
+jurisdiction before the earlier time or event, it becomes unperfected and
+is deemed never to have been perfected as against a purchaser of the collateral
+for value.</para><para>(i)
+If a financing statement naming an original debtor is filed pursuant to the
+law of the jurisdiction designated in section 9-301(1) or 9-305(c) and the
+new debtor is located in another jurisdiction, the following rules apply:</para>
+<para>(1) The financing statement
+is effective to perfect a security interest in collateral acquired by the
+new debtor before, and within four months after, the new debtor becomes bound
+under section 9-203(d), if the financing statement would have been effective
+to perfect a security interest in the collateral had the collateral been acquired
+by the original debtor.</para><para>(2)
+A security interest perfected by the financing statement and which becomes
+perfected under the law of the other jurisdiction before the earlier of the
+time the financing statement would have become ineffective under the law of
+the jurisdiction designated in section 9-301(1) or 9-305(c) or the expiration
+of the four-month period remains perfected thereafter. A security interest
+that is perfected by the financing statement but which does not become perfected
+under the law of the other jurisdiction before the earlier time or event becomes
+unperfected and is deemed never to have been perfected as against a purchaser
+of the collateral for value.</para></amendatorysection></section><source>
+<para>Laws 1999, LB 550, § 109; </para>
+<para>Laws 2011, LB90, §  8. </para><operativedate>July 1, 2013</operativedate></source><annotation>
 <para><emphasis>COMMENT</emphasis></para>
 <para><emphasis>1. Source.</emphasis> Former section 9-103(1)(d), (2)(b), and (3)(e), as modified.</para>
 <para><emphasis>2. Continued Perfection.</emphasis> This section deals with continued perfection of security interests that have been perfected under the law of another jurisdiction. The fact that the law of a particular jurisdiction ceases to govern perfection under sections 9-301 through 9-307 does not necessarily mean that a security interest perfected under that law automatically becomes unperfected. To the contrary: This section generally provides that a security interest perfected under the law of one jurisdiction remains perfected for a fixed period of time (four months or one year, depending on the circumstances), even though the jurisdiction whose law governs perfection changes. However, cessation of perfection under the law of the original jurisdiction cuts short the fixed period. The four-month and one-year periods are long enough for a secured party to discover in most cases that the law of a different jurisdiction governs perfection and to reperfect (typically by filing) under the law of that jurisdiction. If a secured party properly reperfects a security interest before it becomes unperfected under subsection (a), then the security interest remains perfected continuously thereafter. See subsection (b).</para>
@@ -35,7 +107,7 @@
 <para>Note that although Newcorp is a "new debtor" as defined in section 9-102, the application of subsection (a)(3) is not limited to transferees who are new debtors. Note also that, under section 9-507, the financing statement naming Debtor remains effective even though Newcorp has become the debtor.</para>
 <para>This section addresses security interests that are perfected (i.e., that have attached and as to which any required perfection step has been taken) before the debtor changes its location. As the following example explains, this section does not apply to security interests that have not attached before the location changes.</para>
 <para><emphasis>Example 5:</emphasis> Debtor is a Pennsylvania corporation. Debtor grants to Lender a security interest in Debtor's existing and after-acquired inventory. Lender perfects by filing in Pennsylvania. Debtor's shareholders decide to "reincorporate" in Delaware. They form a Delaware corporation (Newcorp) into which they merge Debtor. By virtue of the merger, Newcorp becomes bound by Debtor's security agreement. See section 9-203. After the merger, Newcorp acquires inventory to which Lender's security interest attaches. Because Newcorp is located in Delaware, Delaware law governs perfection of a security interest in Newcorp's inventory. See sections 9-301 and 9-307. Having failed to perfect under Delaware law, Lender holds an unperfected security interest in the inventory acquired by Newcorp after the merger. The same result follows regardless of the name of the Delaware corporation (i.e., even if the Delaware corporation and Debtor have the same name). A different result would occur if Debtor and Newcorp were incorporated in the same state. See section 9-508, comment 4.</para>
-<para><emphasis>3. Retroactive Unperfection.</emphasis> Subsection (b) sets forth the consequences of the failure to reperfect before perfection ceases under subsection (a): The security interest becomes unperfected prospectively and, as against purchasers for value, including buyers and secured parties, but not as against donees or lien creditors, retroactively. The rule applies to agricultural liens, as well. See also section 9-515 (taking the same approach with respect to lapse). Although this approach creates the potential for circular priorities, the alternative &#8212; retroactive unperfection against lien creditors &#8212; would create substantial and unjustifiable preference risks.</para>
+<para><emphasis>3. Retroactive Unperfection.</emphasis> Subsection (b) sets forth the consequences of the failure to reperfect before perfection ceases under subsection (a): The security interest becomes unperfected prospectively and, as against purchasers for value, including buyers and secured parties, but not as against donees or lien creditors, retroactively. The rule applies to agricultural liens, as well. See also section 9-515 (taking the same approach with respect to lapse). Although this approach creates the potential for circular priorities, the alternative — retroactive unperfection against lien creditors — would create substantial and unjustifiable preference risks.</para>
 <para><emphasis>Example 6:</emphasis> Under the facts of example 4, six months after the merger, Buyer bought from Newcorp some equipment formerly owned by Debtor. At the time of the purchase, Buyer took subject to Lender's perfected security interest, of which Buyer was unaware. See section 9-315(a)(1)(A). However, subsection (b) provides that if Lender fails to reperfect in Delaware within a year after the merger, its security interest becomes unperfected and is deemed never to have been perfected against Buyer. Having given value and received delivery of the equipment without knowledge of the security interest and before it was perfected, Buyer would take free of the security interest. See section 9-317(b).</para>
 <para><emphasis>Example 7:</emphasis> Under the facts of example 4, one month before the merger, Debtor created a security interest in certain equipment in favor of Financer, who perfected by filing in Pennsylvania. At that time, Financer's security interest is subordinate to Lender's. See section 9-322(a)(1). Financer reperfects by filing in Delaware within a year after the merger, but Lender fails to do so. Under subsection (b), Lender's security interest is deemed never to have been perfected against Financer, a purchaser for value. Consequently, under section 9-322(a)(2), Financer's security interest is now senior.</para>
 <para>Of course, the expiration of the time period specified in subsection (a) does not of itself prevent the secured party from later reperfecting under the law of the new jurisdiction. If the secured party does so, however, there will be a gap in perfection, and the secured party may lose priority as a result. Thus, in example 7, if Lender perfects by filing in Delaware more than one year under the merger, it will have a new date of filing and perfection for purposes of section 9-322(a)(1). Financer's security interest, whose perfection dates back to the filing in Pennsylvania under subsection (b), will remain senior.</para>
@@ -47,4 +119,5 @@
 <para>Section 9-337 affords protection to a limited class of persons buying or acquiring a security interest in the goods while a security interest is perfected under the law of another jurisdiction but after this state has issued a clean certificate of title.</para>
 <para><emphasis>6. Deposit Accounts, Letter-of-Credit Rights, and Investment Property.</emphasis> Subsections (f) and (g) address changes in the jurisdiction of a bank, issuer of an uncertificated security, issuer of or nominated person under a letter of credit, securities intermediary, and commodity intermediary. The provisions are analogous to those of subsections (a) and (b).</para>
 <para><emphasis>7. Agricultural Liens.</emphasis> This section does not apply to agricultural liens.</para>
-<para><emphasis>Example 10:</emphasis> Supplier holds an agricultural lien on corn. The lien arises under an Iowa statute. Supplier perfects by filing a financing statement in Iowa, where the corn is located. See section 9-302. Debtor stores the corn in Missouri. Assume the Iowa agricultural lien survives or an agricultural lien arises under Missouri law (matters that this article does not govern). Once the corn is located in Missouri, Missouri becomes the jurisdiction whose law governs perfection. See section 9-302. Thus, the agricultural lien will not be perfected unless Supplier files a financing statement in Missouri.</para></annotation></law></legaldoc>
+<para><emphasis>Example 10:</emphasis> Supplier holds an agricultural lien on corn. The lien arises under an Iowa statute. Supplier perfects by filing a financing statement in Iowa, where the corn is located. See section 9-302. Debtor stores the corn in Missouri. Assume the Iowa agricultural lien survives or an agricultural lien arises under Missouri law (matters that this article does not govern). Once the corn is located in Missouri, Missouri becomes the jurisdiction whose law governs perfection. See section 9-302. Thus, the agricultural lien will not be perfected unless Supplier files a financing statement in Missouri.</para></annotation>  </law>
+</legaldoc>

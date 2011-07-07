@@ -1,80 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Arbortext, Inc., 1988-2004, v.4002-->
-<?APT Element gi="legaldoc"?>
-<?APT Element gi="law" attrs="type"?>
-<?APT Element gi="section"?>
-<?APT Element gi="sectno"?>
-<?APT Element gi="amendatorysection" attrs="amended chaptername statutenumber"?>
-<?APT Element gi="bookinfo"?>
-<?APT Element gi="statuteno"?>
-<?APT Element gi="catchline"?>
-<?APT Element gi="para"?>
-<?APT Element gi="source"?>
-<?APT Element gi="effectivedate"?>
-<?APT Element gi="crossreference"?>
-<?APT Element gi="emphasis"?>
-<legaldoc><law type="statute"><section><sectno></sectno><amendatorysection
-amended="yes" chaptername="Motor Vehicles" statutenumber="60-4,144"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>60-4,144</statuteno><catchline>Commercial
-drivers' licenses; applications; examiner's certificate; contents; application;
-demonstration of knowledge and skills; information and documentation required.</catchline><para>(1)(a)
-This subsection applies until the implementation date designated by the director
-pursuant to section 60-462.02. Application for any original or renewal commercial
-driver's license or application for any change of class of commercial motor
-vehicle, endorsement, or restriction may be made in a manner prescribed by
-the department. Such application may be made to an examiner in any county.
-The examiner shall personally conduct the examination of the applicant and
-deliver to each successful applicant an examiner's certificate containing
-the statements made pursuant to subdivision (b) of this subsection.</para><para>(b)
-The application or examiner's certificate shall include the voter registration
-portion pursuant to section 32-308, the advisement language required by subsection
-(5) of section 60-6,197, and the following:</para><para>(i) The full name,
-the current mailing address, and the residential address of the applicant,
-except that if the applicant is a program participant under the Address Confidentiality
-Act, he or she need not supply his or her residential address;</para><para>(ii)
-A physical description of the applicant, including sex, height, weight, and
-eye and hair colors;</para><para>(iii) The applicant's date of birth;</para><para>(iv)
-The applicant's social security number;</para><para>(v) The applicant's signature;</para><para>(vi)
-Certification that the commercial motor vehicle in which the applicant takes
-any driving skills examination is representative of the class of commercial
-motor vehicle that the applicant operates or expects to operate;</para><para>(vii)
-The certification required pursuant to section 60-4,145 or 60-4,146;</para><para>(viii)
-Beginning September 30, 2005, the names of all states where the applicant
-has been licensed to operate any type of motor vehicle in the ten years prior
-to the date of application;</para><para>(ix) The following specific questions:</para><para>(A)
-Have you within the last three months (e.g. due to diabetes, epilepsy, mental
-illness, head injury, stroke, heart condition, neurological disease, etc.):</para><para>(I)
-lost voluntary control or consciousness ... yes ... no</para><para>(II) experienced
-vertigo or multiple episodes of dizziness or fainting ... yes ... no</para><para>(III)
-experienced disorientation ... yes ... no</para><para>(IV) experienced seizures
-... yes ... no</para><para>(V) experienced impairment of memory, memory loss
-... yes ... no </para><para>Please explain: .....................</para><para>(B)
-Do you experience any condition which affects your ability to operate a motor
-vehicle? (e.g. due to loss of or impairment of foot, leg, hand, or arm; neurological
-or neuromuscular disease, etc.) ... yes ... no </para><para>Please explain:
-.....................</para><para>(C) Since the issuance of your last driver's
-license/permit has your health or medical condition changed or worsened? ...
-yes ... no </para><para>Please explain, including how the above affects your
-ability to drive: .......................;</para><para>(x) Do you wish to
-register to vote as part of this application process? </para><para>OPTIONAL
-- YOU ARE NOT REQUIRED TO ANSWER ANY OF THE FOLLOWING QUESTIONS:</para><para>(xi)
-Do you wish to be an organ and tissue donor?</para><para>(xii) Do you wish
-to receive any additional specific information regarding organ and tissue
-donation and the Donor Registry of Nebraska?</para><para>(xiii) Do you wish
-to donate $1 to promote the Organ and Tissue Donor Awareness and Education
-Fund?</para><para>(c) Application shall be made under oath or affirmation
-of the applicant.</para><para>(2) This subsection applies beginning on the
-implementation date designated by the director pursuant to section 60-462.02.
-An applicant for any original or renewal commercial driver's license or an
-applicant for a change of class of commercial motor vehicle, endorsement,
-or restriction shall demonstrate his or her knowledge and skills for operating
-a commercial motor vehicle as prescribed in the Motor Vehicle Operator's License
-Act. An applicant for a commercial driver's license shall provide the information
-and documentation required by this section and section 60-484. Such information
-and documentation shall include:</para><para>(a) Certification that the commercial
-motor vehicle in which the applicant takes any driving skills examination
-is representative of the class of commercial motor vehicle that the applicant
-operates or expects to operate;</para><para>(b) The certification required
-pursuant to section 60-4,145 or 60-4,146; and</para><para>(c) The names of
-all states where the applicant has been licensed to operate any type of motor
-vehicle in the ten years prior to the date of application.</para></amendatorysection></section><source><para>Laws
-1989, LB 285, &#167; 94; </para><para>Laws 1992, LB 1178, &#167; 4; </para><para>Laws 1994, LB 76, &#167; 575; </para><para>Laws 1997, LB 635, &#167; 21; </para><para>Laws 1999, LB 147, &#167; 3; </para><para>Laws 1999, LB 704, &#167; 29; </para><para>Laws 2000, LB 1317, &#167; 8; </para><para>Laws 2001, LB 34, &#167; 5; </para><para>Laws 2003, LB 228, &#167; 13; </para><para>Laws 2003, LB 562, &#167; 14; </para><para>Laws 2004, LB 208, &#167; 7; </para><para>Laws 2004, LB 559, &#167; 4; </para><para>Laws 2005, LB 76, &#167; 12; </para><para>Laws 2008, LB911, &#167; 21.</para></source> </law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Motor Vehicles" statutenumber="60-4,144"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>60-4,144</statuteno><catchline>Commercial drivers' licenses; applications; contents;
+application; demonstration of knowledge and skills; information and documentation
+required.</catchline><para>(1) An applicant for any original or renewal
+commercial driver's license or an applicant for a change of class of commercial
+motor vehicle, endorsement, or restriction shall demonstrate his or her knowledge
+and skills for operating a commercial motor vehicle as prescribed in the Motor
+Vehicle Operator's License Act. An applicant for a commercial driver's license
+shall provide the information and documentation required by this section and sections 60-484 and 60-4,144.01 and also, beginning on an implementation
+date designated by the director on or before January 1, 2014, the information
+and documentation required by section 60-484.04. Such information
+and documentation shall include
+any additional information required by 49 C.F.R. parts 383 and 391 and also include:</para>
+<para>(a) Certification that the commercial motor vehicle in which the applicant
+takes any driving skills examination is representative of the class of commercial
+motor vehicle that the applicant operates or expects to operate; and</para>
+<para>(b) The names of all states
+where the applicant has been licensed to operate any type of motor vehicle
+in the ten years prior to the date of application.</para>
+<para>(2) Any person applying
+for any commercial driver's license on or before December 31, 2011, must present
+the certification required pursuant to section 60-4,145 or 60-4,146.</para>
+<para>(3) Any person applying
+for any commercial driver's license on or after January 1, 2012, must make
+one of the certifications in section 60-4,144.01 and provide such certification
+to the department in order to be issued a commercial driver's license.</para>
+<para>(4) On or after January
+1, 2012, but no later than January 30, 2014, every person who holds any commercial
+driver's license must provide to the department medical certification as required
+by section 60-4,144.01. The department may provide notice and prescribe medical
+certification compliance requirements for all holders of commercial driver's
+licenses. Holders of commercial driver's licenses who fail to meet the prescribed
+medical certification compliance requirements may be subject to downgrade.</para>
+</amendatorysection></section><source><para>Laws
+1989, LB 285, &#167; 94; </para><para>Laws 1992, LB 1178, &#167; 4; </para><para>Laws 1994, LB 76, &#167; 575; </para><para>Laws 1997, LB 635, &#167; 21; </para><para>Laws 1999, LB 147, &#167; 3; </para><para>Laws 1999, LB 704, &#167; 29; </para><para>Laws 2000, LB 1317, &#167; 8; </para><para>Laws 2001, LB 34, &#167; 5; </para><para>Laws 2003, LB 228, &#167; 13; </para><para>Laws 2003, LB 562, &#167; 14; </para><para>Laws 2004, LB 208, &#167; 7; </para><para>Laws 2004, LB 559, &#167; 4; </para><para>Laws 2005, LB 76, &#167; 12; </para><para>Laws 2008, LB911, &#167; 21; </para><para>Laws 2011, LB178, &#167; 12; </para><para>Laws 2011, LB215, &#167; 19.</para><note>The Revisor of Statutes has pursuant to section 49-769 correlated LB178, section 12, with LB215, section 19, to reflect all amendments.</note><note>Changes made by LB215 became effective March 11, 2011. Changes made by LB178 became effective August 27, 2011.</note></source>  </law>
+</legaldoc>

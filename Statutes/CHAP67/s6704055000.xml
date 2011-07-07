@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Partnerships" statutenumber="67-455"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>67-455</statuteno><catchline>Name.</catchline><para>(1) The name of a limited liability partnership shall:</para><para>(a) End with "registered limited liability partnership", "limited liability partnership", "R.L.L.P.", "RLLP", "L.L.P.", or "LLP";</para><para>(b) Not be the same as or deceptively similar to, upon the records in the office of the Secretary of State, a trade name registered in this state pursuant to sections 87-208 to 87-220; and</para><para>(c) Not be the same as or deceptively similar to, upon the records in the office of the Secretary of State, any other business entity name registered or on file with the Secretary of State pursuant to Nebraska law.</para><para>(2) A limited liability partnership may register under any name which is deceptively similar to, upon the records in the office of the Secretary of State, any other business entity name registered or on file with the Secretary of State pursuant to Nebraska law with the written consent of the other business entity or with the transfer of the name by the other business entity. Written consent to the use of the name or written consent to the transfer of the name shall be filed with the Secretary of State.</para></amendatorysection></section><source><para>Laws 1997, LB 523, &#167; 55; </para><para>Laws 2003, LB 464, &#167; 9. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id105">
+<amendatorysection amended="yes" chaptername="Partnerships" id="id107" statutenumber="67-455"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>67-455</statuteno><catchline id="id110">Name.</catchline>
+<para>(1) The name of a limited liability partnership shall:</para>
+<para>(a) End with "registered limited liability partnership",
+"limited liability partnership", "R.L.L.P.", "RLLP", "L.L.P.", or "LLP";</para>
+<para>(b) Not be the same as or deceptively similar to, upon the
+records in the office of the Secretary of State, a trade name registered in
+this state pursuant to sections 87-208 to 87-219.01; and</para>
+<para>(c) Not be the same as or deceptively similar to, upon the
+records in the office of the Secretary of State, any other business entity
+name registered or on file with the Secretary of State pursuant to Nebraska
+law.</para>
+<para>(2) A limited liability partnership may register under any
+name which is deceptively similar to, upon the records in the office of the
+Secretary of State, any other business entity name registered or on file with
+the Secretary of State pursuant to Nebraska law with the written consent of
+the other business entity or with the transfer of the name by the other business
+entity. Written consent to the use of the name or written consent to the transfer
+of the name shall be filed with the Secretary of State.</para>
+</amendatorysection></section><source><para>Laws 1997, LB 523, &#167; 55; </para><para>Laws 2003, LB 464, &#167; 9; </para><para>Laws 2011, LB462, &#167; 6.</para><effectivedate>August 27, 2011</effectivedate></source>  </law>
+</legaldoc>

@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Jails and Correctional Facilities" statutenumber="47-628"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>47-628</statuteno><catchline>Community correctional programming; condition of probation.</catchline><para>(1) A sentencing judge may sentence an offender to probation conditioned upon community correctional programming pursuant to section 47-630 and the guidelines developed by the Supreme Court.</para><para>(2) A sentence to a community correctional program or facility shall be imposed as a condition of probation pursuant to the Nebraska Probation Administration Act. The court may modify the sentence of an offender serving a sentence in a community correctional program in the same manner as if the offender had been placed on probation.</para><para>(3) The Office of Probation Administration shall utilize community correctional facilities and programs as appropriate.</para></amendatorysection></section><source><para>Laws 2003, LB 46, &#167; 40. </para></source><crossreference><para><emphasis>Nebraska Probation Administration Act,</emphasis> see section 29-2269.</para></crossreference></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id145">
+<amendatorysection amended="yes" chaptername="Jails and Correctional Facilities" id="id147" statutenumber="47-628">
+<bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>47-628</statuteno><catchline id="id150">Community correctional
+programming; condition of probation.</catchline><para>(1) A sentencing
+judge may sentence an offender to probation conditioned upon community correctional
+programming.</para>
+<para>(2) A sentence to a community correctional program or facility
+shall be imposed as a condition of probation pursuant to the Nebraska Probation
+Administration Act. The court may modify the sentence of an offender serving
+a sentence in a community correctional program in the same manner as if the
+offender had been placed on probation.</para>
+<para>(3) The Office of Probation Administration shall utilize
+community correctional facilities and programs as appropriate.</para>
+</amendatorysection></section><source><para>Laws 2003, LB 46, &#167; 40; </para><para>Laws 2011, LB390, &#167; 11.</para><operativedate>July 1, 2011</operativedate></source><crossreference><para><emphasis>Nebraska Probation Administration Act,</emphasis> see section 29-2269.</para></crossreference>  </law>
+</legaldoc>

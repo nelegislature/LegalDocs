@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Revenue and Taxation" statutenumber="77-1909"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>77-1909</statuteno><catchline>Foreclosure proceedings; decree; contents.</catchline><para>In its decree, the court shall ascertain and determine the amount of taxes, special assessments, and other liens, interest, and costs chargeable to each particular item of real property and award to the plaintiff an attorney's fee, unless waived by the plaintiff, in an amount equal to ten percent of the amount due which shall be taxed as part of the costs in the action and apportioned equitably as other costs.</para></amendatorysection></section><source><para>Laws 1943, c. 176, &#167; 9, p. 616; </para><para>R.S.1943, &#167; 77-1909; </para><para>Laws 1992, LB 1063, &#167; 171; </para><para>Laws 1992, Second Spec. Sess., LB 1, &#167; 144. </para></source><annotation><para>Interest and costs are to be included in awarding an attorney fee pursuant to this section. The award of attorney fees is to be made in the decree of foreclosure, not in the order confirming the sale. Buffalo County v. Kizzier, 250 Neb. 247, 548 N.W.2d 753 (1996).</para></annotation></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Revenue and Taxation" statutenumber="77-1909"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>77-1909</statuteno><catchline>Foreclosure proceedings; decree;
+contents; attorney's fee.</catchline>
+<para>In its decree, the court shall ascertain and determine the amount of
+taxes, special assessments, and other liens, interest, and costs chargeable
+to each particular item of real property,
+excluding any lien on real estate for special assessments levied by any sanitary
+and improvement district which special assessments have not been previously
+offered for sale by the county treasurer, and award to the plaintiff
+an attorney's fee, unless waived by the plaintiff, in an amount equal to ten
+percent of the amount due which shall be taxed as part of the costs in the
+action and apportioned equitably as other costs.</para>
+</amendatorysection></section><source><para>Laws 1943, c. 176, &#167; 9, p. 616; </para><para>R.S.1943, &#167; 77-1909; </para><para>Laws 1992, LB 1063, &#167; 171; </para><para>Laws 1992, Second Spec. Sess., LB 1, &#167; 144; </para><para>Laws 2011, LB423, &#167; 3.</para><effectivedate>August 27, 2011</effectivedate></source><annotation><para>Interest and costs are to be included in awarding an attorney fee pursuant to this section. The award of attorney fees is to be made in the decree of foreclosure, not in the order confirming the sale. Buffalo County v. Kizzier, 250 Neb. 247, 548 N.W.2d 753 (1996).</para></annotation>  </law>
+</legaldoc>

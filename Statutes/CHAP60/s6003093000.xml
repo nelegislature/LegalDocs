@@ -1,31 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Arbortext, Inc., 1988-2004, v.4002-->
-<?APT Element gi="legaldoc"?>
-<?APT Element gi="law" attrs="type"?>
-<?APT Element gi="section"?>
-<?APT Element gi="sectno"?>
-<?APT Element gi="amendatorysection" attrs="amended chaptername statutenumber"?>
-<?APT Element gi="bookinfo"?>
-<?APT Element gi="statuteno"?>
-<?APT Element gi="catchline"?>
-<?APT Element gi="para"?>
-<?APT Element gi="source"?>
-<?APT Element gi="operativedate"?>
-<legaldoc><law type="statute"><section><sectno></sectno><amendatorysection
-amended="yes" chaptername="Motor Vehicles" statutenumber="60-393"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>60-393</statuteno><catchline>Multiple
-vehicle registration.</catchline><para>Any owner who has two or more motor
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id145">
+<amendatorysection amended="yes" chaptername="Motor Vehicles" id="id147" statutenumber="60-393">
+<bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>60-393</statuteno><catchline id="id150">Multiple vehicle
+registration.</catchline><para>Any owner who has two or more motor
 vehicles or trailers required to be registered under the Motor Vehicle Registration
 Act may register all such motor vehicles or trailers on a calendar-year basis
 or on an annual basis for the same registration period beginning in a month
 chosen by the owner. When electing to establish the same registration period
 for all such motor vehicles or trailers, the owner shall pay the registration
-fee, the motor vehicle tax imposed in section 60-3,185, and the motor vehicle
-fee imposed in section 60-3,190 on each motor vehicle for the number of months
-necessary to extend its current registration period to the registration period
-under which all such motor vehicles or trailers will be registered. Credit
-shall be given for registration paid on each motor vehicle or trailer when
-the motor vehicle or trailer has a later expiration date than that chosen
-by the owner except as otherwise provided in sections 60-3,121, 60-3,122.02,
-and 60-3,128. Thereafter all such motor vehicles or trailers shall be registered
-on an annual basis starting in the month chosen by the owner.</para></amendatorysection></section><source><para>Laws
-2005, LB 274, &#167; 93; </para><para>Laws 2007, LB570, &#167; 4.</para></source></law></legaldoc>
+fee, the motor vehicle tax imposed in section 60-3,185, the motor vehicle fee imposed in section
+60-3,190, and the alternative
+fuel fee imposed in section 60-3,191 on each motor vehicle for
+the number of months necessary to extend its current registration period to
+the registration period under which all such motor vehicles or trailers will
+be registered. Credit shall be given for registration paid on each motor vehicle
+or trailer when the motor vehicle or trailer has a later expiration date than
+that chosen by the owner except as otherwise provided in sections 60-3,121,
+60-3,122.02, and 60-3,128. Thereafter all such motor vehicles or trailers
+shall be registered on an annual basis starting in the month chosen by the
+owner.</para>
+</amendatorysection></section><source><para>Laws
+2005, LB 274, &#167; 93; </para><para>Laws 2007, LB570, &#167; 4; </para><para>Laws 2011, LB289, &#167; 18.</para><operativedate>January 1, 2012</operativedate></source>  </law>
+</legaldoc>

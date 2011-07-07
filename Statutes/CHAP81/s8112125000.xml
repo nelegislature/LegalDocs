@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id201">
-<sectno id="id202" opdate="August 30, 2009">Sec. 13.</sectno><amendatorysection amended="yes" chaptername="State Administrative Departments" id="id203" statutenumber="81-12,125"><bookinfo>Revised Statutes Cumulative Supplement, 2010</bookinfo><statuteno id="id205">81-12,125</statuteno><catchline id="id206">Act, how
-cited.</catchline><para>Sections 81-12,125 to 81-12,127 shall be
-known and may be cited as the Building Entrepreneurial Communities Act. The
-act terminates on January 1, 2015.</para>
-</amendatorysection></section><source><para>Laws 2005, LB 90, &#167; 1; </para><para>Laws 2009, LB164, &#167; 13.</para><terminationdate>January 1, 2015</terminationdate></source>  </law>
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="81-12,125">
+				<statuteno>81-12,125</statuteno>
+				<catchline>Repealed. Laws 2011, LB 387, &#167; 18.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>October 1, 2011</operativedate></source>
+	</law>
 </legaldoc>

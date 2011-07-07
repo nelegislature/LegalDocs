@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><!--Arbortext, Inc., 1988-2004, v.4002--><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Jails and Correctional Facilities" statutenumber="47-625" amended="yes" publishedsource="CumulativeSupplement"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>47-625</statuteno><catchline>Director of the council; duties.</catchline><para>(1) The Governor shall appoint the director of the council.</para><para>(2) The director shall:</para><para>(a) Supervise, develop, and oversee the actions and proceedings of the council;</para><para>(b) Ensure, by working in consultation with the council, consistency between sentencing guidelines and the availability of community correctional facilities and programs; </para><para>(c) Administer contracts entered into by the council with community correctional facilities or programs; and </para><para>(d) Establish and administer grants, projects, and programs for the operation of the council.</para></amendatorysection></section><source><para>Laws 2003, LB 46, &#167; 37; </para><para>Laws 2005, LB 538, &#167; 16; </para><para>Laws 2006, LB 1113, &#167; 49. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="47-625">
+				<statuteno>47-625</statuteno>
+				<catchline>Repealed. Laws 2011, LB 390, &#167; 39.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>July 1, 2011</operativedate></source>
+	</law>
+</legaldoc>

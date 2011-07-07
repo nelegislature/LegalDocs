@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Public Health and Welfare" statutenumber="71-6902"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>71-6902</statuteno><catchline>Performance of abortion; notice required.</catchline><para>(1) No abortion shall be performed upon a pregnant woman until at least forty-eight hours after written notice of the pending abortion has been delivered in the manner specified in subsection (2) or (3) of this section.</para><para>(2) The notice shall be addressed to the parent at his or her usual place of residence and shall be delivered personally to the parent by the physician or an agent.</para><para>(3) In lieu of the delivery required by subsection (2) of this section, notice shall be made by registered or certified mail addressed to the parent at his or her usual place of residence with return receipt requested and restricted delivery to the addressee, which means the postal employee can only deliver mail to the authorized addressee. Time of delivery shall be deemed to occur at twelve o'clock noon on the next day on which regular mail delivery takes place subsequent to the mailing.</para></amendatorysection></section><source><para>Laws 1991, LB 425, &#167; 2. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id34">
+<amendatorysection amended="yes" chaptername="Public Health and Welfare" id="id36" statutenumber="71-6902"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>71-6902</statuteno><catchline id="id39">Performance of
+abortion; notarized written consent required.</catchline>
+<para>Except in the case of a medical emergency
+or except as provided in sections 71-6902.01, 71-6903, and 71-6906, no person
+shall perform an abortion upon a pregnant woman unless, in the case of a woman
+who is less than eighteen years of age, he or she first obtains the notarized
+written consent of both the pregnant woman and one of her parents or a legal
+guardian or, in the case of a woman for whom a guardian has been appointed
+pursuant to sections 30-2617 to 30-2629, he or she first obtains the notarized
+written consent of her guardian. In deciding whether to grant such consent,
+a pregnant woman's parent or guardian shall consider only his or her child's
+or ward's best interest.</para></amendatorysection></section><source><para>Laws 1991, LB 425, &#167; 2; </para><para>Laws 2011, LB690, &#167; 4.</para><effectivedate>August 27, 2011</effectivedate></source>  </law>
+</legaldoc>

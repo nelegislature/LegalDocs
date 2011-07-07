@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Railroads" statutenumber="74-1415.04"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>74-1415.04</statuteno><catchline>Security; required.</catchline><para>No loan for any acquisition, rehabilitation or improvement, operation, or rail facility construction project shall be approved by the council unless the borrower provides a guarantee and collateral for the loan which is acceptable to the council as sufficient security to protect the interests of the council.</para></amendatorysection></section><source><para>Laws 1991, LB 783, &#167; 16; </para><para>Laws 1996, LB 463, &#167; 23; </para><para>Laws 2003, LB 259, &#167; 2. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="74-1415.04">
+				<statuteno>74-1415.04</statuteno>
+				<catchline>Repealed. Laws 2011, LB 259, &#167; 5.</catchline>
+				
+			</amendatorysection>
+		</section>
+	</law>
+</legaldoc>

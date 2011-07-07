@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Public Health and Welfare" statutenumber="71-542"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>71-542</statuteno><catchline>Immunization information; access by child care providers and schools; confidentiality; violation; penalty; fees.</catchline><para>(1) Immunization information which is not restricted under section 71-540 concerning children enrolled in a child care program licensed pursuant to the Child Care Licensing Act, a school, or a postsecondary educational institution may be accessed by the program, school, or institution from any of the persons or entities described in section 71-541, subject to security provisions to be set by rule and regulation as provided in section 71-543. Such immunization information is limited to the child's name, date of birth, immunization provider, and all dates of immunization by vaccine type documented in the immunization information. The access to immunization information by such a licensed program, school, or institution under this section does not change a parent's or legal guardian's right to access medical information about his or her child or ward.</para><para>(2) Immunization information received under this section is confidential, except that a child's immunization information received under this section may be disclosed to the child's parents or legal guardian. Unauthorized public disclosure of such confidential information by an individual or an officer or employee of a child care program licensed pursuant to the Child Care Licensing Act, a school, or a postsecondary educational institution is a Class III misdemeanor.</para><para>(3) The person or entity described in section 71-541 which provides immunization information to a licensed child care program, a school, or a postsecondary educational institution in accordance with this section may charge a reasonable fee to recover the cost of providing such immunization information.</para></amendatorysection></section><source><para>Laws 1998, LB 1063, &#167; 14; </para><para>Laws 2004, LB 1005, &#167; 54. </para></source><crossreference><para><emphasis>Child Care Licensing Act,</emphasis> see section 71-1908.</para></crossreference></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Public Health and Welfare" statutenumber="71-542"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>71-542</statuteno><catchline>Immunization information system; immunization information; confidentiality;
+violation; penalty.</catchline>
+
+<para>Immunization
+information in
+the immunization information system established pursuant to section 71-541.01 is
+confidential, and unrestricted immunization information may only be accessed pursuant to rules and regulations
+of the Department of Health and Human Services. Unauthorized public
+disclosure of such confidential information is a Class III misdemeanor.</para>
+</amendatorysection>
+</section><source><para>Laws 1998, LB 1063, &#167; 14; </para><para>Laws 2004, LB 1005, &#167; 54; </para><para>Laws 2011, LB591, &#167; 10.</para><effectivedate>August 27, 2011</effectivedate></source>  </law>
+</legaldoc>

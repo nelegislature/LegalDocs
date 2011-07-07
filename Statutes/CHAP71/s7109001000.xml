@@ -1,1 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Public Health and Welfare" statutenumber="71-901"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>71-901</statuteno><catchline>Act, how cited.</catchline><para>Sections 71-901 to 71-962 shall be known and may be cited as the Nebraska Mental Health Commitment Act.</para></amendatorysection></section><source><para>Laws 1976, LB 806, &#167; 89; </para><para>Laws 1988, LB 257, &#167; 6; </para><para>Laws 1994, LB 498, &#167; 12; </para><para>Laws 1996, LB 1155, &#167; 116; </para><para>R.S.1943, (1999), &#167; 83-1078; </para><para>Laws 2004, LB 1083, &#167; 21. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id25">
+<amendatorysection amended="yes" chaptername="Public Health and Welfare" id="id27" statutenumber="71-901">
+<bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>71-901</statuteno><catchline id="id30">Act, how cited.</catchline>
+<para>Sections 71-901 to 71-963 shall be known and
+may be cited as the Nebraska Mental Health Commitment Act.</para>
+</amendatorysection></section><source><para>Laws 1976, LB 806, &#167; 89; </para><para>Laws 1988, LB 257, &#167; 6; </para><para>Laws 1994, LB 498, &#167; 12; </para><para>Laws 1996, LB 1155, &#167; 116; </para><para>R.S.1943, (1999), &#167; 83-1078; </para><para>Laws 2004, LB 1083, &#167; 21; </para><para>Laws 2011, LB512, &#167; 5.</para><operativedate>January 1, 2012</operativedate></source>  </law>
+</legaldoc>

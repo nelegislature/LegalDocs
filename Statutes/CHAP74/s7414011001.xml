@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Railroads" statutenumber="74-1411.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>74-1411.01</statuteno><catchline>Rail facility construction project, defined.</catchline><para>Rail facility construction project means the construction of rail or rail-related facilities, including new connections between two or more existing lines, intermodal freight terminals, sidings, and relocation of existing lines, for the purpose of improving the quality and efficiency of rail freight service.</para></amendatorysection></section><source><para>Laws 1996, LB 463, &#167; 16. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="74-1411.01">
+				<statuteno>74-1411.01</statuteno>
+				<catchline>Repealed. Laws 2011, LB 259, &#167; 5.</catchline>
+				
+			</amendatorysection>
+		</section>
+	</law>
+</legaldoc>

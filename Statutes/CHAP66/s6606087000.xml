@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Oils, Fuels, and Energy" statutenumber="66-687"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>66-687</statuteno><catchline>Permit required; when.</catchline><para>Every person registering a motor vehicle designed or modified to be propelled in whole by alternative fuel shall obtain from the department an annual alternative fuel user permit for each motor vehicle propelled by alternative fuel. A person shall obtain all required alternative fuel user permits within thirty days of becoming an alternative fuel user.</para></amendatorysection></section><source><para>Laws 1994, LB 1160, &#167; 38; </para><para>Laws 1995, LB 182, &#167; 47; </para><para>Laws 2004, LB 983, &#167; 37. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="66-687">
+				<statuteno>66-687</statuteno>
+				<catchline>Repealed. Laws 2011, LB 289, &#167; 41.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>January 1, 2012</operativedate></source>
+	</law>
+</legaldoc>

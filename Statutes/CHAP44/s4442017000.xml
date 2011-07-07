@@ -1,1 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Insurance" statutenumber="44-4217"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>44-4217</statuteno><catchline>Board; administering insurer; selection.</catchline><para>The members shall select the board as it is composed prior to January 1, 2001, except the representative of the general public and the representative of the health agency who shall be appointed by the director. The director shall select the board as it is composed on and after January 1, 2001. The board shall select one or more insurers to serve as administering insurer pursuant to section 44-4223. The selection of the board as it is composed prior to January 1, 2001, and the selection of the administering insurer by the board prior to January 1, 2001, or after December 31, 2000, shall be subject to the approval of the director.</para></amendatorysection></section><source><para>Laws 1985, LB 391, &#167; 17; </para><para>Laws 1989, LB 279, &#167; 6; </para><para>Laws 1992, LB 1006, &#167; 31; </para><para>Laws 2000, LB 1253, &#167; 21. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id3">
+<amendatorysection amended="yes" chaptername="Insurance" id="id5" statutenumber="44-4217"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>44-4217</statuteno><catchline id="id8">Board; pool administrator; selection.</catchline>
+<para>The director shall
+select the board. The board shall select a pool administrator pursuant
+to section 44-4223.</para>
+</amendatorysection></section><source><para>Laws 1985, LB 391, &#167; 17; </para><para>Laws 1989, LB 279, &#167; 6; </para><para>Laws 1992, LB 1006, &#167; 31; </para><para>Laws 2000, LB 1253, &#167; 21; </para><para>Laws 2011, LB73, &#167; 1.</para><effectivedate>May 18, 2011</effectivedate></source>  </law>
+</legaldoc>

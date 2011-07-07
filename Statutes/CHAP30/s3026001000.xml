@@ -1,1 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Decedents' Estates" statutenumber="30-2601"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>30-2601</statuteno><catchline>Definitions and use of terms.</catchline><para>Unless otherwise apparent from the context, in the Nebraska Probate Code:</para><para>(1) Incapacitated person means any person who is impaired by reason of mental illness, mental deficiency, physical illness or disability, chronic use of drugs, chronic intoxication, or other cause (except minority) to the extent that the person lacks sufficient understanding or capacity to make or communicate responsible decisions concerning himself or herself;</para><para>(2) A protective proceeding is a proceeding under the provisions of section 30-2630 to determine that a person cannot effectively manage or apply his or her estate to necessary ends, either because the person lacks the ability or is otherwise inconvenienced, or because the person is a minor, and to secure administration of the person's estate by a conservator or other appropriate relief;</para><para>(3) A protected person is a minor or other person for whom a conservator has been appointed or other protective order has been made;</para><para>(4) A ward is a person for whom a guardian has been appointed. A minor ward is a minor for whom a guardian has been appointed solely because of minority;</para><para>(5) Full guardianship means the guardian has been granted all powers which may be conferred upon a guardian by law; and</para><para>(6) Limited guardianship means any guardianship which is not a full guardianship.</para></amendatorysection></section><source><para>Laws 1974, LB 354, &#167; 219, UPC &#167; 5-101; </para><para>Laws 1997, LB 466, &#167; 5. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id238">
+<amendatorysection amended="yes" chaptername="Decedents' Estates" id="id240" statutenumber="30-2601">
+<bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>30-2601</statuteno><catchline id="id243">Definitions
+and use of terms.</catchline><para>Unless otherwise apparent from
+the context, in the Nebraska Probate Code:</para>
+<para>(1) Incapacitated person means any person who is impaired
+by reason of mental illness, mental deficiency, physical illness or disability,
+chronic use of drugs, chronic intoxication, or other cause (except minority)
+to the extent that the person lacks sufficient understanding or capacity to
+make or communicate responsible decisions concerning himself or herself;</para>
+<para>(2) A protective proceeding is a proceeding under the provisions
+of section 30-2630 to determine that a person cannot effectively manage or
+apply his or her estate to necessary ends, either because the person lacks
+the ability or is otherwise inconvenienced, or because the person is a minor,
+and to secure administration of the person's estate by a conservator or other
+appropriate relief;</para>
+<para>(3) A protected person is a minor or other person for whom
+a conservator has been appointed or other protective order has been made;</para>
+<para>(4) A ward is a person for whom a guardian has been appointed.
+A minor ward is a minor for whom a guardian has been appointed solely because
+of minority;</para>
+<para>(5) Full guardianship means the guardian has been granted
+all powers which may be conferred upon a guardian by law;</para>
+<para>(6) Limited guardianship means any guardianship which is
+not a full guardianship; and</para>
+<para>(7) For purposes
+of article 26 of the Nebraska Probate Code, interested person means children,
+spouses, those persons who would be the heirs if the ward or person alleged
+to be incapacitated died without leaving a valid last will and testament who
+are adults and any trustee of any trust executed by the ward or person alleged
+to be incapacitated. The meaning of interested person as it relates to particular
+persons may vary from time to time and must be determined according to the
+particular purposes of, and matter involved in, any proceeding. If there are
+no persons identified as interested persons above, then interested person
+shall also include any person or entity named as a devisee in the most recently
+executed last will and testament of the ward or person alleged to be incapacitated.</para>
+</amendatorysection></section><source><para>Laws 1974, LB 354, &#167; 219, UPC &#167; 5-101; </para><para>Laws 1997, LB 466, &#167; 5; </para><para>Laws 2011, LB157, &#167; 32.</para><operativedate>January 1, 2012</operativedate></source>  </law>
+</legaldoc>

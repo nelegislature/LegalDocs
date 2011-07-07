@@ -1,41 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Arbortext, Inc., 1988-2004, v.4002-->
-<?APT Element gi="legaldoc"?>
-<?APT Element gi="law" attrs="type"?>
-<?APT Element gi="section"?>
-<?APT Element gi="sectno"?>
-<?APT Element gi="amendatorysection" attrs="amended chaptername statutenumber"?>
-<?APT Element gi="bookinfo"?>
-<?APT Element gi="statuteno"?>
-<?APT Element gi="catchline"?>
-<?APT Element gi="para"?>
-<?APT Element gi="source"?>
-<?APT Element gi="effectivedate"?>
-<legaldoc><law type="statute"><section><sectno></sectno><amendatorysection
-amended="yes" chaptername="Motor Vehicles" statutenumber="60-4,151"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>60-4,151</statuteno><catchline>Commercial
-driver's license; restricted commercial driver's license; seasonal permit;
-form.</catchline><para>(1)(a) The commercial driver's license shall be conspicuously
-marked Nebraska Commercial Driver's License and shall be, to the maximum extent
-practicable, tamper and forgery proof.</para><para>(b) This subdivision applies
-until the implementation date designated by the director pursuant to section
-60-462.02. The commercial driver's license shall include the following information:</para><para>(i)
-The name and residential address of the holder;</para><para>(ii) The holder's
-color photograph or digital image;</para><para>(iii) A physical description
-of the holder, including sex, height, weight, and eye and hair colors;</para><para>(iv)
-The holder's date of birth;</para><para>(v) The holder's signature;</para><para>(vi)
-The class of commercial motor vehicle or vehicles which the holder is authorized
-to operate, including any endorsements or restrictions;</para><para>(vii)
-The dates between which the commercial driver's license is valid; and</para><para>(viii)
-The organ and tissue donor information specified in section 60-494.</para><para>(c)
-This subdivision applies beginning on the implementation date designated by
-the director pursuant to section 60-462.02. The form of the commercial driver's
-license shall also comply with section 60-4,117.</para><para>(2) The restricted
-commercial driver's license shall be conspicuously marked Nebraska Restricted
-Commercial Driver's License and shall be, to the maximum extent practicable,
-tamper and forgery proof. The restricted commercial driver's license shall
-contain such additional information as deemed necessary by the director.</para><para>(3)
-The seasonal permit shall contain such information as deemed necessary by
-the director but shall include the time period during which the commercial
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Motor Vehicles" statutenumber="60-4,151"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>60-4,151</statuteno><catchline>Commercial driver's license; restricted
+commercial driver's license; seasonal permit; form.</catchline><para>(1)(a)
+The commercial driver's license shall be conspicuously marked Nebraska Commercial
+Driver's License and shall be, to the maximum extent practicable, tamper and
+forgery proof.</para>
+
+<para>(b) The
+form of the commercial driver's license shall also comply with section 60-4,117.</para>
+<para>(2) The restricted commercial driver's license shall be conspicuously
+marked Nebraska Restricted Commercial Driver's License and shall be, to the
+maximum extent practicable, tamper and forgery proof. The restricted commercial
+driver's license shall contain such additional information as deemed necessary
+by the director.</para>
+<para>(3) The seasonal permit shall contain such information as deemed necessary
+by the director but shall include the time period during which the commercial
 motor vehicle operating privilege is effective. The seasonal permit shall
 be valid only when held in conjunction with a restricted commercial driver's
-license.</para></amendatorysection></section><source><para>Laws 1989, LB 285, &#167; 101; </para><para>Laws 1992, LB 1178, &#167; 5; </para><para>Laws 1993, LB 420, &#167; 11; </para><para>Laws 2001, LB 34, &#167; 6; </para><para>Laws 2001, LB 574, &#167; 26; </para><para>Laws 2008, LB911, &#167; 25.</para></source>  </law></legaldoc>
+license.</para>
+</amendatorysection></section><source><para>Laws 1989, LB 285, &#167; 101; </para><para>Laws 1992, LB 1178, &#167; 5; </para><para>Laws 1993, LB 420, &#167; 11; </para><para>Laws 2001, LB 34, &#167; 6; </para><para>Laws 2001, LB 574, &#167; 26; </para><para>Laws 2008, LB911, &#167; 25; </para><para>Laws 2011, LB215, &#167; 22.</para><effectivedate>March 11, 2011</effectivedate></source>  </law>
+</legaldoc>

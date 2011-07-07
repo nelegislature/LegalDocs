@@ -1,1 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Criminal Procedure" statutenumber="29-2255"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>29-2255</statuteno><catchline>Interlocal agreement; costs; requirements.</catchline><para>Any interlocal agreement authorized by subdivision (16) of section 29-2252 shall require the political subdivision party to the agreement to provide sufficient resources to cover all costs associated with the participation of probation personnel or use of probation resources other than costs covered by funds provided pursuant to section 29-2262.07 or substance abuse treatment costs covered by funds appropriated to the Community Corrections Council for such purpose.</para></amendatorysection></section><source><para>Laws 2005, LB 538, &#167; 6. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id30">
+<amendatorysection amended="yes" chaptername="Criminal Procedure" id="id32" statutenumber="29-2255">
+<bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>29-2255</statuteno><catchline id="id35">Interlocal agreement;
+costs; requirements.</catchline><para>Any interlocal agreement authorized
+by subdivision (16) of section 29-2252 shall require the political subdivision
+party to the agreement to provide sufficient resources to cover all costs
+associated with the participation of probation personnel or use of probation
+resources other than costs covered by funds provided pursuant to section 29-2262.07
+or substance abuse treatment costs covered by funds appropriated for
+such purpose.</para>
+</amendatorysection></section><source><para>Laws 2005, LB 538, &#167; 6; </para><para>Laws 2011, LB390, &#167; 2.</para><operativedate>July 1, 2011</operativedate></source>  </law>
+</legaldoc>

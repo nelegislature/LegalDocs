@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Motor Vehicles" statutenumber="60-336.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>60-336.01</statuteno><catchline>Low-speed vehicle, defined.</catchline><para>Low-speed vehicle means a vehicle that (1) cannot travel more than twenty-five miles per hour on a paved, level surface, (2) complies with 49 C.F.R. part 571, as such part existed on January 1, 2007, or (3) is designated by the manufacturer as an off-road or low-speed vehicle.</para></amendatorysection></section><source><para>Laws 2007, LB286, &#167; 26. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id116">
+<amendatorysection amended="yes" chaptername="Motor Vehicles" id="id118" statutenumber="60-336.01">
+<bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>60-336.01</statuteno><catchline id="id121">Low-speed
+vehicle, defined.</catchline><para>Low-speed vehicle means a four-wheeled motor vehicle (1) whose
+speed attainable in one mile is more than twenty miles per hour and not more
+than twenty-five miles per hour on a paved, level surface, (2) whose gross vehicle weight rating is less
+than three thousand pounds, and (3) that complies with 49 C.F.R.
+part 571, as such part existed on January 1, 2011.</para>
+</amendatorysection></section><source><para>Laws 2007, LB286, &#167; 26; </para><para>Laws 2011, LB289, &#167; 14.</para><operativedate>January 1, 2012</operativedate></source>  </law>
+</legaldoc>

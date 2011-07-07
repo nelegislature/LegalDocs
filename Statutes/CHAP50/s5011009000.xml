@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Legislature" statutenumber="50-1109"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>50-1109</statuteno><catchline>District No. 8, description.</catchline><para>District No. 8 shall contain that part of Douglas County beginning at the intersection of North Saddle Creek Road and Cuming Street, south on North Saddle Creek Road to California Street, west on California Street to North 46th Street, south on North 46th Street to Dodge Street, west on Dodge Street to North Happy Hollow Boulevard, northeast on North Happy Hollow Boulevard to Underwood Avenue, east on Underwood Avenue to North 52nd Street, north on North 52nd Street to Western Avenue, west on Western Avenue to North 60th Street, north on North 60th Street to Hamilton Street, west on Hamilton Street to North 72nd Street, north on North 72nd Street to the intersection of the northern boundary of Precinct 1-11, follow an east-west line from such intersection east to Cole Creek, north along Cole Creek to Parkview Lane, east on Parkview Lane to North 65th Street, south on North 65th Street to Ogden Street, east on Ogden Street to North 62nd Street, south on North 62nd Street to Park Lane Drive, east on Park Lane Drive to North 60th Street, north on North 60th Street to Fort Street, east on Fort Street to North 48th Street, south on North 48th Street to Ames Avenue, west on Ames Avenue to North 52nd Street, south on North 52nd Street to Pratt Street, east on Pratt Street to North 45th Street, south on North 45th Street to Grant Street, west on Grant Street to North 45th Street, south on North 45th Street to Seward Street, east on Seward Street to North 45th Street, south on North 45th Street to Hamilton Street, east on Hamilton Street to North 42nd Street, south on North 42nd Street to Lafayette Avenue, east on Lafayette Avenue to North 40th Street, south on North 40th Street to Cuming Street, and west on Cuming Street to the point of beginning.</para></amendatorysection></section><source><para>Laws 1981, LB 406, &#167; 9; </para><para>R.S.1943, (1987), &#167; 5-209; </para><para>Laws 1991, LB 614, &#167; 9; </para><para>Laws 2001, LB 852, &#167; 9. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="50-1109">
+				<statuteno>50-1109</statuteno>
+				<catchline>Repealed. Laws 2011, LB 703, &#167; 5.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>May 27, 2011</operativedate></source>
+	</law>
+</legaldoc>

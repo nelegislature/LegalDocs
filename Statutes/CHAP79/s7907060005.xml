@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="statute"><section id="id54"><sectno id="id55">Sec. 5.</sectno><amendatorysection amended="yes" chaptername="Schools" id="id56" statutenumber="79-760.05"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id58">79-760.05</statuteno><catchline id="id59">Statewide system for tracking individual student achievement; State Board of Education; duties; school districts; provide data; analysis and reports.</catchline><para>(1) The State Board of Education shall implement a statewide system for tracking individual student achievement, using the student identifier system of the State Department of Education, that can be aggregated to track student progress by demographic characteristics, including, but not limited to, race, poverty, high mobility, attendance, and limited English proficiency, on available measures of student achievement which include, but need not be limited to, national assessment instruments and state assessment instruments. Such a system shall be designed so as to aggregate student data by available educational input characteristics, which may include class size, teacher education, teacher experience, special education, early childhood programs, federal programs, and other targeted education programs. School districts shall provide the department with individual student achievement data from assessment instruments required pursuant to section 79-760.03 in order to implement the statewide system.</para><para>(2) The department and the coordinator appointed pursuant to section 79-11,150 shall annually analyze and report on student achievement for the state, each school district, and each learning community aggregated by the demographic characteristics described in subsection (1) of this section. The department shall report the findings to the Governor, the Legislature, school districts, educational service units, and each learning community. Such analysis shall include aggregated data that would indicate differences in achievement due to available educational input characteristics described in subsection (1) of this section. Such analysis shall include indicators of progress toward state achievement goals for students in poverty, limited English proficient students, and highly mobile students according to the plan developed by the coordinator pursuant to section 79-11,150.</para></amendatorysection></section><source><para>Laws 2007, LB653, &#167; 8; </para><para>Laws 2008, LB1157, &#167; 5.</para></source>  </law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id46">
+<amendatorysection amended="yes" chaptername="Schools" id="id48" statutenumber="79-760.05"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>79-760.05</statuteno><catchline id="id51">Statewide system
+for tracking individual student achievement; State Board of Education; duties;
+school districts; provide data; analysis and reports.</catchline><para>(1)
+The State Board of Education shall implement a statewide system for tracking
+individual student achievement, using the student identifier system of the
+State Department of Education, that can be aggregated to track student progress
+by demographic characteristics, including, but not limited to, race, poverty,
+high mobility, attendance, and limited English proficiency, on available measures
+of student achievement which include, but need not be limited to, national
+assessment instruments and state assessment instruments. Such a system shall
+be designed so as to aggregate student data by available educational input
+characteristics, which may include class size, teacher education, teacher
+experience, special education, early childhood programs, federal programs,
+and other targeted education programs. School districts shall provide the
+department with individual student achievement data from assessment instruments
+required pursuant to section 79-760.03 in order to implement the statewide
+system.</para>
+<para>(2) The department shall
+annually analyze and report on student achievement for the state, each school
+district, and each learning community aggregated by the demographic characteristics
+described in subsection (1) of this section. The department shall report the
+findings to the Governor, the Legislature, school districts, educational service
+units, and each learning community. Such analysis shall include aggregated
+data that would indicate differences in achievement due to available educational
+input characteristics described in subsection (1) of this section. Such analysis
+shall include indicators of progress toward state achievement goals for students
+in poverty, limited English proficient students, and highly mobile students.</para>
+</amendatorysection></section><source><para>Laws 2007, LB653, &#167; 8; </para><para>Laws 2008, LB1157, &#167; 5; </para><para>Laws 2011, LB333, &#167; 5.</para><effectivedate>March 16, 2011</effectivedate></source>  </law>
+</legaldoc>

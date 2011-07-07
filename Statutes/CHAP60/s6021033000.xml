@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Motor Vehicles" statutenumber="60-2133"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>60-2133</statuteno><catchline>Fund; authorized expenditures; priorities.</catchline><para>On November 1 of each year, the balance of the fund after the administration expenses have been deducted shall be apportioned for use as provided in sections 60-2134 to 60-2138 according to the following priorities: (1) To the school, business, or organization conducting an approved basic motorcycle safety course on the basis of the lesser of the actual cost of the course or seventy-five dollars for each student having completed the course in the immediately preceding twelve-month period as certified by the director; (2) for educational assistance for chief instructors; (3) for educational assistance for motorcycle safety instructors; (4) to prepare sites for offering the basic motorcycle safety course; (5) to the school, business, or organization conducting an approved advanced motorcycle safety course on the basis of the lesser of the actual cost of the course or up to thirty-five dollars, at the discretion of the director, for each student having completed the course in the immediately preceding twelve-month period as certified by the director; and (6) to the department for promotional materials. If the fund is insufficient to be apportioned among such priorities, the director shall allocate funds to one priority before allocating to the next priority. If the fund is insufficient to be apportioned within a priority, the director shall prorate the funds within the priority on the basis of equity.</para></amendatorysection></section><source><para>Laws 1981, LB 22, &#167; 13; </para><para>Laws 1984, LB 1089, &#167; 6; </para><para>R.S.1943, (1984), &#167; 60-2118; </para><para>Laws 1986, LB 1004, &#167; 15. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="60-2133">
+				<statuteno>60-2133</statuteno>
+				<catchline>Repealed. Laws 2011, LB 170, &#167; 17.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>January 1, 2012</operativedate></source>
+	</law>
+</legaldoc>

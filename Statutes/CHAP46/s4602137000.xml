@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id8">
-<sectno id="id9">Sec. 3.</sectno><amendatorysection amended="yes" chaptername="Irrigation and Regulation of Water" id="id10" statutenumber="46-2,137"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id12">46-2,137</statuteno><catchline id="id13">Water Policy
-Task Force Cash Fund; created; use; investment.</catchline><para>The
-Water Policy Task Force Cash Fund is created. The fund shall be administered
-by the Department of Natural Resources and expended at the direction of the
-Water Policy Task Force. The fund shall consist of funds appropriated by the
-Legislature, money received as gifts, grants, and donations, and transfers
-authorized under sections 2-1579 and 66-1519. Any money in the fund available
-for investment shall be invested by the state investment officer pursuant
-to the Nebraska Capital Expansion Act and the Nebraska State Funds Investment
-Act.</para>
-<para>On April 6,
-2010, the State Treasurer shall: (1) Transfer fifty thousand dollars from
-the Water Policy Task Force Cash Fund to the Republican River Basin Water
-Sustainability Task Force Cash Fund; and (2) transfer the remaining unexpended
-balance in the Water Policy Task Force Cash Fund to the Water Resources Trust
-Fund.</para></amendatorysection></section><source><para>Laws 2002, LB 1003, &#167; 7; </para><para>Laws 2010, LB1057, &#167; 3.</para><note>This section had a termination date of December 31, 2009. It was subsequently amended by Laws 2010, LB1057, &#167; 3.</note></source><crossreference><para><emphasis>Nebraska Capital Expansion Act,</emphasis> see section 72-1269.</para><para><emphasis>Nebraska State Funds Investment Act,</emphasis> see section 72-1260.</para></crossreference>  </law>
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="46-2,137">
+				<statuteno>46-2,137</statuteno>
+				<catchline>Repealed. Laws 2011, LB 2, &#167; 8.</catchline>
+				
+			</amendatorysection>
+		</section>
+	</law>
 </legaldoc>

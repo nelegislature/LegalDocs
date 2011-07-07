@@ -1,1 +1,10 @@
-<?xml version="1.0" encoding="iso-8859-1"?> <legaldoc> <law type="statute"> <section> <sectno></sectno><amendatorysection amended="yes" chaptername="Public Lands, Buildings, and Funds" statutenumber="72-258.03"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>72-258.03</statuteno><catchline>School lands; sale; appraised value.</catchline> <para>For purposes of sales of educational lands at public auction, appraised value is the adjusted value as determined by the Property Tax Administrator or his or her representative such that the real property's assessed value for the current year is adjusted to one hundred percent of actual value, unless the Board of Educational Lands and Funds establishes a higher value pursuant to section 72-257 or 72-258, in which case that value shall be the appraised value for purposes of sale.</para> </amendatorysection></section><source><para>Laws 2000, LB 1010, &#167; 1; </para><para>Laws 2007, LB166, &#167; 2; </para><para>Laws 2009, LB166, &#167; 3.</para></source>  </law> </legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Public Lands, Buildings, and Funds" statutenumber="72-258.03">
+<bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>72-258.03</statuteno><catchline>School lands; sale; appraised value.</catchline>
+<para>For purposes of sales of educational lands at public auction, appraised
+value is the value established pursuant to section 72-257 or 72-258.</para>
+</amendatorysection></section><source><para>Laws 2000, LB 1010, &#167; 1; </para><para>Laws 2007, LB166, &#167; 2; </para><para>Laws 2009, LB166, &#167; 3; </para><para>Laws 2011, LB210, &#167; 3.</para><operativedate>August 27, 2011</operativedate></source>  </law>
+</legaldoc>

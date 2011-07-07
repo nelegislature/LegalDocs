@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Insurance" statutenumber="44-4219"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>44-4219</statuteno><catchline>Plan of operation; contents.</catchline><para>In its plan of operation, the board shall:</para><para>(1) Establish procedures for the handling and accounting of assets and funds of the pool;</para><para>(2) Select an administering insurer in accordance with section 44-4223;</para><para>(3) Establish procedures for the selection, replacement, term of office, and qualifications of the directors of the board and rules of procedures for the operation of the board; and</para><para>(4) Develop and implement a program to publicize the existence of the pool, the eligibility requirements, and the procedures for enrollment and to maintain public awareness of the pool.</para></amendatorysection></section><source><para>Laws 1985, LB 391, &#167; 19; </para><para>Laws 1992, LB 1006, &#167; 33; </para><para>Laws 2000, LB 1253, &#167; 22. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id10">
+<amendatorysection amended="yes" chaptername="Insurance" id="id12" statutenumber="44-4219"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>44-4219</statuteno><catchline id="id15">Plan of operation;
+contents.</catchline><para>In its plan of operation, the board shall:</para>
+<para>(1) Establish procedures for the handling and accounting of
+assets and funds of the pool;</para>
+<para>(2) Select a
+pool administrator in accordance with section 44-4223;</para>
+<para>(3) Establish procedures for the selection, replacement, term
+of office, and qualifications of the directors of the board and rules of procedures
+for the operation of the board; and</para>
+<para>(4) Develop and implement a program to publicize the existence
+of the pool, the eligibility requirements, and the procedures for enrollment
+and to maintain public awareness of the pool.</para>
+</amendatorysection></section><source><para>Laws 1985, LB 391, &#167; 19; </para><para>Laws 1992, LB 1006, &#167; 33; </para><para>Laws 2000, LB 1253, &#167; 22; </para><para>Laws 2011, LB73, &#167; 2.</para><effectivedate>May 18, 2011</effectivedate></source>  </law>
+</legaldoc>

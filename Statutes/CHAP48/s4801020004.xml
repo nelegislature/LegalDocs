@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id3">
-<sectno id="id4">Section 1.</sectno><amendatorysection amended="yes" chaptername="Labor" id="id5" statutenumber="48-120.04"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id7">48-120.04</statuteno><catchline id="id8">Diagnostic Related
-Group inpatient hospital fee schedule; established; applicability; adjustments;
-methodology; hospital; duties; reports; compensation court; powers and duties.</catchline><para>(1) This section applies only to hospitals identified in subdivision
-(1)(c) of section 48-120.</para>
+<section id="id28">
+<amendatorysection amended="yes" chaptername="Labor" id="id30" statutenumber="48-120.04"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>48-120.04</statuteno><catchline id="id33">Diagnostic
+Related Group inpatient hospital fee schedule; trauma services inpatient hospital fee schedule; established;
+applicability; adjustments; methodology; hospital; duties; reports; compensation
+court; powers and duties.</catchline><para>(1) This section applies
+only to hospitals identified in subdivision (1)(c) of section 48-120.</para>
 <para>(2) For inpatient discharges on or after January 1, 2008,
 the Diagnostic Related Group inpatient hospital fee schedule shall be as set
 forth in this section, except as otherwise provided in subdivision (1)(d)
 of section 48-120. Adjustments shall be made annually as provided in this
 section, with such adjustments to become effective each January 1.</para>
-<para>(3) For purposes of this section:</para>
+<para>(3) For inpatient
+trauma discharges on or after January 1, 2012, the trauma services inpatient
+hospital fee schedule shall be as set forth in this section, except as otherwise
+provided in subdivision (1)(d) of section 48-120. Adjustments shall be made
+annually as provided in this section, with such adjustments to become effective
+each January 1.</para><para>(4) For
+purposes of this section:</para>
 <para>(a) Current Medicare Factor is derived from the Diagnostic
 Related Group Prospective Payment System as established by the Centers for
 Medicare and Medicaid Services under the United States Department of Health
@@ -33,69 +40,102 @@ Services;</para>
 <para>(c) Diagnostic Related Group means the Diagnostic Related
 Group assigned to inpatient hospital services using the public domain classification
 and methodology system developed for the Centers for Medicare and Medicaid
-Services under the United States Department of Health and Human Services;
-and</para>
-<para>(d) Workers' Compensation Factor means the Current Medicare
-Factor for each hospital multiplied by one hundred fifty percent.</para>
-<para>(4) The Diagnostic Related Group inpatient hospital fee schedule
-shall include at least thirty-eight of the most frequently utilized Medicare
-Diagnostic Related Groups for workers' compensation with the goal that the
-fee schedule covers at least ninety percent of all workers' compensation inpatient
-hospital claims submitted by hospitals identified in subdivision (1)(c) of
-section 48-120. Rehabilitation Diagnostic Related Groups shall not be included
-in the Diagnostic Related Group inpatient hospital fee schedule. Claims for
-inpatient trauma services shall not be reimbursed under the Diagnostic Related
-Group inpatient hospital fee schedule established under this section until
-January 1, 2012. Claims for inpatient
-trauma services prior to January 1, 2012, shall be reimbursed
+Services under the United States Department of Health and Human Services;</para>
+<para>(d) Trauma
+means a major single-system or multisystem injury requiring immediate medical
+or surgical intervention or treatment to prevent death or permanent disability;</para>
+<para>(e) Workers' Compensation
+Factor means the Current Medicare Factor for each hospital multiplied by one
+hundred fifty percent except
+for inpatient hospital trauma services; and</para>
+<para>(f) Workers'
+Compensation Trauma Factor for inpatient hospital trauma services means the
+Current Medicare Factor for each hospital multiplied by one hundred sixty
+percent.</para><para>(5) The Diagnostic Related
+Group inpatient hospital fee schedule shall include at least thirty-eight
+of the most frequently utilized Medicare Diagnostic Related Groups for workers'
+compensation with the goal that the fee schedule covers at least ninety percent
+of all workers' compensation inpatient hospital claims submitted by hospitals
+identified in subdivision (1)(c) of section 48-120. Rehabilitation Diagnostic
+Related Groups shall not be included in the Diagnostic Related Group inpatient
+hospital fee schedule. Claims for inpatient trauma services shall not be reimbursed
+under the Diagnostic Related Group inpatient hospital fee schedule established
+under this section. Claims
+for inpatient trauma services prior to January 1, 2012, shall be reimbursed
 under the fees established by the compensation court pursuant to subdivision
 (1)(b) of section 48-120 or as contracted pursuant to subdivision (1)(d) of
-such section. For purposes of this subsection, trauma means a major single-system
-or multisystem injury requiring immediate medical or surgical intervention
-or treatment to prevent death or permanent disability.</para>
-<para>(5) The Diagnostic Related Group inpatient hospital fee schedule
-shall be established by the following methodology:</para>
+such section. Claims
+for inpatient trauma services on or after January 1, 2012, for Diagnostic
+Related Groups subject to the Diagnostic Related Group inpatient hospital
+fee schedule shall be reimbursed under the trauma services inpatient hospital
+fee schedule established in this section, except as otherwise provided in
+subdivision (1)(d) of section 48-120.</para>
+<para>(6) The trauma
+services inpatient hospital fee schedule shall be established by the following
+methodology:</para><para>(a) The trauma services reimbursement amount required under the
+Nebraska Workers' Compensation Act shall be equal to the Current Medicare
+Weight multiplied by the Workers' Compensation Trauma Factor for each hospital;</para>
+<para>(b) The Stop-Loss
+Threshold amount shall be the trauma services reimbursement amount calculated
+in subdivision (6)(a) of this section multiplied by one and one-quarter;</para>
+<para>(c) For charges
+over the Stop-Loss Threshold amount of the schedule, the hospital shall be
+reimbursed the trauma services reimbursement amount calculated in subdivision
+(6)(a) of this section plus sixty-five percent of the charges over the Stop-Loss
+Threshold amount; and</para><para>(d) For charges less than the Stop-Loss Threshold amount of the
+schedule, the hospital shall be reimbursed the lower of the hospital's billed
+charges or the trauma services reimbursement amount calculated in subdivision
+(6)(a) of this section.</para><para>(7) The
+Diagnostic Related Group inpatient hospital fee schedule shall be established
+by the following methodology:</para>
 <para>(a) The Diagnostic Related Group reimbursement amount required
 under the Nebraska Workers' Compensation Act shall be equal to the Current
 Medicare Weight multiplied by the Workers' Compensation Factor for each hospital;</para>
 <para>(b) The Stop-Loss Threshold amount shall be the Diagnostic
-Related Group reimbursement amount calculated in subdivision (5)(a) of this
-section multiplied by two and one-half;</para>
+Related Group reimbursement amount calculated in subdivision (7)(a) of
+this section multiplied by two and one-half;</para><?Pub Caret?>
 <para>(c) For charges over the Stop-Loss Threshold amount of the
 schedule, the hospital shall be reimbursed the Diagnostic Related Group reimbursement
-amount calculated in subdivision (5)(a) of this section plus sixty percent
-of the charges over the Stop-Loss Threshold amount; and</para>
+amount calculated in subdivision (7)(a) of this section plus
+sixty percent of the charges over the Stop-Loss Threshold amount; and</para>
 <para>(d) For charges less than the Stop-Loss Threshold amount of
 the schedule, the hospital shall be reimbursed the lower of the hospital's
 billed charges or the Diagnostic Related Group reimbursement amount calculated
-in subdivision (5)(a) of this section.</para>
-<para>(6) For charges for all other stays or services that are not
-on the Diagnostic Related Group inpatient hospital fee schedule or are not
-contracted for under subdivision (1)(d) of section 48-120, the hospital shall
-be reimbursed under the schedule of fees established by the compensation court
-pursuant to subdivision (1)(b) of section 48-120.</para>
-<para>(7) Each hospital shall assign and include a Diagnostic Related
-Group on each workers' compensation claim submitted. The workers' compensation
-insurer, risk management pool, or self-insured employer may audit the Diagnostic
-Related Group assignment of the hospital.</para>
-<para>(8) The chief executive officer of each hospital shall sign
-and file with the administrator of the compensation court by October 15 of
-each year, in the form and manner prescribed by the administrator, a sworn
-statement disclosing the Current Medicare Factor of the hospital in effect
-on October 1 of such year and each item and amount making up such factor.</para>
-<para>(9) Each hospital, workers' compensation insurer, risk management
-pool, and self-insured employer shall report to the administrator of the compensation
+in subdivision (7)(a) of this section.</para>
+<para>(8) For charges for all other
+stays or services that are not reimbursed under the Diagnostic
+Related Group inpatient hospital fee schedule or the trauma services inpatient hospital fee schedule or
+are not contracted for under subdivision (1)(d) of section 48-120, the hospital
+shall be reimbursed under the schedule of fees established by the compensation
+court pursuant to subdivision (1)(b) of section 48-120.</para>
+<para>(9) Each hospital shall assign
+and include a Diagnostic Related Group on each workers' compensation claim
+submitted. The workers' compensation insurer, risk management pool, or self-insured
+employer may audit the Diagnostic Related Group assignment of the hospital.</para>
+<para>(10) The chief executive officer
+of each hospital shall sign and file with the administrator of the compensation
 court by October 15 of each year, in the form and manner prescribed by the
-administrator, the total number of claims submitted for each Diagnostic Related
-Group and the number of times billed charges exceeded the Stop-Loss Threshold
-amount for each Diagnostic Related Group.</para>
-<para>(10) The compensation court may add or subtract Diagnostic
-Related Groups in striving to achieve the goal of including those Diagnostic
-Related Groups that encompass at least ninety percent of the inpatient hospital
-workers' compensation claims submitted by hospitals identified in subdivision
-(1)(c) of section 48-120. The administrator of the compensation court shall
-annually make necessary adjustments to comply with the Current Medicare Weights
-and shall annually adjust the Current Medicare Factor for each hospital based
-on the annual statement submitted pursuant to subsection (8) of this section.</para>
-</amendatorysection></section><source><para>Laws 2007, LB588, &#167; 2; </para><para>Laws 2009, LB630, &#167; 2; </para><para>Laws 2010, LB872, &#167; 1.</para></source>  </law>
+administrator, a sworn statement disclosing the Current Medicare Factor of
+the hospital in effect on October 1 of such year and each item and amount
+making up such factor.</para>
+<para>(11) Each hospital, workers'
+compensation insurer, risk management pool, and self-insured employer shall
+report to the administrator of the compensation court by October 15 of each
+year, in the form and manner prescribed by the administrator, the total number
+of claims submitted for each Diagnostic Related Group, the number of claims for each Diagnostic Related Group
+that included trauma services, the
+number of times billed charges exceeded the Stop-Loss Threshold amount for
+each Diagnostic Related Group,
+and the number of times billed charges exceeded the Stop-Loss Threshold amount
+for each trauma service.</para>
+<para>(12) The compensation court
+may add or subtract Diagnostic Related Groups in striving to achieve the goal
+of including those Diagnostic Related Groups that encompass at least ninety
+percent of the inpatient hospital workers' compensation claims submitted by
+hospitals identified in subdivision (1)(c) of section 48-120. The administrator
+of the compensation court shall annually make necessary adjustments to comply
+with the Current Medicare Weights and shall annually adjust the Current Medicare
+Factor for each hospital based on the annual statement submitted pursuant
+to subsection (10) of this section.</para>
+</amendatorysection></section><source><para>Laws 2007, LB588, &#167; 2; </para><para>Laws 2009, LB630, &#167; 2; </para><para>Laws 2010, LB872, &#167; 1; </para><para>Laws 2011, LB152, &#167; 2.</para><effectivedate>August 27, 2011</effectivedate></source>  </law>
 </legaldoc>

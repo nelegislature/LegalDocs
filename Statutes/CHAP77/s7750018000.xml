@@ -1,39 +1,44 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section>
-<sectno></sectno><amendatorysection amended="yes" chaptername="Revenue and Taxation" statutenumber="77-5018"><bookinfo>Revised Statutes Cumulative Supplement, 2010</bookinfo><statuteno>77-5018</statuteno><catchline>Appeals; decisions and orders; requirements; publication on web site; correction
-of errors.</catchline><para>(1) The commission may issue decisions and orders
-which are supported by the evidence and appropriate for resolving the matters
-in dispute. Every final decision and order adverse to a party to the proceeding,
-rendered by the commission in a case appealed to the commission, shall be
-in writing or stated in the record and shall be accompanied by findings of
-fact and conclusions of law. The findings of fact shall consist of a concise
-statement of the conclusions upon each contested issue of fact. Parties to
-the proceeding shall be notified of the decision and order in person or by
-mail. A copy of the decision and order shall be delivered or mailed to each party
-or his or her attorney of record. Within
-seven days of issuing a decision and order, the commission shall electronically
-publish such decision and order on a web site maintained by the commission
-that is accessible to the general public. The full text of final decisions
-and orders entered after a hearing by the commission or a panel of commissioners
-shall be published on the web site. Final decisions and orders that are entered
-(a) on a dismissal by the appellant or petitioner, (b) on a default order
-when the appellant or petitioner failed to appear, or (c) by agreement of
-the parties may be published on the web site in a summary manner identifying
-the parties, the case number, and the basis for the final decision and order. Any
-decision rendered by the commission shall be certified to the county treasurer
-and to the officer charged with the duty of preparing the tax list, and if
-and when such decision becomes final, such officers shall correct their records
+<section id="id301">
+<amendatorysection amended="yes" chaptername="Revenue and Taxation" id="id303" statutenumber="77-5018">
+<bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>77-5018</statuteno><catchline id="id306">Appeals; decisions
+and orders; requirements; publication on web site; correction of errors.</catchline>
+<para>(1) The commission may issue decisions and orders which are
+supported by the evidence and appropriate for resolving the matters in dispute.
+Every final decision and order adverse to a party to the proceeding, rendered
+by the commission in a case appealed to the commission, shall be in writing
+or stated in the record and shall be accompanied by findings of fact and conclusions
+of law. The findings of fact shall consist of a concise statement of the conclusions
+upon each contested issue of fact. Parties to the proceeding shall be notified
+of the decision and order in person or by mail. A copy of the decision and
+order shall be delivered or mailed to each party or his or her attorney of
+record. Within seven days of issuing a decision and order, the commission
+shall electronically publish such decision and order on a web site maintained
+by the commission that is accessible to the general public. The full text
+of final decisions and orders shall
+be published on the web site,
+except that final decisions and orders that are entered (a) on a dismissal
+by the appellant or petitioner, (b) on a default order when the appellant
+or petitioner failed to appear, (c)
+by agreement of the parties,
+or (d) by a single commissioner pursuant to section 77-5015.02 may
+be published on the web site in a summary manner identifying the parties,
+the case number, and the basis for the final decision and order. Any decision
+rendered by the commission shall be certified to the county treasurer and
+to the officer charged with the duty of preparing the tax list, and if and
+when such decision becomes final, such officers shall correct their records
 accordingly and the tax list pursuant to section 77-1613.02.</para>
-<para>(2) The commission may, on its own motion, modify or change its findings
-or orders, at any time before an appeal and within ten days after the date
-of such findings or orders, for the purpose of correcting any ambiguity, clerical
-error, or patent or obvious error. The time for appeal shall not be lengthened
-because of the correction unless the correction substantially changes the
-findings or order.</para>
-<para>(3) The Tax Commissioner
-or the Property Tax Administrator shall have thirty days after a final decision
-of the commission to appeal the commission's decision.</para>
-</amendatorysection></section><source><para>Laws 1995, LB 490, &#167; 18; </para><para>Laws 1997, LB 397, &#167; 39; </para><para>Laws 2001, LB 465, &#167; 8; </para><para>Laws 2005, LB 15, &#167; 10; </para><para>Laws 2007, LB166, &#167; 11; </para><para>Laws 2010, LB877, &#167; 10.</para></source>  </law>
+<para>(2) The commission may, on its own motion, modify or change
+its findings or orders, at any time before an appeal and within ten days after
+the date of such findings or orders, for the purpose of correcting any ambiguity,
+clerical error, or patent or obvious error. The time for appeal shall not
+be lengthened because of the correction unless the correction substantially
+changes the findings or order.</para>
+<para>(3) The Tax Commissioner or the Property Tax Administrator
+shall have thirty days after a final decision of the commission to appeal
+the commission's decision pursuant
+to section 77-5019.</para>
+</amendatorysection></section><source><para>Laws 1995, LB 490, &#167; 18; </para><para>Laws 1997, LB 397, &#167; 39; </para><para>Laws 2001, LB 465, &#167; 8; </para><para>Laws 2005, LB 15, &#167; 10; </para><para>Laws 2007, LB166, &#167; 11; </para><para>Laws 2010, LB877, &#167; 10; </para><para>Laws 2011, LB384, &#167; 31.</para><operativedate>July 1, 2011</operativedate></source>  </law>
 </legaldoc>

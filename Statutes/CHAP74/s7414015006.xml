@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Railroads" statutenumber="74-1415.06"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>74-1415.06</statuteno><catchline>Trade secrets and other information; confidentiality; exceptions.</catchline><para>Trade secrets and other proprietary or commercial information which may be filed with an application for a grant or loan or other financial assistance pursuant to the Light-Density Rail Line Assistance Act shall not be considered public records as defined in section 84-712.01 if the release of such trade secrets or information would give advantage to business competitors and serve no public purpose. Any person seeking release of the trade secrets or information as a public record shall demonstrate to the satisfaction of the council that the release would not violate this section.</para></amendatorysection></section><source><para>Laws 1991, LB 783, &#167; 27. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="74-1415.06">
+				<statuteno>74-1415.06</statuteno>
+				<catchline>Repealed. Laws 2011, LB 259, &#167; 5.</catchline>
+				
+			</amendatorysection>
+		</section>
+	</law>
+</legaldoc>

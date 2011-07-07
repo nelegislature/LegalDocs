@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Railroads" statutenumber="74-1407.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>74-1407.01</statuteno><catchline>Light-density rail line, defined.</catchline><para>Light-density rail line means any rail line classified as a light-density line by the United States Department of Transportation pursuant to the federal act or by the division under the Light-Density Rail Line Assistance Act.</para></amendatorysection></section><source><para>Laws 1980, LB 507, &#167; 4; </para><para>R.S.1943, (1990), &#167; 74-1404; </para><para>Laws 1991, LB 783, &#167; 8; </para><para>Laws 1996, LB 463, &#167; 11. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="74-1407.01">
+				<statuteno>74-1407.01</statuteno>
+				<catchline>Repealed. Laws 2011, LB 259, &#167; 5.</catchline>
+				
+			</amendatorysection>
+		</section>
+	</law>
+</legaldoc>

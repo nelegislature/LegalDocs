@@ -1,56 +1,14 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section>
-<sectno opdate="July 1, 2009">Section 1.</sectno><amendatorysection amended="yes" chaptername="State Administrative Departments" statutenumber="81-188.02"><bookinfo>Revised Statutes Cumulative Supplement, 2010</bookinfo><statuteno>81-188.02</statuteno><catchline>State Building Renewal Assessment
-Fund; capital improvement project; depreciation charges.</catchline><para>(1)
-For purposes of this section, capital improvement project means (a) construction
-of a new facility, structure, or building, (b) construction of additions to
-an existing facility, structure, or building, (c) renovation of an existing
-facility, structure, or building if the total project cost of such renovation
-represents not less than fifteen percent of the value of the existing facility,
-structure, or building as determined by the Department of Administrative Services,
-(d) purchase of an existing facility, structure, or building, and (e) acquisition
-of a facility, structure, or building through means of conveyance other than
-sale and purchase.</para>
-<para>(2) Beginning with the fiscal year that commences subsequent to the
-calendar year in which has occurred substantial completion of a capital improvement
-project as defined in subdivisions (1)(a) through (1)(c) of this section or
-acquisition of a capital improvement project as defined in subdivisions (1)(d)
-and (1)(e) of this section, the department shall assess a capital improvement
-depreciation charge to the agency maintaining ownership or control of the
-related facility, structure, or building and shall assess such charge for
-each fiscal year thereafter,
-except that no depreciation charges shall be assessed or paid pursuant to
-this section for the period beginning July 1, 2009, and ending June 30, 2011.</para>
-<para>(3) The annual depreciation charge for a capital improvement project
-as defined in subdivisions (1)(a) through (1)(c) of this section shall be
-computed as one percent of the total project cost of the capital improvement
-project. The annual depreciation charge for a capital improvement project
-as defined in subdivision (1)(d) of this section shall be computed as one
-percent of the greater of the purchase price or the value, as determined by
-the department, of the capital improvement project at the time of acquisition.
-The annual depreciation charge for a capital improvement project as defined
-in subdivision (1)(e) of this section shall be computed as one percent of
-the value, as determined by the department, of the capital improvement project
-at the time of acquisition. The department may assess the charge annually
-or in monthly, quarterly, or semiannual installments.</para>
-<para>(4) Depreciation charges shall not be assessed pursuant to this section
-for capital improvement projects relating to facilities, structures, or buildings
-owned, leased, or operated by the: (i) University of Nebraska; (ii) Nebraska
-state colleges; (iii) Department of Aeronautics; (iv) Department of Roads;
-(v) Game and Parks Commission; or (vi) Board of Educational Lands and Funds
-or to other buildings or grounds owned, leased, or operated by the State of
-Nebraska which are specifically exempted by the Department of Administrative
-Services because the assessment of such depreciation charges would result
-in the ineligibility for federal funding or would result in hardship on an
-agency, board, or commission due to other exceptional or unusual circumstances.
-Depreciation charges shall not be assessed pursuant to this section for capital
-improvement projects relating to facilities, structures, or buildings of which
-the department is custodian pursuant to section 81-1108.17 and for which charges
-are assessed pursuant to subdivision (4)(b) of such section.</para>
-<para>(5) Payment of depreciation charges assessed pursuant to this section
-shall be remitted to the State Treasurer for credit to the State Building
-Renewal Assessment Fund.</para>
-</amendatorysection></section><source><para>Laws 1998, LB 1100, &#167; 9; </para><para>Laws 2001, LB 666, &#167; 1; </para><para>Laws 2002, LB 1310, &#167; 14; </para><para>Laws 2003, LB 410, &#167; 5; </para><para>Laws 2004, LB 439, &#167; 16; </para><para>Laws 2004, LB 1092, &#167; 3; </para><para>Laws 2007, LB322, &#167; 21; </para><para>Laws 2009, LB318, &#167; 1.</para></source>  </law>
+		<section>
+			<sectno />
+			<amendatorysection chaptername="" statutenumber="81-188.02">
+				<statuteno>81-188.02</statuteno>
+				<catchline>Repealed. Laws 2011, LB 380, &#167; 6.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>July 1, 2011</operativedate></source>
+	</law>
 </legaldoc>
