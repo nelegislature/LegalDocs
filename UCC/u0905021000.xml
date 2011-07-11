@@ -23,7 +23,7 @@ only one Debtor name (1a or 1b) (use exact, full name; do not omit, modify,
 or abbreviate any word in the Debtor's name)</para><para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" rth="0.00pt" cbmarg="0.00pt"?>
-<colspec colname="col1" colwidth="1.13" /><colspec colname="col2" colwidth="0.87" />
+<colspec colname="col1" colwidth="1.13*" /><colspec colname="col2" colwidth="0.87*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -57,7 +57,7 @@ ORGANIZATION'S NAME</entry>
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" rth="0.00pt" cbmarg="0.00pt"?>
-<colspec colname="col1" colwidth="1.36" /><colspec colname="col2" colwidth="0.64" />
+<colspec colname="col1" colwidth="1.36*" /><colspec colname="col2" colwidth="0.64*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.29in"?>
@@ -81,7 +81,7 @@ ARE</entry>
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="0.00pt"?>
-<colspec colname="col1" colwidth="1.49" /><colspec colname="col2" colwidth="0.51" />
+<colspec colname="col1" colwidth="1.49*" /><colspec colname="col2" colwidth="0.51*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -100,8 +100,8 @@ MAILING ADDRESS</entry>
 <para><table frame="none">
 <tgroup cols="4">
 <?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="0.00pt"?>
-<colspec colname="col1" colwidth="0.86" /><colspec colname="col2" colwidth="0.87" />
-<colspec colname="col3" colwidth="1.14" /><colspec colname="col4" colwidth="1.14" />
+<colspec colname="col1" colwidth="0.86*" /><colspec colname="col2" colwidth="0.87*" />
+<colspec colname="col3" colwidth="1.14*" /><colspec colname="col4" colwidth="1.14*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -126,7 +126,7 @@ only one Debtor name (2a or 2b) (use exact, full name; do not omit, modify,
 or abbreviate any word in the Debtor's name)</para><para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="0.00pt"?>
-<colspec colname="col1" colwidth="1.39" /><colspec colname="col2" colwidth="0.61" />
+<colspec colname="col1" colwidth="1.39*" /><colspec colname="col2" colwidth="0.61*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -149,7 +149,7 @@ or abbreviate any word in the Debtor's name)</para><para><table frame="none">
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" rth="0.00pt" cbmarg="0.00pt"?>
-<colspec colname="col1" colwidth="1.12" /><colspec colname="col2" colwidth="0.88" />
+<colspec colname="col1" colwidth="1.12*" /><colspec colname="col2" colwidth="0.88*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -167,7 +167,7 @@ or abbreviate any word in the Debtor's name)</para><para><table frame="none">
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" rth="0.00pt" cbmarg="0.00pt"?>
-<colspec colname="col1" colwidth="1.36" /><colspec colname="col2" colwidth="0.64" />
+<colspec colname="col1" colwidth="1.36*" /><colspec colname="col2" colwidth="0.64*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.29in"?>
@@ -191,7 +191,7 @@ ARE</entry>
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" rth="0.00pt" cbmarg="0.00pt"?>
-<colspec colname="col1" colwidth="1.23" /><colspec colname="col2" colwidth="0.77" />
+<colspec colname="col1" colwidth="1.23*" /><colspec colname="col2" colwidth="0.77*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -209,8 +209,8 @@ ARE</entry>
 <para><table frame="none">
 <tgroup cols="4">
 <?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="0.00pt"?>
-<colspec colname="col1" colwidth="0.89" /><colspec colname="col2" colwidth="0.83" />
-<colspec colname="col3" colwidth="1.14" /><colspec colname="col4" colwidth="1.15" />
+<colspec colname="col1" colwidth="0.89*" /><colspec colname="col2" colwidth="0.83*" />
+<colspec colname="col3" colwidth="1.14*" /><colspec colname="col4" colwidth="1.15*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.32in"?>
@@ -235,7 +235,7 @@ CODE</entry>
 Party name (3a or 3b)</para><para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" rth="0.00pt" cbmarg="0.00pt"?>
-<colspec colname="col1" colwidth="1.38" /><colspec colname="col2" colwidth="0.62" />
+<colspec colname="col1" colwidth="1.38*" /><colspec colname="col2" colwidth="0.62*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -258,7 +258,7 @@ Party name (3a or 3b)</para><para><table frame="none">
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" rth="0.00pt" cbmarg="0.00pt"?>
-<colspec colname="col1" colwidth="1.02" /><colspec colname="col2" colwidth="0.98" />
+<colspec colname="col1" colwidth="1.02*" /><colspec colname="col2" colwidth="0.98*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -276,7 +276,7 @@ Party name (3a or 3b)</para><para><table frame="none">
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" rth="0.00pt" cbmarg="0.00pt"?>
-<colspec colname="col1" colwidth="1.36" /><colspec colname="col2" colwidth="0.64" />
+<colspec colname="col1" colwidth="1.36*" /><colspec colname="col2" colwidth="0.64*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -294,7 +294,7 @@ Party name (3a or 3b)</para><para><table frame="none">
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt" rth="0.00pt"?>
-<colspec colname="col1" colwidth="1.23" /><colspec colname="col2" colwidth="0.77" />
+<colspec colname="col1" colwidth="1.23*" /><colspec colname="col2" colwidth="0.77*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -312,8 +312,8 @@ Party name (3a or 3b)</para><para><table frame="none">
 <para><table frame="none">
 <tgroup cols="4">
 <?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="0.00pt"?>
-<colspec colname="col1" colwidth="0.89" /><colspec colname="col2" colwidth="0.87" />
-<colspec colname="col3" colwidth="1.12" /><colspec colname="col4" colwidth="1.13" />
+<colspec colname="col1" colwidth="0.89*" /><colspec colname="col2" colwidth="0.87*" />
+<colspec colname="col3" colwidth="1.12*" /><colspec colname="col4" colwidth="1.13*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -339,7 +339,7 @@ statement covers the following collateral:</para><para>_________________________
 and check only one box:</para><para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt" rth="0.00pt"?>
-<colspec colname="col1" colwidth="0.51" /><colspec colname="col2" colwidth="1.49" />
+<colspec colname="col1" colwidth="0.51*" /><colspec colname="col2" colwidth="1.49*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -378,7 +378,7 @@ FINANCING STATEMENT ADDENDUM</para><para>FOLLOW INSTRUCTIONS</para><para>9. NAME
 Financing Statement)</para><para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt" rth="0.00pt"?>
-<colspec colname="col1" colwidth="1.33" /><colspec colname="col2" colwidth="0.67" />
+<colspec colname="col1" colwidth="1.33*" /><colspec colname="col2" colwidth="0.67*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.30in"?>
@@ -421,7 +421,7 @@ Financing Statement)</para><para><table frame="none">
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt" rth="0.00pt"?>
-<colspec colname="col1" colwidth="1.36" /><colspec colname="col2" colwidth="0.64" />
+<colspec colname="col1" colwidth="1.36*" /><colspec colname="col2" colwidth="0.64*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -444,7 +444,7 @@ not omit, modify, or abbreviate any word in the Debtor's name)</para>
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt" rth="0.00pt"?>
-<colspec colname="col1" colwidth="1.35" /><colspec colname="col2" colwidth="0.65" />
+<colspec colname="col1" colwidth="1.35*" /><colspec colname="col2" colwidth="0.65*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -467,7 +467,7 @@ not omit, modify, or abbreviate any word in the Debtor's name)</para>
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt" rth="0.00pt"?>
-<colspec colname="col1" colwidth="1.08" /><colspec colname="col2" colwidth="0.92" />
+<colspec colname="col1" colwidth="1.08*" /><colspec colname="col2" colwidth="0.92*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -485,7 +485,7 @@ not omit, modify, or abbreviate any word in the Debtor's name)</para>
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt" rth="0.00pt"?>
-<colspec colname="col1" colwidth="1.36" /><colspec colname="col2" colwidth="0.64" />
+<colspec colname="col1" colwidth="1.36*" /><colspec colname="col2" colwidth="0.64*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -510,7 +510,7 @@ OF THE NAME OF THIS DEBTOR</entry>
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt" rth="0.00pt"?>
-<colspec colname="col1" colwidth="1.23" /><colspec colname="col2" colwidth="0.77" />
+<colspec colname="col1" colwidth="1.23*" /><colspec colname="col2" colwidth="0.77*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -528,8 +528,8 @@ OF THE NAME OF THIS DEBTOR</entry>
 <para><table frame="none">
 <tgroup cols="4">
 <?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="0.00pt"?>
-<colspec colname="col1" colwidth="1.00" /><colspec colname="col2" colwidth="0.78" />
-<colspec colname="col3" colwidth="1.00" /><colspec colname="col4" colwidth="1.21" />
+<colspec colname="col1" colwidth="1.00*" /><colspec colname="col2" colwidth="0.78*" />
+<colspec colname="col3" colwidth="1.00*" /><colspec colname="col4" colwidth="1.21*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -554,7 +554,7 @@ PARTY'S NAME or ____ ASSIGNOR SECURED PARTY'S NAME - provide only one name
 (11a or 11b)</para><para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt" rth="0.00pt"?>
-<colspec colname="col1" colwidth="1.36" /><colspec colname="col2" colwidth="0.64" />
+<colspec colname="col1" colwidth="1.36*" /><colspec colname="col2" colwidth="0.64*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -577,7 +577,7 @@ PARTY'S NAME or ____ ASSIGNOR SECURED PARTY'S NAME - provide only one name
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec colname="col1" colwidth="1.09" /><colspec colname="col2" colwidth="0.91" />
+<colspec colname="col1" colwidth="1.09*" /><colspec colname="col2" colwidth="0.91*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -595,7 +595,7 @@ PARTY'S NAME or ____ ASSIGNOR SECURED PARTY'S NAME - provide only one name
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec colname="col1" colwidth="1.36" /><colspec colname="col2" colwidth="0.64" />
+<colspec colname="col1" colwidth="1.36*" /><colspec colname="col2" colwidth="0.64*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.30in"?>
@@ -613,7 +613,7 @@ PARTY'S NAME or ____ ASSIGNOR SECURED PARTY'S NAME - provide only one name
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec colname="col1" colwidth="1.23" /><colspec colname="col2" colwidth="0.77" />
+<colspec colname="col1" colwidth="1.23*" /><colspec colname="col2" colwidth="0.77*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -631,8 +631,8 @@ PARTY'S NAME or ____ ASSIGNOR SECURED PARTY'S NAME - provide only one name
 <para><table frame="none">
 <tgroup cols="4">
 <?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="0.00pt"?>
-<colspec colname="col1" colwidth="1.00" /><colspec colname="col2" colwidth="0.81" />
-<colspec colname="col3" colwidth="0.99" /><colspec colname="col4" colwidth="1.21" />
+<colspec colname="col1" colwidth="1.00*" /><colspec colname="col2" colwidth="0.81*" />
+<colspec colname="col3" colwidth="0.99*" /><colspec colname="col4" colwidth="1.21*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -711,7 +711,7 @@ do not omit, modify, or abbreviate any word in the Debtor's name)</para>
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec colname="col1" colwidth="1.39" /><colspec colname="col2" colwidth="0.61" />
+<colspec colname="col1" colwidth="1.39*" /><colspec colname="col2" colwidth="0.61*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -734,7 +734,7 @@ do not omit, modify, or abbreviate any word in the Debtor's name)</para>
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec colname="col1" colwidth="1.10" /><colspec colname="col2" colwidth="0.90" />
+<colspec colname="col1" colwidth="1.10*" /><colspec colname="col2" colwidth="0.90*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -752,7 +752,7 @@ do not omit, modify, or abbreviate any word in the Debtor's name)</para>
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec colname="col1" colwidth="1.36" /><colspec colname="col2" colwidth="0.64" />
+<colspec colname="col1" colwidth="1.36*" /><colspec colname="col2" colwidth="0.64*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -773,7 +773,7 @@ Complete for Assignment or Party Information Change - provide only one name
 in the Debtor's name)</para><para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec colname="col1" colwidth="1.30" /><colspec colname="col2" colwidth="0.70" />
+<colspec colname="col1" colwidth="1.30*" /><colspec colname="col2" colwidth="0.70*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -796,7 +796,7 @@ in the Debtor's name)</para><para><table frame="none">
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec colname="col1" colwidth="1.07" /><colspec colname="col2" colwidth="0.93" />
+<colspec colname="col1" colwidth="1.07*" /><colspec colname="col2" colwidth="0.93*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.35in"?>
@@ -814,7 +814,7 @@ in the Debtor's name)</para><para><table frame="none">
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec colname="col1" colwidth="1.36" /><colspec colname="col2" colwidth="0.64" />
+<colspec colname="col1" colwidth="1.36*" /><colspec colname="col2" colwidth="0.64*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -839,7 +839,7 @@ OF THE NAME OF THIS DEBTOR</entry>
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec colname="col1" colwidth="1.23" /><colspec colname="col2" colwidth="0.77" />
+<colspec colname="col1" colwidth="1.23*" /><colspec colname="col2" colwidth="0.77*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -855,7 +855,7 @@ OF THE NAME OF THIS DEBTOR</entry>
 </tgroup>
 </table></para>
 <para><table frame="none">
-<tgroup cols="4"><colspec colname="col1" colwidth="1.00" /><colspec colname="col2" colwidth="0.78" /><colspec colname="col3" colwidth="0.93" /><colspec colname="col4" colwidth="1.29" />
+<tgroup cols="4"><colspec colname="col1" colwidth="1.00*" /><colspec colname="col2" colwidth="0.78*" /><colspec colname="col3" colwidth="0.93*" /><colspec colname="col4" colwidth="1.29*" />
 <tbody>
 <row>
 <entry colsep="0" rowsep="0">CITY</entry>
@@ -885,7 +885,7 @@ of Assignor, if this is an Assignment)</para><para>If this is an Amendment autho
 here ____ and provide name of authorizing Debtor</para><para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec colname="col1" colwidth="1.31" /><colspec colname="col2" colwidth="0.69" />
+<colspec colname="col1" colwidth="1.31*" /><colspec colname="col2" colwidth="0.69*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -908,7 +908,7 @@ here ____ and provide name of authorizing Debtor</para><para><table frame="none"
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec colname="col1" colwidth="1.09" /><colspec colname="col2" colwidth="0.91" />
+<colspec colname="col1" colwidth="1.09*" /><colspec colname="col2" colwidth="0.91*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -926,7 +926,7 @@ here ____ and provide name of authorizing Debtor</para><para><table frame="none"
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec colname="col1" colwidth="1.36" /><colspec colname="col2" colwidth="0.64" />
+<colspec colname="col1" colwidth="1.36*" /><colspec colname="col2" colwidth="0.64*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -951,7 +951,7 @@ as item 1a on Amendment form)</para><para>________________________________</para
 THIS AMENDMENT (same as item 9 on Amendment form)</para><para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec colname="col1" colwidth="1.26" /><colspec colname="col2" colwidth="0.74" />
+<colspec colname="col1" colwidth="1.26*" /><colspec colname="col2" colwidth="0.74*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -974,7 +974,7 @@ THIS AMENDMENT (same as item 9 on Amendment form)</para><para><table frame="none
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec colname="col1" colwidth="1.11" /><colspec colname="col2" colwidth="0.89" />
+<colspec colname="col1" colwidth="1.11*" /><colspec colname="col2" colwidth="0.89*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -992,7 +992,7 @@ THIS AMENDMENT (same as item 9 on Amendment form)</para><para><table frame="none
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec colname="col1" colwidth="1.36" /><colspec colname="col2" colwidth="0.64" />
+<colspec colname="col1" colwidth="1.36*" /><colspec colname="col2" colwidth="0.64*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -1017,7 +1017,7 @@ omit, modify, or abbreviate any word in the Debtor's name)</para>
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec colname="col1" colwidth="1.31" /><colspec colname="col2" colwidth="0.69" />
+<colspec colname="col1" colwidth="1.31*" /><colspec colname="col2" colwidth="0.69*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -1040,7 +1040,7 @@ omit, modify, or abbreviate any word in the Debtor's name)</para>
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec colname="col1" colwidth="1.09" /><colspec colname="col2" colwidth="0.91" />
+<colspec colname="col1" colwidth="1.09*" /><colspec colname="col2" colwidth="0.91*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -1058,7 +1058,7 @@ omit, modify, or abbreviate any word in the Debtor's name)</para>
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec colname="col1" colwidth="1.36" /><colspec colname="col2" colwidth="0.64" />
+<colspec colname="col1" colwidth="1.36*" /><colspec colname="col2" colwidth="0.64*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.32in"?>
