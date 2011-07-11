@@ -12,7 +12,7 @@ which are authorized upon conviction:</para>
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec align="right" colname="col1" colwidth="0.81" /><colspec colname="col2" colwidth="1.19" />
+<colspec align="right" colname="col1" colwidth="0.81*" /><colspec colname="col2" colwidth="1.19*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>

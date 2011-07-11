@@ -60,7 +60,7 @@ on the following agency size categories:</para>
 <para><table frame="none">
 <tgroup align="center" cols="2">
 <?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec colname="col1" colwidth="53.48" /><colspec colname="col2" colwidth="46.52" />
+<colspec colname="col1" colwidth="53.48*" /><colspec colname="col2" colwidth="46.52*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.33in"?>

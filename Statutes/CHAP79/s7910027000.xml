@@ -11,7 +11,7 @@ schedule set forth in this section.</para>
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="0.00pt"?>
-<colspec colname="COLSPEC4" colwidth="50.00" /><colspec align="center" colname="col2" colwidth="50.00" />
+<colspec colname="COLSPEC4" colwidth="50.00*" /><colspec align="center" colname="col2" colwidth="50.00*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>

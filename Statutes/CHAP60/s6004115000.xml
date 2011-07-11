@@ -16,8 +16,8 @@ dollar amounts apply for operators' licenses and state identification cards.</pa
 <para><table frame="none">
 <tgroup cols="5">
 <?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec colname="col1" colwidth="2.49" /><colspec colname="col2" colwidth="0.51" />
-<colspec colname="col3" colwidth="0.60" /><colspec align="center" colname="col4" colwidth="0.82" /><colspec colname="col5" colwidth="0.59" />
+<colspec colname="col1" colwidth="2.49*" /><colspec colname="col2" colwidth="0.51*" />
+<colspec colname="col3" colwidth="0.60*" /><colspec align="center" colname="col4" colwidth="0.82*" /><colspec colname="col5" colwidth="0.59*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
@@ -57,8 +57,8 @@ dollar amounts apply for operators' licenses and state identification cards.</pa
 <para><table frame="none">
 <tgroup cols="5">
 <?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec colname="col1" colwidth="2.98" /><colspec align="right" colname="col2" colwidth="0.54" /><colspec align="right" colname="col3" colwidth="0.50" />
-<colspec align="right" colname="col4" colwidth="0.52" /><colspec align="right" colname="col5" colwidth="0.51" />
+<colspec colname="col1" colwidth="3.00*" /><colspec align="right" colname="col2" colwidth="0.52*" /><colspec align="right" colname="col3" colwidth="0.50*" />
+<colspec align="right" colname="col4" colwidth="0.52*" /><colspec align="right" colname="col5" colwidth="0.51*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>

@@ -24,7 +24,7 @@ category of the automobile as shown in the following table:</para>
 <para><table frame="none">
 <tgroup align="left" cols="2">
 <?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec colname="col1" colwidth="66.67" /><colspec align="right" colname="col2" colwidth="33.33" />
+<colspec colname="col1" colwidth="66.67*" /><colspec align="right" colname="col2" colwidth="33.33*" />
 <tbody>
 <row valign="middle">
 <?PubTbl row rht="0.31in"?>
