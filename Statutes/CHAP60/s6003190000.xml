@@ -24,27 +24,29 @@ category of the automobile as shown in the following table:</para>
 <para><table frame="none">
 <tgroup align="left" cols="2">
 <?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec colname="col1" colwidth="66.67*" /><colspec align="right" colname="col2" colwidth="33.33*" />
+<colspec align="left" colname="col1" colwidth="66.67*"/><colspec align="char"
+char="." charoff="50" colname="col2" colwidth="33.33*"/><atict:chgm user="commonUser"
+time="1315928285"><colspec align="right" colname="col2" colwidth="33.33*"/></atict:chgm>
 <tbody>
 <row valign="middle">
-<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">YEAR</entry>
-<entry colsep="0" rowsep="0">FRACTION</entry>
+<entry align="center" colsep="0" rowsep="0"><atict:chgm user="commonUser"
+time="1315928308"><entry colsep="0" rowsep="0"></entry></atict:chgm>FRACTION</entry>
 </row>
 <row valign="middle">
-<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">First through fifth</entry>
-<entry colsep="0" rowsep="0">1.00</entry>
+<entry colsep="0" rowsep="0"><atict:chgm user="commonUser" time="1315931710"><entry
+colsep="0" rowsep="0"></entry></atict:chgm>1.00</entry>
 </row>
 <row valign="middle">
-<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">Sixth through tenth</entry>
-<entry colsep="0" rowsep="0">.70</entry>
+<entry colsep="0" rowsep="0"><atict:chgm user="commonUser" time="1315931838"><entry
+colsep="0" rowsep="0"></entry></atict:chgm>.70</entry>
 </row>
 <row valign="middle">
-<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">Eleventh and over</entry>
-<entry colsep="0" rowsep="0">.35</entry>
+<entry align="char" colsep="0" rowsep="0"><atict:chgm user="commonUser" time="1315931825"><entry
+colsep="0" rowsep="0"></entry></atict:chgm>.35</entry>
 </row>
 </tbody>
 </tgroup>
