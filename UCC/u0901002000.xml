@@ -779,8 +779,8 @@ interest but rather on whether the transaction falls within the definition
 of "security interest" in section 1-201. Thus, an agreement that the parties
 characterize as a "lease" of goods may be a "security agreement", notwithstanding
 the parties' stated intention that the law treat the transaction as a lease
-and not as a secured transaction. See section 1-203.</para>
-<para><emphasis>4. Goods — Related Definitions.</emphasis></para>
+and not as a secured transaction.</para>
+<para><emphasis>4. Goods &#8212; Related Definitions.</emphasis></para>
 <para><emphasis>a. "Goods"; "Consumer Goods"; "Equipment"; "Farm Products"; "Farming
 Operation"; "Inventory".</emphasis> The definition of "goods" is substantially the same
 as the definition in former section 9-105. This article also retains the four
@@ -885,13 +885,13 @@ interest in the oil to Bank. Although Bank's security interest attaches when
 the oil is extracted, Bank's security interest is not in "as-extracted collateral",
 inasmuch as its debtor, Buyer, did not have an interest in the oil before
 extraction.</para>
-<para><emphasis>5. Receivables — Related Definitions.</emphasis></para>
+<para><emphasis>5. Receivables &#8212; Related Definitions.</emphasis></para>
 <para><emphasis>a. "Account"; "Health-Care-Insurance Receivable"; "As-Extracted Collateral".</emphasis> The definition of "account" has been expanded and reformulated. It is no longer
 limited to rights to payment relating to goods or services. Many categories
 of rights to payment that were classified as general intangibles under former
 article 9 are accounts under this article. Thus, if they are sold, a financing
-statement must be filed to perfect the buyer's interest in them. Among the
-types of property that are expressly excluded from the definition is "a right
+statement must be filed to perfect the buyer's interest in them. As used in the definition of "account," a right to payment "arising out of the use of a credit or charge card or information contained on or for use with the card" is the right of a card issuer to payment from its cardholder. A credit-card or charge-card transaction may give rise to other rights to payments; however, those other rights do not "arise out of the use" of the card or information contained on or for use with the card. Among the
+types of property that are expressly excluded from the definition of account is "a right
 to payment for money or funds advanced or sold". As defined in section 1-201,
 "money" is limited essentially to currency. As used in the exclusion from
 the definition of "account", however, "funds" is a broader concept (although
@@ -934,13 +934,6 @@ is stored in an electronic medium instead of in tangible form. The concept
 of an electronic medium should be construed liberally to include electrical,
 digital, magnetic, optical, electromagnetic, or any other current or similar
 emerging technologies.</para>
-<para>The definition of electronic chattel paper does not dictate that it
-be created in any particular fashion. For example, a record consisting of
-a tangible writing may be converted to electronic form (e.g., by creating
-electronic images of a signed writing). Or, records may be initially created
-and executed in electronic form (e.g., a lessee might authenticate an electronic
-record of a lease that is then stored in electronic form). In either case
-the resulting records are electronic chattel paper.</para>
 <para><emphasis>c. "Instrument"; "Promissory Note".</emphasis> The definition of "instrument" includes a negotiable instrument. As
 under former section 9-105, it also includes any other right to payment of
 a monetary obligation that is evidenced by a writing of a type that in ordinary
@@ -978,7 +971,7 @@ Virtually any intangible right could give rise to a right to payment of money
 once one hypothesizes, for example, that the account debtor is in breach of
 its obligation. The term "payment intangible", however, embraces only those
 general intangibles "under which the account debtor's principal obligation
-is a monetary obligation".</para>
+is a monetary obligation". A debtor's right to payment from another person of amounts received by the other person on the debtor's behalf, including the right of a merchant in a credit-card, debit-card, prepaid-card, or other payment-card transaction to payment of amounts received by its bank from the card system in settlement of the transaction, is a "payment intangible." (In contrast, the right of a credit-card issuer to payment arising out of the use of a credit card is an "account.")</para>
 <para>In classifying intangible collateral, a court should begin by identifying
 the particular rights that have been assigned. The account debtor (promisor)
 under a particular contract may owe several types of monetary obligations
@@ -988,14 +981,13 @@ depending on how the account debtor's obligation arose. When all the promisee's
 rights are assigned together, an account, a payment intangible, and a general
 intangible all may be involved, depending on the nature of the rights.</para>
 <para>A right to the payment of money is frequently buttressed by ancillary
-covenants, such as covenants in a purchase agreement, note, or mortgage requiring
-insurance on the collateral or forbidding removal of the collateral, or covenants
-to preserve the creditworthiness of the promisor, such as covenants restricting
-dividends and the like. This article does not treat these ancillary rights
+rights, such as rights arising from covenants in a purchase agreement, note, or mortgage requiring
+insurance on the collateral or forbidding removal of the collateral, rights arising from covenants
+to preserve the creditworthiness of the promisor, and the lessor's rights with respect to leased goods that arise upon the lessee's default (see section 2A-523). This article does not treat these ancillary rights
 separately from the rights to payment to which they relate. For example, attachment
 and perfection of an assignment of a right to payment of a monetary obligation,
 whether it be an account or payment intangible, also carries these ancillary
-rights.</para>
+rights. Thus, an assignment of the lessor's right to payment under a lease also transfers the lessor's rights with respect to the leased goods under section 2A-523. If, taken together, the lessor's rights to payment and with respect to the leased goods are evidenced by chattel paper, then, contrary to In re Commercial Money Center, Inc., 350 B.R. 465 (Bankr. App. 9th Cir. 2006), an assignment of the lessor's right to payment constitutes an assignment of the chattel paper. Although an agreement excluding the lessor's rights with respect to the leased goods from an assignment of the lessor's right to payment may be effective between the parties, the agreement does not affect the characterization of the collateral to the prejudice of creditors of, and purchasers from, the assignor.</para>
 <para>Every "payment intangible" is also a "general intangible". Likewise, "software" is a "general intangible" for purposes of this
 article. See comment 25. Accordingly, except as otherwise provided, statutory
 provisions applicable to general intangibles apply to payment intangibles
@@ -1059,7 +1051,7 @@ programs. Depending on the nature of a right under a program, it could be
 an account, a payment intangible, a general intangible other than a payment
 intangible, or another type of collateral. The right also might be proceeds
 of collateral (e.g., crops).</para>
-<para><emphasis>6. Investment-Property — Related Definitions: "Commodity Account"; "Commodity Contract"; "Commodity
+<para><emphasis>6. Investment-Property &#8212; Related Definitions: "Commodity Account"; "Commodity Contract"; "Commodity
 Customer"; "Commodity Intermediary"; "Investment Property".</emphasis> These definitions
 are substantially the same as the corresponding definitions in former section
 9-115. "Investment property" includes securities, both certificated and uncertificated,
@@ -1154,7 +1146,7 @@ the firm may need to borrow funds temporarily to make the earlier payment.
 The rules on security interests in investment property would facilitate the
 use of positions in one market as collateral for loans needed to cover obligations
 in the other market.</para>
-<para><emphasis>7. Consumer — Related Definitions: "Consumer Debtor"; "Consumer Goods"; "Consumer-goods
+<para><emphasis>7. Consumer &#8212; Related Definitions: "Consumer Debtor"; "Consumer Goods"; "Consumer-goods
 transaction"; "Consumer Obligor"; "Consumer Transaction".</emphasis> The definition
 of "consumer goods" (discussed above) is substantially the same as the definition
 in former section 9-109. The definitions of "consumer debtor", "consumer obligor",
@@ -1176,7 +1168,7 @@ case of a consumer transaction. The fact that some of the obligations secured
 or some of the collateral for the obligation does not satisfy the tests (e.g.,
 some of the collateral is acquired for a business purpose) does not prevent
 a transaction from being a "consumer transaction" or "consumer-goods transaction".</para>
-<para><emphasis>8. Filing — Related Definitions: "Continuation Statement"; "File Number"; "Filing Office";
+<para><emphasis>8. Filing &#8212; Related Definitions: "Continuation Statement"; "File Number"; "Filing Office";
 "Filing-Office Rule"; "Financing Statement"; "Fixture Filing"; "Manufactured-Home
 Transaction"; "New Debtor"; "Original Debtor"; "Public-Finance Transaction";
 "Termination Statement"; "Transmitting Utility".</emphasis> These definitions are used
@@ -1247,7 +1239,7 @@ of "send" replaces, for purposes of this article, the corresponding term in
 section 1-201. The reference to "usual means of communication" in that definition
 contemplates an inquiry into the appropriateness of the method of transmission
 used in the particular circumstances involved.</para>
-<para><emphasis>10. Scope — Related Definitions.</emphasis></para>
+<para><emphasis>10. Scope &#8212; Related Definitions.</emphasis></para>
 <para><emphasis>a. Expanded Scope of Article: "Agricultural Lien"; "Consignment"; "Payment
 Intangible"; "Promissory Note".</emphasis> These new definitions reflect the expanded
 scope of article 9, as provided in section 9-109(a).</para>
@@ -1255,19 +1247,24 @@ scope of article 9, as provided in section 9-109(a).</para>
 Tort Claims".</emphasis> These new definitions reflect the reduced scope of the exclusions,
 provided in section 9-109(c) and (d), of transfers by governmental debtors
 and assignments of interests in insurance policies and commercial tort claims.</para>
-<para><emphasis>11. Choice-of-Law — Related Definitions: "Certificate of Title"; "Governmental Unit"; "Jurisdiction
+<para><emphasis>11. Choice-of-Law &#8212; Related Definitions: "Certificate of Title"; "Governmental Unit"; "Jurisdiction
 of Organization"; "Registered Organization"; "State".</emphasis> These new definitions
 reflect the changes in the law governing perfection and priority of security
 interests and agricultural liens provided in part 3, subpart 1.</para>
+<para>Statutes often require applicants for a certificate of title to identify all security interests on the application and require the issuing agency to indicate the identified security interests on the certificate. Some of these statutes provide that priority over the rights of a lien creditor (i.e., perfection of a security interest) in goods covered by the certificate occurs upon indication of the security interest on the certificate; that is, they provide for the indication of the security interest on the certificate as a "condition" of perfection. Other statutes contemplate that perfection is achieved upon the occurrence of another act, e.g., delivery of the application to the issuing agency, that "results" in the indication of the security interest on the certificate. A certificate governed by either type of statute can qualify as a "certificate of title" under this article. The statute providing for the indication of a security interest need not expressly state the connection between the indication and perfection. For example, a certificate issued pursuant to a statute that requires applicants to identify security interests, requires the issuing agency to indicate the identified security interests on the certificate, but is silent concerning the legal consequences of the indication would be a "certificate of title" if, under a judicial interpretation of the statute, perfection of a security interest is a legal consequence of the indication. Likewise, a certificate would be a "certificate of title" if another statute provides, expressly or as interpreted, the requisite connection between the indication and perfection.</para>
+<para>The first sentence of the definition of "certificate of title" includes certificates consisting of tangible records, of electronic records, and of combinations of tangible and electronic records.</para>
+<para>In many states, a certificate of title covering goods that are encumbered by a security interest is delivered to the secured party by the issuing authority. To eliminate the need for the issuance of a paper certificate under these circumstances, several states have revised their certificate-of-title statutes to permit or require a state agency to maintain an electronic record that evidences ownership of the goods and in which a security interest in the goods may be noted. The second sentence of the definition provides that such a record is a "certificate of title" if it is in fact maintained as an alternative to the issuance of a paper certificate of title, regardless of whether the certificate-of-title statute provides that the record is a certificate of title and even if the statute does not expressly state that the record is maintained instead of issuing a paper certificate.</para>
 <para>Not every organization that may provide information about itself in
 the public records is a "registered organization". For example, a general
 partnership is not a "registered organization", even if it files a statement
 of partnership authority under section 303 of the Uniform Partnership Act
-(1994) or an assumed name ("dba") certificate. This is because the state under
-whose law the partnership is organized is not required to maintain a public
-record showing that the partnership has been organized. In contrast, corporations,
-limited liability companies, and limited partnerships are "registered organizations".</para>
-<para><emphasis>12. Deposit-Account — Related Definitions: "Deposit Account"; "Bank".</emphasis> The revised definition of
+(1994) or an assumed name ("dba") certificate. This is because such a partnership is not formed or organized by the filing of a record with, or the issuance of a record by, a state or the United States. In contrast, corporations,
+limited liability companies, and limited partnerships ordinarily are "registered organizations".</para>
+<para>Not every record concerning a registered organization that is filed with, or issued by, a state or the United States is a "public organic record." For example, a certificate of good standing issued with respect to a corporation or a published index of domestic corporations would not be a "public organic record" because its issuance or publication does not form or organize the corporations named.</para>
+<para>When collateral is held in a trust, one must look to non-UCC law to determine whether the trust is a "registered organization." Non-UCC law typically distinguishes between statutory trusts and common-law trusts. A statutory trust is formed by the filing of a record, commonly referred to as a certificate of trust, in a public office pursuant to a statute. See, e.g., Uniform Statutory Trust Entity Act &#167; 201 (2009); Delaware Statutory Trust Act, Del. Code Ann. tit. 12, &#167; 3801 et seq. A statutory trust is a juridical entity, separate from its trustee and beneficial owners, that may sue and be sued, own property, and transact business in its own name. Inasmuch as a statutory trust is a "legal or commercial entity," it qualifies as a "person other than an individual," and therefore as an "organization," under section 1-201. A statutory trust that is formed by the filing of a record in a public office is a "registered organization," and the filed record is a "public organic record" of the statutory trust, if the filed record is available to the public for inspection. (The requirement that a record be "available to the public for inspection" is satisfied if a copy of the relevant record is available for public inspection.)</para>
+<para>Unlike a statutory trust, a common-law trust&#8212;whether its purpose is donative or commercial&#8212;arises from private action without the filing of a record in a public office. See Uniform Trust Code &#167; 401 (2000); Restatement (Third) of Trusts &#167; 10 (2003). Morever, under traditional law, a common-law trust is not itself a juridical entity and therefore must sue and be sued, own property, and transact business in the name of the trustee acting in the capacity of trustee. A common-law trust that is a "business trust," i.e., that has a business or commercial purpose, is an "organization" under section 1-201. However, such a trust would not be a "registered organization" if, as is typically the case, the filing of a public record is not needed to form it.</para>
+<para>In some states, however, the trustee of a common-law trust that has a commercial or business purpose is required by statute to file a record in a public office following the trust's formation. See, e.g., Mass. Gen. Laws Ch. 182, &#167; 2; Fla. Stat. Ann. &#167; 609.02. A business trust that is required to file its organic record in a public office is a "registered organization" under the second sentence of the definition if the filed record is available to the public for inspection. Any organic record required to be filed, and filed, with respect to a common-law business trust after the trust is formed is a "public organic record" of the trust. Some statutes require a trust or other organization to file, after formation or organization, a record other than an organic record. See, e.g., N.Y. Gen Assn's Law &#167; 18 (requiring associations doing business within New York to file a certificate designating the secretary of state as an agent upon whom process may be served). This requirement does not render the organization a "registered organizaton" under the second sentence of the definition, and the record is not a "public organic record."</para>
+<para><emphasis>12. Deposit-Account &#8212; Related Definitions: "Deposit Account"; "Bank".</emphasis> The revised definition of
 "deposit account" incorporates the definition of "bank", which is new. The
 definition derives from the definitions of "bank" in sections 4-105(1) and
 4A-105(a)(2), which focus on whether the organization is "engaged in the business
@@ -1292,7 +1289,7 @@ and the special priority rules applicable to deposit accounts (see sections
 as securities and security entitlements. Thus, the term also does not include
 shares in a money-market mutual fund, even if the shares are redeemable by
 check.</para>
-<para><emphasis>13. Proceeds — Related Definitions: "Cash Proceeds"; "Noncash Proceeds"; "Proceeds".</emphasis> The
+<para><emphasis>13. Proceeds &#8212; Related Definitions: "Cash Proceeds"; "Noncash Proceeds"; "Proceeds".</emphasis> The
 revised definition of "proceeds" expands the definition beyond that contained
 in former section 9-306 and resolves ambiguities in the former section.</para>
 <para><emphasis>a. Distributions on Account of Collateral.</emphasis> The phrase "whatever is collected on, or distributed on account of,
@@ -1328,7 +1325,7 @@ definition in former section 9-306. The phrase "and the like" covers property
 that is functionally equivalent to "money, checks, or deposit accounts", such
 as some money market accounts that are securities or part of securities entitlements.
 Proceeds other than cash proceeds are noncash proceeds.</para>
-<para><emphasis>14. Consignment — Related Definitions: "Consignee"; "Consignment"; "Consignor".</emphasis> The definition
+<para><emphasis>14. Consignment &#8212; Related Definitions: "Consignee"; "Consignment"; "Consignor".</emphasis> The definition
 of "consignment" excludes, in subparagraphs (B) and (C), transactions for
 which filing would be inappropriate or of insufficient benefit to justify
 the costs. A consignment excluded from the application of this article by
