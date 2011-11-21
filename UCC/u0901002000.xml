@@ -455,7 +455,7 @@ in other articles apply to this article:</para>
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec colname="col1" colwidth="1.02" /><colspec colname="col3" colwidth="0.65" />
+<colspec colname="col1" colwidth="1.02*" /><colspec colname="col3" colwidth="0.65*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
