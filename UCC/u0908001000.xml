@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
-<law type="statute">
+<law type="ucc">
 <section>
-<amendatorysection chaptername="Uniform Commercial Code" publishedsource="AnnualSupplement" statutenumber="9-801">
+<amendatorysection chaptername="Uniform Commercial Code" publishedsource="AnnualSupplement" statutenumber="9-801"><bookinfo>Uniform Commercial Code, Revised Statutes Supplement, 2011</bookinfo>
 <statuteno>9-801</statuteno><catchline>Operative date.</catchline><para>This article as amended by Laws
 2011, LB90, becomes operative on July 1, 2013.</para></amendatorysection>
-</section><source><para>Laws 2011, LB90, §  22.</para><operativedate>July 1, 2013</operativedate></source>  </law>
+</section><source><para>Laws 2011, LB90, &#167; 22.</para><operativedate>July 1, 2013</operativedate></source>  </law>
 </legaldoc>

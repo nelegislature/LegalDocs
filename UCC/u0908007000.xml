@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
-<law type="statute">
+<law type="ucc">
 <section>
-<amendatorysection chaptername="Uniform Commercial Code" publishedsource="AnnualSupplement" statutenumber="9-807">
+<amendatorysection chaptername="Uniform Commercial Code" publishedsource="AnnualSupplement" statutenumber="9-807"><bookinfo>Uniform Commercial Code, Revised Statutes Supplement, 2011</bookinfo>
 <statuteno>9-807</statuteno><catchline>Amendment of pre-operative-date financing
 statement.</catchline><para>(a)
 In this section, "pre-operative-date financing statement" means a financing
@@ -36,5 +36,5 @@ is filed, unless an initial financing statement that satisfies section 9-806(c)
 has been filed in the office specified by the law of the jurisdiction governing
 perfection as provided in this article as it existed on July 1, 2013, as the
 office in which to file a financing statement.</para></amendatorysection>
-</section><source><para>Laws 2011, LB90, §  28.</para><operativedate>July 1, 2013</operativedate></source>  </law>
+</section><source><para>Laws 2011, LB90, &#167; 28.</para><operativedate>July 1, 2013</operativedate></source>  </law>
 </legaldoc>

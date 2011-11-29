@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
-<law type="statute">
+<law type="ucc">
 <section>
-<amendatorysection amended="yes" chaptername="Uniform Commercial Code" statutenumber="9-507"><bookinfo>Revised Statutes Supplement, 2011</bookinfo>
+<amendatorysection amended="yes" chaptername="Uniform Commercial Code" statutenumber="9-507"><bookinfo>Uniform Commercial Code, Revised Statutes Supplement, 2011</bookinfo>
 <statuteno>9-507</statuteno><catchline>Effect of certain events on effectiveness
 of financing statement.</catchline><para>(a) A filed financing statement remains
 effective with respect to collateral that is sold, exchanged, leased, licensed,

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
-<law type="statute">
+<law type="ucc">
 <section>
-<amendatorysection amended="yes" chaptername="Uniform Commercial Code" statutenumber="9-102"><bookinfo>Revised Statutes Supplement, 2011</bookinfo>
+<amendatorysection amended="yes" chaptername="Uniform Commercial Code" statutenumber="9-102"><bookinfo>Uniform Commercial Code, Revised Statutes Supplement, 2011</bookinfo>
 <statuteno>9-102</statuteno><catchline>Definitions and index of definitions.</catchline>
 <para>(a) In this article:</para>
 <para>(1) "Accession" means goods that are physically united with other goods

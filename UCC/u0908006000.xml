@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
-<law type="statute">
+<law type="ucc">
 <section>
-<amendatorysection chaptername="Uniform Commercial Code" publishedsource="AnnualSupplement" statutenumber="9-806">
+<amendatorysection chaptername="Uniform Commercial Code" publishedsource="AnnualSupplement" statutenumber="9-806"><bookinfo>Uniform Commercial Code, Revised Statutes Supplement, 2011</bookinfo>
 <statuteno>9-806</statuteno><catchline>When initial financing statement suffices
 to continue effectiveness of financing statement.</catchline><para>(a) The filing of an initial financing statement in
 the office specified in section 9-501 continues the effectiveness of a financing
@@ -26,5 +26,5 @@ financing statement by indicating the office in which the financing statement
 was filed and providing the dates of filing and file numbers, if any, of the
 financing statement and of the most recent continuation statement filed with
 respect to the financing statement; and</para><para>(3) indicate that the pre-operative-date financing
-statement remains effective.</para></amendatorysection></section><source><para>Laws 2011, LB90, §  27.</para><operativedate>July 1, 2013</operativedate></source>  </law>
+statement remains effective.</para></amendatorysection></section><source><para>Laws 2011, LB90, &#167; 27.</para><operativedate>July 1, 2013</operativedate></source>  </law>
 </legaldoc>

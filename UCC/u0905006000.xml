@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
-<law type="statute">
+<law type="ucc">
 <section>
-<amendatorysection amended="yes" chaptername="Uniform Commercial Code" statutenumber="9-506"><bookinfo>Revised Statutes Supplement, 2011</bookinfo>
+<amendatorysection amended="yes" chaptername="Uniform Commercial Code" statutenumber="9-506"><bookinfo>Uniform Commercial Code, Revised Statutes Supplement, 2011</bookinfo>
 <statuteno>9-506</statuteno><catchline>Effect of errors or omissions.</catchline>
 <para>(a) A financing statement substantially satisfying the requirements
 of this part is effective, even if it has minor errors or omissions, unless

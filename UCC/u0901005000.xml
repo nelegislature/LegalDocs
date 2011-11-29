@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
-<law type="statute">
+<law type="ucc">
 <section>
-<amendatorysection amended="yes" chaptername="Uniform Commercial Code" statutenumber="9-105"><bookinfo>Revised Statutes Supplement, 2011</bookinfo>
+<amendatorysection amended="yes" chaptername="Uniform Commercial Code" statutenumber="9-105"><bookinfo>Uniform Commercial Code, Revised Statutes Supplement, 2011</bookinfo>
 <statuteno>9-105</statuteno><catchline>Control of electronic chattel paper.</catchline>
 <para>(a) A secured
 party has control of electronic chattel paper if a system employed for evidencing the transfer of interests
