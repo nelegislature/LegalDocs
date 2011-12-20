@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="State Administrative Departments" statutenumber="81-1701"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>81-1701</statuteno><catchline>Act, purpose.</catchline><para>The purpose of sections 81-1701 to 81-1721 is to provide managerial control over competitive negotiations by the state for acquisition of professional architectural, engineering, landscape architecture, or land surveying services.</para></amendatorysection></section><source><para>Laws 1978, LB 715, &#167; 1. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="State Administrative Departments" statutenumber="81-1701"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>81-1701</statuteno><catchline>Act; purpose; applicability.</catchline><para>The purpose
+of the Nebraska Consultants' Competitive
+Negotiation Act is to provide managerial control over competitive
+negotiations by the state for acquisition of professional architectural, engineering,
+landscape architecture, or land surveying services. The act does not apply to contracts under section 57-1503.</para>
+</amendatorysection></section><source><para>Laws 1978, LB 715, &#167; 1; </para><para>Laws 2011, First Spec. Sess., LB4, &#167; 6.</para><effectivedate>November 23, 2011</effectivedate></source>  </law>
+</legaldoc>

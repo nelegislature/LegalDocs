@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Public Service Commission" statutenumber="75-110.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>75-110.01</statuteno><catchline>Application or petition for authority or relief; procedures.</catchline><para>A summary of the authority or relief sought in an application or petition shall be set out in the notice given according to the rules the commission shall adopt. After notice of an application or petition has been given as provided by the rules for notice, the commission may process the application or petition without a hearing by use of affidavits if the application or petition is not opposed. The commission shall not deny an application or petition of a common carrier or jurisdictional utility until after it has either given the applicant a hearing thereon, or received the applicant's affidavits and made them a part of the record.</para></amendatorysection></section><source><para>Laws 1967, c. 479, &#167; 2, p. 1476; </para><para>Laws 2003, LB 790, &#167; 64. </para></source><annotation><para>Railway Commission is required to hold a hearing on an application on a petition unless it is not opposed and its disposition is made by use of affidavits. Allen v. Omaha Transit Co., Inc., 187 Neb. 156, 187 N.W.2d 760 (1971).</para></annotation></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id124">
+<amendatorysection amended="yes" chaptername="Public Service Commission" id="id126" statutenumber="75-110.01"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>75-110.01</statuteno><catchline id="id129">Application
+or petition for authority or relief; procedures.</catchline><para>A
+summary of the authority or relief sought in an application or petition shall
+be set out in the notice given according to the rules the commission shall
+adopt. After notice of an application or petition has been given as provided
+by the rules for notice, the commission may process the application or petition
+without a hearing by use of affidavits if the application or petition is not
+opposed. The commission shall not deny an application or petition of a common
+carrier, pipeline carrier, or
+jurisdictional utility until after it has either given the applicant a hearing
+thereon, or received the applicant's affidavits and made them a part of the
+record.</para>
+</amendatorysection></section><source><para>Laws 1967, c. 479, &#167; 2, p. 1476; </para><para>Laws 2003, LB 790, &#167; 64; </para><para>Laws 2011, First Spec. Sess., LB1, &#167; 15.</para><effectivedate>November 23, 2011</effectivedate></source><annotation><para>Railway Commission is required to hold a hearing on an application on a petition unless it is not opposed and its disposition is made by use of affidavits. Allen v. Omaha Transit Co., Inc., 187 Neb. 156, 187 N.W.2d 760 (1971).</para></annotation>  </law>
+</legaldoc>
