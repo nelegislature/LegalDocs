@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id8">
-<sectno id="id9" opdate=" ">Sec. 2.</sectno><amendatorysection chaptername="Public Lands, Buildings, and Funds" id="id10" publishedsource="CumulativeSupplement" statutenumber="72-271"><bookinfo>Revised Statutes Cumulative Supplement, 2010</bookinfo><statuteno>72-271</statuteno><catchline>Production of wind or solar energy;
-leases; terms, defined.</catchline><para>For purposes of sections 72-270 to 72-274:</para>
-<para>(1) Board means
-the Board of Educational Lands and Funds;</para><para>(2) Lease means any lease, easement, covenant,
-or other such contractual arrangement;</para><para>(3) Lessee means any individual, corporation,
-or other entity that enters into a lease with the board;</para>
-<para>(4) Solar energy
-means radiant energy, direct, diffuse, or reflected, received from the sun
-at wavelengths suitable for conversion into thermal, chemical, or electrical
-energy; and</para><para>(5) Wind energy means the use of wind to produce electricity.</para>
-</amendatorysection></section><source><para>Laws 2010, LB235, &#167; 2.</para></source>  </law>
+<section>
+<amendatorysection amended="yes" chaptername="Public Lands, Buildings, and Funds" id="id10" publishedsource="CumulativeSupplement" statutenumber="72-271"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>72-271</statuteno><catchline>Production of wind or solar energy; agreements; terms, defined.</catchline><para>For
+purposes of sections 72-270 to 72-274:</para>
+<para>(1) Agreement means (a)
+for purposes of a solar energy system, a solar agreement as defined in section
+66-909 and (b) for purposes of a wind energy conversion system, a wind agreement
+as defined in section 66-909.04;</para>
+<para>(2) Board means the Board
+of Educational Lands and Funds;</para>
+
+<para>(3) Lessee means any individual, corporation, or other entity that enters
+into an agreement with the board;</para>
+<para>(4) Solar energy means radiant energy, direct, diffuse, or reflected,
+received from the sun at wavelengths suitable for conversion into thermal,
+chemical, or electrical energy; and</para>
+<para>(5) Wind energy has the definition found in section 66-909.01.</para>
+</amendatorysection></section><source><para>Laws 2010, LB235, &#167; 2; </para><para>Laws 2012, LB828, &#167; 12.</para><effectivedate>March 8, 2012</effectivedate></source>  </law>
 </legaldoc>

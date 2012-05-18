@@ -1,52 +1,51 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id172">
-<sectno id="id173" opdate="April 15, 2010">Sec. 40.</sectno><amendatorysection amended="yes" chaptername="Telecommunications and Technology" id="id174" publishedsource="CumulativeSupplement" statutenumber="86-516"><bookinfo>Revised Statutes Cumulative Supplement, 2010</bookinfo><statuteno id="id176">86-516</statuteno><catchline id="id177">Commission;
+<section>
+<amendatorysection amended="yes" chaptername="Telecommunications and Technology" id="id174" publishedsource="CumulativeSupplement" statutenumber="86-516"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>86-516</statuteno><catchline id="id177">Commission;
 duties.</catchline><para>The commission shall:</para>
-<para>(1) Annually by July 1, adopt policies and procedures used
-to develop, review, and annually update a statewide technology plan;</para>
-<para>(2) Create an information technology clearinghouse to identify
-and share best practices and new developments, as well as identify existing
-problems and deficiencies;</para>
+<para>(1) Annually by July 1, adopt policies and procedures used to develop,
+review, and annually update a statewide technology plan;</para>
+<para>(2) Create an information technology clearinghouse to identify and share
+best practices and new developments, as well as identify existing problems
+and deficiencies;</para>
 <para>(3) Review and adopt policies to provide incentives for investments
 in information technology infrastructure services;</para>
-<para>(4) Determine a broad strategy and objectives for developing
-and sustaining information technology development in Nebraska, including long-range
-funding strategies, research and development investment, support and maintenance
-requirements, and system usage and assessment guidelines;</para>
-<para>(5) Adopt guidelines regarding project planning and management
-and administrative and technical review procedures involving state-owned or
-state-supported technology and infrastructure. Governmental entities, state
-agencies, and noneducation political
-subdivisions shall submit all projects which use any combination of general
-funds, federal funds, or cash funds for information technology purposes to
-the process established by sections 86-512 to 86-524. The commission may adopt
-policies that establish the format and minimum requirements for project submissions.
-The commission may monitor the progress of any such project and may require
-progress reports;</para>
+<para>(4) Determine a broad strategy and objectives for developing and sustaining
+information technology development in Nebraska, including long-range funding
+strategies, research and development investment, support and maintenance requirements,
+and system usage and assessment guidelines;</para>
+<para>(5) Adopt guidelines regarding project planning and management and administrative
+and technical review procedures involving state-owned or state-supported technology
+and infrastructure. Governmental entities, state agencies, and noneducation
+political subdivisions shall submit all projects which use any combination
+of general funds, federal funds, or cash funds for information technology
+purposes to the process established by sections 86-512 to 86-524. The commission
+may adopt policies that establish the format and minimum requirements for
+project submissions. The commission may monitor the progress of any such project
+and may require progress reports;</para>
 <para>(6) Adopt minimum technical standards, guidelines, and architectures
-upon recommendation by the technical panel.
-Such standards and guidelines shall not unnecessarily restrict the use of
-new technologies or prevent commercial competition, including competition
-with Network Nebraska;</para>
-<para>(7) Establish ad hoc technical advisory groups to study and
-make recommendations on specific topics, including workgroups to establish,
-coordinate, and prioritize needs for education, local communities, intergovernmental
-data communications, and state agencies;</para>
+upon recommendation by the technical panel. Such standards and guidelines
+shall not unnecessarily restrict the use of new technologies or prevent commercial
+competition, including competition with Network Nebraska;</para>
+<para>(7) Establish ad hoc technical advisory groups to study and make recommendations
+on specific topics, including workgroups to establish, coordinate, and prioritize
+needs for education, local communities, intergovernmental data communications,
+and state agencies;</para>
 <para>(8) By November 15 of each even-numbered year, make recommendations
 on technology investments to the Governor and the Legislature, including a
 prioritized list of projects, reviewed by the technical panel pursuant to
-section 86-521;</para>
-<para>(9) Approve grants from the Community Technology Fund and
-Government Technology Collaboration Fund; </para>
-<para>(10) Adopt schedules and procedures for reporting needs,
-priorities, and recommended projects;</para>
-<para>(11) Assist the Chief Information Officer in developing and
-maintaining Network Nebraska pursuant to section 86-5,100; and</para>
-<para>(12) Determine the format that state agencies, boards, and
-commissions shall use to report their information technology plans under section
-86-524.01. The commission shall include an analysis of such plans in the statewide
-technology plan.</para>
-</amendatorysection></section><source><para>Laws 1998, LB 924, &#167; 6; </para><para>Laws 1999, LB 446, &#167; 12; </para><para>R.S.1943, (1999), &#167; 86-1506; </para><para>Laws 2002, LB 1105, &#167; 286; </para><para>Laws 2005, LB 343, &#167; 9; </para><para>Laws 2006, LB 1208, &#167; 28; </para><para>Laws 2008, LB823, &#167; 3; </para><para>Laws 2010, LB1071, &#167; 40.</para></source>  </law>
+section 86-521. The recommendations
+submitted to the Legislature shall be submitted electronically;</para>
+<para>(9) Approve grants from the Community Technology Fund and Government
+Technology Collaboration Fund;</para>
+<para>(10) Adopt schedules and procedures for reporting needs, priorities,
+and recommended projects;</para>
+<para>(11) Assist the Chief Information Officer in developing and maintaining
+Network Nebraska pursuant to section 86-5,100; and</para>
+<para>(12) Determine the format that state agencies, boards, and commissions
+shall use to report their information technology plans under section 86-524.01.
+The commission shall include an analysis of such plans in the statewide technology
+plan.</para>
+</amendatorysection></section><source><para>Laws 1998, LB 924, &#167; 6; </para><para>Laws 1999, LB 446, &#167; 12; </para><para>R.S.1943, (1999), &#167; 86-1506; </para><para>Laws 2002, LB 1105, &#167; 286; </para><para>Laws 2005, LB 343, &#167; 9; </para><para>Laws 2006, LB 1208, &#167; 28; </para><para>Laws 2008, LB823, &#167; 3; </para><para>Laws 2010, LB1071, &#167; 40; </para><para>Laws 2012, LB782, &#167; 244.</para><operativedate>July 19, 2012</operativedate></source>  </law>
 </legaldoc>

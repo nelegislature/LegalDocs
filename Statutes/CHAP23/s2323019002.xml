@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id84">
-<sectno id="id85" opdate="July 1, 2010">Sec. 7.</sectno><amendatorysection amended="yes" chaptername="County Government and Officers" id="id86" statutenumber="23-2319.02"><bookinfo>Revised Statutes Cumulative Supplement, 2010</bookinfo><statuteno id="id88">23-2319.02</statuteno><catchline id="id89">County Employer
-Retirement Expense Fund; use.</catchline><para>The County Employer Retirement
-Expense Fund shall be used to meet expenses of the county employees retirement
-system whether such expenses are incurred in administering the member's employer
-account or in administering the member's employer cash balance account when
-the funds available in the County Employees Defined Contribution Retirement
-Expense Fund or County Employees Cash Balance Retirement Expense Fund make
-such use reasonably necessary.</para>
-</amendatorysection></section><source><para>Laws 2005, LB 364, &#167; 22; </para><para>Laws 2007, LB328, &#167; 5; </para><para>Laws 2010, LB950, &#167; 7.</para></source>  </law>
+		<section>
+			<amendatorysection chaptername="" statutenumber="23-2319.02">
+				<statuteno>23-2319.02</statuteno>
+				<catchline>Repealed. Laws 2012, LB 916, &#167; 47.</catchline>
+				
+			</amendatorysection>
+		</section>
+	</law>
 </legaldoc>

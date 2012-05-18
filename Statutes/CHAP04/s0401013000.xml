@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id33">
-<sectno id="id34" opdate="October 1, 2009">Sec. 6.</sectno><amendatorysection chaptername="Aliens" id="id35" publishedsource="AnnualSupplement" statutenumber="4-113"><bookinfo>Revised Statutes Cumulative Supplement, 2010</bookinfo><statuteno>4-113</statuteno><catchline>Public benefits; state agency; annual
-report.</catchline><para>Each
-state agency which administers any program of public benefits shall provide
-an annual report not later than January 31 for the prior year to the Governor
-and the Clerk of the Legislature with respect to compliance with sections
-4-108 to 4-113. The report shall include, but not be limited to, the total
-number of applicants for benefits and the number of applicants rejected pursuant
-to such sections.</para>
-</amendatorysection></section><source><para>Laws 2009, LB403, &#167; 6.</para></source>  </law>
+<section>
+<amendatorysection amended="yes" chaptername="Aliens" id="id35" publishedsource="AnnualSupplement" statutenumber="4-113">
+<bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>4-113</statuteno><catchline>Public benefits; state agency; annual
+report.</catchline><para>Each state agency which administers any program of
+public benefits shall provide an annual report not later than January 31 for
+the prior year to the Governor and the Clerk of the Legislature with respect
+to compliance with sections 4-108 to 4-113. The
+report submitted to the Clerk of the Legislature shall be submitted electronically. The
+report shall include, but not be limited to, the total number of applicants
+for benefits and the number of applicants rejected pursuant to such sections.</para>
+</amendatorysection></section><source><para>Laws 2009, LB403, &#167; 6; </para><para>Laws 2012, LB782, &#167; 10.</para><operativedate>July 19, 2012</operativedate></source>  </law>
 </legaldoc>

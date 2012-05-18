@@ -1,1 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="State Administrative Departments" statutenumber="81-1414.04"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>81-1414.04</statuteno><catchline>Nebraska Law Enforcement Training Center Fund; created; deposits; investment.</catchline><para>There is hereby created, for the use of the Nebraska Commission on Law Enforcement and Criminal Justice, a fund to be known as the Nebraska Law Enforcement Training Center Fund, to consist of such money as appropriated to such fund by the Legislature. Any money in the fund available for investment shall be invested by the state investment officer pursuant to the Nebraska Capital Expansion Act and the Nebraska State Funds Investment Act.</para></amendatorysection></section><source><para>Laws 1978, LB 877, &#167; 4; </para><para>Laws 1995, LB 7, &#167; 126. </para></source><crossreference><para><emphasis>Nebraska Capital Expansion Act,</emphasis> see section 72-1269.</para><para><emphasis>Nebraska State Funds Investment Act,</emphasis> see section 72-1260.</para></crossreference></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id98">
+<amendatorysection amended="yes" chaptername="State Administrative Departments" id="id100" statutenumber="81-1414.04">
+<bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>81-1414.04</statuteno><catchline id="id103">Nebraska
+Law Enforcement Training Center Fund; created; deposits; investment.</catchline>
+<para>There is hereby created, for the use of the commission, a fund to be known
+as the Nebraska Law Enforcement Training Center Fund, to consist of such money
+as appropriated to such fund by the Legislature. Any money in the fund available
+for investment shall be invested by the state investment officer pursuant
+to the Nebraska Capital Expansion Act and the Nebraska State Funds Investment
+Act.</para>
+</amendatorysection></section><source><para>Laws 1978, LB 877, &#167; 4; </para><para>Laws 1995, LB 7, &#167; 126; </para><para>Laws 2012, LB817, &#167; 11.</para><operativedate>January 1, 2014</operativedate></source><crossreference><para><emphasis>Nebraska Capital Expansion Act,</emphasis> see section 72-1269.</para><para><emphasis>Nebraska State Funds Investment Act,</emphasis> see section 72-1260.</para></crossreference>  </law>
+</legaldoc>

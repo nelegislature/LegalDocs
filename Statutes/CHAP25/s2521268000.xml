@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Courts; Civil Procedure" statutenumber="25-21,268"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>25-21,268</statuteno><catchline>Class action against complying financial institution; restrictions.</catchline><para>No action shall be brought under section 25-319 against a complying financial institution defendant for damages resulting from a computer date failure within one hundred eighty days after the cause of action accrues.</para></amendatorysection></section><source><para>Laws 1999, LB 661, &#167; 4. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<amendatorysection chaptername="" statutenumber="25-21,268">
+				<statuteno>25-21,268</statuteno>
+				<catchline>Repealed. Laws 2012, LB 705, &#167; 1.</catchline>
+				
+			</amendatorysection>
+		</section>
+	</law>
+</legaldoc>

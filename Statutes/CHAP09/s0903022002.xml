@@ -1,1 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Bingo and Other Gambling" statutenumber="9-322.02"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>9-322.02</statuteno><catchline>Denial of application; procedure.</catchline><para>(1) Before any application is denied pursuant to section 9-322, the department shall notify the applicant in writing by certified mail of the department's intention to deny the application and the reasons for the denial. Such notice shall inform the applicant of his or her right to request an administrative hearing for the purpose of reconsideration of the intended denial of the application. The date the notice is mailed shall be deemed to be the date of service of notice to the applicant.</para><para>(2) A request for a hearing by the applicant shall be in writing and shall be filed with the department within thirty days after the service of notice to the applicant of the department's intended denial of the application. If a request for hearing is not filed within the thirty-day period, the application denial shall become final at the expiration of such period.</para><para>(3) If a request for hearing is filed within the thirty-day period, the Tax Commissioner shall grant the applicant a hearing and shall, at least ten days before the hearing, serve notice upon the applicant by certified mail, return receipt requested, of the time, date, and place of the hearing. Such proceedings shall be considered contested cases pursuant to the Administrative Procedure Act.</para></amendatorysection></section><source><para>Laws 1988, LB 1232, &#167; 20; </para><para>Laws 2002, LB 545, &#167; 28.</para></source><crossreference><para><emphasis>Administrative Procedure Act,</emphasis> see section 84-920.</para></crossreference><annotation><para>Administrative bodies have only that authority specifically conferred upon them by statute or by construction necessary to achieve the purpose of the relevant act, and as such, the Department of Revenue is not statutorily authorized to grant motions for summary judgment. Southeast Rur. Vol. Fire Dept. v. Neb. Dept. of Rev., 251 Neb. 852, 560 N.W.2d 436 (1997).</para></annotation></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id114">
+<amendatorysection amended="yes" chaptername="Bingo and Other Gambling" id="id116" statutenumber="9-322.02">
+<bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>9-322.02</statuteno><catchline id="id119">Denial of
+application; procedure.</catchline><para>(1) Before any application
+is denied pursuant to section 9-322, the department shall notify the applicant
+in writing by mail
+of the department's intention to deny the application and the reasons for
+the denial. Such notice shall inform the applicant of his or her right to
+request an administrative hearing for the purpose of reconsideration of the
+intended denial of the application. The date the notice is mailed shall be
+deemed to be the date of service of notice to the applicant.</para>
+<para>(2) A request for a hearing by the applicant shall be in
+writing and shall be filed with the department within thirty days after the
+service of notice to the applicant of the department's intended denial of
+the application. If a request for hearing is not filed within the thirty-day
+period, the application denial shall become final at the expiration of such
+period.</para>
+<para>(3) If a request for hearing is filed within the thirty-day
+period, the Tax Commissioner shall grant the applicant a hearing and shall,
+at least ten days before the hearing, serve notice upon the applicant by mail of the time, date, and
+place of the hearing. Such proceedings shall be considered contested cases
+pursuant to the Administrative Procedure Act.</para>
+</amendatorysection></section><source><para>Laws 1988, LB 1232, &#167; 20; </para><para>Laws 2002, LB 545, &#167; 28; </para><para>Laws 2012, LB727, &#167; 5.</para><operativedate>April 12, 2012</operativedate></source><crossreference><para><emphasis>Administrative Procedure Act,</emphasis> see section 84-920.</para></crossreference><annotation><para>Administrative bodies have only that authority specifically conferred upon them by statute or by construction necessary to achieve the purpose of the relevant act, and as such, the Department of Revenue is not statutorily authorized to grant motions for summary judgment. Southeast Rur. Vol. Fire Dept. v. Neb. Dept. of Rev., 251 Neb. 852, 560 N.W.2d 436 (1997).</para></annotation>  </law>
+</legaldoc>

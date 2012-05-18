@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Telecommunications and Technology" statutenumber="86-450.02"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>86-450.02</statuteno><catchline>Prepaid wireless service, defined.</catchline><para>Prepaid wireless service means a wireless service for which the user pays prospectively and for which the wireless carrier does not have an ongoing monthly billing relationship with the user of such service.</para></amendatorysection></section><source><para>Laws 2007, LB661, &#167; 19. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<amendatorysection chaptername="" statutenumber="86-450.02">
+				<statuteno>86-450.02</statuteno>
+				<catchline>Repealed. Laws 2012, LB 1091, &#167; 12.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>January 1, 2013</operativedate></source>
+	</law>
+</legaldoc>

@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Courts; Civil Procedure" statutenumber="25-21,265"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>25-21,265</statuteno><catchline>Terms, defined.</catchline><para>For purposes of sections 25-21,265 to 25-21,269:</para><para>(1) Complying financial institution defendant means a federally insured financial institution that has substantially complied with or received a satisfactory rating with regard to examinations, guidelines, rules, or regulations of applicable federal regulatory agencies to protect against a computer date failure;</para><para>(2) Complying public defendant means the state or a political subdivision of the state that has made reasonable efforts to protect its computer systems, programs, or software from a computer date failure; and</para><para>(3) Computer date failure means the present or future failure or inability of a computer, computer network, computer program, computer software, computer chip, embedded chip, or other information system to accurately process, including, but not limited to, calculating, comparing, interpreting, generating, receiving, or sequencing, date or time data in, from, into, and between the years 1999 and 2000 and beyond, the twentieth and twenty-first centuries, and leap-year calculations.</para></amendatorysection></section><source><para>Laws 1999, LB 661, &#167; 1. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<amendatorysection chaptername="" statutenumber="25-21,265">
+				<statuteno>25-21,265</statuteno>
+				<catchline>Repealed. Laws 2012, LB 705, &#167; 1.</catchline>
+				
+			</amendatorysection>
+		</section>
+	</law>
+</legaldoc>

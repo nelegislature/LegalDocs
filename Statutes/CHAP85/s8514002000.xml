@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id11">
-<sectno id="id12">Sec. 3.</sectno><amendatorysection amended="yes" chaptername="State Uni., State Colleges, and Post. Education" id="id13" publishedsource="CumulativeSupplement" statutenumber="85-1402"><bookinfo>Revised Statutes Cumulative Supplement, 2010</bookinfo><statuteno id="id15">85-1402</statuteno><catchline id="id16">Terms, defined.</catchline>
+<section id="id4">
+<amendatorysection amended="yes" chaptername="State Uni., State Colleges, and Post. Education" id="id6" publishedsource="CumulativeSupplement" statutenumber="85-1402"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>85-1402</statuteno><catchline id="id9">Terms, defined.</catchline>
 <para>For purposes of the Coordinating Commission for Postsecondary
 Education Act:</para>
 <para>(1)(a) Capital construction project shall mean a project which
@@ -31,8 +31,12 @@ and the Legislature shall not appropriate, such funds for such increase.</para>
 <para>(i) Directly financed shall mean funded by:</para>
 <para>(A) Appropriation of tax funds designated by the Legislature
 for the specific capital construction project;</para>
-<para>(B) Property tax levies used to establish a capital improvement
-and bond sinking fund pursuant to section 85-1515; or</para>
+<para>(B) Property tax levies authorized
+pursuant to subdivision (1)(b) of section 85-1517 for fiscal years prior to
+fiscal year 2013-14 and subdivision (2)(b) of section 85-1517 for fiscal year
+2013-14 and each fiscal year thereafter used to establish a capital
+improvement and bond sinking fund as provided
+in section 85-1515; or</para>
 <para>(C) That portion of tax funds designated by the Legislature
 and appropriated by the Legislature for the general operation of the public
 institution and utilized to fund the capital project;</para>
@@ -44,16 +48,14 @@ and maintenance costs that are a direct result of a capital construction project
 and</para>
 <para>(iii) Minimum capital expenditure shall mean:</para>
 <para>(A) For purposes of subdivision (a)(i) of this subdivision,
-a base amount of two million dollars;
-and</para>
+a base amount of two million dollars; and</para>
 <para>(B) For the facility's operations and maintenance costs pursuant
 to subdivision (a)(ii) of this subdivision, a base amount of eighty-five thousand
 dollars for any one fiscal year.</para>
-<para>The base amount for the facility's operations
-and maintenance costs shall be subject to any inflationary or
-market adjustments made by the commission pursuant to this subdivision. The
-commission shall adjust the base amount on a biennial basis
-beginning January 1, 2010. The adjustments shall
+<para>The base amount for the facility's operations and maintenance
+costs shall be subject to any inflationary or market adjustments made by the
+commission pursuant to this subdivision. The commission shall adjust the base
+amount on a biennial basis beginning January 1, 2010. The adjustments shall
 be based on percentage changes in a construction cost index and any other
 published index relevant to operations and utilities costs, both as selected
 by the commission in cooperation with the public institutions. The index or
@@ -98,5 +100,5 @@ Legislature, which is under the direction of a governing board, and which
 is administered as a separate unit by the board; and</para>
 <para>(8) Tax funds designated by the Legislature shall mean all
 state tax revenue and all property tax revenue.</para>
-</amendatorysection></section><source><para>Laws 1991, LB 663, &#167; 5; </para><para>Laws 1994, LB 683, &#167; 15; </para><para>Laws 1999, LB 816, &#167; 11; </para><para>Laws 2006, LB 196, &#167; 2; </para><para>Laws 2009, LB440, &#167; 3.</para></source>  </law>
+</amendatorysection></section><source><para>Laws 1991, LB 663, &#167; 5; </para><para>Laws 1994, LB 683, &#167; 15; </para><para>Laws 1999, LB 816, &#167; 11; </para><para>Laws 2006, LB 196, &#167; 2; </para><para>Laws 2009, LB440, &#167; 3; </para><para>Laws 2012, LB946, &#167; 12.</para><effectivedate>February 14, 2012</effectivedate></source>  </law>
 </legaldoc>

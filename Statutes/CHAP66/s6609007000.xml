@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Oils, Fuels, and Energy" statutenumber="66-907"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>66-907</statuteno><catchline>Solar skyspace, defined.</catchline><para>Solar skyspace shall mean the space between a solar energy collector and the sun which must remain unobstructed in order to assure reasonable operation of the solar energy system.</para></amendatorysection></section><source><para>Laws 1979, LB 353, &#167; 7. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<amendatorysection chaptername="" statutenumber="66-907">
+				<statuteno>66-907</statuteno>
+				<catchline>Repealed. Laws 2012, LB 828, &#167; 22.</catchline>
+				
+			</amendatorysection>
+		</section>
+	</law>
+</legaldoc>

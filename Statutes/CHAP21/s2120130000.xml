@@ -1,1 +1,73 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Corporations and Other Companies" statutenumber="21-20,130"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>21-20,130</statuteno><catchline>Merger or share exchange; action on plan.</catchline><para>(1) After adopting a plan of merger or share exchange, the board of directors of each corporation party to the merger and the board of directors of the corporation whose shares will be acquired in the share exchange shall submit the plan of merger, except as provided in subsection (7) of this section, or share exchange for approval by its shareholders.</para><para>(2) For a plan of merger or share exchange to be approved:</para><para>(a) The board of directors shall recommend the plan of merger or share exchange to the shareholders unless the board of directors determines that because of conflict of interest or other special circumstances it should make no recommendation and communicates the basis for its determination to the shareholders with the plan; and</para><para>(b) The shareholders entitled to vote shall approve the plan.</para><para>(3) The board of directors may condition its submission of the proposed merger or share exchange on any basis.</para><para>(4) The corporation shall notify each shareholder, whether or not entitled to vote, of the proposed shareholders' meeting in accordance with section 21-2055. The notice shall also state that the purpose, or one of the purposes, of the meeting is to consider the plan of merger or share exchange and contain or be accompanied by a copy or summary of the plan.</para><para>(5) Unless the Business Corporation Act, the articles of incorporation, or the board of directors acting pursuant to subsection (3) of this section requires a greater vote or a vote by voting groups, the plan of merger or share exchange to be authorized shall be approved by each voting group entitled to vote separately on the plan by a two-thirds majority of all the votes entitled to be cast on the plan by that voting group.</para><para>(6) Separate voting by voting groups shall be required:</para><para>(a) On a plan of merger if the plan contains a provision that, if contained in a proposed amendment to the articles of incorporation, would require action by one or more separate voting groups on the proposed amendment under section 21-20,119; and</para><para>(b) On a plan of share exchange by each class or series of shares included in the exchange, with each class or series constituting a separate voting group.</para><para>(7) Action by the shareholders of the surviving corporation on a plan of merger shall not be required if:</para><para>(a) The articles of incorporation of the surviving corporation will not differ, except for amendments enumerated in section 21-20,117, from its articles before the merger;</para><para>(b) Each shareholder of the surviving corporation whose shares were outstanding immediately before the effective date of the merger will hold the same number of shares, with identical designations, preferences, limitations, and relative rights, immediately after the merger;</para><para>(c) The number of voting shares outstanding immediately after the merger, plus the number of voting shares issuable as a result of the merger, either by the conversion of securities issued pursuant to the merger or the exercise of rights and warrants issued pursuant to the merger, will not exceed by more than twenty percent the total number of voting shares of the surviving corporation outstanding immediately before the merger; and</para><para>(d) The number of participating shares outstanding immediately after the merger, plus the number of participating shares issuable as a result of the merger, either by the conversion of securities issued pursuant to the merger or the exercise of rights and warrants issued pursuant to the merger, will not exceed by more than twenty percent the total number of participating shares outstanding immediately before the merger.</para><para>(8) For purposes of subsection (7) of this section:</para><para>(a) Participating shares shall mean shares that entitle their holders to participate without limitation in distributions; and</para><para>(b) Voting shares shall mean shares that entitle their holders to vote unconditionally in elections of directors.</para><para>(9) After a merger or share exchange is authorized, and at any time before articles of merger or share exchange are filed, the planned merger or share exchange may be abandoned, subject to any contractual rights, without further shareholder action, in accordance with the procedure set forth in the plan of merger or share exchange or, if none is set forth, in the manner determined by the board of directors.</para></amendatorysection></section><source><para>Laws 1995, LB 109, &#167; 130. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id75">
+<amendatorysection amended="yes" chaptername="Corporations and Other Companies" id="id77" statutenumber="21-20,130"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>21-20,130</statuteno><catchline id="id80">Merger or share
+exchange; action on plan.</catchline><para>(1) After adopting a
+plan of merger or share exchange, the board of directors of each corporation
+party to the merger and the board of directors of the corporation whose shares
+will be acquired in the share exchange shall submit the plan of merger, except
+as provided in subsection (7) of this section, or share exchange for approval
+by its shareholders.</para>
+<para>(2) For a plan of merger or share exchange to be approved:</para>
+<para>(a) The board of directors shall recommend the plan of merger
+or share exchange to the shareholders unless the board of directors determines
+that because of conflict of interest or other special circumstances it should
+make no recommendation and communicates the basis for its determination to
+the shareholders with the plan; and</para>
+<para>(b) The shareholders entitled to vote shall approve the plan.</para>
+<para>(3) The board of directors may condition its submission of
+the proposed merger or share exchange on any basis.</para>
+<para>(4) The corporation shall notify each shareholder, whether
+or not entitled to vote, of the proposed shareholders' meeting in accordance
+with section 21-2055. The notice shall also state that the purpose, or one
+of the purposes, of the meeting is to consider the plan of merger or share
+exchange and contain or be accompanied by a copy or summary of the plan.</para>
+<para>(5) Unless the Business Corporation Act, the articles of incorporation,
+or the board of directors acting pursuant to subsection (3) of this section
+requires a greater vote or a vote by voting groups, the plan of merger or
+share exchange to be authorized shall be approved by each voting group entitled
+to vote separately on the plan by a majority
+of all the votes entitled to be cast on the plan by that voting group.</para>
+<para>(6) Separate voting by voting groups shall be required:</para>
+<para>(a) On a plan of merger if the plan contains a provision that,
+if contained in a proposed amendment to the articles of incorporation, would
+require action by one or more separate voting groups on the proposed amendment
+under section 21-20,119; and</para>
+<para>(b) On a plan of share exchange by each class or series of
+shares included in the exchange, with each class or series constituting a
+separate voting group.</para>
+<para>(7) Action by the shareholders of the surviving corporation
+on a plan of merger shall not be required if:</para>
+<para>(a) The articles of incorporation of the surviving corporation
+will not differ, except for amendments enumerated in section 21-20,117, from
+its articles before the merger;</para>
+<para>(b) Each shareholder of the surviving corporation whose shares
+were outstanding immediately before the effective date of the merger will
+hold the same number of shares, with identical designations, preferences,
+limitations, and relative rights, immediately after the merger;</para>
+<para>(c) The number of voting shares outstanding immediately after
+the merger, plus the number of voting shares issuable as a result of the merger,
+either by the conversion of securities issued pursuant to the merger or the
+exercise of rights and warrants issued pursuant to the merger, will not exceed
+by more than twenty percent the total number of voting shares of the surviving
+corporation outstanding immediately before the merger; and</para>
+<para>(d) The number of participating shares outstanding immediately
+after the merger, plus the number of participating shares issuable as a result
+of the merger, either by the conversion of securities issued pursuant to the
+merger or the exercise of rights and warrants issued pursuant to the merger,
+will not exceed by more than twenty percent the total number of participating
+shares outstanding immediately before the merger.</para>
+<para>(8) For purposes of subsection (7) of this section:</para>
+<para>(a) Participating shares shall mean shares that entitle their
+holders to participate without limitation in distributions; and</para>
+<para>(b) Voting shares shall mean shares that entitle their holders
+to vote unconditionally in elections of directors.</para>
+<para>(9) After a merger or share exchange is authorized, and at
+any time before articles of merger or share exchange are filed, the planned
+merger or share exchange may be abandoned, subject to any contractual rights,
+without further shareholder action, in accordance with the procedure set forth
+in the plan of merger or share exchange or, if none is set forth, in the manner
+determined by the board of directors.</para>
+</amendatorysection></section><source><para>Laws 1995, LB 109, &#167; 130; </para><para>Laws 2012, LB1018, &#167; 4.</para><effectivedate>July 19, 2012</effectivedate></source>  </law>
+</legaldoc>

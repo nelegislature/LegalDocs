@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection amended="yes" chaptername="Banks and Banking" statutenumber="8-1901"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>8-1901</statuteno><catchline>Terms, defined.</catchline><para>For purposes of sections 8-1901 to 8-1903, unless the context otherwise requires:</para><para>(1) Department means the Department of Banking and Finance; and</para><para>(2) Financial institution means:</para><para>(a) A state-chartered or federally chartered bank, savings bank, building and loan association, savings and loan association, credit union, or trust company;</para><para>(b) A subsidiary of a bank holding company or out-of-state bank holding company; or</para><para>(c) A branch of a financial institution described in subdivision (a) or (b) of this subdivision.</para></amendatorysection></section><source><para>Laws 1995, LB 384, &#167; 6; </para><para>Laws 2003, LB 131, &#167; 17; </para><para>Laws 2007, LB124, &#167; 16.</para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Banks and Banking" statutenumber="8-1901"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>8-1901</statuteno><catchline>Terms, defined.</catchline><para>For
+purposes of sections 8-1901 to 8-1903, unless the context otherwise requires:</para>
+<para>(1) Department means the Department of Banking and Finance; and</para>
+<para>(2) Financial institution means:</para>
+<para>(a) A bank, savings bank, building and loan association,
+savings and loan association, credit union, or trust company, whether chartered by the department, the United States,
+or a foreign state agency;</para>
+<para>(b) A subsidiary of a bank holding company or out-of-state bank holding
+company; or</para>
+<para>(c) A branch of a financial institution described in subdivision (a)
+or (b) of this subdivision.</para>
+</amendatorysection></section><source><para>Laws 1995, LB 384, &#167; 6; </para><para>Laws 2003, LB 131, &#167; 17; </para><para>Laws 2007, LB124, &#167; 16; </para><para>Laws 2012, LB963, &#167; 13.</para><effectivedate>April 7, 2012</effectivedate></source>  </law>
+</legaldoc>

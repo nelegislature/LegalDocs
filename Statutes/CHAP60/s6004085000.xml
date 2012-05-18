@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Motor Vehicles" statutenumber="60-485"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>60-485</statuteno><catchline>Outstanding warrant for arrest; issuance of operator's license prohibited; courts; duties.</catchline><para>No person may be licensed to operate a motor vehicle by the State of Nebraska when there is an outstanding warrant for the arrest of such person issued out of any court located within this state and such warrant arises out of an alleged violation of a state statute or municipal ordinance involving the use of a motor vehicle. Each court in the state shall, on or before the fifth day of each month, submit to the Department of Motor Vehicles an alphabetized list of all persons against whom such warrants exist for the preceding month.</para></amendatorysection></section><source><para>Laws 1969, c. 488, &#167; 1, p. 2018; </para><para>R.S.1943, (1988), &#167; 60-403.03; </para><para>Laws 1989, LB 285, &#167; 36. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<amendatorysection chaptername="" statutenumber="60-485">
+				<statuteno>60-485</statuteno>
+				<catchline>Repealed. Laws 2012, LB 751, &#167; 57.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>July 19, 2012</operativedate></source>
+	</law>
+</legaldoc>

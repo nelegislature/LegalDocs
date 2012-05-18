@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Public Lands, Buildings, and Funds" statutenumber="72-1710"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>72-1710</statuteno><catchline>Community board; report; contents.</catchline><para>A community board shall report in writing at least annually to the Legislature on the activities of the community board and the center. The report shall include, at minimum, the name of each applicant whose application the community board rejects, together with the reasons for the rejection, and the name of each applicant whose application the community board favorably evaluates.</para></amendatorysection></section><source><para>Laws 1990, LB 409, &#167; 10. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Public Lands, Buildings, and Funds" statutenumber="72-1710">
+<bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>72-1710</statuteno><catchline>Community board; report; contents.</catchline>
+<para>A community board shall report electronically at
+least annually to the Legislature on the activities of the community board
+and the center. The report shall include, at minimum, the name of each applicant
+whose application the community board rejects, together with the reasons for
+the rejection, and the name of each applicant whose application the community
+board favorably evaluates.</para>
+</amendatorysection></section><source><para>Laws 1990, LB 409, &#167; 10; </para><para>Laws 2012, LB782, &#167; 132.</para><operativedate>July 19, 2012</operativedate></source>  </law>
+</legaldoc>

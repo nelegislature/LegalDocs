@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Minerals, Oil, and Gas" statutenumber="57-706"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>57-706</statuteno><catchline>Tax; security; notice; use.</catchline><para>The Tax Commissioner, whenever he deems it necessary to insure compliance with the provisions of sections 57-701 to 57-715, may require any person subject to the tax to deposit with the Tax Commissioner suitable indemnity bond to insure payment of the taxes, levied under the provisions of sections 57-701 to 57-715, as the Tax Commissioner may determine. Such security may be used if it becomes necessary to collect any tax, interest, or penalty due. Notice of the use thereof shall be given to such person by either registered or certified mail.</para></amendatorysection></section><source><para>Laws 1955, c. 219, &#167; 6, p. 612; </para><para>Laws 1957, c. 242, &#167; 48, p. 860; </para><para>Laws 1967, c. 351, &#167; 4, p. 934. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id264">
+<amendatorysection amended="yes" chaptername="Minerals, Oil, and Gas" id="id266" statutenumber="57-706">
+<bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>57-706</statuteno><catchline id="id269">Tax; security;
+notice; use.</catchline><para>The Tax Commissioner, whenever he or she deems it necessary
+to insure compliance with the provisions of sections 57-701 to 57-719, may require any person subject to the
+tax to deposit with the Tax Commissioner suitable indemnity bond to insure
+payment of the taxes, levied under the provisions of sections 57-701 to 57-719, as the Tax Commissioner may determine.
+Such security may be used if it becomes necessary to collect any tax, interest,
+or penalty due. Notice of the use thereof shall be given to such person by mail.</para>
+</amendatorysection></section><source><para>Laws 1955, c. 219, &#167; 6, p. 612; </para><para>Laws 1957, c. 242, &#167; 48, p. 860; </para><para>Laws 1967, c. 351, &#167; 4, p. 934; </para><para>Laws 2012, LB727, &#167; 14.</para><operativedate>April 12, 2012</operativedate></source>  </law>
+</legaldoc>

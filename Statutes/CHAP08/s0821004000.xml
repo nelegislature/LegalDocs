@@ -1,1 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Banks and Banking" statutenumber="8-2104"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>8-2104</statuteno><catchline>Interstate merger transaction; eligibility; powers and duties.</catchline><para>(1) A Nebraska bank which has been in existence for five years or more may be acquired by and engage in an interstate merger transaction with any out-of-state bank.</para><para>(2) A bank which is acquired and converted to a branch of an out-of-state bank pursuant to an interstate merger transaction shall have all the powers and be subject to the same limitations as any other branch located in this state.</para><para>(3) An out-of-state bank that has acquired a Nebraska bank under the Interstate Branching By Merger Act of 1997 may maintain and operate the branches of a Nebraska bank with which the out-of-state bank engaged in an interstate merger transaction, and may establish or acquire additional branches in this state, to the same extent that any Nebraska bank may establish or acquire a branch in Nebraska.</para><para>(4) All branches of an out-of-state bank shall comply with all applicable Nebraska laws and regulations in the conduct of their business in this state to the maximum extent authorized by federal law.</para></amendatorysection></section><source><para>Laws 1997, LB 351, &#167; 4; </para><para>Laws 2002, LB 1089, &#167; 11.</para></source><crossreference><para><emphasis>Business Corporation Act,</emphasis> see section 21-2001.</para></crossreference></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Banks and Banking" statutenumber="8-2104"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>8-2104</statuteno><catchline>Out-of-state bank; powers; interstate merger
+transaction; notice; powers and duties.</catchline>
+<para>(1) An out-of-state bank may establish and
+maintain a branch or acquire a branch in this state upon compliance with any
+applicable requirements of the Business Corporation Act for registration or
+qualification to do business in this state.</para>
+<para>(2) An out-of-state
+bank may engage in an interstate
+merger transaction in
+this state in which it is the resulting bank and establish one or more branches
+in this state. The out-of-state bank shall notify the department of the proposed
+interstate merger transaction involving a Nebraska state chartered bank within
+fifteen days after the date it files an application for an interstate merger
+transaction with its primary regulator.</para>
+<para>(3) An out-of-state bank
+may conduct only those activities at its branch or branches in this state
+that are permissible under the laws of Nebraska or of the United States, except
+that an out-of-state bank with trust powers may exercise all trust powers
+in this state as a Nebraska bank with trust powers subject to the requirements
+of section 8-209.</para><para>(4) All branches of an out-of-state
+bank shall comply with all applicable Nebraska laws and regulations in the
+conduct of their business in this state to the maximum extent authorized by
+federal law.</para>
+</amendatorysection></section><source><para>Laws 1997, LB 351, &#167; 4; </para><para>Laws 2002, LB 1089, &#167; 11; </para><para>Laws 2012, LB963, &#167; 17.</para><effectivedate>April 7, 2012</effectivedate></source><crossreference><para><emphasis>Business Corporation Act,</emphasis> see section 21-2001.</para></crossreference>  </law>
+</legaldoc>

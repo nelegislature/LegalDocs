@@ -1,1 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Public Lettings and Contracts" statutenumber="73-502"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>73-502</statuteno><catchline>Terms, defined.</catchline><para>For purposes of sections 73-501 to 73-509:</para><para>(1) Contract for services means any contract that directly engages the time or effort of an independent contractor whose purpose is to perform an identifiable task, study, or report rather than to furnish an end item of supply, goods, equipment, or material;</para><para>(2) Emergency means necessary to meet an urgent or unexpected requirement or when health and public safety or the conservation of public resources is at risk;</para><para>(3) Materiel division means the materiel division of the Department of Administrative Services established in section 81-1118;</para><para>(4) Sole source means of such a unique nature that the contractor selected is clearly and justifiably the only practicable source to provide the service. Determination that the contractor selected is justifiably the sole source is based on either the uniqueness of the service or sole availability at the location required; and</para><para>(5) State agency or agency means any state agency, board, or commission other than the University of Nebraska, the Nebraska state colleges, the courts, the Legislature, or any officer or agency established by the Constitution of Nebraska.</para></amendatorysection></section><source><para>Laws 2003, LB 626, &#167; 2. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id40">
+<amendatorysection amended="yes" chaptername="Public Lettings and Contracts" id="id42" statutenumber="73-502"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>73-502</statuteno><catchline id="id45">Terms, defined.</catchline>
+<para>For purposes of sections 73-501 to 73-510:</para>
+<para>(1) Contract for services means any contract that directly
+engages the time or effort of an independent contractor whose purpose is to
+perform an identifiable task, study, or report rather than to furnish an end
+item of supply, goods, equipment, or material;</para>
+<para>(2) Division
+means the materiel division of the Department of Administrative Services;</para>
+<para>(3) Emergency means necessary
+to meet an urgent or unexpected requirement or when health and public safety
+or the conservation of public resources is at risk;</para>
+<para>(4) Occasional
+means seasonal, irregular, or fluctuating in nature;</para><para>(5) Sole
+source means of such a unique nature that the contractor selected is clearly
+and justifiably the only practicable source to provide the service. Determination
+that the contractor selected is justifiably the sole source is based on either
+the uniqueness of the service or sole availability at the location required;</para>
+<para>(6) State agency means any agency, board, or commission of this state other than the
+University of Nebraska, the Nebraska state colleges, the courts, the Legislature,
+or any officer or state agency
+established by the Constitution of Nebraska;
+and</para>
+<para>(7) Temporary
+means a finite period of time with respect to a specific task or result relating
+to a contract for services.</para></amendatorysection></section><source><para>Laws 2003, LB 626, &#167; 2; </para><para>Laws 2012, LB858, &#167; 6.</para><effectivedate>July 19, 2012</effectivedate></source>  </law>
+</legaldoc>

@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Banks and Banking" statutenumber="8-2403"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>8-2403</statuteno><catchline>Provisions applicable.</catchline><para>A credit card bank shall be subject to the Interstate Branching By Merger Act of 1997, the Nebraska Bank Holding Company Act of 1995, the Nebraska Banking Act, and Chapter 8, articles 5, 6, 7, 8, 13, 14, 15, 16, 19, and 20, unless otherwise limited or excluded or the context otherwise requires.</para></amendatorysection></section><source><para>Laws 2004, LB 999, &#167; 19.</para></source><crossreference><para><emphasis>Interstate Branching and Merger Act,</emphasis> see section 8-2101.</para><para><emphasis>Nebraska Bank Holding Company Act of 1995,</emphasis> see section 8-908.</para><para><emphasis>Nebraska Banking Act,</emphasis> see section 8-101.01.</para></crossreference></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Banks and Banking" statutenumber="8-2403"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>8-2403</statuteno><catchline>Provisions applicable.</catchline>
+<para>A credit card bank shall be subject to the Interstate Branching and Merger Act, the Nebraska Bank
+Holding Company Act of 1995, the Nebraska Banking Act, and Chapter 8, articles
+5, 6, 7, 8, 13, 14, 15, 16, 19, and 20, unless otherwise limited or excluded
+or the context otherwise requires.</para>
+</amendatorysection></section><source><para>Laws 2004, LB 999, &#167; 19; </para><para>Laws 2012, LB963, &#167; 21.</para><effectivedate>April 7, 2012</effectivedate></source><crossreference><para><emphasis>Interstate Branching and Merger Act,</emphasis> see section 8-2101.</para><para><emphasis>Nebraska Bank Holding Company Act of 1995,</emphasis> see section 8-908.</para><para><emphasis>Nebraska Banking Act,</emphasis> see section 8-101.01.</para></crossreference>  </law>
+</legaldoc>

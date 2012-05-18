@@ -1,30 +1,29 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id182">
-<amendatorysection amended="yes" chaptername="Motor Vehicles" id="id184" statutenumber="60-3,100">
-<bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>60-3,100</statuteno><catchline id="id187">License plates;
-issuance.</catchline><para>(1) The department shall issue to every
-person whose motor vehicle or trailer is registered fully reflectorized license
-plates upon which shall be displayed (a) the registration number consisting
-of letters and numerals assigned to such motor vehicle or trailer in figures
-not less than two and one-half inches nor more than three inches in height
-and (b) also the word Nebraska suitably lettered so as to be attractive. Two
-license plates shall be issued for every motor vehicle, except that one plate
-shall be issued for dealers, motorcycles, minitrucks, truck-tractors, trailers,
-buses, and apportionable vehicles. The license plates shall be of a color
-designated by the director. The color of the plates shall be changed each
-time the license plates are changed. Each time the license plates are changed,
-the director shall secure competitive bids for materials pursuant to sections
-81-145 to 81-162. Motorcycle, minitruck, low-speed
-vehicle, and trailer license plate letters and numerals may be
-one-half the size of those required in this section.</para>
-<para>(2) When two license plates are issued, one shall be prominently
-displayed at all times on the front and one on the rear of the registered
-motor vehicle or trailer. When only one plate is issued, it shall be prominently
-displayed on the rear of the registered motor vehicle or trailer. When only
-one plate is issued for motor vehicles registered pursuant to section 60-3,198
-and truck-tractors, it shall be prominently displayed on the front of the
-apportionable vehicle.</para>
-</amendatorysection></section><source><para>Laws 2005, LB 274, &#167; 100; </para><para>Laws 2010, LB650, &#167; 25; </para><para>Laws 2011, LB289, &#167; 20.</para></source><annotation><para>"Display" of license plates as described in this section logically implies a display of the license plate which is visible. State v. Reiter, 3 Neb. App. 153, 524 N.W.2d 575 (1994).</para><para>Officer properly stopped vehicle bearing both Missouri license plates and in transit sticker, and when driver failed to produce identification, and upon noticing scratches around vehicle identification number checked to determine whether vehicle was stolen, upon learning it was, was justified in making arrest. United States v. Harris, 528 F.2d 1327 (8th Cir. 1975).</para></annotation>  </law>
+<section>
+<amendatorysection amended="yes" chaptername="Motor Vehicles" id="id184" statutenumber="60-3,100"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>60-3,100</statuteno><catchline id="id187">License plates; issuance.</catchline>
+<para>(1) The department shall issue to every person whose motor vehicle or
+trailer is registered fully reflectorized license plates upon which shall
+be displayed (a) the registration number consisting of letters and numerals
+assigned to such motor vehicle or trailer in figures not less than two and
+one-half inches nor more than three inches in height and (b) also the word
+Nebraska suitably lettered so as to be attractive. Two license plates shall
+be issued for every motor vehicle, except that one plate shall be issued for
+dealers, motorcycles, minitrucks, truck-tractors, trailers, buses, apportionable vehicles, and special interest motor vehicles
+that use the special interest motor vehicle license plate authorized by and
+issued under section 60-3,135.01. The license plates shall be
+of a color designated by the director. The color of the plates shall be changed
+each time the license plates are changed. Each time the license plates are
+changed, the director shall secure competitive bids for materials pursuant
+to sections 81-145 to 81-162. Motorcycle, minitruck, low-speed vehicle, and
+trailer license plate letters and numerals may be one-half the size of those
+required in this section.</para>
+<para>(2) When two license plates are issued, one shall be prominently displayed
+at all times on the front and one on the rear of the registered motor vehicle
+or trailer. When only one plate is issued, it shall be prominently displayed
+on the rear of the registered motor vehicle or trailer. When only one plate
+is issued for motor vehicles registered pursuant to section 60-3,198 and truck-tractors,
+it shall be prominently displayed on the front of the apportionable vehicle.</para>
+</amendatorysection></section><source><para>Laws 2005, LB 274, &#167; 100; </para><para>Laws 2010, LB650, &#167; 25; </para><para>Laws 2011, LB289, &#167; 20; </para><para>Laws 2012, LB216, &#167; 2.</para><operativedate>January 1, 2013</operativedate></source><annotation><para>"Display" of license plates as described in this section logically implies a display of the license plate which is visible. State v. Reiter, 3 Neb. App. 153, 524 N.W.2d 575 (1994).</para><para>Officer properly stopped vehicle bearing both Missouri license plates and in transit sticker, and when driver failed to produce identification, and upon noticing scratches around vehicle identification number checked to determine whether vehicle was stolen, upon learning it was, was justified in making arrest. United States v. Harris, 528 F.2d 1327 (8th Cir. 1975).</para></annotation>  </law>
 </legaldoc>

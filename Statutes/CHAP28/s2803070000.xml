@@ -1,1 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Crimes and Punishments" statutenumber="28-370"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>28-370</statuteno><catchline>Unreasonable confinement, defined.</catchline><para>Unreasonable confinement shall mean confinement which intentionally causes physical injury to a vulnerable adult.</para></amendatorysection></section><source><para>Laws 1988, LB 463, &#167; 23. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id42">
+<amendatorysection amended="yes" chaptername="Crimes and Punishments" id="id44" statutenumber="28-370"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>28-370</statuteno><catchline id="id47">Unreasonable confinement,
+defined.</catchline><para>Unreasonable confinement means confinement
+which intentionally causes physical injury to a vulnerable adult or false imprisonment as described in
+section 28-314 or 28-315.</para>
+</amendatorysection></section><source><para>Laws 1988, LB 463, &#167; 23; </para><para>Laws 2012, LB1051, &#167; 9.</para><effectivedate>July 19, 2012</effectivedate></source>  </law>
+</legaldoc>

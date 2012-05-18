@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id108">
-<amendatorysection chaptername="State Uni., State Colleges, and Post. Education" id="id110" publishedsource="AnnualSupplement" statutenumber="85-2414"><bookinfo>Revised Statutes Supplement, 2011</bookinfo>
-<statuteno>85-2414</statuteno><catchline>Suspension or revocation of authorization
-to operate; procedure; hearing; commission; powers.</catchline><para>Any postsecondary institution authorized
-to operate which ceases to meet any of the requirements of the Postsecondary
+<section>
+<amendatorysection amended="yes" chaptername="State Uni., State Colleges, and Post. Education" id="id110" publishedsource="AnnualSupplement" statutenumber="85-2414"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>85-2414</statuteno><catchline>Suspension or revocation of recurrent authorization to
+operate; procedure; hearing; commission; powers.</catchline><para>Any postsecondary
+institution with a recurrent authorization to
+operate which ceases to meet any of the requirements of the Postsecondary
 Institution Act, any rules or regulations adopted and promulgated under the
 act, or any terms or conditions specified by the commission for authorization
 to operate under the act shall be notified in writing of any such specific
@@ -14,7 +14,7 @@ to show cause why the authorization to operate should not be suspended or
 revoked. The hearing shall be held according to the Administrative Procedure
 Act. After the hearing, if the commission determines that any requirements,
 rules or regulations, or terms and conditions have been violated, the commission
-may suspend or revoke the authorization to operate or may require action as
-a condition of continued authorization to operate.</para>
-</amendatorysection></section><source><para>Laws 2011, LB637, &#167; 14.</para></source><crossreference><para><emphasis>Administrative Procedure Act,</emphasis> see section 84-920.</para></crossreference>  </law>
+may suspend or revoke the recurrent authorization
+to operate or may require action as a condition of continued authorization.</para>
+</amendatorysection></section><source><para>Laws 2011, LB637, &#167; 14; </para><para>Laws 2012, LB1104, &#167; 20.</para><effectivedate>July 19, 2012</effectivedate></source><crossreference><para><emphasis>Administrative Procedure Act,</emphasis> see section 84-920.</para></crossreference>  </law>
 </legaldoc>

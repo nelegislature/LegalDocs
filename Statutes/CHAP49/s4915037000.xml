@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Law" statutenumber="49-1537"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>49-1537</statuteno><catchline>Specific Authority for Investments, defined.</catchline><para>The short form expression, Specific Authority for Investments, shall mean that the principal generally authorizes and empowers the agent to acquire, dispose of, or retain any real estate, securities, or other investment property, to borrow against, buy long or short, encumber, endorse, hypothecate, sell long or short, transfer, and otherwise deal with any bonds, stocks, or other securities, to close, maintain, or open any account for cash or on margin with any stockbroker, to invest and reinvest any cash, funds, or other property at long term or short term for the enhancement or preservation of principal, the enhancement or production of income, or the attainment of any combination of such objectives, to retain cash or other funds in readily accessible form or without investment, and otherwise to conduct, manage, or operate any investments.</para></amendatorysection></section><source><para>Laws 1988, LB 475, &#167; 37. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<amendatorysection chaptername="" statutenumber="49-1537">
+				<statuteno>49-1537</statuteno>
+				<catchline>Repealed. Laws 2012, LB 1113, &#167; 50.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>January 1, 2013</operativedate></source>
+	</law>
+</legaldoc>

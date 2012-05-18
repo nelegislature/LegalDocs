@@ -1,1 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="County Government and Officers" statutenumber="23-3511"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>23-3511</statuteno><catchline>Tax levy; limitation; purpose; management.</catchline><para>The county board shall have power to levy a tax each year of not to exceed three and five-tenths cents on each one hundred dollars upon the taxable value of all the taxable property in such county for the purpose of acquiring, remodeling, improving, equipping, maintaining, and operating such facility or facilities as provided by section 23-3501. In counties having a population of not more than seven thousand persons, such tax shall not exceed seven cents on each one hundred dollars of the taxable value. The county board shall by resolution determine and declare how the facility or facilities shall be managed.</para></amendatorysection></section><source><para>Laws 1947, c. 61, &#167; 2, p. 196; </para><para>Laws 1953, c. 287, &#167; 44, p. 957; </para><para>Laws 1963, c. 114, &#167; 11, p. 453; </para><para>Laws 1967, c. 121, &#167; 11, p. 392; </para><para>Laws 1973, LB 20, &#167; 1; </para><para>Laws 1979, LB 187, &#167; 104; </para><para>Laws 1991, LB 798, &#167; 3; </para><para>R.S.Supp.,1991, &#167; 23-343.11; </para><para>Laws 1992, LB 719A, &#167; 112; </para><para>Laws 1996, LB 1085, &#167; 41; </para><para>Laws 1996, LB 1114, &#167; 48.</para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id99">
+<amendatorysection amended="yes" chaptername="County Government and Officers" id="id101" statutenumber="23-3511"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>23-3511</statuteno><catchline id="id104">Tax levy; limitation;
+purpose.</catchline>
+<para>The county board may levy
+a tax each year of not to exceed three and five-tenths cents on each one hundred
+dollars upon the taxable value of all the taxable property in such county
+for the purpose of acquiring, remodeling, improving, equipping, maintaining,
+and operating a facility as provided by section 23-3501.
+In counties having a population of not more than seven thousand inhabitants, such tax shall not exceed seven
+cents on each one hundred dollars of the taxable value.</para>
+</amendatorysection></section><source><para>Laws 1947, c. 61, &#167; 2, p. 196; </para><para>Laws 1953, c. 287, &#167; 44, p. 957; </para><para>Laws 1963, c. 114, &#167; 11, p. 453; </para><para>Laws 1967, c. 121, &#167; 11, p. 392; </para><para>Laws 1973, LB 20, &#167; 1; </para><para>Laws 1979, LB 187, &#167; 104; </para><para>Laws 1991, LB 798, &#167; 3; </para><para>R.S.Supp.,1991, &#167; 23-343.11; </para><para>Laws 1992, LB 719A, &#167; 112; </para><para>Laws 1996, LB 1085, &#167; 41; </para><para>Laws 1996, LB 1114, &#167; 48; </para><para>Laws 2012, LB995, &#167; 8.</para><effectivedate>April 6, 2012</effectivedate></source>  </law>
+</legaldoc>

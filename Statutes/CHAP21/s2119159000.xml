@@ -1,1 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Corporations and Other Companies" statutenumber="21-19,159"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>21-19,159</statuteno><catchline>Foreign corporation; revoked certificate; application for reinstatement.</catchline><para>(a) A foreign corporation the certificate of authority of which has been revoked under section 21-19,158 may apply to the Secretary of State for reinstatement. The application must:</para><para>(1) Recite the name of the foreign corporation and the effective date of the revocation;</para><para>(2) State that the ground or grounds for revocation either did not exist or have been eliminated; and</para><para>(3) State that the foreign corporation's name satisfies the requirements of section 21-19,151.</para><para>(b) If the Secretary of State determines that the application contains the information required by subsection (a) of this section and that the information is correct, the Secretary of State shall cancel the certificate of revocation and prepare a certificate of reinstatement reciting that determination and the effective date of reinstatement, file the original of the certificate, and serve a copy on the foreign corporation under section 21-19,155.</para><para>(c) When reinstatement is effective, it relates back to and takes effect as of the effective date of the revocation and the foreign corporation shall resume carrying on its activities as if the revocation had never occurred.</para></amendatorysection></section><source><para>Laws 1996, LB 681, &#167; 159. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Corporations and Other Companies" statutenumber="21-19,159">
+<bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>21-19,159</statuteno><catchline>Foreign corporation; revoked certificate;
+application for reinstatement.</catchline><para>(a) A foreign corporation
+the certificate of authority of which has been revoked under section 21-19,158
+may apply to the Secretary of State for reinstatement within five years after the effective date of the revocation.
+The application must:</para>
+<para>(1) Recite the name of the foreign corporation and the effective date
+of the revocation;</para>
+<para>(2) State that the ground or grounds for revocation either did not exist
+or have been eliminated; and</para>
+<para>(3) State that the foreign corporation's name satisfies the requirements
+of section 21-19,151.</para>
+<para>(b) If the Secretary of State determines that the application contains
+the information required by subsection (a) of this section and that the information
+is correct, the Secretary of State shall cancel the certificate of revocation
+and prepare a certificate of reinstatement reciting that determination and
+the effective date of reinstatement, file the original of the certificate,
+and serve a copy on the foreign corporation under section 21-19,155.</para>
+<para>(c) When reinstatement is effective, it relates back to and takes effect
+as of the effective date of the revocation and the foreign corporation shall
+resume carrying on its activities as if the revocation had never occurred.</para>
+</amendatorysection></section><source><para>Laws 1996, LB 681, &#167; 159; </para><para>Laws 2012, LB854, &#167; 5.</para><operativedate>January 1, 2013</operativedate></source>  </law>
+</legaldoc>

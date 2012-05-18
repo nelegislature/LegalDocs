@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="State Officers" statutenumber="84-1324"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>84-1324</statuteno><catchline>Retirement benefits; exemption from legal process; exception.</catchline><para>All annuities or benefits which any person shall be entitled to receive under the State Employees Retirement Act shall not be subject to garnishment, attachment, levy, the operation of bankruptcy or insolvency laws, or any other process of law whatsoever and shall not be assignable except to the extent that such annuities or benefits are subject to a qualified domestic relations order under the Spousal Pension Rights Act.</para></amendatorysection></section><source><para>Laws 1963, c. 532, &#167; 24, p. 1676; </para><para>Laws 1986, LB 311, &#167; 37; </para><para>Laws 1989, LB 506, &#167; 20; </para><para>Laws 1996, LB 1273, &#167; 34. </para></source><crossreference><para><emphasis>Spousal Pension Rights Act,</emphasis> see section 42-1101.</para></crossreference></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id110">
+<amendatorysection amended="yes" chaptername="State Officers" id="id112" statutenumber="84-1324"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>84-1324</statuteno><catchline id="id115">Retirement
+benefits; exemption from legal process; exception; payment for civil damages; conditions.</catchline>
+<para>(1) Except as provided in subsection (2)
+of this section, all annuities or benefits which any person shall
+be entitled to receive under the State Employees Retirement Act shall not
+be subject to garnishment, attachment, levy, the operation of bankruptcy or
+insolvency laws, or any other process of law whatsoever and shall not be assignable
+except to the extent that such annuities or benefits are subject to a qualified
+domestic relations order under the Spousal Pension Rights Act. The payment of any annuities or benefits subject to such
+order shall take priority over any payment made pursuant to subsection (2)
+of this section.</para>
+<para>(2) If a member
+of the retirement system is convicted of or pleads no contest to a felony
+that is defined as assault, sexual assault, kidnapping, child abuse, false
+imprisonment, or theft by embezzlement and is found liable for civil damages
+as a result of such felony, following distribution of the member's annuities
+or benefits from the retirement system, the court may order the payment of
+the member's annuities or benefits under the retirement system for such civil
+damages, except that the annuities or benefits to the extent reasonably necessary
+for the support of the member or any of his or her beneficiaries shall be
+exempt from such payment. Any order for payment of annuities or benefits shall
+not be stayed on the filing of any appeal of the conviction. If the conviction
+is reversed on final judgment, all annuities or benefits paid as civil damages
+shall be forfeited and returned to the member. The changes made to this section
+by Laws 2012, LB916, shall apply to persons convicted of or who have pled
+no contest to such a felony and who have been found liable for civil damages
+as a result of such felony prior to, on, or after April 7, 2012.</para>
+</amendatorysection></section><source><para>Laws 1963, c. 532, &#167; 24, p. 1676; </para><para>Laws 1986, LB 311, &#167; 37; </para><para>Laws 1989, LB 506, &#167; 20; </para><para>Laws 1996, LB 1273, &#167; 34; </para><para>Laws 2012, LB916, &#167; 42.</para><effectivedate>April 7, 2012</effectivedate></source><crossreference><para><emphasis>Spousal Pension Rights Act,</emphasis> see section 42-1101.</para></crossreference>  </law>
+</legaldoc>

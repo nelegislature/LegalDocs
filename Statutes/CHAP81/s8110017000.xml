@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id32">
-<sectno id="id33">Sec. 3.</sectno><amendatorysection amended="yes" chaptername="State Administrative Departments" id="id34" statutenumber="81-1017"><bookinfo>Revised Statutes Cumulative Supplement, 2010</bookinfo><statuteno id="id36">81-1017</statuteno><catchline id="id37">Sections; exceptions.</catchline><para>The provisions of sections 81-1008 to 81-1017 shall not apply
-to any court or the motor vehicles thereof, but
-such vehicles shall be titled as provided in section 81-1013.</para>
-</amendatorysection></section><source><para>Laws 1969, c. 770, &#167; 10, p. 2921; </para><para>Laws 1975, LB 474, &#167; 3; </para><para>Laws 2010, LB722, &#167; 3.</para></source>  </law>
+<section>
+<amendatorysection amended="yes" chaptername="State Administrative Departments" id="id34" statutenumber="81-1017"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>81-1017</statuteno><catchline id="id37">Sections; exceptions.</catchline>
+<para>Sections 81-1008 to 81-1025 do not apply to any court or the motor
+vehicles thereof, except that such vehicles
+shall be titled as provided in section 81-1013.</para>
+</amendatorysection></section><source><para>Laws 1969, c. 770, &#167; 10, p. 2921; </para><para>Laws 1975, LB 474, &#167; 3; </para><para>Laws 2010, LB722, &#167; 3; </para><para>Laws 2012, LB779, &#167; 7.</para><effectivedate>July 19, 2012</effectivedate></source>  </law>
 </legaldoc>

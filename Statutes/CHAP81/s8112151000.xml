@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id41">
-<amendatorysection chaptername="State Administrative Department" id="id43" publishedsource="AnnualSupplement" statutenumber="81-12,151"><bookinfo>Revised Statutes Supplement, 2011</bookinfo>
-<statuteno>81-12,151</statuteno><catchline>Annual report.</catchline><para>The Department
-of Economic Development shall submit an annual report regarding the Site and
-Building Development Act to the Legislature no later than July 1 of each year
-beginning July 1, 2012. The report shall contain no information that is protected
-by state or federal confidentiality laws.</para>
-</amendatorysection></section><source><para>Laws 2011, LB388, &#167; 8.</para></source>  </law>
+<section>
+<amendatorysection amended="yes" chaptername="State Administrative Department" id="id43" publishedsource="AnnualSupplement" statutenumber="81-12,151"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>81-12,151</statuteno><catchline>Annual report.</catchline><para>The
+Department of Economic Development shall submit electronically an annual report regarding the
+Site and Building Development Act to the Legislature no later than July 1
+of each year beginning July 1, 2012. The report shall contain no information
+that is protected by state or federal confidentiality laws.</para>
+</amendatorysection></section><source><para>Laws 2011, LB388, &#167; 8; </para><para>Laws 2012, LB782, &#167; 195.</para><operativedate>July 19, 2012</operativedate></source>  </law>
 </legaldoc>

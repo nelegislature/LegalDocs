@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Law" statutenumber="49-1521"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>49-1521</statuteno><catchline>Specific authority, defined.</catchline><para>Specific authority shall mean any one of the dependent or independent specific aggregations of related authorities and powers defined by any short form expression specified by the Nebraska Short Form Act.</para></amendatorysection></section><source><para>Laws 1988, LB 475, &#167; 21. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<amendatorysection chaptername="" statutenumber="49-1521">
+				<statuteno>49-1521</statuteno>
+				<catchline>Repealed. Laws 2012, LB 1113, &#167; 50.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>January 1, 2013</operativedate></source>
+	</law>
+</legaldoc>

@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Infants and Juveniles" statutenumber="43-147"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>43-147</statuteno><catchline>Legislative findings.</catchline><para>The Legislature finds that:</para><para>(1) Finding adoptive families for children for whom state assistance is provided pursuant to sections 43-117 and 43-118 and assuring the protection of the interests of the children affected during the entire assistance period require special measures when the adoptive parents move to other states or are residents of another state; and</para><para>(2) Providing medical and other necessary services for children, with state assistance, is more difficult when the services are provided in other states.</para></amendatorysection></section><source><para>Laws 1985, LB 447, &#167; 1. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id21">
+<amendatorysection amended="yes" chaptername="Infants and Juveniles" id="id23" statutenumber="43-147"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>43-147</statuteno><catchline id="id26">Legislative findings.</catchline>
+<para>The Legislature finds that:</para>
+<para>(1) Finding adoptive families for children for whom state
+assistance is provided pursuant to sections 43-117 to
+43-118 and 43-118.02 and assuring the protection of the interests
+of the children affected during the entire assistance period require special
+measures when the adoptive parents move to other states or are residents of
+another state; and</para>
+<para>(2) Providing medical and other necessary services for children,
+with state assistance, is more difficult when the services are provided in
+other states.</para>
+</amendatorysection></section><source><para>Laws 1985, LB 447, &#167; 1; </para><para>Laws 2012, LB1062, &#167; 4.</para><effectivedate>July 19, 2012</effectivedate></source>  </law>
+</legaldoc>

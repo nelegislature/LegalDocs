@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection amended="yes" chaptername="Insurance" publishedsource="CumulativeSupplement" statutenumber="44-8104"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>44-8104</statuteno><catchline>Act; exemptions.</catchline><para>Unless otherwise specifically included, the Nebraska Protection in Annuity Transactions Act does not apply to recommendations involving:</para><para>(1) Direct response solicitations if there is no recommendation based on information collected from the consumer pursuant to the act; or</para><para>(2) Contracts used to fund:</para><para>(a) An employee pension or welfare benefit plan that is covered by the federal Employee Retirement Income Security Act of 1974;</para><para>(b) A plan described by section 401(a), 401(k), 403(b), 408(k), or 408(p) of the Internal Revenue Code if established or maintained by an employer;</para><para>(c) A government or church plan defined in section 414 of the Internal Revenue Code, a government or church welfare benefit plan, or a deferred compensation plan of a state or local government or tax exempt organization under section 457 of the Internal Revenue Code;</para><para>(d) A nonqualified deferred compensation arrangement established or maintained by an employer or plan sponsor;</para><para>(e) Settlements of or assumptions of liabilities associated with personal injury litigation or any dispute or claim resolution process; or</para><para>(f) Contracts entered into pursuant to the Burial Pre-Need Sale Act.</para></amendatorysection></section><source><para>Laws 2006, LB 875, &#167; 16; </para><para>Laws 2007, LB117, &#167; 29.</para></source><crossreference><para><emphasis>Burial Pre-Need Sale Act,</emphasis> see section 12-1101.</para></crossreference></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Insurance" publishedsource="CumulativeSupplement" statutenumber="44-8104">
+<bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>44-8104</statuteno><catchline>Act; exemptions.</catchline><para>Unless
+otherwise specifically included, the Nebraska Protection in Annuity Transactions
+Act does not apply to transactions involving:</para>
+<para>(1) Direct response solicitations if there is no recommendation based
+on information collected from the consumer pursuant to the act; or</para>
+<para>(2) Contracts used to fund:</para>
+<para>(a) An employee pension or welfare benefit plan that is covered by the
+federal Employee Retirement Income Security Act of 1974;</para>
+<para>(b) A plan described by section 401(a), 401(k), 403(b), 408(k), or 408(p)
+of the Internal Revenue Code if established or maintained by an employer;</para>
+<para>(c) A government or church plan defined in section 414 of the Internal
+Revenue Code, a government or church welfare benefit plan, or a deferred compensation
+plan of a state or local government or tax exempt organization under section
+457 of the Internal Revenue Code;</para>
+<para>(d) A nonqualified deferred compensation arrangement established or
+maintained by an employer or plan sponsor;</para>
+<para>(e) Settlements of or assumptions of liabilities associated with personal
+injury litigation or any dispute or claim resolution process; or</para>
+<para>(f) Contracts entered into pursuant to the Burial Pre-Need Sale Act.</para>
+</amendatorysection></section><source><para>Laws 2006, LB 875, &#167; 16; </para><para>Laws 2007, LB117, &#167; 29; </para><para>Laws 2012, LB887, &#167; 24.</para><operativedate>July 19, 2012</operativedate></source><crossreference><para><emphasis>Burial Pre-Need Sale Act,</emphasis> see section 12-1101.</para></crossreference>  </law>
+</legaldoc>

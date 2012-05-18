@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Law" statutenumber="49-1543"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>49-1543</statuteno><catchline>Specific Authority for Taxes, defined.</catchline><para>The short form expression, Specific Authority for Taxes, shall mean that the principal generally authorizes and empowers the agent to apply for or demand, enforce recovery of, obtain, or receive any refund in part or whole of, to compromise the amount of, liability for, or other incidence of, to contest, to pay, and otherwise to deal with or respond to any consumption, death, estate, excise, distribution, gift, income, inheritance, membership, ownership, property, sales, succession, transfer, use, value, or other taxes or assessments, together with fines, interest, penalties, or other additions or supplements, claimed, exacted, or otherwise involuntarily or voluntarily imposed by any business, governmental, or private entity or other person as to any condition, property, or transaction.</para></amendatorysection></section><source><para>Laws 1988, LB 475, &#167; 43. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<amendatorysection chaptername="" statutenumber="49-1543">
+				<statuteno>49-1543</statuteno>
+				<catchline>Repealed. Laws 2012, LB 1113, &#167; 50.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>January 1, 2013</operativedate></source>
+	</law>
+</legaldoc>

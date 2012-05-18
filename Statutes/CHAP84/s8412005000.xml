@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="State Officers" statutenumber="84-1205"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>84-1205</statuteno><catchline>Board; network manager; duties.</catchline><para>(1) The board may employ or contract with a network manager. A network manager may include an individual, a private entity, a state agency, or another governmental subdivision. The board shall prepare criteria and specifications for the network manager in consultation with the Department of Administrative Services. Such criteria shall include procedures for submission of proposals by an individual, a private entity, a state agency, or another governmental subdivision. Selection of the network manager shall comply with all applicable procedures of the department. The board may negotiate and enter into a contract with the selected network manager which provides the duties, responsibilities, and compensation of the network manager.</para><para>(2) The network manager shall direct and supervise the day-to-day operations and expansion of a gateway or electronic network to make public records available electronically, including the initial phase of operations necessary to make the gateway operational. The network manager shall attend meetings of the board, keep a record of all gateway, electronic network, and related operations, which shall be the property of the board, maintain and be the custodian of all financial and operational records, and annually update and revise the business plan for the gateway or electronic network, in consultation with and under the direction of the board.</para><para>(3) The board shall finance the operation and maintenance of the gateway or electronic network from revenue generated pursuant to sections 52-1316, 60-483, and 84-1205.02 and subsection (d) of section 9-525, Uniform Commercial Code.</para></amendatorysection></section><source><para>Laws 1997, LB 590, &#167; 6; </para><para>Laws 1999, LB 550, &#167; 48. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="State Officers" statutenumber="84-1205"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>84-1205</statuteno><catchline>Board; network manager; duties.</catchline>
+<para>(1) The board may employ or contract with a network manager. A network
+manager may be an individual, a private
+entity, a state agency, or another governmental subdivision. The board shall
+prepare criteria and specifications for the network manager in consultation
+with the Department of Administrative Services. Such criteria shall include
+procedures for submission of proposals by an individual, a private entity,
+a state agency, or another governmental subdivision. Selection of the network
+manager shall comply with all applicable procedures of the department. The
+board may negotiate and enter into a contract with the selected network manager
+which provides the duties, responsibilities, and compensation of the network
+manager.</para>
+<para>(2) The network manager shall provide
+the infrastructure and services needed to implement and operate the portal
+and shall direct and supervise the day-to-day operations and expansion
+of the portal. The network manager
+shall (a) attend
+meetings of the board, (b) keep
+a record of all portal operations,
+which shall be the property of the board, (c) maintain
+and be the custodian of all financial and operational records, and (d) annually update and revise
+the business plan for the portal in
+consultation with and under the direction of the board.</para>
+<para>(3) The board shall finance the operation and maintenance of the portal from revenue generated
+pursuant to sections 52-1316, 60-483, and 84-1205.02 and subsection (d) of
+section 9-525, Uniform Commercial Code.</para>
+</amendatorysection></section><source><para>Laws 1997, LB 590, &#167; 6; </para><para>Laws 1999, LB 550, &#167; 48; </para><para>Laws 2012, LB71901, &#167; 10.</para><effectivedate>July 19, 2012</effectivedate></source>  </law>
+</legaldoc>

@@ -1,48 +1,13 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id4">
-<sectno id="id5">Sec. 2.</sectno><amendatorysection chaptername="Public Health and Welfare" id="id6" publishedsource="CumulativeSupplement" statutenumber="71-465"><bookinfo>Revised Statutes Cumulative Supplement, 2010</bookinfo><statuteno>71-465</statuteno><catchline>Moratorium on new hospital licenses;
-health care in Nebraska; Health and Human Services Committee of Legislature;
-study; report.</catchline><para>(1)
-The Legislature finds that Nebraska's general acute and critical access hospitals
-provide a foundation of health care throughout the state. This long-established
-means of providing health care is changing. Because health care delivery is
-evolving, it is important to assess needs in Nebraska and determine whether
-licensure and regulation should be changed to reflect current and future practices.</para>
-<para>(2) The department
-shall not accept an application for or issue a license for a new hospital
-beginning on April 15, 2010, and continuing through September 15, 2011, except
-that this prohibition shall not apply to an application for or issuance of
-a license as a critical access hospital or an application for or issuance
-of a license for any hospital which has begun construction prior to May 1,
-2010.</para><para>(3) The Health and Human Services Committee of the Legislature shall
-study health care in Nebraska. The study shall include, but not be limited
-to:</para><para>(a) A comparison of the roles of Nebraska's general acute hospitals,
-critical access hospitals, ambulatory surgical centers, and other limited
-service facilities, such as physician-owned hospitals and investor-owned hospitals,
-and the impact of such hospitals, centers, and facilities on access to services,
-quality of health care, and cost, including medicaid costs and insurance premiums;</para>
-<para>(b) Compliance
-with the federal Emergency Medical Treatment and Active Labor Act, 42 U.S.C.
-1395dd, as such act existed on January 1, 2010;</para><para>(c) Referral practices;</para>
-<para>(d) Ownership
-disclosure;</para><para>(e) Uncompensated and under-compensated patient care;</para>
-<para>(f) Joint ventures
-among or between hospitals, physicians, and investors;</para>
-<para>(g) Reinvestment
-in facilities;</para><para>(h) Examination and definition of community benefits;</para>
-<para>(i) Clarification
-and definition of limited service facilities, such as physician-owned hospitals
-and investor-owned hospitals, and other definitions as needed; and</para>
-<para>(j) The impact
-of federal health care reform on the items in subdivisions (a) through (i)
-of this subsection.</para><para>(4) The committee shall seek information from resources, including,
-but not limited to, physicians; representatives of hospitals, ambulatory surgical
-centers, physician-owned hospitals, investor-owned hospitals, public health
-agencies, the department, and allied professions such as behavioral health
-service providers, nurses, pharmacists, and emergency care providers; businesses;
-consumers; insurers; communities; the Legislative Fiscal Analyst; and the
-office of Legislative Research.</para><para>(5) The committee shall report its findings
-to the Legislature by December 31, 2010.</para></amendatorysection></section><source><para>Laws 2010, LB999, &#167; 2.</para></source>  </law>
+		<section>
+			<amendatorysection chaptername="" statutenumber="71-465">
+				<statuteno>71-465</statuteno>
+				<catchline>Repealed. Laws 2012, LB 782, &#167; 253.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>July 19, 2012</operativedate></source>
+	</law>
 </legaldoc>

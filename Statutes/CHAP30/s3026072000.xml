@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Decedents' Estates" statutenumber="30-2672"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>30-2672</statuteno><catchline>Construction of act.</catchline><para>The Uniform Durable Power of Attorney Act shall be applied and construed to effectuate its general purpose to make uniform the law with respect to the subject of such act among states enacting it.</para></amendatorysection></section><source><para>Laws 1985, LB 292, &#167; 13. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<amendatorysection chaptername="" statutenumber="30-2672">
+				<statuteno>30-2672</statuteno>
+				<catchline>Repealed. Laws 2012, LB 1113, &#167; 50.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>January 1, 2013</operativedate></source>
+	</law>
+</legaldoc>

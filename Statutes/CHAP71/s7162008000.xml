@@ -1,1 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection amended="yes" chaptername="Public Health and Welfare" statutenumber="71-6208"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>71-6208</statuteno><catchline>Director, defined.</catchline><para>Director shall mean the Director of Public Health of the Division of Public Health.</para></amendatorysection></section><source><para>Laws 1985, LB 407, &#167; 8; </para><para>Laws 1996, LB 1044, &#167; 758; </para><para>Laws 2007, LB296, &#167; 652.</para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id56">
+<amendatorysection amended="yes" chaptername="Public Health and Welfare" id="id58" statutenumber="71-6208"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>71-6208</statuteno><catchline id="id61">Director, defined.</catchline>
+<para>Director shall mean the Director of Public Health of the Division
+of Public Health of the Department
+of Health and Human Services.</para>
+</amendatorysection></section><source><para>Laws 1985, LB 407, &#167; 8; </para><para>Laws 1996, LB 1044, &#167; 758; </para><para>Laws 2007, LB296, &#167; 652; </para><para>Laws 2012, LB834, &#167; 8.</para><effectivedate>July 19, 2012</effectivedate></source>  </law>
+</legaldoc>

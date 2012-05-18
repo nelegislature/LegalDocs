@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Liens" statutenumber="52-1313.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>52-1313.01</statuteno><catchline>Effective financing statements; electronic access; fees.</catchline><para>The record of effective financing statements maintained by the Secretary of State may be made available electronically through the gateway or electronic network established under section 84-1204. For batch requests, there shall be a fee of two dollars per requested effective financing statement record accessed through the electronic network, except that the fee for a batch request for one thousand or more effective financing statements shall be two thousand dollars. Effective financing statement data accessed through the gateway shall be for informational purposes only and shall not provide the protection afforded a buyer registered pursuant to section 52-1312.</para><para>All fees collected pursuant to this section shall be deposited in the Records Management Cash Fund and shall be distributed as provided in any agreements between the State Records Board and the Secretary of State.</para></amendatorysection></section><source><para>Laws 1998, LB 924, &#167; 23. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Liens" statutenumber="52-1313.01"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>52-1313.01</statuteno><catchline>Effective financing statements;
+electronic access; fees.</catchline><para>(1) The
+record of effective financing statements maintained by the Secretary of State
+may be made available electronically through the portal established under section 84-1204. For
+batch requests, there shall be a fee of two dollars per requested effective
+financing statement record accessed through the portal, except that the fee for a batch request
+for one thousand or more effective financing statements shall be two thousand
+dollars. Effective financing statement data accessed through the portal shall be for informational purposes only
+and shall not provide the protection afforded a buyer registered pursuant
+to section 52-1312.</para>
+<para>(2) All fees
+collected pursuant to this section shall be deposited in the Records Management
+Cash Fund and shall be distributed as provided in any agreements between the
+State Records Board and the Secretary of State.</para>
+</amendatorysection></section><source><para>Laws 1998, LB 924, &#167; 23; </para><para>Laws 2012, LB71901, &#167; 3.</para><effectivedate>July 19, 2012</effectivedate></source>  </law>
+</legaldoc>

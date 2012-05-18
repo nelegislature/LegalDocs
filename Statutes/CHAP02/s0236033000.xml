@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Agriculture" statutenumber="2-3633"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>2-3633</statuteno><catchline>Nebraska Corn Development, Utilization, and Marketing Fund; created; purpose; investment.</catchline><para>The State Treasurer is hereby directed to establish and set up in the treasury of the State of Nebraska a fund to be known as the Nebraska Corn Development, Utilization, and Marketing Fund, to which fund shall be credited, for the uses and purposes of the Nebraska Corn Resources Act and its enforcement, all taxes collected by the board pursuant to the act. Such fund shall be expended solely for the administration of the act. Any money in the fund available for investment shall be invested by the state investment officer pursuant to the Nebraska Capital Expansion Act and the Nebraska State Funds Investment Act.</para></amendatorysection></section><source><para>Laws 1978, LB 639, &#167; 33; </para><para>Laws 1995, LB 7, &#167; 19.</para></source><crossreference><para><emphasis>Nebraska Capital Expansion Act,</emphasis>                see section 72-1269.</para><para><emphasis>Nebraska State Funds Investment Act,</emphasis>                see section 72-1260.</para></crossreference></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id32">
+<amendatorysection amended="yes" chaptername="Agriculture" id="id34" statutenumber="2-3633"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>2-3633</statuteno><catchline id="id37">Nebraska Corn
+Development, Utilization, and Marketing Fund; created; use; investment.</catchline>
+<para>The Nebraska Corn Development, Utilization,
+and Marketing Fund is created.
+All fees collected pursuant to the Nebraska Corn Resources Act and any repayments
+relating to the fund, including license fees or royalties, shall
+be credited to the fund for the uses and
+purposes of the act and
+its enforcement. Such fund shall be expended solely for the administration
+of the act. Any money in the fund available for investment shall be invested
+by the state investment officer pursuant to the Nebraska Capital Expansion
+Act and the Nebraska State Funds Investment Act.</para>
+</amendatorysection></section><source><para>Laws 1978, LB 639, &#167; 33; </para><para>Laws 1995, LB 7, &#167; 19; </para><para>Laws 2012, LB1057, &#167; 4.</para><effectivedate>July 19, 2012</effectivedate></source><crossreference><para><emphasis>Nebraska Capital Expansion Act,</emphasis>                see section 72-1269.</para><para><emphasis>Nebraska State Funds Investment Act,</emphasis>                see section 72-1260.</para></crossreference>  </law>
+</legaldoc>

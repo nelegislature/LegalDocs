@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id4">
-<sectno id="id5" opdate=" ">Section 1.</sectno><amendatorysection chaptername="Public Lands, Buildings, and Funds" id="id6" publishedsource="CumulativeSupplement" statutenumber="72-270"><bookinfo>Revised Statutes Cumulative Supplement, 2010</bookinfo><statuteno>72-270</statuteno><catchline>Production of wind or solar energy;
-leases; sections applicable.</catchline><para>Leases involving the production of wind or solar energy
-on lands under the control of the Board of Educational Lands and Funds shall
-be regulated by sections 72-270 to 72-274.</para>
-</amendatorysection></section><source><para>Laws 2010, LB235, &#167; 1.</para></source>  </law>
+<section>
+<amendatorysection amended="yes" chaptername="Public Lands, Buildings, and Funds" id="id6" publishedsource="CumulativeSupplement" statutenumber="72-270"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>72-270</statuteno><catchline>Production of wind or solar energy; agreements; sections applicable.</catchline>
+<para>Agreements involving the production
+of wind or solar energy on lands under the control of the Board of Educational
+Lands and Funds shall be regulated by sections 72-270 to 72-274.</para>
+</amendatorysection></section><source><para>Laws 2010, LB235, &#167; 1; </para><para>Laws 2012, LB828, &#167; 11.</para><effectivedate>March 8, 2012</effectivedate></source>  </law>
 </legaldoc>

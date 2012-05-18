@@ -1,1 +1,115 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Revenue and Taxation" statutenumber="77-2734.14"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>77-2734.14</statuteno><catchline>Income tax; sales factor; how determined.</catchline><para>(1) The sales factor is a fraction, the numerator of which is the total sales of the taxpayer in this state during the tax period, and the denominator of which is the total sales everywhere during the tax period.</para><para>(2) Sales of tangible personal property in this state include:</para><para>(a) Property delivered or shipped to a purchaser, other than the United States Government, within this state regardless of the f.o.b. point or other conditions of the sale;</para><para>(b) Property shipped from an office, store, warehouse, factory, or other place of storage in this state if (i) the purchaser is the United States Government or (ii) for all taxable years beginning or deemed to begin before January 1, 1995, under the Internal Revenue Code of 1986, as amended, the taxpayer is not taxable in the state of the purchaser;</para><para>(c) For all taxable years beginning or deemed to begin on or after January 1, 1995, and before January 1, 1996, under the Internal Revenue Code of 1986, as amended, two-thirds of the property shipped from an office, store, warehouse, factory, or other place of storage in this state if the taxpayer is not taxable in the state of the purchaser; or</para><para>(d) For all taxable years beginning or deemed to begin on or after January 1, 1996, but before January 1, 1997, under the Internal Revenue Code of 1986, as amended, one-third of the property shipped from an office, store, warehouse, factory, or other place of storage in this state if the taxpayer is not taxable in the state of the purchaser.</para><para>(3) Sales, other than sales of tangible personal property, are in this state if:</para><para>(a) The income-producing activity is performed in this state; or</para><para>(b) The income-producing activity is performed both in and outside this state and a greater proportion of the income-producing activity is performed in this state than in any other state, based on costs of performance.</para></amendatorysection></section><source><para>Laws 1984, LB 1124, &#167; 17; </para><para>Laws 1985, LB 273, &#167; 58; </para><para>Laws 1995, LB 559, &#167; 1. </para></source><annotation><para>For purposes of this section, "sales of tangible personal property" include the acquisition of a license to use the physical embodiment of intellectual property. American Bus. Info. v. Egr, 264 Neb. 574, 650 N.W.2d 251 (2002).</para><para>The delivery of online data electronically over telephone lines is the transmission of a tangible thing. American Bus. Info. v. Egr, 264 Neb. 574, 650 N.W.2d 251 (2002).</para></annotation></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id52">
+<amendatorysection amended="yes" chaptername="Revenue and Taxation" id="id54" statutenumber="77-2734.14">
+<bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>77-2734.14</statuteno><catchline id="id57">Income tax;
+sales factor; how determined.</catchline><para>(1) The sales factor
+is a fraction, the numerator of which is the total sales of the taxpayer in
+this state during the tax period, and the denominator of which is the total
+sales everywhere during the tax period.</para>
+<para>(2) Sales of tangible personal property in this state include:</para>
+<para>(a) Property delivered or shipped to a purchaser, other than
+the United States Government, within this state regardless of the f.o.b. point
+or other conditions of the sale;</para>
+<para>(b) Property shipped from an office, store, warehouse, factory,
+or other place of storage in this state if (i) the purchaser is the United
+States Government or (ii) for all taxable years beginning or deemed to begin
+before January 1, 1995, under the Internal Revenue Code of 1986, as amended,
+the taxpayer is not taxable in the state of the purchaser;</para>
+<para>(c) For all taxable years beginning or deemed to begin on
+or after January 1, 1995, and before January 1, 1996, under the Internal Revenue
+Code of 1986, as amended, two-thirds of the property shipped from an office,
+store, warehouse, factory, or other place of storage in this state if the
+taxpayer is not taxable in the state of the purchaser; or</para>
+<para>(d) For all taxable years beginning or deemed to begin on
+or after January 1, 1996, but before January 1, 1997, under the Internal Revenue
+Code of 1986, as amended, one-third of the property shipped from an office,
+store, warehouse, factory, or other place of storage in this state if the
+taxpayer is not taxable in the state of the purchaser.</para>
+<para>(3) For sales
+other than sales of tangible personal property, except for sales as described
+in subsection (4) of this section:</para><para>(a) Sales of a service are in this state
+if the sales are derived from a buyer within this state. Sales of a service
+are derived from a buyer within this state if:</para><para>(i) The service, when
+rendered, relates to real property located in this state;</para>
+<para>(ii) The service,
+when rendered, relates to tangible personal property located in this state
+at the time the service is received;</para><para>(iii) The service, when rendered, is provided
+to an individual physically present in this state at the time the service
+is received; or</para><para>(iv) The service, when rendered, is provided to a buyer engaged
+in a trade or business in this state and relates to that part of the trade
+or business then operated in this state. For services described in this subdivision,
+if the buyer uses the service within and without this state, calculated using
+any reasonable method, the sales are apportioned between the use in this state
+in proportion to the use of the service in this state and the other states;</para>
+<para>(b) Sales of
+an application service are in this state if the buyer uses the application
+service in this state. The application service is used in this state if, the
+buyer, from a location in this state:</para><para>(i) Uses it in the regular course of business
+in this state; or</para><para>(ii) If the buyer is an individual, his or her billing address is
+in this state.</para><para>If the buyer is not an individual and uses the application service
+within and without this state, calculated using any reasonable method, the
+sales are apportioned between the use in this state in proportion to the use
+of the application service in this state and the other states. If the location
+of a sale cannot be determined, the sale of an application service is in the
+state from which the order was placed in the regular course of the customer's
+business. If that office cannot be determined, the sales are considered received
+at the customer's billing address;</para><para>(c) Sales of intangible property are in
+this state if the buyer uses the intangible property at a location in this
+state. If the buyer uses the intangible property within and without this state,
+the sales are apportioned between this state in proportion to the use of the
+intangible property in this state and the other states. If the location of
+a sale cannot be determined, the sale of intangible property is in this state
+if the buyer's billing address is in this state;</para><para>(d) Interest, dividends,
+investment income, and other net gains from transactions in intangible assets
+held in connection with a treasury function, other than net gains from the
+sale or redemption of marketable securities, are in this state to the extent
+that it is included in taxable income and to the extent the investment, management,
+and record-keeping activities associated with corporate investments occur
+in this state;</para><para>(e) Gross interest, fees, points, charges, and penalties from loans,
+net gains from the sale of loans, and loan servicing fees derived from loans
+owned by the taxpayer or another person, including servicing participations,
+secured by real property or tangible personal property are in this state if
+the property securing the loan is located in this state. If the real or tangible
+personal property securing the loan is located within and without this state,
+the gross interest, fees, points, charges, and penalties from loans, net gains
+from the sale of loans, and loan servicing fees derived from loans owned by
+the taxpayer or another person, including servicing participations, are based
+upon the ratio of the annual average amortized loan balance of a loan secured
+by the real property or tangible personal property located in this state to
+the annual average amortized loan balance of a loan secured by the real property
+or tangible personal property located within and without this state;</para>
+<para>(f) Gross interest,
+fees, points, charges, and penalties from loans, net gains from the sale of
+loans, and loan servicing fees derived from loans owned by the taxpayer or
+another person, including servicing participations, that are not secured by
+real or tangible personal property are in this state if the borrower is located
+in this state, which location shall be presumed to be the borrower's billing
+address;</para><para>(g) Gross interest, fees, points, charges, and penalties from credit
+card receivables and gross receipts from annual fees and other fees charged
+to credit card holders are in this state if the billing address of the credit
+card holder is in this state;</para><para>(h) Net gains, but not less than zero, from
+the sale of credit card receivables are in this state if the billing address
+of the credit card holder is in this state;</para><para>(i) Gross receipts from the lease, rental,
+or licensing of tangible personal property are in this state to the extent
+the property is located in this state;</para><para>(j) Gross receipts from the sale, lease,
+rental, or licensing of real property are in this state if the real property
+is located in this state; and</para><para>(k) Sales other than sales of tangible personal
+property not specifically addressed in this subsection must be sourced so
+as to fairly represent the extent of the taxpayer's business activity in this
+state. This requirement will be considered met in the following situations:
+(i) If the buyer is an individual, a sale is deemed to have occurred at the
+buyer's billing address; and (ii) if the buyer is not an individual and the
+sale is from an order placed in the regular course of the customer's business,
+the sale is deemed to have occurred in the state from which the order was
+placed and, if that place cannot be readily determined, the sale is deemed
+to have occurred at the customer's billing address.</para><para>(4) To continue the tax
+policy of this state which enhances the deployment of broadband in rural and
+underserved areas of this state, sales, other than sales of tangible personal
+property, of a communications company are in this state if: (a) The income-producing
+activity is performed in this state; or (b) the income-producing activity
+is performed both in and outside this state and a greater proportion of the
+income-producing activity is performed in this state than in any other state,
+based on costs of performance.</para></amendatorysection></section><source><para>Laws 1984, LB 1124, &#167; 17; </para><para>Laws 1985, LB 273, &#167; 58; </para><para>Laws 1995, LB 559, &#167; 1; </para><para>Laws 2012, LB872, &#167; 2.</para><operativedate>January 1, 2014</operativedate></source><annotation><para>For purposes of this section, "sales of tangible personal property" include the acquisition of a license to use the physical embodiment of intellectual property. American Bus. Info. v. Egr, 264 Neb. 574, 650 N.W.2d 251 (2002).</para><para>The delivery of online data electronically over telephone lines is the transmission of a tangible thing. American Bus. Info. v. Egr, 264 Neb. 574, 650 N.W.2d 251 (2002).</para></annotation>  </law>
+</legaldoc>

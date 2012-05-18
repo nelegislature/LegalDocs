@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id130">
-<sectno id="id131">Sec. 10.</sectno><amendatorysection amended="yes" chaptername="Livestock" id="id132" publishedsource="AnnualSupplement" statutenumber="54-645"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id134">54-645</statuteno><catchline id="id135">Terms, defined.</catchline><para>For purposes of the Dog and Cat Purchase Protection Act:</para>
-<para>(1) Casual breeder means any person, other than a commercial
-breeder as defined in section 54-626, who offers for sale, sells, trades,
-or receives consideration for one or more pet animals from a litter produced
-by a female dog or cat owned by such casual breeder;</para>
+<section id="id153">
+<amendatorysection amended="yes" chaptername="Livestock" id="id155" publishedsource="AnnualSupplement" statutenumber="54-645"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>54-645</statuteno><catchline id="id158">Terms, defined.</catchline>
+<para>For purposes of the Dog and Cat Purchase Protection Act:</para>
+<para>(1) Casual breeder means any person, other than a commercial dog or cat breeder as such terms are defined in
+section 54-626, who offers for sale, sells, trades, or receives consideration
+for one or more pet animals from a litter produced by a female dog or cat
+owned by such casual breeder;</para>
 <para>(2) Clinical symptom means indication of an illness or dysfunction
 that is apparent to a veterinarian based on the veterinarian's observation,
 examination, or testing of an animal or on a review of the animal's medical
@@ -21,13 +22,13 @@ that is under fifteen months of age;</para>
 from a seller. Purchaser does not include a person who purchases a pet animal
 for resale;</para>
 <para>(6) Seller means a casual breeder or any commercial establishment,
-including a commercial breeder, dealer, or pet shop as such terms are defined
+including a commercial dog
+or cat breeder, dealer, or pet shop as such terms are defined
 in section 54-626, that engages in a business of selling pet animals to a
-purchaser. A seller does not include an animal control facility, animal rescue, or animal
-shelter as defined in section 54-626 or any animal adoption activity that
-an animal control facility,
-animal rescue, or animal shelter conducts offsite at any pet store
-or other commercial establishment; and</para>
+purchaser. A seller does not include an animal control facility, animal rescue,
+or animal shelter as defined in section 54-626 or any animal adoption activity
+that an animal control facility, animal rescue, or animal shelter conducts
+offsite at any pet store or other commercial establishment; and</para>
 <para>(7)(a) Serious health problem means a congenital or hereditary
 defect or contagious disease that causes severe illness or death of the pet
 animal.</para>
@@ -36,5 +37,5 @@ if the diagnosis of parvovirus is made after the seven-business-day requirement
 in subsection (1) of section 54-647 or (ii) any other contagious disease that
 causes severe illness or death after ten calendar days after delivery of the
 pet animal to the purchaser.</para>
-</amendatorysection></section><source><para>Laws 2009, LB241, &#167; 12; </para><para>Laws 2010, LB910, &#167; 10.</para></source>  </law>
+</amendatorysection></section><source><para>Laws 2009, LB241, &#167; 12; </para><para>Laws 2010, LB910, &#167; 10; </para><para>Laws 2012, LB427, &#167; 11.</para><operativedate>October 1, 2012</operativedate></source>  </law>
 </legaldoc>

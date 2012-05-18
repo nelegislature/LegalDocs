@@ -1,1 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Labor" statutenumber="48-438"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>48-438</statuteno><catchline>High voltage lines; tools, equipment, materials, or buildings; operation, movement, or erection; use; conditions.</catchline><para>(1) Except as provided in subsections (2) and (3) of this section, the operation or erection of any tools, machinery or equipment, or any part thereof capable of vertical, lateral or swinging motion; the handling or storage of any supplies, materials or apparatus or the moving of any house or other building, or any part thereof, under, over, by or near overhead high voltage conductors, shall be prohibited if at any time during such operation, or other manipulation it is possible to bring such equipment, tools, materials, building or any part thereof within ten feet of such overhead high voltage conductors; <emphasis type="italic">Provided,</emphasis> that the minimum distance required for cranes or other boom type equipment in transit with no load and with raiseable portions lowered shall be four feet, except where such high voltage conductors have been effectively guarded against danger from accidental contact, by either:</para><para>(a) The erection of mechanical barriers to prevent physical contact with high voltage conductors;</para><para>(b) Deenergizing of the high voltage conductors and grounding where necessary; or</para><para>(c) Temporary relocation of overhead conductors, which relocation shall be performed by the owner or operator of the overhead power conductors.</para><para>(2) The minimum distance required by this section for cranes or other boom type equipment in transit with no load and with raiseable portions lowered shall be four feet.</para><para>(3) Nothing in sections 48-436 to 48-442 shall prohibit the moving of general farm equipment under conductors where clearances required by sections 48-436 to 48-442 are maintained.</para></amendatorysection></section><source><para>Laws 1969, c. 390, &#167; 3, p. 1371. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id20">
+<amendatorysection amended="yes" chaptername="Labor" id="id22" statutenumber="48-438"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>48-438</statuteno><catchline id="id25">High voltage lines;
+tools, equipment, materials, or buildings; operation, movement, or erection;
+use; conditions.</catchline><para>(1) Except as provided in subsections
+(2) and (3) of this section, the operation or erection of any tools, machinery, or equipment, or any part
+thereof capable of vertical, lateral, or
+swinging motion, or the handling or storage
+of any supplies, materials, or
+apparatus or the moving of any house or other building, or any part thereof,
+under, over, by, or
+near overhead high voltage conductors, shall be prohibited if, at any time during such operation or other manipulation, it is possible to bring
+such equipment, tools, materials, building, or
+any part thereof within ten feet of such overhead high voltage conductors, except
+where such high voltage conductors have been effectively guarded against danger
+from accidental contact, by any of the following:</para>
+<para>(a) Erection of mechanical barriers
+to prevent physical contact with high voltage conductors;</para>
+<para>(b) Deenergizing of the high voltage conductors and grounding
+where necessary; or</para>
+<para>(c) Temporary relocation of overhead high voltage conductors.</para>
+<para>(2) The minimum distance required by this section for cranes
+or other boom type equipment in transit with no load and with raiseable portions
+lowered shall be four feet.</para>
+<para>(3) Nothing in sections 48-436 to 48-442 shall prohibit the
+moving of general farm equipment under high
+voltage conductors where clearances required by sections 48-436
+to 48-442 are maintained.</para>
+<para>(4) The activities
+performed as described in subdivisions (1)(a), (b), and (c) of this section
+shall be performed only by the owner or operator of the high voltage conductors
+unless written authorization has been obtained from such owner or operator.
+This subsection shall not be construed to apply to activities performed by
+an electric utility on high voltage conductors of another electric utility
+when the electric utilities have a written agreement (a) providing for joint
+use of poles or structures supporting the high voltage conductors of the electric
+utilities or (b) approving the nonowning electric utility's performance of
+the activities described in subdivisions (1)(a), (b), and (c) of this section
+on an ongoing basis on the owning or operating electric utility's high voltage
+conductors.</para></amendatorysection></section><source><para>Laws 1969, c. 390, &#167; 3, p. 1371; </para><para>Laws 2012, LB997, &#167; 3.</para><effectivedate>July 19, 2012</effectivedate></source>  </law>
+</legaldoc>

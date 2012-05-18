@@ -1,25 +1,13 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id11">
-<amendatorysection chaptername="Livestock" id="id13" publishedsource="AnnualSupplement" statutenumber="54-1916"><bookinfo>Revised Statutes Supplement, 2011</bookinfo>
-<statuteno>54-1916</statuteno><catchline>Director of Agriculture; state program
-of meat and poultry inspection; report; contents.</catchline><para>On or before November 15, 2011, the Director
-of Agriculture shall provide a report to the Legislature which enumerates
-and describes any actions necessary to implement a state program of meat and
-poultry inspection at establishments which process meat, poultry, or meat
-and poultry products for human consumption that qualifies as a cooperative
-state inspection program under the Federal Meat Inspection Act, 21 U.S.C.
-661, and the Poultry Products Inspection Act, 21 U.S.C. 454. The report shall
-identify necessary revisions of the Nebraska Meat and Poultry Inspection Law,
-other revisions to statutory authority of the Department of Agriculture, and
-any rules and regulations promulgated thereto in order to effect the purposes
-of this section. The report shall include a detailed description of anticipated
-resources required to develop and maintain such program of meat and poultry
-inspection. The report shall recommend a fee schedule that ensures revenue
-produced from the licensure and inspection of establishments which process
-meat, poultry, or meat and poultry products for human consumption sufficient
-to fund the state program of meat and poultry inspection, including the implementation
-of a fee-for-service system in conducting inspections.</para>
-</amendatorysection></section><source><para>Laws 2011, LB305, &#167; 2.</para></source><crossreference><para><emphasis>Nebraska Meat and Poultry Inspection Law,</emphasis> see section 54-1901.</para></crossreference>  </law>
+		<section>
+			<amendatorysection chaptername="" statutenumber="54-1916">
+				<statuteno>54-1916</statuteno>
+				<catchline>Repealed. Laws 2012, LB 782, &#167; 253.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>July 19, 2012</operativedate></source>
+	</law>
 </legaldoc>

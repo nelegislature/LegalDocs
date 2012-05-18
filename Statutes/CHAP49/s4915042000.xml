@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Law" statutenumber="49-1542"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>49-1542</statuteno><catchline>Specific Authority for Reports, defined.</catchline><para>The short form expression, Specific Authority for Reports, shall mean that the principal generally authorizes and empowers the agent to acknowledge, deliver, execute, file, prepare, receive, record, seal, sign, verify, or witness and otherwise to make, omit, or take other action as to, or otherwise dispose of, any form, notification, return, or other report from or to any corporate entity, any other business, governmental, or private entity, or any other person.</para></amendatorysection></section><source><para>Laws 1988, LB 475, &#167; 42. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<amendatorysection chaptername="" statutenumber="49-1542">
+				<statuteno>49-1542</statuteno>
+				<catchline>Repealed. Laws 2012, LB 1113, &#167; 50.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>January 1, 2013</operativedate></source>
+	</law>
+</legaldoc>

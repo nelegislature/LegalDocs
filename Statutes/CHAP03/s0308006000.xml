@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Aeronautics" statutenumber="3-806"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>3-806</statuteno><catchline>Report; contents.</catchline><para>The authority shall submit to the Legislature no later than December 1, 1990, a report containing:</para><para>(1) Recommendations for a funding mechanism for the development of an intrastate commercial airline;</para><para>(2) Plans for the establishment of an intrastate commercial airline; and</para><para>(3) A market and needs analysis of existing air service and proposed alternatives to such air service.</para></amendatorysection></section><source><para>Laws 1990, LB 1184, &#167; 6.</para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<amendatorysection chaptername="" statutenumber="3-806">
+				<statuteno>3-806</statuteno>
+				<catchline>Repealed. Laws 2012, LB 782, &#167; 253.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>July 19, 2012</operativedate></source>
+	</law>
+</legaldoc>

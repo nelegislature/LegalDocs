@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id104">
-<sectno id="id105">Sec. 12.</sectno><amendatorysection amended="yes" chaptername="State Administrative Departments" id="id106" statutenumber="81-1833"><bookinfo>Revised Statutes Cumulative Supplement, 2010</bookinfo><statuteno id="id108">81-1833</statuteno><catchline id="id109">Committee;
-report; contents.</catchline><para>(1) The committee shall prepare and submit to
-the commission a biennial report of its activities under the Nebraska Crime
+<section>
+<amendatorysection amended="yes" chaptername="State Administrative Departments" id="id106" statutenumber="81-1833">
+<bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>81-1833</statuteno><catchline id="id109">Committee;
+report; contents.</catchline><para>(1) The committee shall prepare and submit
+to the commission a biennial report of its activities under the Nebraska Crime
 Victim's Reparations Act, including the name of each applicant, a brief description
 of the facts in each case, and the amount of compensation awarded, except
 that if the applicant was the victim of a sexual assault the victim's name
@@ -12,11 +13,12 @@ shall not be included in the report, but shall be available to the Governor
 or a member of the Legislature upon request to the committee. Such report
 shall be submitted to the Governor and Clerk of the Legislature as part of
 the commission's report submitted pursuant to section 81-1423.</para>
-<para>(2) The committee
-shall act as the oversight committee for the Community Trust and shall annually
-report its activities and findings as the oversight committee to the commission,
-the Governor, and the Clerk of the Legislature. If any questionable or improper
-actions or inactions on the part of the Community Trust are observed, the
-committee shall immediately notify the Attorney General who shall investigate
-the matter.</para></amendatorysection></section><source><para>Laws 1978, LB 910, &#167; 33; </para><para>Laws 1979, LB 322, &#167; 60; </para><para>Laws 1980, LB 319, &#167; 6; </para><para>Laws 1981, LB 545, &#167; 37; </para><para>Laws 1981, LB 328, &#167; 8; </para><para>Laws 1986, LB 540, &#167; 31; </para><para>Laws 2009, LB598, &#167;  12.</para></source>  </law>
+<para>(2) The committee shall act as the oversight committee for the Community
+Trust and shall annually report its activities and findings as the oversight
+committee to the commission, the Governor, and the Clerk of the Legislature. The report submitted to the Clerk of the
+Legislature shall be submitted electronically. If any questionable
+or improper actions or inactions on the part of the Community Trust are observed,
+the committee shall immediately notify the Attorney General who shall investigate
+the matter.</para>
+</amendatorysection></section><source><para>Laws 1978, LB 910, &#167; 33; </para><para>Laws 1979, LB 322, &#167; 60; </para><para>Laws 1980, LB 319, &#167; 6; </para><para>Laws 1981, LB 545, &#167; 37; </para><para>Laws 1981, LB 328, &#167; 8; </para><para>Laws 1986, LB 540, &#167; 31; </para><para>Laws 2009, LB598, &#167; 12; </para><para>Laws 2012, LB782, &#167; 208.</para><operativedate>July 19, 2012</operativedate></source>  </law>
 </legaldoc>

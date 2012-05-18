@@ -1,1 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Insurance" statutenumber="44-32,177"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>44-32,177</statuteno><catchline>Health maintenance organization; acquisition, merger, and consolidation; procedure.</catchline><para>No person may (1) make a tender for or a request or invitation for tenders of, (2) enter into an agreement to exchange securities for, or (3) acquire in the open market or otherwise any voting security of a health maintenance organization or enter into any other agreement if, after the consummation thereof, that person would, directly or indirectly or by conversion or by exercise of any right to acquire, be in control of the health maintenance organization, and no person may enter into an agreement to merge or consolidate with or otherwise to acquire control of a health maintenance organization unless, at the time any offer, request, or invitation is made or any agreement is entered into or prior to the acquisition of the securities if no offer or agreement is involved, the person has filed with the director and has sent to the health maintenance organization information required by subsection (3) of section 44-2126 and the offer, request, invitation, agreement, or acquisition has been approved by the director. Approval by the director shall be governed by the Insurance Holding Company System Act.</para></amendatorysection></section><source><para>Laws 1990, LB 1136, &#167; 86; </para><para>Laws 1991, LB 236, &#167; 34. </para></source><crossreference><para><emphasis>Insurance Holding Company System Act,</emphasis> see section 44-2120.</para></crossreference></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Insurance" statutenumber="44-32,177"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>44-32,177</statuteno><catchline>Health maintenance organization;
+acquisition, merger, and consolidation; procedure.</catchline><para>No person shall (1) make a tender for or a request or
+invitation for tenders of, (2) enter into an agreement to exchange securities
+for, or (3) acquire in the open market or otherwise any voting security of
+a health maintenance organization or enter into any other agreement if, after
+the consummation thereof, that person would, directly or indirectly, or by conversion or by exercise
+of any right to acquire, be in control of the health maintenance organization,
+and no person shall enter into an agreement
+to merge or consolidate with or otherwise to acquire control of a health maintenance
+organization unless, at the time any offer, request, or invitation is made
+or any agreement is entered into or prior to the acquisition of the securities
+if no offer or agreement is involved, the person has filed with the director
+and has sent to the health maintenance organization information required by
+subsection (4) of section 44-2126 and
+the offer, request, invitation, agreement, or acquisition has been approved
+by the director. Approval by the director shall be governed by the Insurance
+Holding Company System Act.</para>
+</amendatorysection></section><source><para>Laws 1990, LB 1136, &#167; 86; </para><para>Laws 1991, LB 236, &#167; 34; </para><para>Laws 2012, LB887, &#167; 20.</para><operativedate>July 19, 2012</operativedate></source><crossreference><para><emphasis>Insurance Holding Company System Act,</emphasis> see section 44-2120.</para></crossreference>  </law>
+</legaldoc>

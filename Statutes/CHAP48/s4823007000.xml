@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection amended="yes" chaptername="Labor" statutenumber="48-2307"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>48-2307</statuteno><catchline>Department; report.</catchline><para>The department shall issue a report to the Legislature on or before January 31 of each year which discloses the number of employees reported to the department and the number of matches during the preceding calendar year for purposes of the New Hire Reporting Act.</para></amendatorysection></section><source><para>Laws 1997, LB 752, &#167; 46; </para><para>Laws 2007, LB296, &#167; 221.</para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Labor" statutenumber="48-2307"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>48-2307</statuteno><catchline>Department; report.</catchline><para>The
+department shall issue electronically a
+report to the Legislature on or before January 31 of each year which discloses
+the number of employees reported to the department and the number of matches
+during the preceding calendar year for purposes of the New Hire Reporting
+Act.</para>
+</amendatorysection></section><source><para>Laws 1997, LB 752, &#167; 46; </para><para>Laws 2007, LB296, &#167; 221; </para><para>Laws 2012, LB782, &#167; 66.</para><operativedate>July 19, 2012</operativedate></source>  </law>
+</legaldoc>

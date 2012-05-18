@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Oils, Fuels, and Energy" statutenumber="66-1831"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>66-1831</statuteno><catchline>Public advocate; powers.</catchline><para>(1) The public advocate shall have the power to:</para><para>(a) Investigate the legality and reasonableness of rates, charges, and practices of jurisdictional utilities;</para><para>(b) Petition for relief, request, initiate, and intervene in any proceeding before the commission concerning such utilities;</para><para>(c) Represent and appear for ratepayers and the public in proceedings before the commission and in any negotiations or other measures to resolve disputes that give rise to such proceedings;</para><para>(d) Represent and appear for ratepayers and the public in any negotiations or other measures to resolve disputes that give rise to proceedings before the commission and make and seek approval of agreements to settle such disputes; and</para><para>(e) Make motions for rehearing or reconsideration, appeal, or seek judicial review of any order or decision of the commission regarding jurisdictional utilities.</para><para>(2) The public advocate shall not advocate for or on behalf of any single individual, organization, or entity.</para><para>(3) The public advocate may enter into stipulations with other parties in any proceeding to balance the interests of those it represents with the interests of the jurisdictional utilities as a means of improving the quality of resulting decisions in a highly technical environment and minimizing the cost of regulation.</para></amendatorysection></section><source><para>Laws 2003, LB 790, &#167; 31. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id113">
+<amendatorysection amended="yes" chaptername="Oils, Fuels, and Energy" id="id115" statutenumber="66-1831"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>66-1831</statuteno><catchline id="id118">Public advocate;
+powers.</catchline><para>(1) The public advocate shall have the
+power to:</para>
+<para>(a) Investigate the legality and reasonableness of rates,
+charges, and practices of jurisdictional utilities except for tariffs subject to section 66-1868;</para>
+<para>(b) Petition for relief, request, initiate, and intervene
+in any proceeding before the commission concerning such utilities except for tariffs subject to section
+66-1868;</para>
+<para>(c) Represent and appear for ratepayers and the public in
+proceedings before the commission and in any negotiations or other measures
+to resolve disputes that give rise to such proceedings except for tariffs subject to section 66-1868;</para>
+<para>(d) Represent and appear for ratepayers and the public in
+any negotiations or other measures to resolve disputes that give rise to proceedings
+before the commission and make and seek approval of agreements to settle such
+disputes except for tariffs
+subject to section 66-1868; and</para>
+<para>(e) Make motions for rehearing or reconsideration, appeal,
+or seek judicial review of any order or decision of the commission regarding
+jurisdictional utilities except
+for tariffs subject to section 66-1868.</para>
+<para>(2) The public advocate shall not advocate for or on behalf
+of any single individual, organization, or entity.</para>
+<para>(3) The public advocate may enter into stipulations with
+other parties in any proceeding to balance the interests of those it represents
+with the interests of the jurisdictional utilities as a means of improving
+the quality of resulting decisions in a highly technical environment and minimizing
+the cost of regulation.</para>
+</amendatorysection></section><source><para>Laws 2003, LB 790, &#167; 31; </para><para>Laws 2012, LB1115, &#167; 12.</para><effectivedate>July 19, 2012</effectivedate></source>  </law>
+</legaldoc>

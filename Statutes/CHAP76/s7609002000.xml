@@ -1,1 +1,78 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Real Property" statutenumber="76-902"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>76-902</statuteno><catchline>Tax; exemptions.</catchline><para>The tax imposed by section 76-901 shall not apply to:</para><para>(1) Deeds recorded prior to November 18, 1965;</para><para>(2) Deeds to property transferred by or to the United States of America, the State of Nebraska, or any of their agencies or political subdivisions;</para><para>(3) Deeds which secure or release a debt or other obligation;</para><para>(4) Deeds which, without additional consideration, confirm, correct, modify, or supplement a deed previously recorded but which do not extend or limit existing title or interest;</para><para>(5)(a) Deeds between husband and wife, or parent and child, without actual consideration therefor, and (b) deeds to or from a family corporation, partnership, or limited liability company when all the shares of stock of the corporation or interest in the partnership or limited liability company are owned by members of a family, or a trust created for the benefit of a member of that family, related to one another within the fourth degree of kindred according to the rules of civil law, and their spouses, for no consideration other than the issuance of stock of the corporation or interest in the partnership or limited liability company to such family members or the return of the stock to the corporation in partial or complete liquidation of the corporation or deeds in dissolution of the interest in the partnership or limited liability company. In order to qualify for the exemption for family corporations, partnerships, or limited liability companies, the property shall be transferred in the name of the corporation or partnership and not in the name of the individual shareholders, partners, or members;</para><para>(6) Tax deeds;</para><para>(7) Deeds of partition;</para><para>(8) Deeds made pursuant to mergers, consolidations, sales, or transfers of the assets of corporations pursuant to plans of merger or consolidation filed with the office of Secretary of State. A copy of such plan filed with the Secretary of State shall be presented to the register of deeds before such exemption is granted;</para><para>(9) Deeds made by a subsidiary corporation to its parent corporation for no consideration other than the cancellation or surrender of the subsidiary's stock;</para><para>(10) Cemetery deeds;</para><para>(11) Mineral deeds;</para><para>(12) Deeds executed pursuant to court decrees;</para><para>(13) Land contracts;</para><para>(14) Deeds which release a reversionary interest, a condition subsequent or precedent, a restriction, or any other contingent interest;</para><para>(15) Deeds of distribution executed by a personal representative conveying to devisees or heirs property passing by testate or intestate succession;</para><para>(16) Deeds transferring property located within the boundaries of an Indian reservation if the grantor or grantee is a reservation Indian;</para><para>(17) Deeds transferring property into a trust if the transfer of the same property would be exempt if the transfer was made directly from the grantor to the beneficiary or beneficiaries under the trust. No such exemption shall be granted unless the register of deeds is presented with a signed statement certifying that the transfer of the property is made under such circumstances as to come within one of the exemptions specified in this section and that evidence supporting the exemption is maintained by the person signing the statement and is available for inspection by the Department of Revenue;</para><para>(18) Deeds transferring property from a trustee to a beneficiary of a trust;</para><para>(19) Deeds which convey property held in the name of any partnership or limited liability company not subject to subdivision (5) of this section to any partner in the partnership or member of the limited liability company or to his or her spouse;</para><para>(20) Leases;</para><para>(21) Easements; or</para><para>(22) Deeds which transfer title from a trustee to a beneficiary pursuant to a power of sale exercised by a trustee under a trust deed.</para></amendatorysection></section><source><para>Laws 1965, c. 463, &#167; 2, p. 1473; </para><para>Laws 1969, c. 619, &#167; 1, p. 2506; </para><para>Laws 1969, c. 620, &#167; 1, p. 2507; </para><para>Laws 1971, LB 825, &#167; 1; </para><para>Laws 1974, LB 610, &#167; 1; </para><para>Laws 1978, LB 815, &#167; 1; </para><para>Laws 1980, LB 650, &#167; 1; </para><para>Laws 1983, LB 194, &#167; 2; </para><para>Laws 1984, LB 795, &#167; 1; </para><para>Laws 1984, LB 1105, &#167; 23; </para><para>Laws 1991, LB 193, &#167; 1; </para><para>Laws 1993, LB 121, &#167; 481; </para><para>Laws 2001, LB 516, &#167; 5. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id205">
+<amendatorysection amended="yes" chaptername="Real Property" id="id207" statutenumber="76-902">
+<bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>76-902</statuteno><catchline id="id210">Tax; exemptions.</catchline>
+<para>The tax imposed by section 76-901 shall not apply to:</para>
+<para>(1) Deeds recorded prior to November 18, 1965;</para>
+<para>(2) Deeds to property transferred by or to the United States
+of America, the State of Nebraska, or any of their agencies or political subdivisions;</para>
+<para>(3) Deeds which secure or release a debt or other obligation;</para>
+<para>(4) Deeds which, without additional consideration, confirm,
+correct, modify, or supplement a deed previously recorded but which do not
+extend or limit existing title or interest;</para>
+<para>(5)(a) Deeds between spouses,
+between ex-spouses for the purpose of conveying any rights to property acquired
+or held during the marriage, or between parent and child, without
+actual consideration therefor, and (b) deeds to or from a family corporation,
+partnership, or limited liability company when all the shares of stock of
+the corporation or interest in the partnership or limited liability company
+are owned by members of a family, or a trust created for the benefit of a
+member of that family, related to one another within the fourth degree of
+kindred according to the rules of civil law, and their spouses, for no consideration
+other than the issuance of stock of the corporation or interest in the partnership
+or limited liability company to such family members or the return of the stock
+to the corporation in partial or complete liquidation of the corporation or
+deeds in dissolution of the interest in the partnership or limited liability
+company. In order to qualify for the exemption for family corporations, partnerships,
+or limited liability companies, the property shall be transferred in the name
+of the corporation or partnership and not in the name of the individual shareholders,
+partners, or members;</para>
+<para>(6) Tax deeds;</para>
+<para>(7) Deeds of partition;</para>
+<para>(8) Deeds made pursuant to mergers, consolidations, sales,
+or transfers of the assets of corporations pursuant to plans of merger or
+consolidation filed with the office of Secretary of State. A copy of such
+plan filed with the Secretary of State shall be presented to the register
+of deeds before such exemption is granted;</para>
+<para>(9) Deeds made by a subsidiary corporation to its parent
+corporation for no consideration other than the cancellation or surrender
+of the subsidiary's stock;</para>
+<para>(10) Cemetery deeds;</para>
+<para>(11) Mineral deeds;</para>
+<para>(12) Deeds executed pursuant to court decrees;</para><?Pub Caret?>
+<para>(13) Land contracts;</para>
+<para>(14) Deeds which release a reversionary interest, a condition
+subsequent or precedent, a restriction, or any other contingent interest;</para>
+<para>(15) Deeds of distribution executed by a personal representative
+conveying to devisees or heirs property passing by testate or intestate succession;</para>
+<para>(16) Transfer
+on death deeds or revocations of transfer on death deeds;</para>
+<para>(17) Certified
+or authenticated death certificates pertaining to transfer on death deeds;</para>
+<para>(18) Deeds transferring property
+located within the boundaries of an Indian reservation if the grantor or grantee
+is a reservation Indian;</para>
+<para>(19) Deeds transferring property
+into a trust if the transfer of the same property would be exempt if the transfer
+was made directly from the grantor to the beneficiary or beneficiaries under
+the trust. No such exemption shall be granted unless the register of deeds
+is presented with a signed statement certifying that the transfer of the property
+is made under such circumstances as to come within one of the exemptions specified
+in this section and that evidence supporting the exemption is maintained by
+the person signing the statement and is available for inspection by the Department
+of Revenue;</para>
+<para>(20) Deeds transferring property
+from a trustee to a beneficiary of a trust;</para>
+<para>(21) Deeds which convey property
+held in the name of any partnership or limited liability company not subject
+to subdivision (5) of this section to any partner in the partnership or member
+of the limited liability company or to his or her spouse;</para>
+<para>(22) Leases;</para>
+<para>(23) Easements; or</para>
+<para>(24) Deeds which transfer
+title from a trustee to a beneficiary pursuant to a power of sale exercised
+by a trustee under a trust deed.</para>
+</amendatorysection></section><source><para>Laws 1965, c. 463, &#167; 2, p. 1473; </para><para>Laws 1969, c. 619, &#167; 1, p. 2506; </para><para>Laws 1969, c. 620, &#167; 1, p. 2507; </para><para>Laws 1971, LB 825, &#167; 1; </para><para>Laws 1974, LB 610, &#167; 1; </para><para>Laws 1978, LB 815, &#167; 1; </para><para>Laws 1980, LB 650, &#167; 1; </para><para>Laws 1983, LB 194, &#167; 2; </para><para>Laws 1984, LB 795, &#167; 1; </para><para>Laws 1984, LB 1105, &#167; 23; </para><para>Laws 1991, LB 193, &#167; 1; </para><para>Laws 1993, LB 121, &#167; 481; </para><para>Laws 2001, LB 516, &#167; 5; </para><para>Laws 2012, LB536, &#167; 35.</para><operativedate>January 1, 2013</operativedate></source>  </law>
+</legaldoc>

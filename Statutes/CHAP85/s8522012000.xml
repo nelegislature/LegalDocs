@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="statute"><section id="id4"><sectno id="id5">Sec. 2.</sectno><amendatorysection amended="yes" chaptername="State University, State Colleges, and Postsecondary Education" id="id6" statutenumber="85-2212"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id8">85-2212</statuteno><catchline id="id9">Prior year revenue, defined.</catchline><para>Prior year revenue means (1) the lesser of (a) the total of general fund property taxes levied in the fiscal year immediately preceding the fiscal year for which aid is being calculated or (b) the local effort rate calculated pursuant to section 85-2224 multiplied by the property valuation for each community college area divided by one hundred plus (2) state aid, tuition, and fees reported on the accrual basis of accounting in the fiscal year immediately preceding the fiscal year for which aid is being calculated.</para></amendatorysection></section><source><para>Laws 2007, LB342, &#167; 12; </para><para>Laws 2008, LB973, &#167; 2.</para><effectivedate>July 18, 2008</effectivedate><terminationdate>June 30, 2011</terminationdate></source>  </law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<amendatorysection chaptername="" statutenumber="85-2212">
+				<statuteno>85-2212</statuteno>
+				<catchline>Repealed. Laws 2012, LB 946, &#167; 26.</catchline>
+				
+			</amendatorysection>
+		</section>
+	</law>
+</legaldoc>

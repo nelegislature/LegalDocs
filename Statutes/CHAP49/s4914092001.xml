@@ -1,1 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Law" statutenumber="49-1492.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>49-1492.01</statuteno><catchline>Agency, political subdivision, or publicly funded postsecondary educational institution; gifts; reporting requirements; violations; penalty.</catchline><para>(1) Any agency, political subdivision, or publicly funded postsecondary educational institution which gives a gift of an admission to a state-owned facility or a state-sponsored industry or event to a public official, a member of a public official's staff, or a member of the immediate family of a public official shall report the gift on a form prescribed by the commission.</para><para>(2) The report shall be filed with the Clerk of the Legislature within fifteen days after the end of the calendar quarter in which the gift is given. The report shall include the following:</para><para>(a) The identity of the agency, political subdivision, or publicly funded postsecondary educational institution;</para><para>(b) A description of the gift;</para><para>(c) The value of the gift; and</para><para>(d) The name of the recipient of the gift and the following:</para><para>(i) If the recipient is an official in the executive or legislative branch of state government, the office held by the official and the branch he or she serves;</para><para>(ii) If the recipient is a member of an official's staff in the executive or legislative branch of state government, his or her job title and the name of the official; or</para><para>(iii) If the recipient is a member of the immediate family of an official in the executive or legislative branch of state government, his or her relationship to the official and the name of the official.</para><para>(3) For purposes of this section, public official does not include an elected or appointed official of a political subdivision or school board.</para><para>(4) Any person who knowingly and intentionally violates this section shall be guilty of a Class III misdemeanor.</para></amendatorysection></section><source><para>Laws 2000, LB 1021, &#167; 7. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Law" statutenumber="49-1492.01"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>49-1492.01</statuteno><catchline>Agency, political subdivision,
+or publicly funded postsecondary educational institution; gifts; reporting
+requirements; violations; penalty.</catchline><para>(1) Any agency, political
+subdivision, or publicly funded postsecondary educational institution which
+gives a gift of an admission to a state-owned facility or a state-sponsored
+industry or event to a public official, a member of a public official's staff,
+or a member of the immediate family of a public official shall report the
+gift on a form prescribed by the commission.</para>
+<para>(2) The report shall be filed electronically with
+the Clerk of the Legislature within fifteen days after the end of the calendar
+quarter in which the gift is given. The report shall include the following:</para>
+<para>(a) The identity of the agency, political subdivision, or publicly funded
+postsecondary educational institution;</para>
+<para>(b) A description of the gift;</para>
+<para>(c) The value of the gift; and</para>
+<para>(d) The name of the recipient of the gift and the following:</para>
+<para>(i) If the recipient is an official in the executive or legislative
+branch of state government, the office held by the official and the branch
+he or she serves;</para>
+<para>(ii) If the recipient is a member of an official's staff in the executive
+or legislative branch of state government, his or her job title and the name
+of the official; or</para>
+<para>(iii) If the recipient is a member of the immediate family of an official
+in the executive or legislative branch of state government, his or her relationship
+to the official and the name of the official.</para>
+<para>(3) For purposes of this section, public official does not include an
+elected or appointed official of a political subdivision or school board.</para>
+<para>(4) Any person who knowingly and intentionally violates this section
+shall be guilty of a Class III misdemeanor.</para>
+</amendatorysection></section><source><para>Laws 2000, LB 1021, &#167; 7; </para><para>Laws 2012, LB782, &#167; 73.</para><operativedate>July 19, 2012</operativedate></source>  </law>
+</legaldoc>

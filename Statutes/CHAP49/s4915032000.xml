@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Law" statutenumber="49-1532"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>49-1532</statuteno><catchline>Specific Authority for Dispositions, defined.</catchline><para>The short form expression, Specific Authority for Dispositions, shall mean that the principal generally authorizes and empowers the agent to abandon, demolish, destroy, disclaim, refuse, reject, or renounce, to barter, exchange, or trade, to consent to partition, divide, partition, or subdivide, to convert, to convey or transfer with or without covenants, easements, guarantees, reservations, warranties, or other conditions or terms, to create, modify, or revoke any trust to dispose of, exploit, or hold, to donate or give, to encumber, mortgage, or pledge, to grant and make options for acquisition or disposition of, to lease, rent, or sublease to any person on oral, written, or other arrangement, to quitclaim, to release, to surrender, and otherwise to dispose of any property.</para></amendatorysection></section><source><para>Laws 1988, LB 475, &#167; 32. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<amendatorysection chaptername="" statutenumber="49-1532">
+				<statuteno>49-1532</statuteno>
+				<catchline>Repealed. Laws 2012, LB 1113, &#167; 50.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>January 1, 2013</operativedate></source>
+	</law>
+</legaldoc>

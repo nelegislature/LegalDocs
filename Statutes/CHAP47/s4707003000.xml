@@ -1,1 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Jails and Correctional Facilities" statutenumber="47-703"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>47-703</statuteno><catchline>Payment by government agency; when; notice to provider.</catchline><para>(1) Upon a showing that reimbursement from the sources enumerated in section 47-702 is not available, in whole or in part, the costs of medical services shall be paid by the appropriate governmental agency. Such payment shall be made within ninety days after such showing. For purposes of this section, a showing shall be deemed sufficient if a provider of medical services signs an affidavit stating that (a) in the case of an insurer, health maintenance organization, preferred provider organization, or other similar source, a written denial of payment has been issued or (b) in all other cases, efforts have been made to identify sources and to collect from those sources and more than one hundred eighty days have passed or the normal collection efforts are exhausted since the medical services were rendered but full payment has not been received. Such affidavit shall be forwarded to the appropriate governmental agency. In no event shall the provider of medical services be required to file a suit in a court of law or retain the services of a collection agency to satisfy the requirement of showing that reimbursement is not available pursuant to this section.</para><para>(2) In the case of medical services necessitated by injuries or wounds suffered during the course of apprehension or arrest, the appropriate governmental agency shall be the arresting agency. In all other cases, the appropriate governmental agency shall be the agency responsible for operation of the institution or facility in which the recipient of the services is lodged, except that when the agency is holding the individual solely for another jurisdiction, the agency may, by contract or otherwise, seek reimbursement from the other jurisdiction for the costs of the medical services provided to the individual being held for that jurisdiction.</para><para>(3) Except as provided in section 47-705, a governmental agency shall not be responsible for paying the costs of any medical services provided to an individual if such services are provided after he or she is released from the legal custody of the governmental agency or when the individual is released on parole.</para><para>(4) Any governmental agency requesting medical services for an individual who is arrested, detained, taken into custody, or incarcerated shall notify the provider of such services of (a) all information possessed by the agency concerning potential sources of payment and (b) the name of the appropriate governmental agency pursuant to subsection (2) of this section.</para></amendatorysection></section><source><para>Laws 1999, LB 112, &#167; 3. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Jails and Correctional Facilities" statutenumber="47-703"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>47-703</statuteno><catchline>Payment by governmental agency;
+when; notice to provider.</catchline><para>(1) Upon a showing that reimbursement
+from the sources enumerated in section 47-702 is not available, in whole or
+in part, the costs of medical services shall be paid by the appropriate governmental
+agency. Such payment shall be made within ninety days after such showing.
+For purposes of this section, a showing shall be deemed sufficient if a provider
+of medical services signs an affidavit stating that (a) in the case of an
+insurer, health maintenance organization, preferred provider organization,
+or other similar source, a written denial of payment has been issued or (b)
+in all other cases, efforts have been made to identify sources and to collect
+from those sources and more than one hundred eighty days have passed or the
+normal collection efforts are exhausted since the medical services were rendered
+but full payment has not been received. Such affidavit shall be forwarded
+to the appropriate governmental agency. In no event shall the provider of
+medical services be required to file a suit in a court of law or retain the
+services of a collection agency to satisfy the requirement of showing that
+reimbursement is not available pursuant to this section.</para>
+<para>(2) In the case of medical services necessitated by injuries or wounds
+suffered during the course of apprehension or arrest, the appropriate governmental
+agency chargeable for the costs
+of medical services shall be the apprehending or arresting agency and not the agency responsible for operation of the institution
+or facility in which the recipient of the services is lodged.
+In all other cases, the appropriate governmental agency shall be the agency
+responsible for operation of the institution or facility in which the recipient
+of the services is lodged, except that when the agency is holding the individual
+solely for another jurisdiction, the agency may, by contract or otherwise,
+seek reimbursement from the other jurisdiction for the costs of the medical
+services provided to the individual being held for that jurisdiction.</para>
+<para>(3) Except as provided in section 47-705, a governmental agency shall
+not be responsible for paying the costs of any medical services provided to
+an individual if such services are provided after he or she is released from
+the legal custody of the governmental agency or when the individual is released
+on parole.</para>
+<para>(4) Any governmental agency requesting medical services for an individual
+who is arrested, detained, taken into custody, or incarcerated shall notify
+the provider of such services of (a) all information possessed by the agency
+concerning potential sources of payment and (b) the name of the appropriate
+governmental agency pursuant to subsection (2) of this section.</para>
+</amendatorysection></section><source><para>Laws 1999, LB 112, &#167; 3; </para><para>Laws 2012, LB881, &#167; 1.</para><effectivedate>July 19, 2012</effectivedate></source>  </law>
+</legaldoc>
