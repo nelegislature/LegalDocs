@@ -11,10 +11,10 @@ income tax:</para>
 <para><table frame="none">
 <tgroup cols="7">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt" rth="1.00pt" dispwid="1375.00px"?>
-<colspec colname="col1" colwidth="12.97" /><colspec colname="col2" colwidth="17.39" />
-<colspec colname="col3" colwidth="14.53" /><colspec colname="col4" colwidth="15.29" />
-<colspec colname="col5" colwidth="14.59" /><colspec colname="col6" colwidth="13.95" />
-<colspec colname="col7" colwidth="11.28" />
+<colspec colname="col1" colwidth="12.97*" /><colspec colname="col2" colwidth="17.39*" />
+<colspec colname="col3" colwidth="14.53*" /><colspec colname="col4" colwidth="15.29*" />
+<colspec colname="col5" colwidth="14.59*" /><colspec colname="col6" colwidth="13.95*" />
+<colspec colname="col7" colwidth="11.28*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.33in"?>
@@ -135,10 +135,10 @@ and rates are hereby established for the Nebraska individual income tax:</para>
 <para><table frame="none">
 <tgroup cols="7">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt" rth="1.00pt" dispwid="1375.00px"?>
-<colspec colname="col1" colwidth="12.89" /><colspec colname="col2" colwidth="17.24" />
-<colspec colname="col3" colwidth="15.08" /><colspec colname="col4" colwidth="15.27" />
-<colspec colname="col5" colwidth="15.36" /><colspec colname="col6" colwidth="12.96" />
-<colspec colname="col7" colwidth="11.30" />
+<colspec colname="col1" colwidth="12.89*" /><colspec colname="col2" colwidth="17.24*" />
+<colspec colname="col3" colwidth="15.08*" /><colspec colname="col4" colwidth="15.27*" />
+<colspec colname="col5" colwidth="15.36*" /><colspec colname="col6" colwidth="12.96*" />
+<colspec colname="col7" colwidth="11.30*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.33in"?>
