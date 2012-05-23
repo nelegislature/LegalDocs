@@ -2,7 +2,8 @@
 <legaldoc>
 <law type="statute">
 <section>
-<sectno></sectno><amendatorysection amended="yes" chaptername="Interest, Loans, and Debt" id="id6" publishedsource="CumulativeSupplement" statutenumber="45-702"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id8">45-702</statuteno><catchline id="id9">Terms, defined.</catchline><para>For purposes of the Residential Mortgage Licensing Act:</para>
+<amendatorysection amended="yes" chaptername="Interest, Loans, and Debt" id="id6" publishedsource="CumulativeSupplement" statutenumber="45-702"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>45-702</statuteno><catchline id="id9">Terms, defined.</catchline>
+<para>For purposes of the Residential Mortgage Licensing Act:</para>
 <para>(1) Borrower means the mortgagor or mortgagors under a real estate mortgage
 or the trustor or trustors under a trust deed;</para>
 <para>(2) Branch office means any location at which the business of a mortgage
@@ -92,11 +93,11 @@ or other mortgage loan originator or by any agent of such lender, mortgage
 broker, or other mortgage loan originator, and (iii) a person solely involved
 in extensions of credit relating to time-share programs as defined in section
 76-1702;</para>
-<para>(17) Nationwide Mortgage Licensing System and Registry means a mortgage
-licensing system developed and maintained by the Conference of State Bank
-Supervisors and the American Association of Residential Mortgage Regulators
-for the licensing and registration of mortgage loan originators, mortgage
-bankers, and installment loan companies;</para>
+<para>(17) Nationwide Mortgage Licensing System and Registry means a licensing system
+developed and maintained by the Conference of State Bank Supervisors and the
+American Association of Residential Mortgage Regulators for the licensing
+and registration of mortgage loan originators, mortgage bankers, installment loan companies, and other state-regulated financial
+services entities and industries;</para>
 <para>(18) Nontraditional mortgage product means any residential mortgage
 loan product other than a thirty-year fixed rate residential mortgage loan;</para>
 <para>(19) Offer means every attempt to provide, offer to provide, or solicitation
@@ -106,55 +107,60 @@ whether made in print, through electronic media, or by the Internet;</para>
 <para>(20) Person means an association, joint venture, joint-stock company,
 partnership, limited partnership, limited liability company, business corporation,
 nonprofit corporation, individual, or any group of individuals however organized;</para>
-<para>(21) Real estate brokerage activity means any activity that involves
-offering or providing real estate brokerage services to the public, including
-(a) acting as a real estate salesperson or real estate broker for a buyer,
-seller, lessor, or lessee of real property, (b) bringing together parties
-interested in the sale, purchase, lease, rental, or exchange of real property,
-(c) negotiating, on behalf of any party, any portion of a contract relating
-to the sale, purchase, lease, rental, or exchange of real property, other
-than in connection with providing financing with respect to any such transaction,
-(d) engaging in any activity for which a person engaged in the activity is
-required to be registered or licensed as a real estate salesperson or real
-estate broker under any applicable law, and (e) offering to engage in any
-activity or act in any capacity described in subdivision (a), (b), (c), or
-(d) of this subdivision;</para>
-<para>(22) Registered bank holding company means any bank holding company
-registered with the department pursuant to the Nebraska Bank Holding Company
-Act of 1995;</para>
-<para>(23) Registered mortgage loan originator means any individual who (a)
-meets the definition of mortgage loan originator and is an employee of (i)
-a depository institution, (ii) a subsidiary that is (A) wholly owned and controlled
-by a depository institution and (B) regulated by a federal banking agency,
-or (iii) an institution regulated by the Farm Credit Administration and (b)
-is registered with, and maintains a unique identifier through, the Nationwide
-Mortgage Licensing System and Registry;</para>
-<para>(24) Registrant means a person registered pursuant to section 45-704;</para>
-<para>(25) Residential mortgage loan means any loan or extension of credit,
-including a refinancing of a contract of sale or an assumption or refinancing
-of a prior loan or extension of credit, which is primarily for personal, family,
-or household use and is secured by a mortgage, trust deed, or other equivalent
-consensual security interest on a dwelling or residential real estate upon
-which is constructed or intended to be constructed a dwelling;</para>
-<para>(26) Residential real estate means any real property located in this
-state upon which is constructed or intended to be constructed a dwelling;</para>
-<para>(27) Reverse-mortgage
-loan means a loan made by a licensee which (a) is secured by residential real
-estate, (b) is nonrecourse to the borrower except in the event of fraud by
-the borrower or waste to the residential real estate given as security for
-the loan, (c) provides cash advances to the borrower based upon the equity
-in the borrower's owner-occupied principal residence, (d) requires no payment
-of principal or interest until the entire loan becomes due and payable, and
-(e) otherwise complies with the terms of section 45-702.01;</para>
-<para>(28) Service means accepting
+<para>(21) Purchase-money mortgage
+means a mortgage issued to the borrower by the seller of the property as part
+of the purchase transaction;</para><para>(22) Real
+estate brokerage activity means any activity that involves offering or providing
+real estate brokerage services to the public, including (a) acting as a real
+estate salesperson or real estate broker for a buyer, seller, lessor, or lessee
+of real property, (b) bringing together parties interested in the sale, purchase,
+lease, rental, or exchange of real property, (c) negotiating, on behalf of
+any party, any portion of a contract relating to the sale, purchase, lease,
+rental, or exchange of real property, other than in connection with providing
+financing with respect to any such transaction, (d) engaging in any activity
+for which a person engaged in the activity is required to be registered or
+licensed as a real estate salesperson or real estate broker under any applicable
+law, and (e) offering to engage in any activity or act in any capacity described
+in subdivision (a), (b), (c), or (d) of this subdivision;</para>
+<para>(23) Registered bank holding
+company means any bank holding company registered with the department pursuant
+to the Nebraska Bank Holding Company Act of 1995;</para>
+<para>(24) Registered mortgage loan
+originator means any individual who (a) meets the definition of mortgage loan
+originator and is an employee of (i) a depository institution, (ii) a subsidiary
+that is (A) wholly owned and controlled by a depository institution and (B)
+regulated by a federal banking agency, or (iii) an institution regulated by
+the Farm Credit Administration and (b) is registered with, and maintains a
+unique identifier through, the Nationwide Mortgage Licensing System and Registry;</para>
+<para>(25) Registrant means a person
+registered pursuant to section 45-704;</para>
+<para>(26) Residential mortgage
+loan means any loan or extension of credit, including a refinancing of a contract
+of sale or an assumption or refinancing of a prior loan or extension of credit,
+which is primarily for personal, family, or household use and is secured by
+a mortgage, trust deed, or other equivalent consensual security interest on
+a dwelling or residential real estate upon which is constructed or intended
+to be constructed a dwelling;</para>
+<para>(27) Residential real estate
+means any real property located in this state upon which is constructed or
+intended to be constructed a dwelling;</para>
+<para>(28) Reverse-mortgage loan
+means a loan made by a licensee which (a) is secured by residential real estate,
+(b) is nonrecourse to the borrower except in the event of fraud by the borrower
+or waste to the residential real estate given as security for the loan, (c)
+provides cash advances to the borrower based upon the equity in the borrower's
+owner-occupied principal residence, (d) requires no payment of principal or
+interest until the entire loan becomes due and payable, and (e) otherwise
+complies with the terms of section 45-702.01;</para>
+<para>(29) Service means accepting
 payments or maintenance of escrow accounts in the regular course of business
 in connection with a residential mortgage loan;</para>
-<para>(29) State means any state
+<para>(30) State means any state
 of the United States, the District of Columbia, any territory of the United
 States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific
 Islands, the Virgin Islands, or the Northern Mariana Islands; and</para>
-<para>(30) Unique identifier means
+<para>(31) Unique identifier means
 a number or other identifier assigned by protocols established by the Nationwide
 Mortgage Licensing System and Registry.</para>
-</amendatorysection></section><source><para>Laws 1989, LB 272, &#167; 5; </para><para>Laws 1993, LB 121, &#167; 274; </para><para>Laws 1993, LB 217, &#167; 1; </para><para>Laws 1995, LB 163, &#167; 2; </para><para>Laws 1995, LB 384, &#167; 17; </para><para>Laws 1999, LB 396, &#167; 30; </para><para>Laws 2003, LB 131, &#167; 29; </para><para>Laws 2003, LB 218, &#167; 1; </para><para>Laws 2006, LB 876, &#167; 28; </para><para>Laws 2007, LB124, &#167; 41; </para><para>Laws 2008, LB851, &#167; 19; </para><para>Laws 2009, LB328, &#167; 4; </para><para>Laws 2010, LB892, &#167; 4.</para></source><crossreference><para><emphasis>Nebraska Bank Holding Company Act of 1995,</emphasis> see section 8-908.</para><para><emphasis>Nebraska Installment Loan Act,</emphasis> see section 45-1001.</para></crossreference>  </law>
+</amendatorysection></section><source><para>Laws 1989, LB 272, &#167; 5; </para><para>Laws 1993, LB 121, &#167; 274; </para><para>Laws 1993, LB 217, &#167; 1; </para><para>Laws 1995, LB 163, &#167; 2; </para><para>Laws 1995, LB 384, &#167; 17; </para><para>Laws 1999, LB 396, &#167; 30; </para><para>Laws 2003, LB 131, &#167; 29; </para><para>Laws 2003, LB 218, &#167; 1; </para><para>Laws 2006, LB 876, &#167; 28; </para><para>Laws 2007, LB124, &#167; 41; </para><para>Laws 2008, LB851, &#167; 19; </para><para>Laws 2009, LB328, &#167; 4; </para><para>Laws 2010, LB892, &#167; 4; </para><para>Laws 2012, LB965, &#167; 11.</para><effectivedate>July 19, 2012</effectivedate></source><crossreference><para><emphasis>Nebraska Bank Holding Company Act of 1995,</emphasis> see section 8-908.</para><para><emphasis>Nebraska Installment Loan Act,</emphasis> see section 45-1001.</para></crossreference>  </law>
 </legaldoc>

@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Public Health and Welfare" statutenumber="71-6202"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>71-6202</statuteno><catchline>Purpose of act.</catchline><para>The purpose of the Nebraska Regulation of Health Professions Act is to establish guidelines for the regulation of health professions not licensed or regulated prior to January 1, 1985, and those licensed or regulated health professions which seek to change their scope of practice. The act is not intended and shall not be construed to apply to any regulatory entity created prior to January 1, 1985, or to any remedial or technical amendments to any laws which licensed or regulated activity prior to January 1, 1985, except as provided in such act. The Legislature believes that all individuals should be permitted to enter into a health profession unless there is an overwhelming need for the state to protect the interests of the public.</para></amendatorysection></section><source><para>Laws 1985, LB 407, &#167; 2. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id28">
+<amendatorysection amended="yes" chaptername="Public Health and Welfare" id="id30" statutenumber="71-6202"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>71-6202</statuteno><catchline id="id33">Purpose of act.</catchline>
+<para>The purpose of the Nebraska Regulation of Health Professions
+Act is to establish guidelines for the regulation of health professions which are not licensed or
+regulated and those licensed or regulated health professions which
+seek to change their scope of practice. The Legislature believes that
+all individuals should be permitted to provide
+a health service, a health-related service, or an environmental service unless
+there is an overwhelming need for the state to protect the public from harm.</para>
+</amendatorysection></section><source><para>Laws 1985, LB 407, &#167; 2; </para><para>Laws 2012, LB834, &#167; 4.</para><effectivedate>July 19, 2012</effectivedate></source>  </law>
+</legaldoc>

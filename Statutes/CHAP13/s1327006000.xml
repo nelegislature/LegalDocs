@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id29">
-<sectno id="id30" opdate="July 1, 2010">Sec. 6.</sectno><amendatorysection amended="yes" chaptername="Cities, Counties, and Other Political Subdivisions" id="id31" statutenumber="13-2706"><bookinfo>Revised Statutes Cumulative Supplement, 2010</bookinfo><statuteno id="id33">13-2706</statuteno><catchline id="id34">Grant application.</catchline><para>Any municipality, except a city that has received funding
-under the Convention Center Facility Financing Assistance Act or the Sports Arena Facility Financing Assistance Act,
-may apply for a grant of assistance from the fund. Application shall be made
-on forms developed by the department.</para>
-</amendatorysection></section><source><para>Laws 1999, LB 382, &#167; 18; </para><para>Laws 2003, LB 385, &#167; 2; </para><para>Laws 2007, LB551, &#167; 8; </para><para>Laws 2010, LB779, &#167; 6.</para></source><crossreference><para><emphasis>Convention Center Facility Financing Assistance Act,</emphasis> see section 13-2601.</para><para><emphasis>Sports Arena Facility Financing Assistance Act,</emphasis> see section 13-3101.</para></crossreference>  </law>
+<section>
+<amendatorysection amended="yes" chaptername="Cities, Counties, and Other Political Subdivisions" id="id31" statutenumber="13-2706"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>13-2706</statuteno><catchline id="id34">Eligibility
+for grant; grant application.</catchline><para>(1) Except as provided in subsection (2) of this section
+for a city of the primary class, any municipality that has applied for and
+received a grant of assistance under the Sports Arena Facility Financing Assistance
+Act shall not receive state assistance under the Civic and Community Center
+Financing Act for the same project for which the grant was awarded under the
+Sports Arena Facility Financing Assistance Act.</para><para>(2) A city of the primary class
+shall not be eligible to receive a grant of assistance from the Civic and
+Community Center Financing Act if the city has applied for and received a
+grant of assistance under the Sports Arena Facility Financing Assistance Act.</para>
+<para>(3) Any city that has
+received funding under the Convention Center Facility Financing Assistance
+Act shall not receive state assistance under the Civic and Community Center
+Financing Act.</para><para>(4)
+Any municipality eligible for a grant of assistance as provided in this section may
+apply for a grant of assistance from the fund. Application shall be made on
+forms developed by the department.</para>
+</amendatorysection></section><source><para>Laws 1999, LB 382, &#167; 18; </para><para>Laws 2003, LB 385, &#167; 2; </para><para>Laws 2007, LB551, &#167; 8; </para><para>Laws 2010, LB779, &#167; 6; </para><para>Laws 2012, LB426, &#167; 1.</para><effectivedate>July 19, 2012</effectivedate></source><crossreference><para><emphasis>Convention Center Facility Financing Assistance Act,</emphasis> see section 13-2601.</para><para><emphasis>Sports Arena Facility Financing Assistance Act,</emphasis> see section 13-3101.</para></crossreference>  </law>
 </legaldoc>

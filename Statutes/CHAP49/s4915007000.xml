@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Law" statutenumber="49-1507"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>49-1507</statuteno><catchline>Meanings of listed expressions, where found.</catchline><para>As used in sections 49-1508 to 49-1561, unless altered or otherwise affected by the context of a particular instance of use, the listed expressions in sections 49-1508 to 49-1521 shall have the meanings provided in such sections.</para></amendatorysection></section><source><para>Laws 1988, LB 475, &#167; 7. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<amendatorysection chaptername="" statutenumber="49-1507">
+				<statuteno>49-1507</statuteno>
+				<catchline>Repealed. Laws 2012, LB 1113, &#167; 50.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>January 1, 2013</operativedate></source>
+	</law>
+</legaldoc>

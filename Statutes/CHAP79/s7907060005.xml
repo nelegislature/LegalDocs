@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id46">
-<amendatorysection amended="yes" chaptername="Schools" id="id48" statutenumber="79-760.05"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>79-760.05</statuteno><catchline id="id51">Statewide system
+<section id="id4">
+<amendatorysection amended="yes" chaptername="Schools" id="id6" statutenumber="79-760.05"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>79-760.05</statuteno><catchline id="id9">Statewide system
 for tracking individual student achievement; State Board of Education; duties;
 school districts; provide data; analysis and reports.</catchline><para>(1)
 The State Board of Education shall implement a statewide system for tracking
@@ -11,7 +11,8 @@ State Department of Education, that can be aggregated to track student progress
 by demographic characteristics, including, but not limited to, race, poverty,
 high mobility, attendance, and limited English proficiency, on available measures
 of student achievement which include, but need not be limited to, national
-assessment instruments and state assessment instruments. Such a system shall
+assessment instruments, state assessment instruments, and the indicators used in the accountability
+system required pursuant to section 79-760.06. Such a system shall
 be designed so as to aggregate student data by available educational input
 characteristics, which may include class size, teacher education, teacher
 experience, special education, early childhood programs, federal programs,
@@ -19,15 +20,17 @@ and other targeted education programs. School districts shall provide the
 department with individual student achievement data from assessment instruments
 required pursuant to section 79-760.03 in order to implement the statewide
 system.</para>
-<para>(2) The department shall
-annually analyze and report on student achievement for the state, each school
-district, and each learning community aggregated by the demographic characteristics
-described in subsection (1) of this section. The department shall report the
-findings to the Governor, the Legislature, school districts, educational service
-units, and each learning community. Such analysis shall include aggregated
-data that would indicate differences in achievement due to available educational
-input characteristics described in subsection (1) of this section. Such analysis
-shall include indicators of progress toward state achievement goals for students
-in poverty, limited English proficient students, and highly mobile students.</para>
-</amendatorysection></section><source><para>Laws 2007, LB653, &#167; 8; </para><para>Laws 2008, LB1157, &#167; 5; </para><para>Laws 2011, LB333, &#167; 5.</para></source>  </law>
+<para>(2) The department shall annually analyze and report on student
+achievement for the state, each school district, each public school, and each learning community
+aggregated by the demographic characteristics described in subsection (1)
+of this section. The department shall report the findings to the Governor,
+the Legislature, school districts, educational service units, and each learning
+community. The report submitted
+to the Legislature shall be submitted electronically. Such analysis
+shall include aggregated data that would indicate differences in achievement
+due to available educational input characteristics described in subsection
+(1) of this section. Such analysis shall include indicators of progress toward
+state achievement goals for students in poverty, limited English proficient
+students, and highly mobile students.</para>
+</amendatorysection></section><source><para>Laws 2007, LB653, &#167; 8; </para><para>Laws 2008, LB1157, &#167; 5; </para><para>Laws 2011, LB333, &#167; 5; </para><para>Laws 2012, LB782, &#167; 153; </para><para>Laws 2012, LB870, &#167; 3.</para><note>The Revisor of Statutes has pursuant to section 49-769 correlated LB782, section 153, with LB870, section 3, to reflect all amendments.</note><note>Changes made by LB870 became effective July 19, 2012. Changes made by LB782 became operative July 19, 2012.</note></source>  </law>
 </legaldoc>

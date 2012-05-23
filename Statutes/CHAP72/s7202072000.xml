@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id17">
-<sectno id="id18" opdate=" ">Sec. 3.</sectno><amendatorysection chaptername="Public Lands, Buildings, and Funds" id="id19" publishedsource="CumulativeSupplement" statutenumber="72-272"><bookinfo>Revised Statutes Cumulative Supplement, 2010</bookinfo><statuteno>72-272</statuteno><catchline>Production of wind or solar energy;
-leases; board; powers.</catchline><para>The board may authorize leases of any school or public lands
-belonging to the state and under its control for exploration and development
-of wind or solar energy for such durations and under such terms and conditions
-as the board shall deem appropriate, except that the initial term for any
-such wind energy lease and any amendment thereto shall not exceed forty years.
-In making such determinations, the board shall consider comparable arrangements
-involving other lands similarly situated and any other relevant factors bearing
-upon such leases. Any such lease authorized by the board shall be created
-in writing and shall be filed, duly recorded, and indexed in the office of
-the register of deeds of the county in which the real property subject to
-the lease is located. Such leases shall run with the land benefited and burdened
-and shall include, as applicable, the contents specified in sections 66-911
-and 66-911.01.</para>
-</amendatorysection></section><source><para>Laws 2010, LB235, &#167; 3.</para></source>  </law>
+<section>
+<amendatorysection amended="yes" chaptername="Public Lands, Buildings, and Funds" id="id19" publishedsource="CumulativeSupplement" statutenumber="72-272"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>72-272</statuteno><catchline>Production of wind energy or solar energy; agreements; board;
+powers.</catchline><para>The board may authorize agreements
+for the use of any school or public lands belonging to the state
+and under its control for exploration and development of wind energy or solar energy for such durations and
+under such terms and conditions as the board shall deem appropriate, except
+that such agreements shall comply with sections
+66-901 to 66-914. In making such determinations, the board shall
+consider comparable arrangements involving other lands similarly situated
+and any other relevant factors bearing upon such agreements.</para>
+</amendatorysection></section><source><para>Laws 2010, LB235, &#167; 3; </para><para>Laws 2012, LB828, &#167; 13.</para><effectivedate>March 8, 2012</effectivedate></source>  </law>
 </legaldoc>

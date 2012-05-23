@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Agriculture" statutenumber="2-3623"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>2-3623</statuteno><catchline>Sale of corn; fee; when paid.</catchline><para>There is hereby levied a fee of not to exceed four-tenths of a cent per bushel upon all corn sold through commercial channels in Nebraska or delivered in Nebraska. The fee shall be paid by the grower at the time of sale or delivery and shall be collected by the first purchaser. Under the Nebraska Corn Resources Act, no corn shall be subject to the fee more than once.</para></amendatorysection></section><source><para>Laws 1978, LB 639, &#167; 23; </para><para>Laws 1983, LB 505, &#167; 6; </para><para>Laws 1987, LB 610, &#167; 2; </para><para>Laws 1996, LB 1336, &#167; 5.</para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id10">
+<amendatorysection amended="yes" chaptername="Agriculture" id="id12" statutenumber="2-3623">
+<bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>2-3623</statuteno><catchline id="id15">Sale of corn;
+fee; when paid.</catchline><para>There is hereby levied a fee of five-tenths of a cent per
+bushel upon all corn sold through commercial channels in Nebraska or delivered
+in Nebraska. The fee shall be paid by the grower at the time of sale or delivery
+and shall be collected by the first purchaser. Under the Nebraska Corn Resources
+Act, no corn shall be subject to the fee more than once.</para>
+</amendatorysection></section><source><para>Laws 1978, LB 639, &#167; 23; </para><para>Laws 1983, LB 505, &#167; 6; </para><para>Laws 1987, LB 610, &#167; 2; </para><para>Laws 1996, LB 1336, &#167; 5; </para><para>Laws 2012, LB1057, &#167; 2.</para><operativedate>October 1, 2012</operativedate></source>  </law>
+</legaldoc>

@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="statute"><section id="id4"><sectno id="id5">Section 1.</sectno><amendatorysection amended="yes" chaptername="State University, State Colleges, and Postsecondary Education" id="id6" statutenumber="85-2205"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id8">85-2205</statuteno><catchline id="id9">Base growth factor, defined.</catchline><para>Base growth factor means:</para><para>(1) For the calculation of aid for fiscal year 2008-09, the base limitation described in section 77-3446 minus one-half percent; and</para><para>(2) For the calculation of aid for fiscal year 2009-10 and each fiscal year thereafter, the base limitation described in section 77-3446 plus one-half percent.</para></amendatorysection></section><source><para>Laws 2007, LB342, &#167; 5; </para><para>Laws 2008, LB973, &#167; 1.</para><effectivedate>July 18, 2008</effectivedate><terminationdate>June 30, 2011</terminationdate></source>  </law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<amendatorysection chaptername="" statutenumber="85-2205">
+				<statuteno>85-2205</statuteno>
+				<catchline>Repealed. Laws 2012, LB 946, &#167; 26.</catchline>
+				
+			</amendatorysection>
+		</section>
+	</law>
+</legaldoc>

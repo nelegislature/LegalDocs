@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id134">
-<amendatorysection amended="yes" chaptername="Motor Vehicles" id="id136" statutenumber="60-386">
-<bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>60-386</statuteno><catchline id="id139">Application;
-contents.</catchline><para>Each new application shall contain,
-in addition to other information as may be required by the department, the
-name and residential and mailing address of the applicant and a description
-of the motor vehicle or trailer, including the color, the manufacturer, the
-identification number, and the weight of the motor vehicle or trailer required
-by the Motor Vehicle Registration Act. With the application the applicant
-shall pay the proper registration fee and shall state whether the motor vehicle
-is propelled by alternative fuel and, if alternative fuel, the type of fuel.
-The form shall also contain a notice that bulk fuel purchasers may be subject
-to federal excise tax liability. The department shall prescribe a form, containing
-the notice, for supplying the information for motor vehicles to be registered.
-The county treasurer or designated county official shall include the form
-in each mailing made pursuant to section 60-3,186.</para>
-</amendatorysection></section><source><para>Laws 2005, LB 274, &#167; 86; </para><para>Laws 2011, LB289, &#167; 17.</para></source>  </law>
+<section>
+<amendatorysection amended="yes" chaptername="Motor Vehicles" id="id136" statutenumber="60-386"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>60-386</statuteno><catchline id="id139">Application; contents.</catchline>
+<para>Each new application shall contain, in addition to other information
+as may be required by the department, the name and residential and mailing
+address of the applicant and a description of the motor vehicle or trailer,
+including the color, the manufacturer, the identification number, and the
+weight of the motor vehicle or trailer required by the Motor Vehicle Registration
+Act. With the application the applicant shall pay the proper registration
+fee and shall state whether the motor vehicle is propelled by alternative
+fuel and, if alternative fuel, the type of fuel. The form shall also contain
+a notice that bulk fuel purchasers may be subject to federal excise tax liability.
+The department shall prescribe a form, containing the notice, for supplying
+the information for motor vehicles to be registered. The county treasurer shall
+include the form in each mailing made pursuant to section 60-3,186.</para>
+</amendatorysection></section><source><para>Laws 2005, LB 274, &#167; 86; </para><para>Laws 2011, LB289, &#167; 17; </para><para>Laws 2012, LB801, &#167; 58.</para><effectivedate>July 19, 2012</effectivedate></source>  </law>
 </legaldoc>

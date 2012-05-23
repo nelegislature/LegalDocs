@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Notaries Public" statutenumber="64-104"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>64-104</statuteno><catchline>Notary public; commission; renewal; procedure.</catchline><para>Commissions for general notaries public may be renewed within thirty days prior to the date of expiration by filing a renewal application along with the payment of the fee prescribed in section 33-102 and a new bond with the Secretary of State. The bond required for a renewal of such commission shall be in the same manner and form as provided in section 64-102. The renewal application shall be in the manner and form as prescribed by the Secretary of State. Such renewal application made prior to the date of the expiration of any general notary public commission need not be accompanied by any petition. Any renewal application for such commission made after the date of expiration of the commission shall be made in the same manner as a new application for such commission as a general notary public.</para></amendatorysection></section><source><para>Laws 1967, c. 396, &#167; 9, p. 1245; </para><para>R.S.1943, (1986), &#167; 64-116; </para><para>Laws 1994, LB 1004, &#167; 5. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id25">
+<amendatorysection amended="yes" chaptername="Notaries Public" id="id27" statutenumber="64-104"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>64-104</statuteno><catchline id="id30">Notary public;
+commission; renewal; procedure.</catchline><para>Commissions for
+general notaries public may be renewed within thirty days prior to the date
+of expiration by filing a renewal application along with the payment of the
+fee prescribed in section 33-102 and a new bond with the Secretary of State.
+The bond required for a renewal of such commission shall be in the same manner
+and form as provided in section 64-102. The renewal application shall be in
+the manner and form as prescribed by the Secretary of State. Any
+renewal application for such commission made after the date of expiration
+of the commission shall be made in the same manner as a new application for
+such commission as a general notary public.</para>
+</amendatorysection></section><source><para>Laws 1967, c. 396, &#167; 9, p. 1245; </para><para>R.S.1943, (1986), &#167; 64-116; </para><para>Laws 1994, LB 1004, &#167; 5; </para><para>Laws 2012, LB398, &#167; 3.</para><effectivedate>July 19, 2012</effectivedate></source>  </law>
+</legaldoc>

@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="Schools" statutenumber="79-1022.02"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>79-1022.02</statuteno><catchline>School year 2010-11 certification
-null and void; recertification.</catchline><para>Notwithstanding any other
-provision of law, the certification of state aid pursuant to section 79-1022
-to be paid to school districts during school fiscal year 2010-11
-is null and void with
-regard to the total state aid to be paid during school fiscal year 2010-11.
-State aid to be paid during such school year and the certifications pursuant
-to section 79-1022 shall be recertified for the
-purpose of determining federal Education Jobs Fund allocations and adjusting
-the total state aid to be paid to include such allocations on or before March
-1, 2011, using data sources as they existed on March 10, 2010.</para>
-</amendatorysection></section><source><para>Laws 2002, LB 898, &#167; 13; </para><para>Laws 2003, LB 540, &#167; 6; </para><para>Laws 2008, LB988, &#167; 42; </para><para>Laws 2011, LB18, &#167; 7.</para></source>  </law>
+<section id="id12">
+<amendatorysection amended="yes" chaptername="Schools" id="id14" statutenumber="79-1022.02"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>79-1022.02</statuteno><catchline id="id17">School fiscal year 2012-13 certifications null and void.</catchline><para>Notwithstanding any
+other provision of law, any certification of state
+aid pursuant to section 79-1022,
+certification of budget authority pursuant to section 79-1023, and certification
+of applicable allowable reserve percentages pursuant to section 79-1027 completed
+prior to February 29, 2012, for school fiscal year 2012-13 is null and void.</para>
+</amendatorysection></section><source><para>Laws 2002, LB 898, &#167; 13; </para><para>Laws 2003, LB 540, &#167; 6; </para><para>Laws 2008, LB988, &#167; 42; </para><para>Laws 2011, LB18, &#167; 7; </para><para>Laws 2012, LB633, &#167; 2.</para><effectivedate>February 29, 2012</effectivedate></source>  </law>
 </legaldoc>

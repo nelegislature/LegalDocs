@@ -1,1 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Labor" statutenumber="48-665.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>48-665.01</statuteno><catchline>Benefits; unlawful payments from foreign state or government; recovery.</catchline><para>Any person who has received any sum as benefits to which he or she was not entitled from any agency which administers an employment security law of another state or foreign government and who has been found liable to repay benefits received under such law may be required to repay to the commissioner for such state or foreign government the amount found due. Such amount, without interest, may be collected (1) by civil action in the name of the commissioner acting as agent for such agency, (2) by offset against any future benefits payable to the claimant under the Employment Security Law for any benefit year which may commence within three years after the claimant was notified such amount was due, except that no such recoupment by the withholding of future benefits shall be had if such sum was received by such person without fault on his or her part and such recoupment would defeat the purpose of the Employment Security Law or would be against equity and good conscience, or (3) by setoff against any state income tax refund due the claimant pursuant to sections 77-27,197 to 77-27,209.</para></amendatorysection></section><source><para>Laws 1953, c. 167, &#167; 14(2), p. 540; </para><para>Laws 1986, LB 950, &#167; 9; </para><para>Laws 1993, LB 46, &#167; 16. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Labor" statutenumber="48-665.01"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>48-665.01</statuteno><catchline>Benefits; unlawful payments from
+foreign state or government; recovery.</catchline><para>Any person who has
+received any sum as benefits to which he or she was not entitled from any
+agency which administers an employment security law of another state or foreign
+government and who has been found liable to repay benefits received under
+such law may be required to repay to the commissioner for such state or foreign
+government the amount found due. Such amount, without interest, may be collected
+(1) by civil action in the name of the commissioner acting as agent for such
+agency, (2) by offset against any future benefits payable to the claimant
+under the Employment Security Law for any benefit year which may commence
+within three years after the claimant was notified such amount was due, except
+that no such recoupment by the withholding of future benefits shall be had
+if such sum was received by such person without fault on his or her part and
+such recoupment would defeat the purpose of the Employment Security Law or
+would be against equity and good conscience, (3) by setoff against any state income tax
+refund due the claimant pursuant to sections 77-27,197 to 77-27,209, or (4) as provided in subsection (2)
+of section 48-665.</para>
+</amendatorysection></section><source><para>Laws 1953, c. 167, &#167; 14(2), p. 540; </para><para>Laws 1986, LB 950, &#167; 9; </para><para>Laws 1993, LB 46, &#167; 16; </para><para>Laws 2012, LB1058, &#167; 11.</para><operativedate>January 1, 2013</operativedate></source>  </law>
+</legaldoc>

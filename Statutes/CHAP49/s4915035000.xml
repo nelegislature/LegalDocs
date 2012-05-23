@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Law" statutenumber="49-1535"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>49-1535</statuteno><catchline>Specific Authority for Improvements, defined.</catchline><para>The short form expression, Specific Authority for Improvements, shall mean that the principal generally authorizes and empowers the agent to alter, better, diminish, enhance, enlarge, preserve, protect, repair, restore, and otherwise improve any property.</para></amendatorysection></section><source><para>Laws 1988, LB 475, &#167; 35. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<amendatorysection chaptername="" statutenumber="49-1535">
+				<statuteno>49-1535</statuteno>
+				<catchline>Repealed. Laws 2012, LB 1113, &#167; 50.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>January 1, 2013</operativedate></source>
+	</law>
+</legaldoc>

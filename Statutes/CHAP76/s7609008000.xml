@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Real Property" statutenumber="76-908"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>76-908</statuteno><catchline>Documentary stamp tax; refund; procedure.</catchline><para>Any person paying the documentary stamp tax imposed by section 76-901 may claim a refund if the payment of such tax was (1) the result of a misunderstanding or honest mistake of the taxpayer, (2) the result of a clerical error on the part of the register of deeds or the taxpayer, or (3) invalid for any reason. Within two years after payment of such tax, the taxpayer shall file in the office of the register of deeds of the county in which the tax was paid a written claim on a form prescribed by the Tax Commissioner and evidence in support thereof, stating the reason for the claim. The register of deeds shall, within thirty days after such filing, make a recommendation of approval or denial and forward the recommendation together with a copy of the claim and evidence filed to the Tax Commissioner. Within thirty days after the forwarding of such recommendation the Tax Commissioner shall, upon consideration of the recommendation of the register of deeds and the claim and evidence filed by the taxpayer, render his or her decision approving or rejecting the claim for a refund in whole or in part. A copy of the decision of the Tax Commissioner shall be forwarded to the register of deeds and to the last-known address of the taxpayer by certified mail within ten days after the decision is rendered. Upon approval by the Tax Commissioner of a refund for all or a portion of the documentary stamp tax paid, the register of deeds is authorized to make such refund from the currently collected documentary stamp tax funds presently in the office of the register of deeds. A taxpayer denied a refund under this section, in whole or in part, may appeal the decision of the Tax Commissioner, and the appeal shall be in accordance with the Administrative Procedure Act.</para></amendatorysection></section><source><para>Laws 1981, LB 179, &#167; 2; </para><para>Laws 1988, LB 352, &#167; 148. </para></source><crossreference><para><emphasis>Administrative Procedure Act,</emphasis> see section 84-920.</para></crossreference></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id384">
+<amendatorysection amended="yes" chaptername="Real Property" id="id386" statutenumber="76-908">
+<bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>76-908</statuteno><catchline id="id389">Documentary
+stamp tax; refund; procedure.</catchline><para>Any person paying
+the documentary stamp tax imposed by section 76-901 may claim a refund if
+the payment of such tax was (1) the result of a misunderstanding or honest
+mistake of the taxpayer, (2) the result of a clerical error on the part of
+the register of deeds or the taxpayer, or (3) invalid for any reason. Within
+two years after payment of such tax, the taxpayer shall file in the office
+of the register of deeds of the county in which the tax was paid a written
+claim on a form prescribed by the Tax Commissioner and evidence in support
+thereof, stating the reason for the claim. The register of deeds shall, within
+thirty days after such filing, make a recommendation of approval or denial
+and forward the recommendation together with a copy of the claim and evidence
+filed to the Tax Commissioner. Within thirty days after the forwarding of
+such recommendation the Tax Commissioner shall, upon consideration of the
+recommendation of the register of deeds and the claim and evidence filed by
+the taxpayer, render his or her decision approving or rejecting the claim
+for a refund in whole or in part. A copy of the decision of the Tax Commissioner
+shall be mailed to the register of
+deeds and to the last-known address of the taxpayer within ten days after the
+decision is rendered. Upon approval by the Tax Commissioner of a refund for
+all or a portion of the documentary stamp tax paid, the register of deeds
+is authorized to make such refund from the currently collected documentary
+stamp tax funds presently in the office of the register of deeds. A taxpayer
+denied a refund under this section, in whole or in part, may appeal the decision
+of the Tax Commissioner, and the appeal shall be in accordance with the Administrative
+Procedure Act.</para>
+</amendatorysection></section><source><para>Laws 1981, LB 179, &#167; 2; </para><para>Laws 1988, LB 352, &#167; 148; </para><para>Laws 2012, LB727, &#167; 27.</para><operativedate>April 12, 2012</operativedate></source><crossreference><para><emphasis>Administrative Procedure Act,</emphasis> see section 84-920.</para></crossreference>  </law>
+</legaldoc>

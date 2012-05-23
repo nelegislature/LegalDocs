@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Oils, Fuels, and Energy" statutenumber="66-909"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>66-909</statuteno><catchline>Solar skyspace easement, defined.</catchline><para>Solar skyspace easement shall mean a right, whether or not stated in the form of a restriction, easement, covenant, or condition, in any deed, will, or other instrument executed by any person for the purpose of insuring adequate access of a solar energy system to solar energy.</para></amendatorysection></section><source><para>Laws 1979, LB 353, &#167; 9. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Oils, Fuels, and Energy" statutenumber="66-909"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>66-909</statuteno><catchline>Solar agreement, defined.</catchline><para>Solar agreement shall mean a right,
+whether or not stated in the form of a restriction, easement, covenant, or
+condition, in any deed, will, or other instrument executed by any person for
+the purpose of insuring adequate access of a solar energy system to solar
+energy.</para>
+</amendatorysection></section><source><para>Laws 1979, LB 353, &#167; 9; </para><para>Laws 2012, LB828, &#167; 5.</para><effectivedate>March 8, 2012</effectivedate></source>  </law>
+</legaldoc>

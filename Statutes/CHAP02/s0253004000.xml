@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Agriculture" statutenumber="2-5304"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>2-5304</statuteno><catchline>Report; contents.</catchline><para>On or before December 1, 2001, the Director of Natural Resources, in consultation with the Carbon Sequestration Advisory Committee, shall prepare a report to the Legislature. The report shall include, but not be limited to:</para><para>(1) The potential for, and potential forms of, greenhouse emissions regulation;</para><para>(2) The potential for development of a system or systems of carbon emissions trading or markets for carbon sequestered on agricultural land;</para><para>(3) Agricultural practices, management systems, or land uses which increase stored soil carbon and minimize carbon dioxide or other greenhouse emissions associated with agricultural production;</para><para>(4) Methods for measuring and modeling net carbon sequestration and greenhouse emissions reduction associated with various agricultural practices, management systems, or land uses occurring on agricultural land;</para><para>(5) Areas of scientific uncertainty with respect to quantifying and understanding greenhouse emission reductions or soil carbon sequestration associated with agricultural activities; and</para><para>(6) Any recommendations of the Carbon Sequestration Advisory Committee developed pursuant to section 2-5303.</para></amendatorysection></section><source><para>Laws 2000, LB 957, &#167; 4.</para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<amendatorysection chaptername="" statutenumber="2-5304">
+				<statuteno>2-5304</statuteno>
+				<catchline>Repealed. Laws 2012, LB 782, &#167; 253.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>July 19, 2012</operativedate></source>
+	</law>
+</legaldoc>

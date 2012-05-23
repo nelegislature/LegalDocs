@@ -1,25 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id89">
-<amendatorysection chaptername="State Uni., State Colleges, and Post. Education" id="id91" publishedsource="AnnualSupplement" statutenumber="85-2411"><bookinfo>Revised Statutes Supplement, 2011</bookinfo>
-<statuteno>85-2411</statuteno><catchline>Authorization to operate as new institution;
-application; application for renewal of authorization to operate; when required;
-failure to apply; effect.</catchline><para>(1) Any postsecondary institution with a physical presence
-in Nebraska as of May 5, 2011, and not previously authorized to operate by
-the commission or other state agency prior to May 5, 2011, shall apply to
-the commission for authorization to operate as a new institution on or before
-December 31, 2011.</para>
-<para>(2) Any postsecondary
-institution authorized to operate by the commission or other state agency
-prior to May 5, 2011, and not deemed to have authority to operate on a continuing
-basis pursuant to section 85-2410 shall apply to the commission for a renewal
-of the authorization to operate between October 1, 2011, and December 31,
-2011. If the institution fails to apply on or before December 31, 2011, the
-original authorization to operate shall terminate on January 1, 2012.</para>
-<para>(3) Any postsecondary
-institution that has not established a physical presence as of May 5, 2011,
-shall apply to the commission for authorization to operate as a new institution
-and receive such authorization prior to commencing operations in this state.</para>
-</amendatorysection></section><source><para>Laws 2011, LB637, &#167; 11.</para></source>  </law>
+		<section>
+			<amendatorysection chaptername="" statutenumber="85-2411">
+				<statuteno>85-2411</statuteno>
+				<catchline>Repealed. Laws 2012, LB 1104, &#167; 26.</catchline>
+				
+			</amendatorysection>
+		</section>
+	</law>
 </legaldoc>

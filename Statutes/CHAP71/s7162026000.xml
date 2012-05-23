@@ -1,1 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Public Health and Welfare" statutenumber="71-6226"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>71-6226</statuteno><catchline>Director; prepare final report; recommendations.</catchline><para>(1) After receiving and considering reports from the committee or the board, the director shall prepare a final report for the Legislature. The final report shall include copies of the committee report and the board report, if any, but the director shall not be bound by the findings and recommendations of such reports. The director in compiling his or her report shall apply the criteria established in sections 71-6221 to 71-6223 and may consult with the board or the committee. The recommendation of the director shall be developed in a manner consistent with subsection (3) of section 71-6224. The final report shall be submitted to the Speaker of the Legislature, the Chairperson of the Executive Board of the Legislature, and the Chairperson of the Health and Human Services Committee of the Legislature no later than nine months after the application is submitted to the director and shall be made available to all other members of the Legislature upon request.</para><para>(2) The director may recommend that no legislative action be taken on an application. If the director recommends that an application of an applicant group be approved, the director shall recommend an agency to be responsible for the regulation and the level of regulation to be assigned to such applicant group.</para><para>(3) An application which is resubmitted shall be considered the same as a new application.</para></amendatorysection></section><source><para>Laws 1985, LB 407, &#167; 26; </para><para>Laws 1988, LB 384, &#167; 12. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id186">
+<amendatorysection amended="yes" chaptername="Public Health and Welfare" id="id188" statutenumber="71-6226"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>71-6226</statuteno><catchline id="id191">Director; prepare
+final report; recommendations.</catchline><para>(1) After receiving
+and considering reports from the committee or the board, the director shall
+prepare a final report for the Legislature. The final report shall include
+copies of the committee report and the board report, if any, but the director
+shall not be bound by the findings and recommendations of such reports. The
+director in compiling his or her report shall apply the criteria established
+in sections 71-6221 to 71-6223 and may consult with the board or the committee.
+The recommendation of the director shall be developed in a manner consistent
+with subsection (4) of section 71-6224. The
+final report shall be submitted electronically to
+the Speaker of the Legislature, the Chairperson of the Executive Board of
+the Legislature, and the Chairperson of the Health and Human Services Committee
+of the Legislature no later than twelve months after the application
+is submitted to the director and found
+to be complete and shall be made available electronically to all other members of the Legislature
+upon request.</para>
+<para>(2) The director may recommend that no legislative action
+be taken on an application. If the director recommends that an application
+of an applicant group be approved, the director shall recommend an agency
+to be responsible for the regulation and the level of regulation to be assigned
+to such applicant group.</para>
+<para>(3) An application which is resubmitted shall be considered
+the same as a new application.</para>
+</amendatorysection></section><source><para>Laws 1985, LB 407, &#167; 26; </para><para>Laws 1988, LB 384, &#167; 12; </para><para>Laws 2012, LB782, &#167; 123; </para><para>Laws 2012, LB834, &#167; 21.</para><note>The Revisor of Statutes has pursuant to section 49-769 correlated LB782, section 123, with LB834, section 21, to reflect all amendments.</note><note>Changes made by LB834 became effective July 19, 2012. Changes made by LB782 became operative July 19, 2012.</note></source>  </law>
+</legaldoc>

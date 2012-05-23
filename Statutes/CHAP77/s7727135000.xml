@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Revenue and Taxation" statutenumber="77-27,135"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>77-27,135</statuteno><catchline>Notice; how given.</catchline><para>Whenever any notice required to be given by the Tax Commissioner under the provisions of the Nebraska Revenue Act of 1967 may be given by mail, it shall be given by either registered or certified mail, return receipt requested, and not otherwise.</para></amendatorysection></section><source><para>Laws 1967, c. 487, &#167; 135, p. 1637. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id500">
+<amendatorysection amended="yes" chaptername="Revenue and Taxation" id="id502" statutenumber="77-27,135">
+<bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>77-27,135</statuteno><catchline id="id505">Notice; how
+given.</catchline><para>Whenever any notice required to be given
+by the Tax Commissioner under the provisions of the Nebraska Revenue Act of
+1967 may be given by mail, it shall be given by first-class, registered, or certified mail, return
+receipt requested.</para>
+</amendatorysection></section><source><para>Laws 1967, c. 487, &#167; 135, p. 1637; </para><para>Laws 2012, LB727, &#167; 44.</para><operativedate>April 12, 2012</operativedate></source>  </law>
+</legaldoc>

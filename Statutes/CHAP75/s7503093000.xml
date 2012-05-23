@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="Public Service Commission" statutenumber="75-393"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>75-393</statuteno><catchline>Unified carrier registration plan
-and agreement; director; powers.</catchline><para>The director may participate
-in the unified carrier registration plan and agreement pursuant to the Unified
-Carrier Registration Act of 2005, 49 U.S.C. 13908, as the act existed on January
-1, 2011, and may file on behalf
+<section id="id630">
+<amendatorysection amended="yes" chaptername="Public Service Commission" id="id632" statutenumber="75-393">
+<bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>75-393</statuteno><catchline id="id635">Unified carrier
+registration plan and agreement; director; powers.</catchline><para>The
+director may participate in the unified carrier registration plan and agreement
+pursuant to the Unified Carrier Registration Act of 2005, 49 U.S.C. 13908,
+as the act existed on January 1, 2012, and may file on behalf
 of this state the plan required by such plan and agreement for enforcement
 of the act in this state.</para>
-</amendatorysection></section><source><para>Laws 2007, LB358, &#167; 2; </para><para>Laws 2009, LB331, &#167; 19; </para><para>Laws 2011, LB212, &#167; 9.</para></source>  </law>
+</amendatorysection></section><source><para>Laws 2007, LB358, &#167; 2; </para><para>Laws 2009, LB331, &#167; 19; </para><para>Laws 2011, LB212, &#167; 9; </para><para>Laws 2012, LB751, &#167; 52.</para><operativedate>April 7, 2012</operativedate></source>  </law>
 </legaldoc>

@@ -2,20 +2,20 @@
 <legaldoc>
 <law type="statute">
 <section>
-<amendatorysection amended="yes" chaptername="Motor Vehicles" statutenumber="60-3,190"><bookinfo>Revised Statutes Supplement, 2011</bookinfo><statuteno>60-3,190</statuteno><catchline>Motor vehicle fee; fee schedules;
+<amendatorysection amended="yes" chaptername="Motor Vehicles" statutenumber="60-3,190"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>60-3,190</statuteno><catchline>Motor vehicle fee; fee schedules;
 Motor Vehicle Fee Fund; created; use; investment.</catchline><para>(1) A motor
 vehicle fee is imposed on all motor vehicles registered for operation in this
 state. An owner of a motor vehicle which is exempt from the imposition of
 a motor vehicle tax pursuant to section 60-3,185 shall also be exempt from
 the imposition of the motor vehicle fee imposed pursuant to this section.</para>
-<para>(2) The county treasurer or designated county official shall annually
-determine the motor vehicle fee on each motor vehicle registered in the county
-based on the age of the motor vehicle pursuant to this section and cause a
-notice of the amount of the fee to be mailed to the registrant at the address
-shown upon his or her registration certificate. The notice shall be printed
-on a form prescribed by the department, shall be combined with the notice
-of the motor vehicle tax, and shall be mailed on or before the first day of
-the last month of the registration period.</para>
+<para>(2) The county treasurer shall annually determine the motor
+vehicle fee on each motor vehicle registered in the county based on the age
+of the motor vehicle pursuant to this section and cause a notice of the amount
+of the fee to be mailed to the registrant at the address shown upon his or
+her registration certificate. The notice shall be printed on a form prescribed
+by the department, shall be combined with the notice of the motor vehicle
+tax, and shall be mailed on or before the first day of the last month of the
+registration period.</para>
 <para>(3) The motor vehicle fee schedules are set out in this subsection and
 subsection (4) of this section. Except for automobiles with a value when new
 of less than $20,000, and for assembled automobiles, the fee shall be calculated
@@ -24,53 +24,52 @@ category of the automobile as shown in the following table:</para>
 <para><table frame="none">
 <tgroup align="left" cols="2">
 <?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec align="left" colname="col1" colwidth="66.67*"/><colspec align="char"
-char="." charoff="50" colname="col2" colwidth="33.33*"/><atict:chgm user="commonUser"
-time="1315928285"><colspec align="right" colname="col2" colwidth="33.33*"/></atict:chgm>
+<colspec colname="col1" colwidth="84.39" /><colspec align="right" colname="col2" colwidth="15.61" />
 <tbody>
 <row valign="middle">
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">YEAR</entry>
-<entry align="center" colsep="0" rowsep="0"><atict:chgm user="commonUser"
-time="1315928308"><entry colsep="0" rowsep="0"></entry></atict:chgm>FRACTION</entry>
+<entry align="center" colsep="0" rowsep="0">FRACTION</entry>
 </row>
 <row valign="middle">
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">First through fifth</entry>
-<entry colsep="0" rowsep="0"><atict:chgm user="commonUser" time="1315931710"><entry
-colsep="0" rowsep="0"></entry></atict:chgm>1.00</entry>
+<entry align="center" colsep="0" rowsep="0">1.00</entry>
 </row>
 <row valign="middle">
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">Sixth through tenth</entry>
-<entry colsep="0" rowsep="0"><atict:chgm user="commonUser" time="1315931838"><entry
-colsep="0" rowsep="0"></entry></atict:chgm>.70</entry>
+<entry align="center" colsep="0" rowsep="0">.70</entry>
 </row>
 <row valign="middle">
+<?PubTbl row rht="0.31in"?>
 <entry colsep="0" rowsep="0">Eleventh and over</entry>
-<entry align="char" colsep="0" rowsep="0"><atict:chgm user="commonUser" time="1315931825"><entry
-colsep="0" rowsep="0"></entry></atict:chgm>.35</entry>
+<entry align="center" colsep="0" rowsep="0">.35</entry>
 </row>
 </tbody>
 </tgroup>
 </table></para>
 <para>(4) The base fee shall be:</para>
 <para>(a) Automobiles, with a value when new of less than $20,000, and assembled
-automobiles &#8212; $5</para>
-<para>(b) Automobiles, with a value when new of $20,000 through $39,999 &#8212; $20</para>
-<para>(c) Automobiles, with a value when new of $40,000 or more &#8212; $30</para>
-<para>(d) Motorcycles &#8212; $10</para>
-<para>(e) Recreational vehicles and cabin trailers &#8212; $10</para>
-<para>(f) Trucks over seven tons and buses &#8212; $30</para>
-<para>(g) Trailers other than semitrailers &#8212; $10</para>
-<para>(h) Semitrailers &#8212; $30</para>
-<para>(i) Minitrucks &#8212; $10</para>
-<para>(j) Low-speed vehicles
-&#8212; $10.</para><para>(5) The motor vehicle tax, motor vehicle fee,
-and registration fee shall be paid to the county treasurer or designated official
-prior to the registration of the motor vehicle for the following registration
-period. After retaining one percent of the motor vehicle fee collected for
-costs, the remaining proceeds shall be remitted to the State Treasurer for
-credit to the Motor Vehicle Fee Fund. The State Treasurer shall return funds
-from the Motor Vehicle Fee Fund remitted by a county treasurer or designated
-county official which are needed for refunds or credits authorized by law.</para>
+automobiles — $5</para>
+<para>(b) Automobiles, with a value when new of $20,000 through $39,999 —
+$20</para>
+<para>(c) Automobiles, with a value when new of $40,000 or more — $30</para>
+<para>(d) Motorcycles — $10</para>
+<para>(e) Recreational vehicles and cabin trailers — $10</para>
+<para>(f) Trucks over seven tons and buses — $30</para>
+<para>(g) Trailers other than semitrailers — $10</para>
+<para>(h) Semitrailers — $30</para>
+<para>(i) Minitrucks — $10</para>
+<para>(j) Low-speed vehicles — $10.</para>
+<para>(5) The motor vehicle tax, motor vehicle fee, and registration fee shall
+be paid to the county treasurer prior to the registration of the motor vehicle
+for the following registration period. After retaining one percent of the
+motor vehicle fee collected for costs, the remaining proceeds shall be remitted
+to the State Treasurer for credit to the Motor Vehicle Fee Fund. The State
+Treasurer shall return funds from the Motor Vehicle Fee Fund remitted by a
+county treasurer which are needed for refunds or credits authorized
+by law.</para>
 <para>(6)(a) The Motor Vehicle Fee Fund is created. On or before the last
 day of each calendar quarter, the State Treasurer shall distribute all funds
 in the Motor Vehicle Fee Fund as follows: (i) Fifty percent to the county
@@ -97,5 +96,5 @@ model year by the manufacturer's designation, the motor vehicle is subject
 to the initial motor vehicle fee for six registration periods.</para>
 <para>(10) Assembled vehicles other than assembled automobiles shall follow
 the schedules for the motor vehicle body type.</para>
-</amendatorysection></section><source><para>Laws 2005, LB 274, &#167; 190; </para><para>Laws 2007, LB286, &#167; 55; </para><para>Laws 2010, LB650, &#167; 29; </para><para>Laws 2011, LB289, &#167; 23.</para></source><crossreference><para><emphasis>Nebraska Capital Expansion Act,</emphasis> see section 72-1269.</para><para><emphasis>Nebraska State Funds Investment Act,</emphasis> see section 72-1260.</para></crossreference>  </law>
+</amendatorysection></section><source><para>Laws 2005, LB 274, &#167; 190; </para><para>Laws 2007, LB286, &#167; 55; </para><para>Laws 2010, LB650, &#167; 29; </para><para>Laws 2011, LB289, &#167; 23; </para><para>Laws 2012, LB801, &#167; 91.</para><effectivedate>July 19, 2012</effectivedate></source><crossreference><para><emphasis>Nebraska Capital Expansion Act,</emphasis> see section 72-1269.</para><para><emphasis>Nebraska State Funds Investment Act,</emphasis> see section 72-1260.</para></crossreference>  </law>
 </legaldoc>

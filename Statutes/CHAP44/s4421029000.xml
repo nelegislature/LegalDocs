@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Insurance" statutenumber="44-2129"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>44-2129</statuteno><catchline>Merger; acquisition; prohibited acts.</catchline><para>(1) It shall be a violation of section 44-2126 to fail to file any statement, amendment, or other material required to be filed under such section.</para><para>(2) It shall be a violation of section 44-2127 to effectuate or attempt to effectuate an acquisition of control of or merger with a domestic insurer unless the director has given his or her approval thereto.</para></amendatorysection></section><source><para>Laws 1991, LB 236, &#167; 10. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Insurance" statutenumber="44-2129"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>44-2129</statuteno><catchline>Acquisition; divestiture; merger; prohibited
+acts.</catchline><para>(1) It shall be a violation of section 44-2126 to fail
+to file any statement, amendment, or other material required to be filed under
+such section.</para>
+<para>(2) It shall be a violation of section 44-2127 to effectuate or attempt
+to effectuate an acquisition of control of,
+divestiture of, or merger with a domestic insurer unless the director
+has given his or her approval thereto.</para>
+</amendatorysection></section><source><para>Laws 1991, LB 236, &#167; 10; </para><para>Laws 2012, LB887, &#167; 7.</para><operativedate>January 1, 2013</operativedate></source>  </law>
+</legaldoc>

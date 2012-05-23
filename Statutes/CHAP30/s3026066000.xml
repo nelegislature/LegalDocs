@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Decedents' Estates" statutenumber="30-2666"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>30-2666</statuteno><catchline>Durable power of attorney not affected by disability.</catchline><para>All acts done by an attorney in fact pursuant to a durable power of attorney during any period of disability or incapacity of the principal have the same effect and inure to the benefit of and bind the principal and his or her successors in interest as if the principal were competent and not disabled.</para></amendatorysection></section><source><para>Laws 1985, LB 292, &#167; 7.</para></source><annotation><para>As a matter of law, the sale of a specifically bequeathed property by an attorney in fact must be treated as the act of a competent principal who, by such act, impliedly revoked the specific bequest of such property. Under the common law, ademption by implied revocation necessarily results from such a transfer. In re Estate of Bauer, 270 Neb. 91, 700 N.W.2d 572 (2005).</para><para>An attorney in fact who is acting under a durable general power of attorney to change the beneficiary designation of a principal's life insurance policy does not effect a gratuitous transfer of the principal's assets when the attorney in fact, or any third party having a relationship with the attorney in fact, does not benefit from the change, and the uncontroverted evidence establishes that the change was made in accordance with the principal's express instructions. First Colony Life Ins. Co. v. Gerdes, 267 Neb. 632, 676 N.W.2d 58 (2004).</para></annotation></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<amendatorysection chaptername="" statutenumber="30-2666">
+				<statuteno>30-2666</statuteno>
+				<catchline>Repealed. Laws 2012, LB 1113, &#167; 50.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>January 1, 2013</operativedate></source>
+	</law>
+</legaldoc>

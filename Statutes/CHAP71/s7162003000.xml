@@ -1,1 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Public Health and Welfare" statutenumber="71-6203"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>71-6203</statuteno><catchline>Definitions, where found.</catchline><para>For purposes of the Nebraska Regulation of Health Professions Act, unless the context otherwise requires, the definitions found in sections 71-6204 to 71-6220.01 shall be used.</para></amendatorysection></section><source><para>Laws 1985, LB 407, &#167; 3; </para><para>Laws 1988, LB 384, &#167; 2; </para><para>Laws 1993, LB 536, &#167; 103. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id35">
+<amendatorysection amended="yes" chaptername="Public Health and Welfare" id="id37" statutenumber="71-6203"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>71-6203</statuteno><catchline id="id40">Definitions,
+where found.</catchline><para>For purposes of the Nebraska Regulation
+of Health Professions Act, unless the context otherwise requires, the definitions
+found in sections 71-6204 to 71-6220.01 shall be used.</para>
+</amendatorysection></section><source><para>Laws 1985, LB 407, &#167; 3; </para><para>Laws 1988, LB 384, &#167; 2; </para><para>Laws 1993, LB 536, &#167; 103; </para><para>Laws 2012, LB834, &#167; 5.</para><effectivedate>July 19, 2012</effectivedate></source>  </law>
+</legaldoc>

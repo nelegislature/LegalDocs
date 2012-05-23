@@ -1,1 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Minerals, Oil, and Gas" statutenumber="57-1206"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>57-1206</statuteno><catchline>Tax; security; notice; use.</catchline><para>The Tax Commissioner, whenever he or she deems it necessary to insure compliance with sections 57-1201 to 57-1214, may require any person subject to the tax imposed by section 57-1202 to deposit with the Tax Commissioner a suitable indemnity bond to insure payment of the tax as the Tax Commissioner may determine. Such security may be used if it becomes necessary to collect any tax, interest, or penalty due. Notice of the use of the bond shall be given to such person by either registered or certified mail.</para></amendatorysection></section><source><para>Laws 1983, LB 356, &#167; 18. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id271">
+<amendatorysection amended="yes" chaptername="Minerals, Oil, and Gas" id="id273" statutenumber="57-1206">
+<bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>57-1206</statuteno><catchline id="id276">Tax; security;
+notice; use.</catchline><para>The Tax Commissioner, whenever he
+or she deems it necessary to insure compliance with sections 57-1201 to 57-1214,
+may require any person subject to the tax imposed by section 57-1202 to deposit
+with the Tax Commissioner a suitable indemnity bond to insure payment of the
+tax as the Tax Commissioner may determine. Such security may be used if it
+becomes necessary to collect any tax, interest, or penalty due. Notice of
+the use of the bond shall be given to such person by mail.</para>
+</amendatorysection></section><source><para>Laws 1983, LB 356, &#167; 18; </para><para>Laws 2012, LB727, &#167; 15.</para><operativedate>April 12, 2012</operativedate></source>  </law>
+</legaldoc>

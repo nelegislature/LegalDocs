@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Revenue and Taxation" statutenumber="77-3311"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>77-3311</statuteno><catchline>Determination of domicile; election to invoke act; notice; rejection; effect.</catchline><para>In any case in which this state and one or more other states each claims that it was a domicile of a decedent at the time of his or her death and no judicial determination of domicile for death tax purposes has been made in any of such states, any executor or administrator or the taxing official of any such state may elect to invoke the provisions of the Uniform Act on Interstate Arbitration and Compromise of Death Taxes. Such election shall be evidenced by the sending of a notice by certified or registered mail, return receipt requested, to the taxing officials of any such state and to each executor, ancillary administrator, and interested person. Any executor or administrator may reject such election by sending a notice by certified or registered mail, return receipt requested, to the taxing officials involved and to all other executors within forty days after the receipt of such notice of election. If such election is rejected, no further proceedings shall be had under the act. If such election is not rejected, the dispute as to the death taxes shall be determined solely as provided in the act, and no other proceedings to determine or assess such death taxes shall thereafter be instituted in the courts of this state or otherwise.</para></amendatorysection></section><source><para>Laws 1976, LB 584, &#167; 11; </para><para>Laws 1987, LB 93, &#167; 21. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id526">
+<amendatorysection amended="yes" chaptername="Revenue and Taxation" id="id528" statutenumber="77-3311">
+<bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>77-3311</statuteno><catchline id="id531">Determination
+of domicile; election to invoke act; notice; rejection; effect.</catchline>
+<para>In any case in which this state and one or more other states
+each claims that it was a domicile of a decedent at the time of his or her
+death and no judicial determination of domicile for death tax purposes has
+been made in any of such states, any executor or administrator or the taxing
+official of any such state may elect to invoke the provisions of the Uniform
+Act on Interstate Arbitration and Compromise of Death Taxes. Such election
+shall be evidenced by mailing notice to the taxing
+officials of any such state and to each executor, ancillary administrator,
+and interested person. Any executor or administrator may reject such election
+by mailing notice to the taxing officials involved
+and to all other executors within forty days after the receipt of such notice
+of election. If such election is rejected, no further proceedings shall be
+had under the act. If such election is not rejected, the dispute as to the
+death taxes shall be determined solely as provided in the act, and no other
+proceedings to determine or assess such death taxes shall thereafter be instituted
+in the courts of this state or otherwise.</para>
+</amendatorysection></section><source><para>Laws 1976, LB 584, &#167; 11; </para><para>Laws 1987, LB 93, &#167; 21; </para><para>Laws 2012, LB727, &#167; 47.</para><operativedate>April 12, 2012</operativedate></source>  </law>
+</legaldoc>

@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Banks and Banking" statutenumber="8-215"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>8-215</statuteno><catchline>Pledged securities; release upon liquidation; conditions.</catchline><para>Any trust company, state or national bank or federal savings association with a trust department, federally chartered trust company, or out-of-state trust company authorized under the Interstate Trust Company Office Act doing business in this state, upon liquidating its business and affairs for reasons other than insolvency, may have its pledged securities released to it upon satisfying the Department of Banking and Finance that it has been lawfully relieved of all its duties and obligations as assignee, receiver, or trustee, either by appointment of court or under will, and for depository of money in court, after first having published notice three successive weeks in some legal newspaper published in the county or, if none is published in the county, in a legal newspaper of general circulation in the county in which the principal place of business of the trust company, trust department of a state or national bank or federal savings association, federally chartered trust company, or out-of-state trust company authorized under the Interstate Trust Company Office Act is located that all claims against such securities, whether absolute or contingent, must be filed with the department by a day certain, not less than thirty days after the last publication of such notice.</para></amendatorysection></section><source><para>Laws 1939, c. 3, &#167; 2, p. 61; </para><para>C.S.Supp.,1941, &#167; 8-212; </para><para>R.S.1943, &#167; 8-215; </para><para>Laws 1986, LB 960, &#167; 3; </para><para>Laws 1993, LB 81, &#167; 29; </para><para>Laws 1998, LB 1321, &#167; 44.</para></source><crossreference><para><emphasis>Interstate Trust Company Office Act,</emphasis> see section 8-2301.</para></crossreference><annotation><para>Department of Banking, as liquidating agent for trust company by proceedings hereunder, is not "adverse holder", and is required to obey summary order to turn over property to bankruptcy receiver. Gamble v. Daniel, 39 F.2d 447 (8th Cir 1930), appeal dismissed 281 U.S. 705 (1930).</para></annotation></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Banks and Banking" statutenumber="8-215"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>8-215</statuteno><catchline>Pledged securities; release upon liquidation;
+conditions.</catchline><para>Any trust company, state or national bank or
+federal savings association with a trust department, federally chartered trust
+company, out-of-state
+trust company authorized under the Interstate Trust Company Office Act or otherwise doing business
+in this state, or out-of-state
+entity acting in a fiduciary capacity in this state, upon liquidating
+its business and affairs for reasons other than insolvency, may have its pledged
+securities released to it upon satisfying the Department of Banking and Finance
+that it has been lawfully relieved of all its duties and obligations as assignee,
+receiver, or trustee, either by appointment of court or under will, and for
+depository of money in court, after first having published notice three successive
+weeks in some legal newspaper published in the county or, if none is published
+in the county, in a legal newspaper of general circulation in the county in
+which the principal place of business of the trust company, trust department
+of a state or national bank or federal savings association, or federally chartered trust company is located that
+all claims against such securities, whether absolute or contingent, must be
+filed with the department by a day certain, not less than thirty days after
+the last publication of such notice. In
+the case of an out-of-state trust company authorized under the Interstate
+Trust Company Office Act or otherwise doing business in this state, or in
+the case of any out-of-state entity acting in a fiduciary capacity in this
+state, the notice shall be published in each county in Nebraska where the
+out-of-state trust company or out-of-state entity maintains an office, does
+business, or acts in a fiduciary capacity, or maintained an office, conducted
+business, or acted in a fiduciary capacity, within one year prior to the liquidation
+of its affairs.</para>
+</amendatorysection></section><source><para>Laws 1939, c. 3, &#167; 2, p. 61; </para><para>C.S.Supp.,1941, &#167; 8-212; </para><para>R.S.1943, &#167; 8-215; </para><para>Laws 1986, LB 960, &#167; 3; </para><para>Laws 1993, LB 81, &#167; 29; </para><para>Laws 1998, LB 1321, &#167; 44; </para><para>Laws 2012, LB963, &#167; 9.</para><effectivedate>April 7, 2012</effectivedate></source><crossreference><para><emphasis>Interstate Trust Company Office Act,</emphasis> see section 8-2301.</para></crossreference><annotation><para>Department of Banking, as liquidating agent for trust company by proceedings hereunder, is not "adverse holder", and is required to obey summary order to turn over property to bankruptcy receiver. Gamble v. Daniel, 39 F.2d 447 (8th Cir 1930), appeal dismissed 281 U.S. 705 (1930).</para></annotation>  </law>
+</legaldoc>

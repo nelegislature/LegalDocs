@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Revenue and Taxation" statutenumber="77-5210"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>77-5210</statuteno><catchline>Board; annual report.</catchline><para>The board shall submit an annual report of the activities and actions of the board for the preceding fiscal year to the Governor, the Legislative Fiscal Analyst, and the Clerk of the Legislature by December 1. Each member of the Legislature shall receive a copy of such report by request to the chairperson of the board. Each report shall include the following information:</para><para>(1) A complete operating and financial statement for the board for the prior fiscal year;</para><para>(2) The number of qualified beginning farmers and livestock producers receiving assistance from the board;</para><para>(3) The number of owners of agricultural assets claiming tax credits and the monetary amount of credits granted by the board; and</para><para>(4) Any other relevant information which the board deems necessary to report.</para><para>No information furnished to the board shall be disclosed in the report in such a way as to reveal information from a tax return of any person.</para></amendatorysection></section><source><para>Laws 1999, LB 630, &#167; 11; </para><para>Laws 2000, LB 1223, &#167; 6. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Revenue and Taxation" statutenumber="77-5210"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>77-5210</statuteno><catchline>Board; annual report.</catchline>
+<para>The board shall submit an annual report of the activities and actions
+of the board for the preceding fiscal year to the Governor, the Legislative
+Fiscal Analyst, and the Clerk of the Legislature by December 1. The report submitted to the Legislative
+Fiscal Analyst and the Clerk of the Legislature shall be submitted electronically. Each
+member of the Legislature shall receive an electronic copy of such
+report by request to the chairperson of the board. Each report shall include
+the following information:</para>
+<para>(1) A complete operating and financial statement for the board for the
+prior fiscal year;</para>
+<para>(2) The number of qualified beginning farmers and livestock producers
+receiving assistance from the board;</para>
+<para>(3) The number of owners of agricultural assets claiming tax credits
+and the monetary amount of credits granted by the board; and</para>
+<para>(4) Any other relevant information which the board deems necessary to
+report.</para>
+<para>No information furnished to the board shall be disclosed in the report
+in such a way as to reveal information from a tax return of any person.</para>
+</amendatorysection></section><source><para>Laws 1999, LB 630, &#167; 11; </para><para>Laws 2000, LB 1223, &#167; 6; </para><para>Laws 2012, LB782, &#167; 141.</para><operativedate>July 19, 2012</operativedate></source>  </law>
+</legaldoc>

@@ -1,54 +1,62 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id4">
-<sectno id="id5" opdate="July 1, 2010">Sec. 3.</sectno><amendatorysection amended="yes" chaptername="State Uni., State Colleges, and Post. Education" id="id6" statutenumber="85-1802"><bookinfo>Revised Statutes Cumulative Supplement, 2010</bookinfo><statuteno id="id8">85-1802</statuteno><catchline id="id9">Terms, defined.</catchline><para>For purposes of sections 85-1801 to 85-1814:</para>
-<para>(1) Administrative fund means the College Savings Plan Administrative Fund created
-in section 85-1807;</para>
+<section id="id10">
+<amendatorysection amended="yes" chaptername="State Uni., State Colleges, and Post. Education" id="id12" statutenumber="85-1802"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>85-1802</statuteno><catchline id="id15">Terms, defined.</catchline>
+<para>For purposes of sections 85-1801 to 85-1814:</para>
+<para>(1) Administrative fund means the College Savings Plan Administrative
+Fund created in section 85-1807;</para>
 <para>(2) Beneficiary means the individual designated by a participation
-agreement to benefit from advance payments of higher education costs on behalf
-of the beneficiary;</para>
-<para>(3) Benefits means the payment of higher education costs on
-behalf of a beneficiary by the trust during the beneficiary's attendance at
-an institution of higher education;</para>
-<para>(4) Expense
+agreement to benefit from advance payments of qualified higher education expenses on
+behalf of the beneficiary;</para>
+<para>(3) Benefits means the payment of qualified higher education expenses on
+behalf of a beneficiary by the Nebraska
+educational savings plan trust during the beneficiary's attendance
+at an eligible
+educational institution;</para>
+<para>(4) Eligible
+educational institution means an institution described in 20 U.S.C. 1088 which
+is eligible to participate in a program under Title IV of the federal Higher
+Education Act of 1965;</para><para>(5) Expense
 fund means the College Savings Plan Expense Fund created in section 85-1807;</para>
-<para>(5) Higher education costs means the certified costs of tuition
-and fees, books, supplies, and equipment required for enrollment or attendance
-at an institution of higher education. Reasonable room and board expenses,
-based on the minimum amount applicable for the institution of higher education
-during the period of enrollment, shall be included as a higher education cost
-for those students enrolled on at least a half-time basis. Higher education
-costs shall not include any amounts in excess of those allowed by section
-529 of the Internal Revenue Code;</para>
-<para>(6) Institution of higher education means an institution described
-in section 529 of the Internal Revenue Code which is eligible to participate
-in the United States Department of Education's student aid programs;</para>
-<para>(7) Nebraska educational savings plan trust means the trust
-created in section 85-1804;</para>
-<para>(8) Nebraska institution of higher education means an institution
-described in section 529 of the Internal Revenue Code which is eligible to
-participate in the United States Department of Education's student aid program
-and which is located in Nebraska;</para>
-<para>(9) Participant means an individual, an individual's legal
-representative, or any other legal entity authorized to establish a savings
-account under section 529 of the Internal Revenue Code who has entered into
-a participation agreement for the advance payment of higher education costs
-on behalf of a beneficiary;</para>
-<para>(10) Participation agreement means an agreement between a
-participant and the Nebraska educational savings plan trust entered into under
-sections 85-1801 to 85-1814;</para>
-<para>(11) Program fund means the College Savings
-Plan Program Fund created in section 85-1807;</para>
-<para>(12) Refund penalty means the amount assessed by the State
-Treasurer for cancellation of a participation agreement or other refund which
-is not considered a de minimis penalty pursuant to section 529 of the Internal
-Revenue Code;</para>
-<para>(13) Section 529 of the Internal Revenue Code means such section
-of the code and the regulations interpreting such section, as such section
-and regulations existed on April 18, 2001; and</para>
-<para>(14) Tuition and fees means the quarter or semester charges
-imposed to attend an institution of higher education and required as a condition
-of enrollment.</para>
-</amendatorysection></section><source><para>Laws 2000, LB 1003, &#167; 2; </para><para>Laws 2001, LB 750, &#167; 1; </para><para>Laws 2010, LB197, &#167; 3.</para></source>  </law>
+
+<para>(6) Nebraska
+educational savings plan trust means the trust created in section 85-1804;</para>
+<para>(7) Nonqualified withdrawal refers to (a) a distribution from an
+account to the extent it is not used to pay the qualified higher education
+expenses of the beneficiary or (b) a qualified rollover permitted by section
+529 of the Internal Revenue Code where the funds are transferred to a qualified
+tuition program sponsored by another state or entity;</para><para>(8) Participant or account owner means an
+individual, an individual's legal representative, or any other legal entity
+authorized to establish a savings account under section 529 of the Internal
+Revenue Code who has entered into a participation agreement for the advance
+payment of qualified higher
+education expenses on behalf of a beneficiary;</para>
+<para>(9) Participation agreement
+means an agreement between a participant and the Nebraska educational savings
+plan trust entered into under sections 85-1801 to 85-1814;</para>
+<para>(10) Program fund means the
+College Savings Plan Program Fund created in section 85-1807;</para>
+<para>(11) Qualified higher
+education expenses means the certified costs of tuition and fees, books, supplies,
+and equipment required for enrollment or attendance at an eligible educational
+institution. Reasonable room and board expenses, based on the minimum amount
+applicable for the eligible educational institution during the period of enrollment,
+shall be included as qualified higher education expenses for those students
+enrolled on at least a half-time basis. In the case of a special needs beneficiary,
+expenses for special needs services incurred in connection with enrollment
+or attendance at an eligible educational institution shall be included as
+qualified higher education expenses. Expenses paid or incurred in 2009 or
+2010 for the purchase of computer technology or equipment or Internet access
+and related services, subject to the limitations set forth in section 529
+of the Internal Revenue Code, shall be included as qualified higher education
+expenses. Qualified higher education expenses does not include any amounts
+in excess of those allowed by section 529 of the Internal Revenue Code;</para>
+<para>(12) Section 529 of the Internal
+Revenue Code means such section of the code and the regulations interpreting
+such section; and</para>
+<para>(13) Tuition and fees means
+the quarter or semester charges imposed to attend an eligible
+educational institution.</para>
+</amendatorysection></section><source><para>Laws 2000, LB 1003, &#167; 2; </para><para>Laws 2001, LB 750, &#167; 1; </para><para>Laws 2010, LB197, &#167; 3; </para><para>Laws 2012, LB1104, &#167; 4.</para><effectivedate>July 19, 2012</effectivedate></source>  </law>
 </legaldoc>

@@ -1,1 +1,56 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Insurance" statutenumber="44-2137"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>44-2137</statuteno><catchline>Examination by director.</catchline><para>(1) Subject to the limitation contained in this section and in addition to the powers which the director has under the Insurers Examination Act relating to the examination of insurers, the director shall also have the power to order any insurer registered under section 44-2132 to produce such records, books, or other information papers in the possession of the insurer or its affiliates as are reasonably necessary to ascertain the financial condition of such insurer or to determine compliance with Chapter 44. In the event such insurer fails to comply with such order, the director may examine such affiliates to obtain such information.</para><para>(2) The director may retain at the registered insurer's expense such attorneys, actuaries, accountants, and other experts who are not employees of the Department of Insurance as shall be reasonably necessary to assist in the conduct of the examination under this section. Any persons so retained shall be under the direction and control of the director and shall act in a purely advisory capacity.</para><para>(3) Each registered insurer producing for examination records, books, and papers pursuant to this section shall be liable for and shall pay the expense of such examination in accordance with the Insurers Examination Act.</para></amendatorysection></section><source><para>Laws 1991, LB 236, &#167; 17; </para><para>Laws 1993, LB 583, &#167; 85. </para></source><crossreference><para><emphasis>Insurers Examination Act,</emphasis> see section 44-5901.</para></crossreference></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Insurance" statutenumber="44-2137"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>44-2137</statuteno><catchline>Examination by director; director; powers; penalty.</catchline>
+<para>(1)(a) Subject
+to the limitation contained in this section and in addition to the powers
+which the director has under the Insurers Examination Act relating to the
+examination of insurers, the director may
+examine any insurer registered under section 44-2132 and its affiliates to
+ascertain the financial condition of the insurer, including the enterprise
+risk to the insurer by the ultimate controlling party, by any entity or combination
+of entities within the insurance holding company system, or by the insurance
+holding company system on a consolidated basis.</para>
+<para>(b) The director may order
+any insurer registered under section 44-2132 to produce such records, books,
+or other information papers in the possession of the insurer or its affiliates
+as are reasonably necessary to determine compliance
+with Chapter 44.</para>
+<para>(c) To determine compliance
+with Chapter 44, the director may order any insurer registered under section
+44-2132 to produce information not in the possession of the insurer if the
+insurer can obtain access to such information pursuant to contractual relationships,
+statutory obligations, or another method. If the insurer cannot obtain the
+information requested by the director, the insurer shall provide the director
+a detailed explanation of the reason that the insurer cannot obtain the information
+and the identity of the holder of the information. If it appears to the director
+that the detailed explanation is without merit, the director may require,
+after notice and hearing, the insurer to pay a penalty of one hundred dollars
+for each day's delay, not to exceed an aggregate penalty of ten thousand dollars,
+or may suspend or revoke the insurer's certificate of authority.</para>
+<para>(2) The director may retain at the registered insurer's expense such
+attorneys, actuaries, accountants, and other experts who are not employees
+of the Department of Insurance as shall be reasonably necessary to assist
+in the conduct of the examination under this section. Any persons so retained
+shall be under the direction and control of the director and shall act in
+a purely advisory capacity.</para>
+<para>(3) Each registered insurer producing for examination records, books,
+and papers pursuant to this section shall be liable for and shall pay the
+expense of such examination in accordance with the Insurers Examination Act.</para>
+<para>(4) If the insurer fails
+to comply with an order, the director may examine the affiliates to obtain
+the information. The director may also issue subpoenas, administer oaths,
+and examine under oath any person for purposes of determining compliance with
+this section. Upon the failure or refusal of any person to obey a subpoena,
+the director may petition a court of competent jurisdiction, and upon proper
+showing, the court may enter an order compelling the witness to appear and
+testify or produce documentary evidence. Failure to obey the court order shall
+be punishable by contempt of court. Every person shall be obliged to attend
+as a witness at the place specified in the subpoena, when subpoenaed, anywhere
+within the state. He or she shall be entitled to the same fees and mileage,
+if claimed, as a witness in the district court, which fees, mileage, and actual
+expenses, if any, necessarily incurred in securing the attendance of witnesses
+and their testimony, shall be itemized, charged against, and paid by the entity
+being examined.</para></amendatorysection></section><source><para>Laws 1991, LB 236, &#167; 17; </para><para>Laws 1993, LB 583, &#167; 85; </para><para>Laws 2012, LB887, &#167; 11.</para><operativedate>January 1, 2013</operativedate></source><crossreference><para><emphasis>Insurers Examination Act,</emphasis> see section 44-5901.</para></crossreference>  </law>
+</legaldoc>

@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="State Officers" statutenumber="84-1205.05"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>84-1205.05</statuteno><catchline>Board; reports.</catchline><para>The board shall provide quarterly reports to the Executive Board of the Legislative Council and Nebraska Information Technology Commission on its activities pursuant to sections 84-1205 to 84-1205.04.</para></amendatorysection></section><source><para>Laws 1997, LB 590, &#167; 11; </para><para>Laws 1998, LB 924, &#167; 55. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="State Officers" statutenumber="84-1205.05"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>84-1205.05</statuteno><catchline>Board; reports.</catchline><para>The
+board shall provide annual reports to the Executive
+Board of the Legislative Council and Nebraska Information Technology Commission
+on its activities pursuant to sections 84-1205 to 84-1205.03.
+The report submitted to the executive board shall be submitted electronically.</para>
+</amendatorysection></section><source><para>Laws 1997, LB 590, &#167; 11; </para><para>Laws 1998, LB 924, &#167; 55; </para><para>Laws 2012, LB719, &#167; 14; </para><para>Laws 2012, LB782, &#167; 230; </para><para>Laws 2012, LB880, &#167; 5.</para><note>The Revisor of Statutes has pursuant to section 49-769 correlated LB719, section 14, with LB782, section 230, and LB880, section 5, to reflect all amendments.</note><note>Changes made by LB719 and LB880 became effective July 19, 2012. Changes made by LB782 became operative July 19, 2012.</note></source>  </law>
+</legaldoc>

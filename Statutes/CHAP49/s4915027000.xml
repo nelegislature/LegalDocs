@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Law" statutenumber="49-1527"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>49-1527</statuteno><catchline>Specific Authority for Assistants, defined.</catchline><para>The short form expression, Specific Authority for Assistants, shall mean that the principal generally authorizes and empowers the agent to compensate and reimburse the expenses of, to employ, engage, or hire, and to discharge or terminate the services of any accountant, advisor, attorney, doctor, expert, or other nonprofessional or professional assistant or consultant appropriate, convenient, or necessary for effectuation of, and otherwise to secure through any assistant any advice or help reasonably useful in the discharge of, any other specific authority or general power granted to the agent by the principal.</para></amendatorysection></section><source><para>Laws 1988, LB 475, &#167; 27. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<amendatorysection chaptername="" statutenumber="49-1527">
+				<statuteno>49-1527</statuteno>
+				<catchline>Repealed. Laws 2012, LB 1113, &#167; 50.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>January 1, 2013</operativedate></source>
+	</law>
+</legaldoc>

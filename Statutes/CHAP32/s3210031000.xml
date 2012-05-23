@@ -1,1 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Elections" statutenumber="32-1031"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>32-1031</statuteno><catchline>County canvassing board; canvass of votes; procedure.</catchline><para>(1) After counting the ballots under section 32-1027, the county canvassing board shall proceed with the official canvass of votes cast on election day. If in the process of canvassing the votes for any candidate or measure in any precinct the election commissioner or county clerk or the canvassing board determines that there is an obvious error in the certification of the votes, the error shall be corrected. The county canvassing board may open the ballots-cast container and recount the ballots for any candidate or any measure which appears to be in error. If the county canvassing board finds and corrects any such error, it shall make the correction entry in the precinct sign-in register, the precinct list of registered voters, and the official summary or summaries of votes cast and shall attach a letter of explanation to each book where the correction was made. The letter shall be signed by all members of the county canvassing board.</para><para>(2) When it has been determined that the returns in all precincts are correct, the county canvassing board shall enter the same in a permanent ledger. The permanent ledger shall be preserved by the election commissioner or county clerk for the period of time specified by the State Records Administrator pursuant to the Records Management Act, and then it may be transferred to the State Archives of the Nebraska State Historical Society for permanent preservation.</para><para>(3) Any recesses or adjournments of the county canvassing board shall be to a fixed time and publicly announced. When a recess is called, all ballots that have not been counted and all other supplies shall be placed in a fireproof safe or other suitable location which is locked until such board reconvenes.</para></amendatorysection></section><source><para>Laws 1994, LB 76, &#167; 325; </para><para>Laws 2005, LB 98, &#167; 28. </para></source><crossreference><para><emphasis>Records Management Act,</emphasis> see section 84-1220.</para></crossreference></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id20"><?Pub Caret1?>
+<amendatorysection amended="yes" chaptername="Elections" id="id22" statutenumber="32-1031"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>32-1031</statuteno><catchline id="id25">County canvassing
+board; canvass of votes; procedure.</catchline><para>(1) After counting
+the ballots under section 32-1027, the county canvassing board shall proceed
+with the official canvass of votes cast on election day. If in the process
+of canvassing the votes for any candidate or measure in any precinct the election
+commissioner or county clerk or the canvassing board determines that there
+is an obvious error in the certification of the votes, the error shall be
+corrected. The county canvassing board may open the ballots-cast container
+and recount the ballots for any candidate or any measure which appears to
+be in error. If the county canvassing board finds and corrects any such error,
+it shall make the correction entry in the precinct sign-in register, the precinct
+list of registered voters, and the official summary or summaries of votes
+cast and shall attach a letter of explanation to each book where the correction
+was made. The letter shall be signed by all members of the county canvassing
+board.</para>
+<para>(2) When it has been determined that the returns in all precincts
+are correct, the county canvassing board shall provide
+a record of the results to the election commissioner or county
+clerk either in a ledger or
+by using a computer printout. The election commissioner or county clerk shall
+preserve the record of the results for the period of time specified
+by the State Records Administrator pursuant to the Records Management Act,
+and then it may be transferred to the State Archives of the Nebraska State
+Historical Society for permanent preservation.</para>
+<para>(3) Any recesses or adjournments of the county canvassing
+board shall be to a fixed time and publicly announced. When a recess is called,
+all ballots that have not been counted and all other supplies shall be placed
+in a fireproof safe or other suitable location which is locked until such
+board reconvenes.</para>
+</amendatorysection></section><source><para>Laws 1994, LB 76, &#167; 325; </para><para>Laws 2005, LB 98, &#167; 28; </para><para>Laws 2012, LB1035, &#167; 3.</para><effectivedate>July 19, 2012</effectivedate></source><crossreference><para><emphasis>Records Management Act,</emphasis> see section 84-1220.</para></crossreference>  </law>
+</legaldoc>

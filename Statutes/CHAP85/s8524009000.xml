@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id77">
-<amendatorysection chaptername="State Uni., State Colleges, and Post. Education" id="id79" publishedsource="AnnualSupplement" statutenumber="85-2409"><bookinfo>Revised Statutes Supplement, 2011</bookinfo>
-<statuteno>85-2409</statuteno><catchline>Postsecondary institution; charge
-for tuition or fees; loans; prohibited acts.</catchline><para>No postsecondary institution authorized
-to operate under the Postsecondary Institution Act shall charge tuition or
-fees for more than one academic term or require a student to sign loan documents
-for more than one academic year.</para>
-</amendatorysection></section><source><para>Laws 2011, LB637, &#167; 9.</para></source>  </law>
+<section>
+<amendatorysection amended="yes" chaptername="State Uni., State Colleges, and Post. Education" id="id79" publishedsource="AnnualSupplement" statutenumber="85-2409"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>85-2409</statuteno><catchline>Postsecondary institution; charge
+for tuition or fees; loans; prohibited acts.</catchline><para>No postsecondary
+institution with an authorization to operate
+under the Postsecondary Institution Act shall charge tuition or fees for more
+than one academic term or require a student to sign loan documents for more
+than one academic year.</para>
+</amendatorysection></section><source><para>Laws 2011, LB637, &#167; 9; </para><para>Laws 2012, LB1104, &#167; 17.</para><effectivedate>July 19, 2012</effectivedate></source>  </law>
 </legaldoc>

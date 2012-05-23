@@ -1,1 +1,75 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Cities of the First Class" statutenumber="16-1002"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>16-1002</statuteno><catchline>Terms, defined.</catchline><para>For purposes of sections 16-1001 to 16-1019, unless the context otherwise requires:</para><para>(1) Actuarial equivalent shall mean equality in value of the aggregate amount of benefit expected to be received under different forms of benefit or at different times determined as of a given date as adopted by the city or the retirement committee for use by the retirement system. Actuarial equivalencies shall be specified in the funding medium established for the retirement system, except that if benefits under the retirement system are obtained through the purchase of an annuity contract, the actuarial equivalent of any such form of benefit shall be the amount of pension benefit which can be purchased or otherwise provided by the police officer's retirement value. All actuarial and mortality assumptions adopted by the city or retirement committee shall be on a sex-neutral basis;</para><para>(2) Beneficiary shall mean the person or persons designated by a police officer, pursuant to a written instrument filed with the retirement committee before the police officer's death, to receive death benefits which may be payable under the retirement system;</para><para>(3) Funding agent shall mean any bank, trust company, life insurance company, thrift institution, credit union, or investment management firm selected by the city or retirement committee to hold or invest the funds of the retirement system;</para><para>(4) Regular interest shall mean the rate of interest earned each calendar year commencing January 1, 1984, equal to the rate of net earnings realized for the calendar year from investments of the retirement fund. Net earnings shall mean the amount by which income or gain realized from investments of the retirement fund exceeds the amount of any realized losses from such investments during the calendar year;</para><para>(5) Regular pay shall mean the average salary of a police officer for the five years preceding the date such police officer elects to retire, the five years preceding his or her death, or the five years preceding the date of disability, whichever is earliest, except that for any police officer who retires, dies, or becomes disabled after July 15, 1992, regular pay shall mean the average salary of the police officer for the period of five consecutive years preceding such retirement, death, or disability which produces the highest average;</para><para>(6) Salary shall mean all amounts paid to a participating police officer by the employing city for personal services as reported on the participant's federal income tax withholding statement, including the police officer's contributions picked up by the city as provided in subsection (2) of section 16-1005 and any salary reduction contributions which are excludable from income for federal income tax purposes pursuant to section 125 or 457 of the Internal Revenue Code;</para><para>(7) Retirement committee shall mean the retirement committee created pursuant to section 16-1014;</para><para>(8) Retirement system shall mean a retirement system established pursuant to sections 16-1001 to 16-1019;</para><para>(9) Retirement value shall mean the accumulated value of the police officer's employee account and employer account. The retirement value shall consist of the sum of the contributions made or transferred to such accounts by the police officer and by the city on the police officer's behalf and the regular interest credited to the accounts as of the date of computation, reduced by any realized losses which were not taken into account in determining regular interest in any year, and further adjusted each year to reflect the pro rata share for the accounts of the appreciation or depreciation of the fair market value of the assets of the retirement system as determined by the retirement committee. The retirement value shall be reduced by the amount of all distributions made to or on the behalf of the police officer from the retirement system. Such valuation shall be computed annually as of December 31. If separate investment accounts are established pursuant to subsection (3) of section 16-1004, a police officer's retirement value with respect to such accounts shall be equal to the value of his or her separate investment accounts as determined under such subsection;</para><para>(10) Annuity contract shall mean the contract or contracts issued by one or more life insurance companies and purchased by the retirement system in order to provide any of the benefits described in sections 16-1001 to 16-1019. Annuity conversion rates contained in any such contract shall be specified on a sex-neutral basis; and</para><para>(11) Straight life annuity shall mean an ordinary annuity payable for the life of the primary annuitant only and terminating at his or her death without refund or death benefit of any kind.</para></amendatorysection></section><source><para>Laws 1983, LB 237, &#167; 2; </para><para>Laws 1992, LB 672, &#167; 7; </para><para>Laws 1995, LB 574, &#167; 17. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id11">
+<amendatorysection amended="yes" chaptername="Cities of the First Class" id="id13" statutenumber="16-1002">
+<bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>16-1002</statuteno><catchline id="id16">Terms, defined.</catchline>
+<para>For purposes of the
+Police Officers Retirement Act, unless the context otherwise requires:</para>
+<para>(1) Actuarial equivalent means equality
+in value of the aggregate amount of benefit expected to be received under
+different forms of benefit or at different times determined as of a given
+date as adopted by the city or the retirement committee for use by the retirement
+system. Actuarial equivalencies shall be specified in the funding medium established
+for the retirement system, except that if benefits under the retirement system
+are obtained through the purchase of an annuity contract, the actuarial equivalent
+of any such form of benefit shall be the amount of pension benefit which can
+be purchased or otherwise provided by the police officer's retirement value.
+All actuarial and mortality assumptions adopted by the city or retirement
+committee shall be on a sex-neutral basis;</para>
+<para>(2) Beneficiary means the
+person or persons designated by a police officer, pursuant to a written instrument
+filed with the retirement committee before the police officer's death, to
+receive death benefits which may be payable under the retirement system;</para>
+<para>(3) Funding agent means any
+bank, trust company, life insurance company, thrift institution, credit union,
+or investment management firm selected by the city or retirement committee
+to hold or invest the funds of the retirement system;</para>
+<para>(4) Regular interest means the
+rate of interest earned each calendar year equal to the rate of net earnings realized for
+the calendar year from investments of the retirement fund. Net earnings means the amount by which income or gain realized
+from investments of the retirement fund exceeds the amount of any realized
+losses from such investments during the calendar year;</para>
+<para>(5) Regular pay means the average salary of
+the police officer for the period of five consecutive years preceding elective retirement, death, or date of disability which produces the highest
+average;</para>
+<para>(6) Salary means all
+amounts paid to a participating police officer by the employing city for personal
+services as reported on the participant's federal income tax withholding statement,
+including the police officer's contributions picked up by the city as provided
+in subsection (2) of section 16-1005 and any salary reduction contributions
+which are excludable from income for federal income tax purposes pursuant
+to section 125 or 457 of the Internal Revenue Code;</para>
+<para>(7) Retirement committee means the
+retirement committee created pursuant to section 16-1014;</para>
+<para>(8) Retirement system means a
+retirement system established pursuant to the
+act;</para>
+<para>(9) Retirement value means the
+accumulated value of the police officer's employee account and employer account.
+The retirement value consists of
+the sum of the contributions made or transferred to such accounts by the police
+officer and by the city on the police officer's behalf and the regular interest
+credited to the accounts as of the date of computation, reduced by any realized
+losses which were not taken into account in determining regular interest in
+any year, and further adjusted each year to reflect the pro rata share for
+the accounts of the appreciation or depreciation of the fair market value
+of the assets of the retirement system as determined by the retirement committee.
+The retirement value shall be reduced by the amount of all distributions made
+to or on the behalf of the police officer from the retirement system. Such
+valuation shall be computed annually as of December 31. If separate investment
+accounts are established pursuant to subsection (3) of section 16-1004, a
+police officer's retirement value with respect to such accounts shall be equal
+to the value of his or her separate investment accounts as determined under
+such subsection;</para>
+<para>(10) Annuity contract means the
+contract or contracts issued by one or more life insurance companies and purchased
+by the retirement system in order to provide any of the benefits described
+in the act. Annuity conversion
+rates contained in any such contract shall be specified on a sex-neutral basis;
+and</para>
+<para>(11) Straight life annuity means an
+ordinary annuity payable for the life of the primary annuitant only and terminating
+at his or her death without refund or death benefit of any kind.</para>
+</amendatorysection></section><source><para>Laws 1983, LB 237, &#167; 2; </para><para>Laws 1992, LB 672, &#167; 7; </para><para>Laws 1995, LB 574, &#167; 17; </para><para>Laws 2012, LB1082, &#167; 2.</para><effectivedate>April 17, 2012</effectivedate></source>  </law>
+</legaldoc>

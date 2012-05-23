@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Law" statutenumber="49-1518"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>49-1518</statuteno><catchline>Present durable power of attorney, defined.</catchline><para>Present durable power of attorney shall mean a power of attorney not affected by, but continued and made operative from its inception without regard to, the later occurrence of incompetence of the principal or uncertainty as to the death of the principal as permitted by the Uniform Durable Power of Attorney Act or any other applicable provisions of the Nebraska Probate Code.</para></amendatorysection></section><source><para>Laws 1988, LB 475, &#167; 18. </para></source><crossreference><para><emphasis>Nebraska Probate Code,</emphasis> see section 30-2201.</para><para><emphasis>Uniform Durable Power of Attorney Act,</emphasis> see section 30-2664.</para></crossreference></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<amendatorysection chaptername="" statutenumber="49-1518">
+				<statuteno>49-1518</statuteno>
+				<catchline>Repealed. Laws 2012, LB 1113, &#167; 50.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>January 1, 2013</operativedate></source>
+	</law>
+</legaldoc>

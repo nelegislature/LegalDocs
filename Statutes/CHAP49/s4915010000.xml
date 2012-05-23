@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Law" statutenumber="49-1510"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>49-1510</statuteno><catchline>Contingency, defined.</catchline><para>Contingency shall mean the occurrence of incompetence of the principal under any contingent durable power of attorney or present durable power of attorney or the occurrence of any other event or other combination of events either exclusive or inclusive of incompetence of the principal specified by the principal under any contingent durable power of attorney or present durable power of attorney as a condition concurrent with or precedent to its complete operativeness.</para></amendatorysection></section><source><para>Laws 1988, LB 475, &#167; 10. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<amendatorysection chaptername="" statutenumber="49-1510">
+				<statuteno>49-1510</statuteno>
+				<catchline>Repealed. Laws 2012, LB 1113, &#167; 50.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>January 1, 2013</operativedate></source>
+	</law>
+</legaldoc>

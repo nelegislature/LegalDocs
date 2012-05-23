@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id72">
-<sectno id="id73">Sec. 14.</sectno><amendatorysection amended="yes" chaptername="Revenue and Taxation" id="id74" publishedsource="CumulativeSupplement" statutenumber="77-2711"><bookinfo>Revised Statutes Cumulative Supplement, 2010</bookinfo><statuteno id="id76">77-2711</statuteno><catchline id="id77">Sales and use
-tax; Tax Commissioner; enforcement; records; retain; reports; wrongful disclosures;
+<section id="id4">
+<amendatorysection amended="yes" chaptername="Revenue and Taxation" id="id6" publishedsource="CumulativeSupplement" statutenumber="77-2711"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>77-2711</statuteno><catchline id="id9">Sales and use tax;
+Tax Commissioner; enforcement; records; retain; reports; wrongful disclosures;
 exceptions; information provided to municipality; penalty; waiver; streamlined
 sales and use tax agreement; confidentiality rights.</catchline><para>(1)(a)
 The Tax Commissioner shall enforce sections 77-2701.04 to 77-2713 and may
@@ -77,10 +77,10 @@ Government or to states allowing similar privileges to the Tax Commissioner,
 (e) the disclosure of information and records to a collection agency contracting
 with the Tax Commissioner pursuant to sections 77-377.01 to 77-377.04, (f)
 the disclosure to another party to a transaction of information and records
-concerning the transaction between the taxpayer and the other party, (g) the disclosure of information
-pursuant to section 77-27,195 or 77-5731,
-or (h) the disclosure of information to the Department of Labor necessary
-for the administration of the Employment Security Law, the Contractor Registration
+concerning the transaction between the taxpayer and the other party, (g) the
+disclosure of information pursuant to section 77-27,195 or 77-5731, or (h)
+the disclosure of information to the Department of Labor necessary for the
+administration of the Employment Security Law, the Contractor Registration
 Act, or the Employee Classification Act.</para>
 <para>(8) Notwithstanding the provisions of subsection (7) of this
 section, the Tax Commissioner may permit the Postal Inspector of the United
@@ -99,11 +99,11 @@ of enforcing a tax law and only to the extent and under the conditions prescribe
 by the rules and regulations of the Tax Commissioner.</para>
 <para>(10) Notwithstanding the provisions of subsection (7) of this
 section, the Tax Commissioner may, upon request, provide the county board
-of any county which has exercised the authority granted by section 81-1254
-with a list of the names and addresses of the hotels located within the county
-for which lodging sales tax returns have been filed or for which lodging sales
-taxes have been remitted for the county's County Visitors Promotion Fund under
-the Nebraska Visitors Development Act.</para>
+of any county which has exercised the authority granted by section 81-3716 with a list of the names and addresses
+of the hotels located within the county for which lodging sales tax returns
+have been filed or for which lodging sales taxes have been remitted for the
+county's County Visitors Promotion Fund under the Nebraska Visitors Development
+Act.</para>
 <para>The information provided by the Tax Commissioner shall indicate
 only the names and addresses of the hotels located within the requesting county
 for which lodging sales tax returns have been filed for a specified period
@@ -133,8 +133,7 @@ or otherwise identify, directly or indirectly, a particular taxpayer.</para>
 shall be guilty of a Class I misdemeanor. For purposes of this subsection,
 employee includes a former Auditor of Public Accounts or Legislative Performance
 Audit Section employee.</para>
-<para>(12) For purposes of this subsection and subsection (11) of
-this section:</para>
+<para>(12) For purposes of this subsection and subsections (11) and (14) of this section:</para>
 <para>(a) Disclosure means the making known to any person in any
 manner a tax return or return information;</para>
 <para>(b) Return information means:</para>
@@ -156,8 +155,8 @@ or claim for refund required by, provided for, or permitted under sections
 of, or with respect to any person and any amendment or supplement thereto,
 including supporting schedules, attachments, or lists which are supplemental
 to or part of the filed return.</para>
-<para>(13) Notwithstanding the provisions of subsection (7) of
-this section, the Tax Commissioner shall, upon request, provide any municipality
+<para>(13) Notwithstanding the provisions of subsection (7) of this
+section, the Tax Commissioner shall, upon request, provide any municipality
 which has adopted the local option sales tax under the Local Option Revenue
 Act with a list of the names and addresses of the retailers which have collected
 the local option sales tax for the municipality. The request may be made annually
@@ -167,16 +166,44 @@ the names and addresses of the retailers. The Tax Commissioner may provide
 additional information to a municipality so long as the information does not
 include any data detailing the specific revenue, expenses, or operations of
 any particular business.</para>
-<para>(14) In all proceedings under the Nebraska Revenue Act of
-1967, the Tax Commissioner may act for and on behalf of the people of the
-State of Nebraska. The Tax Commissioner in his or her discretion may waive
-all or part of any penalties provided by the provisions of such act or interest
-on delinquent taxes specified in section 45-104.02, as such rate may from
-time to time be adjusted.</para>
-<para>(15)(a) The purpose of this subsection is to set forth the
-state's policy for the protection of the confidentiality rights of all participants
-in the system operated pursuant to the streamlined sales and use tax agreement
-and of the privacy interests of consumers who deal with model 1 sellers.</para>
+<para>(14)(a) Notwithstanding
+the provisions of subsection (7) of this section, the Tax Commissioner shall,
+upon written request, provide a municipal employee certified under subdivision
+(b) of this subsection representing a municipality which has adopted the local
+option sales tax under the Local Option Revenue Act with confidential sales
+tax returns and sales tax return information regarding taxpayers that possess
+a sales tax permit and the amounts remitted by such permitholders at locations
+within the boundaries of the requesting municipality. Any written request
+pursuant to this subsection shall provide the Department of Revenue with no
+less than ten business days to prepare the sales tax returns and sales tax
+return information requested. Such returns and return information shall be
+viewed only upon the premises of the department.</para><para>(b) Each municipality
+that seeks to request information under subdivision (a) of this subsection
+shall certify to the Department of Revenue one municipal employee who is authorized
+by such municipality to make such request and review the documents described
+in subdivision (a) of this subsection.</para><para>(c) No municipal employee certified by a
+municipality pursuant to subdivision (b) of this subsection shall disclose
+to any person any information obtained pursuant to a review by that municipal
+employee pursuant to this subsection. A municipal employee certified by a
+municipality pursuant to subdivision (b) of this subsection shall remain subject
+to this subsection after he or she (i) is no longer certified or (ii) is no
+longer in the employment of the certifying municipality.</para>
+<para>(d) Any person
+who violates the provisions of this subsection shall be guilty of a Class
+I misdemeanor.</para><para>(e) The Department of Revenue shall not be held liable by any person
+for an impermissible disclosure by a municipality or any agent or employee
+thereof of any information obtained pursuant to a review under this subsection.</para>
+<para>(15) In all proceedings under
+the Nebraska Revenue Act of 1967, the Tax Commissioner may act for and on
+behalf of the people of the State of Nebraska. The Tax Commissioner in his
+or her discretion may waive all or part of any penalties provided by the provisions
+of such act or interest on delinquent taxes specified in section 45-104.02,
+as such rate may from time to time be adjusted.</para>
+<para>(16)(a) The purpose of this
+subsection is to set forth the state's policy for the protection of the confidentiality
+rights of all participants in the system operated pursuant to the streamlined
+sales and use tax agreement and of the privacy interests of consumers who
+deal with model 1 sellers.</para>
 <para>(b) For purposes of this subsection:</para>
 <para>(i) Anonymous data means information that does not identify
 a person;</para>
@@ -198,13 +225,12 @@ the fundamental precept of anonymity is respected;</para>
 <para>(ii) Personally identifiable information is only used and
 retained to the extent necessary for the administration of model 1 with respect
 to exempt purchasers;</para>
-<para>(iii) It provides consumers clear and conspicuous notice
-of its information practices, including what information it collects, how
-it collects the information, how it uses the information, how long, if at
-all, it retains the information, and whether it discloses the information
-to member states. Such notice shall be satisfied by a written privacy policy
-statement accessible by the public on the web site of the certified service
-provider;</para>
+<para>(iii) It provides consumers clear and conspicuous notice of
+its information practices, including what information it collects, how it
+collects the information, how it uses the information, how long, if at all,
+it retains the information, and whether it discloses the information to member
+states. Such notice shall be satisfied by a written privacy policy statement
+accessible by the public on the web site of the certified service provider;</para>
 <para>(iv) Its collection, use, and retention of personally identifiable
 information is limited to that required by the member states to ensure the
 validity of exemptions from taxation that are claimed by reason of a consumer's
@@ -217,8 +243,8 @@ including exempt purchasers, of the state's practices relating to the collection
 use, and retention of personally identifiable information.</para>
 <para>(f) When any personally identifiable information that has
 been collected and retained is no longer required for the purposes set forth
-in subdivision (15)(d)(iv) of this section, such information shall no longer
-be retained by the member states.</para>
+in subdivision (16)(d)(iv) of this section,
+such information shall no longer be retained by the member states.</para>
 <para>(g) When personally identifiable information regarding an
 individual is retained by or on behalf of the state, it shall provide reasonable
 access by such individual to his or her own information in the state's possession
@@ -227,8 +253,8 @@ and a right to correct any inaccurately recorded information.</para>
 by that state's law or the agreement, seeks to discover personally identifiable
 information, the state from whom the information is sought should make a reasonable
 and timely effort to notify the individual of such request.</para>
-<para>(i) This privacy policy is subject to enforcement by the
-Attorney General.</para>
+<para>(i) This privacy policy is subject to enforcement by the Attorney
+General.</para>
 <para>(j) All other laws and regulations regarding the collection,
 use, and maintenance of confidential taxpayer information remain fully applicable
 and binding. Without limitation, this subsection does not enlarge or limit
@@ -239,10 +265,10 @@ agreement and state law;</para>
 Act, disclosure laws with governmental agencies, or other regulations;</para>
 <para>(iii) Prevent, consistent with state law, disclosure of confidential
 taxpayer information;</para>
-<para>(iv) Prevent, consistent with federal law, disclosure or
-misuse of federal return information obtained under a disclosure agreement
-with the Internal Revenue Service; and</para>
+<para>(iv) Prevent, consistent with federal law, disclosure or misuse
+of federal return information obtained under a disclosure agreement with the
+Internal Revenue Service; and</para>
 <para>(v) Collect, disclose, disseminate, or otherwise use anonymous
 data for governmental purposes.</para>
-</amendatorysection></section><source><para>Laws 1967, c. 487, &#167; 11, p. 1566; </para><para>Laws 1969, c. 683, &#167; 7, p. 2641; </para><para>Laws 1977, LB 39, &#167; 239; </para><para>Laws 1981, LB 170, &#167; 6; </para><para>Laws 1982, LB 705, &#167; 2; </para><para>Laws 1984, LB 962, &#167; 12; </para><para>Laws 1985, LB 344, &#167; 4; </para><para>Laws 1987, LB 523, &#167; 17; </para><para>Laws 1991, LB 773, &#167; 10; </para><para>Laws 1992, LB 871, &#167; 61; </para><para>Laws 1992, Fourth Spec. Sess., LB 1, &#167; 31; </para><para>Laws 1993, LB 345, &#167; 60; </para><para>Laws 1994, LB 1175, &#167; 1; </para><para>Laws 1995, LB 134, &#167; 3; </para><para>Laws 1996, LB 1177, &#167; 18; </para><para>Laws 2001, LB 142, &#167; 56; </para><para>Laws 2003, LB 282, &#167; 73; </para><para>Laws 2005, LB 216, &#167; 9; </para><para>Laws 2005, LB 312, &#167; 11; </para><para>Laws 2006, LB 588, &#167; 8; </para><para>Laws 2007, LB94, &#167; 1; </para><para>Laws 2007, LB223, &#167; 9; </para><para>Laws 2008, LB914, &#167; 8; </para><para>Laws 2009, LB165, &#167; 10; </para><para>Laws 2010, LB563, &#167; 14; </para><para>Laws 2010, LB879, &#167; 9.</para></source><crossreference><para><emphasis>Contractor Registration Act,</emphasis> see section 48-2101.</para><para><emphasis>Employee Classification Act,</emphasis> see section 48-2901.</para><para><emphasis>Employment Security Law,</emphasis> see section 48-601.</para><para><emphasis>Local Option Revenue Act,</emphasis> see section 77-27,148.</para><para><emphasis>Nebraska Visitors Development Act,</emphasis> see section 81-1263.</para></crossreference>  </law>
+</amendatorysection></section><source><para>Laws 1967, c. 487, &#167; 11, p. 1566; </para><para>Laws 1969, c. 683, &#167; 7, p. 2641; </para><para>Laws 1977, LB 39, &#167; 239; </para><para>Laws 1981, LB 170, &#167; 6; </para><para>Laws 1982, LB 705, &#167; 2; </para><para>Laws 1984, LB 962, &#167; 12; </para><para>Laws 1985, LB 344, &#167; 4; </para><para>Laws 1987, LB 523, &#167; 17; </para><para>Laws 1991, LB 773, &#167; 10; </para><para>Laws 1992, LB 871, &#167; 61; </para><para>Laws 1992, Fourth Spec. Sess., LB 1, &#167; 31; </para><para>Laws 1993, LB 345, &#167; 60; </para><para>Laws 1994, LB 1175, &#167; 1; </para><para>Laws 1995, LB 134, &#167; 3; </para><para>Laws 1996, LB 1177, &#167; 18; </para><para>Laws 2001, LB 142, &#167; 56; </para><para>Laws 2003, LB 282, &#167; 73; </para><para>Laws 2005, LB 216, &#167; 9; </para><para>Laws 2005, LB 312, &#167; 11; </para><para>Laws 2006, LB 588, &#167; 8; </para><para>Laws 2007, LB94, &#167; 1; </para><para>Laws 2007, LB223, &#167; 9; </para><para>Laws 2008, LB914, &#167; 8; </para><para>Laws 2009, LB165, &#167; 10; </para><para>Laws 2010, LB563, &#167; 14; </para><para>Laws 2010, LB879, &#167; 9; </para><para>Laws 2012, LB209, &#167; 1; </para><para>Laws 2012, LB1053, &#167; 25.</para><note>The Revisor of Statutes has pursuant to section 49-769 correlated LB209, section 1, with LB1053, section 25, to reflect all amendments.</note><note>Changes made by LB1053 became operative July 1, 2012. Changes made by LB209 became effective July 19, 2012.</note></source><crossreference><para><emphasis>Contractor Registration Act,</emphasis> see section 48-2101.</para><para><emphasis>Employee Classification Act,</emphasis> see section 48-2901.</para><para><emphasis>Employment Security Law,</emphasis> see section 48-601.</para><para><emphasis>Local Option Revenue Act,</emphasis> see section 77-27,148.</para><para><emphasis>Nebraska Visitors Development Act,</emphasis> see section 81-1263.</para></crossreference>  </law>
 </legaldoc>

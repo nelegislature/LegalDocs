@@ -1,1 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Revenue and Taxation" statutenumber="77-2705.04"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>77-2705.04</statuteno><catchline>Record of sales tax permits; electronic access; fees.</catchline><para>The record of sales tax permits maintained by the Department of Revenue may be made available electronically through the gateway or electronic network established under section 84-1204. There shall be a fee of five dollars and fifty cents for a monthly listing of all new sales tax permits. All fees collected pursuant to this section for electronic access to records through the gateway shall be deposited in the Records Management Cash Fund and shall be distributed as provided in any agreements between the State Records Board and the department.</para></amendatorysection></section><source><para>Laws 1998, LB 924, &#167; 29. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Revenue and Taxation" statutenumber="77-2705.04"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>77-2705.04</statuteno><catchline>Record of sales tax permits; electronic
+access; fees.</catchline><para>The record of sales tax permits maintained
+by the Department of Revenue may be made available electronically through
+the portal established under section
+84-1204. There shall be a fee of five dollars and fifty cents for a monthly
+listing of all new sales tax permits. All fees collected pursuant to this
+section for electronic access to records through the portal shall
+be deposited in the Records Management Cash Fund and shall be distributed
+as provided in any agreements between the State Records Board and the department.</para>
+</amendatorysection></section><source><para>Laws 1998, LB 924, &#167; 29; </para><para>Laws 2012, LB719, &#167; 5.</para><effectivedate>July 19, 2012</effectivedate></source>  </law>
+</legaldoc>

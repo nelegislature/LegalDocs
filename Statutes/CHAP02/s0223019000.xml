@@ -1,1 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Agriculture" statutenumber="2-2319"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>2-2319</statuteno><catchline>Violations; penalty.</catchline><para>Any person violating any of the provisions of sections 2-2301 to 2-2319 shall be guilty of a Class III misdemeanor.</para></amendatorysection></section><source><para>Laws 1955, c. 5, &#167; 19, p. 65; </para><para>Laws 1977, LB 40, &#167; 20.</para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id74">
+<amendatorysection amended="yes" chaptername="Agriculture" id="id76" statutenumber="2-2319"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>2-2319</statuteno><catchline id="id79">Violations; penalty.</catchline>
+<para>Any person violating the Nebraska Wheat Resources Act shall be guilty
+of a Class III misdemeanor.</para>
+</amendatorysection></section><source><para>Laws 1955, c. 5, &#167; 19, p. 65; </para><para>Laws 1977, LB 40, &#167; 20; </para><para>Laws 2012, LB905, &#167; 10.</para><effectivedate>July 19, 2012</effectivedate></source>  </law>
+</legaldoc>

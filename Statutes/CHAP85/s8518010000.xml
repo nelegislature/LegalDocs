@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="State Uni., State Colleges, and Post. Education" statutenumber="85-1810"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>85-1810</statuteno><catchline>Benefits received; effect on other student aid.</catchline><para>A student loan program, student grant program, or other program administered by any agency of the state, except as may be otherwise provided by federal law or the provisions of any specific grant applicable to the federal law, shall not take into account and shall not consider amounts available for the payment of higher education costs pursuant to the Nebraska educational savings plan trust in determining need and eligibility for student aid.</para></amendatorysection></section><source><para>Laws 2000, LB 1003, &#167; 10. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id102">
+<amendatorysection amended="yes" chaptername="State Uni., State Colleges, and Post. Education" id="id104" statutenumber="85-1810"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>85-1810</statuteno><catchline id="id107">Benefits received;
+effect on other student aid.</catchline><para>A student loan program,
+student grant program, or other program administered by any agency of the
+state, except as may be otherwise provided by federal law or the provisions
+of any specific grant applicable to the federal law, shall not take into account
+and shall not consider amounts available for the payment of qualified higher education expenses pursuant
+to the Nebraska educational savings plan trust in determining need and eligibility
+for student aid.</para>
+</amendatorysection></section><source><para>Laws 2000, LB 1003, &#167; 10; </para><para>Laws 2012, LB1104, &#167; 10.</para><effectivedate>July 19, 2012</effectivedate></source>  </law>
+</legaldoc>

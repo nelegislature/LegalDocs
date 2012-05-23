@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Law" statutenumber="49-1544"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>49-1544</statuteno><catchline>Specific Authority for Trusts, defined.</catchline><para>Subject to the provisions of subsection (a) of section 30-3837, the short form expression, Specific Authority for Trusts, shall mean that the principal generally authorizes and empowers the agent to alter, create, establish, make, or terminate with any corporate or other fiduciary any irrevocable or revocable disposition in trust for the benefit of any person or persons upon any conditions or other terms with or without any retained interest and otherwise to continue, modify, originate, or terminate any trust arrangement.</para></amendatorysection></section><source><para>Laws 1988, LB 475, &#167; 44; </para><para>Laws 2003, LB 130, &#167; 137. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<amendatorysection chaptername="" statutenumber="49-1544">
+				<statuteno>49-1544</statuteno>
+				<catchline>Repealed. Laws 2012, LB 1113, &#167; 50.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>January 1, 2013</operativedate></source>
+	</law>
+</legaldoc>

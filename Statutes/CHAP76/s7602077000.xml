@@ -1,1 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Real Property" statutenumber="76-277"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>76-277</statuteno><catchline>Conveyances; claims and improvements upon public lands; law applicable.</catchline><para>The provisions of sections 76-201 to 76-281 shall apply to the conveyance of all claims and improvements upon the public lands.</para></amendatorysection></section><source><para>R.S.1866, c. 43, &#167; 35, p. 287; </para><para>R.S.1913, &#167; 6231; </para><para>C.S.1922, &#167; 5630; </para><para>C.S.1929, &#167; 76-236; </para><para>R.S.1943, &#167; 76-277.</para></source><crossreference><para><emphasis>For other provisions for conveyance of public lands and buildings,</emphasis> see Chapter 72.</para></crossreference></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id32">
+<amendatorysection amended="yes" chaptername="Real Property" id="id34" statutenumber="76-277">
+<bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>76-277</statuteno><catchline id="id37">Conveyances; claims
+and improvements upon public lands; law applicable.</catchline><para>Sections 76-201 to 76-281 and 76-2,126 apply to the conveyance of all
+claims and improvements upon the public lands.</para>
+</amendatorysection></section><source><para>R.S.1866, c. 43, &#167; 35, p. 287; </para><para>R.S.1913, &#167; 6231; </para><para>C.S.1922, &#167; 5630; </para><para>C.S.1929, &#167; 76-236; </para><para>R.S.1943, &#167; 76-277; </para><para>Laws 2012, LB536, &#167; 34.</para><operativedate>January 1, 2013</operativedate></source><crossreference><para><emphasis>For other provisions for conveyance of public lands and buildings,</emphasis> see Chapter 72.</para></crossreference>  </law>
+</legaldoc>

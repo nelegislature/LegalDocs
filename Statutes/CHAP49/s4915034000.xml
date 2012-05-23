@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Law" statutenumber="49-1534"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>49-1534</statuteno><catchline>Specific Authority for Encumbrances, defined.</catchline><para>The short form expression, Specific Authority for Encumbrances, shall mean that the principal generally authorizes and empowers the agent to assign, compromise, grant, make, release, satisfy, or subordinate in part or whole, to defend against or enforce by initiation of, intervention in, or other response to any foreclosure of or other action or litigation as to, and otherwise to deal with any assignment, claim, judgment, lien, mortgage, pledge, security interest, or other encumbrance of any property.</para></amendatorysection></section><source><para>Laws 1988, LB 475, &#167; 34. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<amendatorysection chaptername="" statutenumber="49-1534">
+				<statuteno>49-1534</statuteno>
+				<catchline>Repealed. Laws 2012, LB 1113, &#167; 50.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>January 1, 2013</operativedate></source>
+	</law>
+</legaldoc>

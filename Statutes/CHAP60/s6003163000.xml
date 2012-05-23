@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Motor Vehicles" statutenumber="60-3,163"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>60-3,163</statuteno><catchline>Registration certificate; outstanding warrant for arrest; refusal of issuance; courts; duties.</catchline><para>No motor vehicle or trailer may be registered in the State of Nebraska when there is an outstanding warrant for the arrest of the owner thereof issued out of any court located within this state and such warrant arises out of an alleged violation of a state statute or municipal ordinance involving the use of a motor vehicle or trailer. Each court in the state shall, on or before the fifth day of each month, submit to the county treasurer or designated county official of the county in which the court is located an alphabetized list of all persons against whom such warrants exist for the preceding month.</para></amendatorysection></section><source><para>Laws 2005, LB 274, &#167; 163. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<amendatorysection chaptername="" statutenumber="60-3,163">
+				<statuteno>60-3,163</statuteno>
+				<catchline>Repealed. Laws 2012, LB 751, &#167; 57.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>July 19, 2012</operativedate></source>
+	</law>
+</legaldoc>

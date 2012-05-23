@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="County Government and Officers" statutenumber="23-3523"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>23-3523</statuteno><catchline>Care and services; action for recovery.</catchline><para>Suit to recover such costs and fees for such care and services shall be brought (1) in the name of the county maintaining and operating the hospital, (2) in the case of a county hospital maintained and operated by more than one county, in the name of the county in which the hospital facility, or any part of it, is located, and (3) in the case of a hospital maintained and operated by a hospital district, in the name of the hospital district.</para></amendatorysection></section><source><para>Laws 1971, LB 908, &#167; 4; </para><para>R.S.1943, (1987), &#167; 23-343.71. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id106">
+<amendatorysection amended="yes" chaptername="County Government and Officers" id="id108" statutenumber="23-3523"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>23-3523</statuteno><catchline id="id111">Care and services;
+action for recovery.</catchline><para>Any
+suit to recover any costs and fees for the care and services as described in section 23-3522 shall be brought
+(1) in the name of the board of trustees of the facility established under section
+23-3501 or (2) in the case of a hospital maintained and operated
+by a hospital district, in the name of the hospital district.</para>
+</amendatorysection></section><source><para>Laws 1971, LB 908, &#167; 4; </para><para>R.S.1943, (1987), &#167; 23-343.71; </para><para>Laws 2012, LB995, &#167; 9.</para><effectivedate>April 6, 2012</effectivedate></source>  </law>
+</legaldoc>

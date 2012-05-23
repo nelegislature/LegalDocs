@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Revenue and Taxation" statutenumber="77-5412"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>77-5412</statuteno><catchline>Report; contents.</catchline><para>(1) The Tax Commissioner shall submit an annual report to the Legislature no later than June 30 of each year.</para><para>(2) The report shall state by industry group (a) the credits earned, (b) the credits used to reduce the corporate income tax and the credits used to reduce the individual income tax, (c) the number of jobs created, (d) the total number of employees employed by taxpayers at qualifying projects on the last day of the calendar quarter prior to the application date and the total number of employees employed by the taxpayers for the projects on subsequent reporting dates, (e) the expansion of capital investment, (f) the estimated wage levels of jobs created subsequent to the application date, (g) the total number of qualified applicants, (h) the projected future state revenue gains and losses, and (i) the credits outstanding.</para><para>(3) No information shall be provided in the report that is protected by state or federal confidentiality laws.</para></amendatorysection></section><source><para>Laws 2000, LB 936, &#167; 12. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Revenue and Taxation" statutenumber="77-5412"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>77-5412</statuteno><catchline>Report; contents.</catchline><para>(1)
+The Tax Commissioner shall submit electronically an
+annual report to the Legislature no later than June 30 of each year.</para>
+<para>(2) The report shall state by industry group (a) the credits earned,
+(b) the credits used to reduce the corporate income tax and the credits used
+to reduce the individual income tax, (c) the number of jobs created, (d) the
+total number of employees employed by taxpayers at qualifying projects on
+the last day of the calendar quarter prior to the application date and the
+total number of employees employed by the taxpayers for the projects on subsequent
+reporting dates, (e) the expansion of capital investment, (f) the estimated
+wage levels of jobs created subsequent to the application date, (g) the total
+number of qualified applicants, (h) the projected future state revenue gains
+and losses, and (i) the credits outstanding.</para>
+<para>(3) No information shall be provided in the report that is protected
+by state or federal confidentiality laws.</para>
+</amendatorysection></section><source><para>Laws 2000, LB 936, &#167; 12; </para><para>Laws 2012, LB782, &#167; 143.</para><operativedate>July 19, 2012</operativedate></source>  </law>
+</legaldoc>

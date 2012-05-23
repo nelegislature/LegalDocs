@@ -1,1 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Insurance" statutenumber="44-2704"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>44-2704</statuteno><catchline>Act; liberally construed.</catchline><para>The Nebraska Life and Health Insurance Guaranty Association Act shall be liberally construed to effect the purposes enumerated in section 44-2701 which shall constitute an aid and guide to interpretation.</para></amendatorysection></section><source><para>Laws 1975, LB 217, &#167; 4; </para><para>Laws 1986, LB 593, &#167; 6. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Insurance" statutenumber="44-2704"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>44-2704</statuteno><catchline>Act; how construed.</catchline>
+<para>The Nebraska Life and Health Insurance Guaranty Association Act shall
+be construed
+to effect the purposes enumerated in section 44-2701.</para>
+</amendatorysection></section><source><para>Laws 1975, LB 217, &#167; 4; </para><para>Laws 1986, LB 593, &#167; 6; </para><para>Laws 2012, LB887, &#167; 18.</para><operativedate>July 19, 2012</operativedate></source>  </law>
+</legaldoc>

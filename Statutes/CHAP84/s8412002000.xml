@@ -1,1 +1,85 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="State Officers" statutenumber="84-1202"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>84-1202</statuteno><catchline>Terms, defined.</catchline><para>For purposes of the Records Management Act, unless the context otherwise requires:</para><para>(1) Agency means any department, division, office, commission, court, board, or elected, appointed, or constitutional officer, except individual members of the Legislature, or any other unit or body, however designated, of the executive, judicial, and legislative branches of state government or of the government of any local political subdivision;</para><para>(2) Agency head means the chief or principal official or representative in any such agency or the presiding judge of any court, by whatever title known. When an agency consists of a single official, the agency and the agency head are one and the same;</para><para>(3) State agency means an agency of the state government;</para><para>(4) Local agency means an agency of a local political subdivision, including any entity created pursuant to the Interlocal Cooperation Act or the Joint Public Agency Act;</para><para>(5) Local political subdivision means any county, city, village, township, district, authority, or other public corporation or political entity, whether existing under charter or general law, including any entity created pursuant to the Interlocal Cooperation Act or the Joint Public Agency Act. Local political subdivision does not include a city of the metropolitan class or a district or other unit which by law is considered an integral part of state government;</para><para>(6) Record means any book, document, paper, photograph, microfilm, sound recording, magnetic storage medium, optical storage medium, or other material regardless of physical form or characteristics created or received pursuant to law, charter, or ordinance or in connection with any other activity relating to or having an effect upon the transaction of public business;</para><para>(7) State record means a record which normally is maintained within the custody or control of a state agency or any other record which is designated or treated as a state record according to general law;</para><para>(8) Local record means a record of a local political subdivision or of any agency thereof unless designated or treated as a state record under general law;</para><para>(9) Essential record means a state or local record which is within one or the other of the following categories and which shall be preserved pursuant to the Records Management Act:</para><para>(a) Category A. Records containing information necessary to the operations of government under all conditions, including a period of emergency created by a disaster; or</para><para>(b) Category B. Records not within Category A but which contain information necessary to protect the rights and interests of persons or to establish or affirm the powers and duties of state or local governments in the resumption of operations after a disaster;</para><para>(10) Preservation duplicate means a copy of an essential record which is used for the purpose of preserving the record pursuant to the act;</para><para>(11) Disaster means any occurrence of fire, flood, storm, earthquake, explosion, epidemic, riot, sabotage, or other conditions of extreme peril resulting in substantial injury or damage to persons or property within this state, whether such occurrence is caused by an act of nature or of humans, including an enemy of the United States;</para><para>(12) Administrator means the State Records Administrator;</para><para>(13) Board means the State Records Board;</para><para>(14) Electronic access means collecting, sharing, disseminating, and providing access to public records electronically;</para><para>(15) Gateway means any centralized electronic information system by which public records are provided through dial-in modem or continuous link;</para><para>(16) Public records includes all records and documents, regardless of physical form, of or belonging to this state or any agency, branch, department, board, bureau, commission, council, subunit, or committee of this state except when any other statute expressly provides that particular information or records shall not be made public. Data which is a public record in its original form shall remain a public record when maintained in computer files; and</para><para>(17) Network manager means an individual, a private entity, a state agency, or any other governmental subdivision responsible for directing and supervising the day-to-day operations and expansion of a gateway.</para></amendatorysection></section><source><para>Laws 1961, c. 455, &#167; 2, p. 1385; </para><para>Laws 1969, c. 841, &#167; 1, p. 3167; </para><para>Laws 1979, LB 559, &#167; 1; </para><para>Laws 1980, LB 747, &#167; 1; </para><para>Laws 1991, LB 25, &#167; 2; </para><para>Laws 1991, LB 81, &#167; 12; </para><para>Laws 1997, LB 590, &#167; 4; </para><para>Laws 1999, LB 87, &#167; 99. </para></source><crossreference><para><emphasis>Interlocal Cooperation Act,</emphasis> see section 13-801.</para><para><emphasis>Joint Public Agency Act,</emphasis> see section 13-2501.</para></crossreference></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="State Officers" statutenumber="84-1202"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>84-1202</statuteno><catchline>Terms, defined.</catchline><para>For
+purposes of the Records Management Act, unless the context otherwise requires:</para>
+<para>(1) State agency means any department,
+division, office, commission, court, board, or elected, appointed, or constitutional
+officer, except individual members of the Legislature, or any other unit or
+body, however designated, of the executive, judicial, and legislative branches
+of state government;</para>
+<para>(2) Agency head means the chief or principal official or representative
+in any state or local agency or the
+presiding judge of any court, by whatever title known. When an agency consists
+of a single official, the agency and the agency head are one and the same;</para>
+<para>(3) Local
+agency means an agency of</para>
+<para> any
+county, city, village, township, district, authority, or other public corporation
+or political entity, whether existing under charter or general law, including
+any entity created pursuant to the Interlocal Cooperation Act or the Joint
+Public Agency Act. Local political subdivision does not include a city of
+the metropolitan class or a district or other unit which by law is considered
+an integral part of state government;</para>
+<para>(4) Record means any book,
+document, paper, photograph, microfilm, sound recording, magnetic storage
+medium, optical storage medium, or other material regardless of physical form
+or characteristics created or received pursuant to law, charter, or ordinance
+or in connection with any other activity relating to or having an effect upon
+the transaction of public business;</para>
+<para>(5) State record means a record
+which normally is maintained within the custody or control of a state agency
+or any other record which is designated or treated as a state record according
+to general law;</para>
+<para>(6) Local record means a record
+of a local political subdivision or of any agency thereof unless designated
+or treated as a state record under general law;</para>
+<para>(7) Essential record means
+a state or local record which is within one or the other of the following
+categories and which shall be preserved pursuant to the Records Management
+Act:</para>
+<para>(a) Category A. Records containing information necessary to the operations
+of government under all conditions, including a period of emergency created
+by a disaster; or</para>
+<para>(b) Category B. Records not within Category A but which contain information
+necessary to protect the rights and interests of persons or to establish or
+affirm the powers and duties of state or local governments in the resumption
+of operations after a disaster;</para>
+<para>(8) Preservation duplicate
+means a copy of an essential record which is used for the purpose of preserving
+the record pursuant to the act;</para>
+<para>(9) Disaster means any occurrence
+of fire, flood, storm, earthquake, explosion, epidemic, riot, sabotage, or
+other conditions of extreme peril resulting in substantial injury or damage
+to persons or property within this state, whether such occurrence is caused
+by an act of nature or of humans, including an enemy of the United States;</para>
+<para>(10) Administrator means the
+State Records Administrator;</para>
+<para>(11) Board means the State
+Records Board;</para>
+<para>(12) Electronic access means electronically collecting,
+sharing, disseminating, and providing access to (a) public records or (b) electronic information and services;</para>
+<para>(13) Electronic information
+and services means any data, information, or service that is created, generated,
+collected, maintained, or distributed in electronic form by a state agency
+or local agency through transactions with individuals, businesses, and other
+entities by means of electronic access;</para><para>(14) Portal means the
+state's centralized electronic information system by which public
+records or electronic information
+and services are provided using electronic access;</para>
+<para>(15) Public records includes
+all records and documents, regardless of physical form, of or belonging to
+this state or any agency, branch, department, board, bureau, commission, council,
+subunit, or committee of this state except when any other statute expressly
+provides that particular information or records shall not be made public.
+Data which is a public record in its original form shall remain a public record
+when maintained in computer files; and</para>
+<para>(16) Network manager means
+an individual, a private entity, a state agency, or any other governmental
+subdivision responsible for providing
+the infrastructure and services needed to implement and operate the portal
+and for directing and supervising the day-to-day operations and
+expansion of the portal.</para>
+</amendatorysection></section><source><para>Laws 1961, c. 455, &#167; 2, p. 1385; </para><para>Laws 1969, c. 841, &#167; 1, p. 3167; </para><para>Laws 1979, LB 559, &#167; 1; </para><para>Laws 1980, LB 747, &#167; 1; </para><para>Laws 1991, LB 25, &#167; 2; </para><para>Laws 1991, LB 81, &#167; 12; </para><para>Laws 1997, LB 590, &#167; 4; </para><para>Laws 1999, LB 87, &#167; 99; </para><para>Laws 2012, LB719, &#167; 8.</para><effectivedate>July 19, 2012</effectivedate></source><crossreference><para><emphasis>Interlocal Cooperation Act,</emphasis> see section 13-801.</para><para><emphasis>Joint Public Agency Act,</emphasis> see section 13-2501.</para></crossreference>  </law>
+</legaldoc>

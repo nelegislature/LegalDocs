@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Bingo and Other Gambling" statutenumber="9-418.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>9-418.01</statuteno><catchline>Denial of application; procedure.</catchline><para>(1) Before any application is denied pursuant to section 9-418, the department shall notify the applicant in writing by certified mail of the department's intention to deny the application and the reasons for the denial. Such notice shall inform the applicant of his or her right to request an administrative hearing for the purpose of reconsideration of the intended denial of the application. The date the notice is mailed shall be deemed to be the date of service of notice to the applicant.</para><para>(2) A request for a hearing by the applicant shall be in writing and shall be filed with the department within thirty days after the service of notice to the applicant of the department's intended denial of the application. If a request for hearing is not filed within the thirty-day period, the denial shall become final at the expiration of such period.</para><para>(3) If a request for hearing is filed within the thirty-day period, the Tax Commissioner shall grant the applicant a hearing and shall, at least ten days before the hearing, serve notice upon the applicant by certified mail, return receipt requested, of the time, date, and place of the hearing. Such proceedings shall be considered contested cases pursuant to the Administrative Procedure Act.</para></amendatorysection></section><source><para>Laws 1991, LB 427, &#167; 47; </para><para>Laws 2002, LB 545, &#167; 41.</para></source><crossreference><para><emphasis>Administrative Procedure Act,</emphasis> see section 84-920.</para></crossreference></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id175">
+<amendatorysection amended="yes" chaptername="Bingo and Other Gambling" id="id177" statutenumber="9-418.01">
+<bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>9-418.01</statuteno><catchline id="id180">Denial of
+application; procedure.</catchline><para>(1) Before any application
+is denied pursuant to section 9-418, the department shall notify the applicant
+in writing by mail
+of the department's intention to deny the application and the reasons for
+the denial. Such notice shall inform the applicant of his or her right to
+request an administrative hearing for the purpose of reconsideration of the
+intended denial of the application. The date the notice is mailed shall be
+deemed to be the date of service of notice to the applicant.</para>
+<para>(2) A request for a hearing by the applicant shall be in
+writing and shall be filed with the department within thirty days after the
+service of notice to the applicant of the department's intended denial of
+the application. If a request for hearing is not filed within the thirty-day
+period, the denial shall become final at the expiration of such period.</para>
+<para>(3) If a request for hearing is filed within the thirty-day
+period, the Tax Commissioner shall grant the applicant a hearing and shall,
+at least ten days before the hearing, serve notice upon the applicant by mail of the time, date, and
+place of the hearing. Such proceedings shall be considered contested cases
+pursuant to the Administrative Procedure Act.</para>
+</amendatorysection></section><source><para>Laws 1991, LB 427, &#167; 47; </para><para>Laws 2002, LB 545, &#167; 41; </para><para>Laws 2012, LB727, &#167; 8.</para><operativedate>April 12, 2012</operativedate></source><crossreference><para><emphasis>Administrative Procedure Act,</emphasis> see section 84-920.</para></crossreference>  </law>
+</legaldoc>

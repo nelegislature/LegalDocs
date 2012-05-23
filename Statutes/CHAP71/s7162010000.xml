@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Public Health and Welfare" statutenumber="71-6210"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>71-6210</statuteno><catchline>Health profession, defined.</catchline><para>Health profession shall mean any regulated health profession or any health professional group not previously regulated.</para></amendatorysection></section><source><para>Laws 1985, LB 407, &#167; 10. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id67">
+<amendatorysection amended="yes" chaptername="Public Health and Welfare" id="id69" statutenumber="71-6210"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>71-6210</statuteno><catchline id="id72">Health profession,
+defined.</catchline><para>Health profession shall mean a vocation involving health services,
+health-related services, or environmental services requiring specialized knowledge
+and training. Health profession does not include the vocation of duly recognized
+members of the clergy acting in their ministerial capacity.</para>
+</amendatorysection></section><source><para>Laws 1985, LB 407, &#167; 10; </para><para>Laws 2012, LB834, &#167; 10.</para><effectivedate>July 19, 2012</effectivedate></source>  </law>
+</legaldoc>

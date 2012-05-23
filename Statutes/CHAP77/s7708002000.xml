@@ -1,1 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Revenue and Taxation" statutenumber="77-802"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>77-802</statuteno><catchline>Property Tax Administrator; valuation; apportionment of tax.</catchline><para>The Property Tax Administrator shall apportion the total taxable value including the franchise value to all taxing subdivisions in proportion to the ratio of the original cost of all operating real and tangible personal property of that public service entity having a situs in that taxing subdivision to the original cost of all operating real and tangible personal property of that public service entity having a situs in the state.</para><para>If the apportionment in accordance with this section does not fairly represent the proportion of the taxable value, including franchise value properly allocable to the county, the taxpayer may petition for or the Property Tax Administrator may require the inclusion of any other method to effectuate an equitable allocation of the value of the public service entity for purposes of taxation.</para><para>On or before July 25, the Property Tax Administrator shall mail a draft appraisal to each public service entity as defined in section 77-801.01. On or before August 10, the Property Tax Administrator shall, by certified mail, notify each public service entity of its taxable value and the distribution of that value to the taxing subdivisions in which the entity has situs. On or before August 10, the Property Tax Administrator shall also certify to the county assessors the taxable value so determined.</para></amendatorysection></section><source><para>Laws 1921, c. 133, art. IX, &#167; 2, p. 587; </para><para>C.S.1922, &#167; 5891; </para><para>C.S.1929, &#167; 77-802; </para><para>R.S.1943, &#167; 77-802; </para><para>Laws 1983, LB 353, &#167; 2; </para><para>Laws 1984, LB 835, &#167; 6; </para><para>Laws 1985, LB 269, &#167; 3; </para><para>Laws 1987, LB 508, &#167; 26; </para><para>Laws 1995, LB 490, &#167; 88; </para><para>Laws 1997, LB 270, &#167; 40; </para><para>Laws 1998, LB 306, &#167; 20; </para><para>Laws 2004, LB 973, &#167; 14. </para></source><annotation><para>Personal notice to taxpayer is not necessary where, on taxpayer's failure to make return, assessing board meets at time and place fixed by statute and makes original assessment. Northern Nebraska Power Co. v. Holt County, 120 Neb. 724, 235 N.W. 92 (1931).</para></annotation></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id415">
+<amendatorysection amended="yes" chaptername="Revenue and Taxation" id="id417" statutenumber="77-802">
+<bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>77-802</statuteno><catchline id="id420">Property Tax
+Administrator; valuation; apportionment of tax.</catchline><para>The
+Property Tax Administrator shall apportion the total taxable value including
+the franchise value to all taxing subdivisions in proportion to the ratio
+of the original cost of all operating real and tangible personal property
+of that public service entity having a situs in that taxing subdivision to
+the original cost of all operating real and tangible personal property of
+that public service entity having a situs in the state.</para>
+<para>If the apportionment in accordance with this section does
+not fairly represent the proportion of the taxable value, including franchise
+value properly allocable to the county, the taxpayer may petition for or the
+Property Tax Administrator may require the inclusion of any other method to
+effectuate an equitable allocation of the value of the public service entity
+for purposes of taxation.</para>
+<para>On or before July 25, the Property Tax Administrator shall
+mail a draft appraisal to each public service entity as defined in section
+77-801.01. On or before August 10, the Property Tax Administrator shall, by mail, notify each
+public service entity of its taxable value and the distribution of that value
+to the taxing subdivisions in which the entity has situs. On or before August
+10, the Property Tax Administrator shall also certify to the county assessors
+the taxable value so determined.</para>
+</amendatorysection></section><source><para>Laws 1921, c. 133, art. IX, &#167; 2, p. 587; </para><para>C.S.1922, &#167; 5891; </para><para>C.S.1929, &#167; 77-802; </para><para>R.S.1943, &#167; 77-802; </para><para>Laws 1983, LB 353, &#167; 2; </para><para>Laws 1984, LB 835, &#167; 6; </para><para>Laws 1985, LB 269, &#167; 3; </para><para>Laws 1987, LB 508, &#167; 26; </para><para>Laws 1995, LB 490, &#167; 88; </para><para>Laws 1997, LB 270, &#167; 40; </para><para>Laws 1998, LB 306, &#167; 20; </para><para>Laws 2004, LB 973, &#167; 14; </para><para>Laws 2012, LB727, &#167; 31.</para><operativedate>April 12, 2012</operativedate></source><annotation><para>Personal notice to taxpayer is not necessary where, on taxpayer's failure to make return, assessing board meets at time and place fixed by statute and makes original assessment. Northern Nebraska Power Co. v. Holt County, 120 Neb. 724, 235 N.W. 92 (1931).</para></annotation>  </law>
+</legaldoc>

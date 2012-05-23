@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Cities of the First Class" statutenumber="16-1012"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>16-1012</statuteno><catchline>Police officer; temporary disability; workers' compensation benefits; how treated.</catchline><para>No police officer shall be entitled during any period of temporary disability to receive in full both his or her salary and his or her benefits under the Nebraska Workers' Compensation Act. All Nebraska workers' compensation benefits shall be payable in full to such police officer as provided in the Nebraska Workers' Compensation Act, but all amounts paid by the city or its insurer under the Nebraska Workers' Compensation Act to any disabled police officer entitled to receive a salary during such disability shall be considered as payments on account of such salary and shall be credited thereon. The remaining balance of such salary, if any, shall be payable as otherwise provided in sections 16-1001 to 16-1019.</para></amendatorysection></section><source><para>Laws 1983, LB 237, &#167; 12; </para><para>Laws 1985, LB 3, &#167; 1; </para><para>Laws 1986, LB 811, &#167; 5. </para></source><crossreference><para><emphasis>Nebraska Workers' Compensation Act,</emphasis> see section 48-1,110.</para></crossreference></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id91">
+<amendatorysection amended="yes" chaptername="Cities of the First Class" id="id93" statutenumber="16-1012">
+<bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>16-1012</statuteno><catchline id="id96">Police officer;
+temporary disability; workers' compensation benefits; how treated.</catchline>
+<para>No police officer shall be entitled during any period of temporary
+disability to receive in full both his or her salary and his or her benefits
+under the Nebraska Workers' Compensation Act. All Nebraska workers' compensation
+benefits shall be payable in full to such police officer as provided in the
+Nebraska Workers' Compensation Act, but all amounts paid by the city or its
+insurer under the Nebraska Workers' Compensation Act to any disabled police
+officer entitled to receive a salary during such disability shall be considered
+as payments on account of such salary and shall be credited thereon. The remaining
+balance of such salary, if any, shall be payable as otherwise provided in the Police Officers Retirement Act.</para>
+</amendatorysection></section><source><para>Laws 1983, LB 237, &#167; 12; </para><para>Laws 1985, LB 3, &#167; 1; </para><para>Laws 1986, LB 811, &#167; 5; </para><para>Laws 2012, LB1082, &#167; 10.</para><effectivedate>April 17, 2012</effectivedate></source><crossreference><para><emphasis>Nebraska Workers' Compensation Act,</emphasis> see section 48-1,110.</para></crossreference>  </law>
+</legaldoc>

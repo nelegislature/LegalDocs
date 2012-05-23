@@ -1,1 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Telecommunications and Technology" statutenumber="86-138"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>86-138</statuteno><catchline>Adjacent exchange; application denial.</catchline><para>When the commission refuses to grant an application made pursuant to section 86-135, no new application for the same exchange telephone service shall be filed or shall be considered by the commission until one year has elapsed after the date of mailing of the commission order.</para></amendatorysection></section><source><para>Laws 1969, c. 601, &#167; 4, p. 2458; </para><para>Laws 1994, LB 414, &#167; 111; </para><para>R.S.1943, (1996), &#167; 75-615; </para><para>Laws 2002, LB 1105, &#167; 37. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id46">
+<amendatorysection amended="yes" chaptername="Telecommunications and Technology" id="id48" statutenumber="86-138"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>86-138</statuteno><catchline id="id51">Application denial.</catchline><para>If the commission refuses to grant an application
+made pursuant to section 86-135, no new application for the same advanced telecommunications capability service
+shall be filed or shall be considered by the commission until one year has
+elapsed after the date of mailing of the commission order.</para>
+</amendatorysection></section><source><para>Laws 1969, c. 601, &#167; 4, p. 2458; </para><para>Laws 1994, LB 414, &#167; 111; </para><para>R.S.1943, (1996), &#167; 75-615; </para><para>Laws 2002, LB 1105, &#167; 37; </para><para>Laws 2012, LB715, &#167; 7.</para><effectivedate>July 19, 2012</effectivedate></source>  </law>
+</legaldoc>

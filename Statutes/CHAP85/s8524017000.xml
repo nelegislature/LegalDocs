@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id120">
-<amendatorysection chaptername="State Uni., State Colleges, and Post. Education" id="id122" publishedsource="AnnualSupplement" statutenumber="85-2417"><bookinfo>Revised Statutes Supplement, 2011</bookinfo>
-<statuteno>85-2417</statuteno><catchline>Commission decision; aggrieved party;
+<section>
+<amendatorysection amended="yes" chaptername="State Uni., State Colleges, and Post. Education" id="id122" publishedsource="AnnualSupplement" statutenumber="85-2417"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>85-2417</statuteno><catchline>Commission decision; aggrieved party;
 right to hearing and review; procedure; notice; judicial review.</catchline>
-<para>(1) Any institution
-denied an authorization to operate, a renewal of an authorization to operate,
-or an authorization to operate on a continuing basis by the commission shall
-have the right to a hearing and a review of such decision by the commission.
+<para>(1) Any institution denied a recurrent authorization
+to operate, a renewal of a recurrent authorization
+to operate, or an authorization to operate on a continuing basis by the commission
+shall have the right to a hearing and a review of such decision by the commission.
 If upon written notification of a denial the aggrieved party desires a hearing
 and review, such party shall notify the commission in writing within ten business
 days after receipt of notice by the commission. If the aggrieved party does
@@ -17,13 +16,12 @@ final. Upon receipt of such notice from the aggrieved party, the commission
 shall fix the time and place for a hearing and shall notify the aggrieved
 party of such by certified mail. The hearing shall be conducted according
 to the Administrative Procedure Act.</para>
-<para>(2) A decision
-of the commission following such hearing shall be deemed final subject to
-the right of judicial review provided in the Administrative Procedure Act.
-All matters presented at any such hearing shall be acted upon promptly by
-the commission, and the commission shall notify all parties in writing of
-its decision, which shall include a statement of findings and conclusions
+<para>(2) A decision of the commission following such hearing shall be deemed
+final subject to the right of judicial review provided in the Administrative
+Procedure Act. All matters presented at any such hearing shall be acted upon
+promptly by the commission, and the commission shall notify all parties in
+writing of its decision, which shall include a statement of findings and conclusions
 upon all material issues of fact, law, or discretion presented at the hearing
 and the appropriate rule, regulation, order, sanction, relief, or denial thereof.</para>
-</amendatorysection></section><source><para>Laws 2011, LB637, &#167; 17.</para></source><crossreference><para><emphasis>Administrative Procedure Act,</emphasis> see section 84-920.</para></crossreference>  </law>
+</amendatorysection></section><source><para>Laws 2011, LB637, &#167; 17; </para><para>Laws 2012, LB1104, &#167; 23.</para><effectivedate>July 19, 2012</effectivedate></source><crossreference><para><emphasis>Administrative Procedure Act,</emphasis> see section 84-920.</para></crossreference>  </law>
 </legaldoc>

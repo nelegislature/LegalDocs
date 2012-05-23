@@ -1,1 +1,163 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Revenue and Taxation" statutenumber="77-2734.04"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>77-2734.04</statuteno><catchline>Income tax; terms, defined.</catchline><para>As used in sections 77-2734.01 to 77-2734.15, unless the context otherwise requires:</para><para>(1) Commercial domicile shall mean the principal place from which the trade or business of the taxpayer is directed or managed;</para><para>(2) Compensation shall mean wages, salaries, commissions, and any other form of remuneration paid to employees for personal services;</para><para>(3) Corporate taxpayer shall mean any corporation that is not a part of a unitary business or the part of a unitary business, whether it is one or more corporations, that is doing business in this state. Corporate taxpayer shall not include any corporation that has a valid election under subchapter S of the Internal Revenue Code or any financial institution as defined in section 77-3801;</para><para>(4) Corporation shall mean all corporations and all other entities that are taxed as corporations under the Internal Revenue Code;</para><para>(5) Doing business in this state shall mean the exercise of the corporation's franchise in this state or the conduct of operations in this state that exceed the limitations provided in 15 U.S.C. 381 on a state imposing an income tax;</para><para>(6) Federal taxable income shall mean the corporate taxpayer's federal taxable income as reported to the Internal Revenue Service or as subsequently changed or amended. Except as provided in subsection (5) or (6) of section 77-2716, no adjustment shall be allowed for a change from any election made or the method used in computing federal taxable income. An election to file a federal consolidated return shall not require the inclusion in any unitary group of a corporation that is not a part of the unitary business;</para><para>(7) Sales shall mean all gross receipts of the taxpayer;</para><para>(8) Single economic unit shall mean a business in which there is a sharing or exchange of value between the parts of the unit. A sharing or exchange of value occurs when the parts of the business are linked by (a) common management or (b) common operational resources that produce material (i) economies of scale, (ii) transfers of value, or (iii) flow of goods, capital, or services between the parts of the unit.</para><para>(A) For the purposes of this subdivision, common management shall include, but not be limited to, (I) a centralized executive force or (II) review or approval authority over long-term operations with or without the exercise of control over the day-to-day operations.</para><para>(B) For the purposes of this subdivision, common operational resources shall include, but not be limited to, centralization of any of the following: Accounting, advertising, engineering, financing, insurance, legal, personnel, pension or benefit plans, purchasing, research and development, selling, or union relations;</para><para>(9) State shall mean any state of the United States, the District of Columbia, the Commonwealth of Puerto Rico, any territory or possession of the United States, and any foreign country or political subdivision thereof;</para><para>(10) Subject to the Internal Revenue Code shall mean a corporation that meets the requirements of section 243 of the Internal Revenue Code in order for its distributions to qualify for the dividends-received deduction;</para><para>(11) Taxable income shall mean federal taxable income as adjusted and, if appropriate, as apportioned;</para><para>(12) Taxable year shall mean the period the corporate taxpayer used on its federal income tax return;</para><para>(13) Unitary business shall mean a business that is conducted as a single economic unit by one or more corporations with common ownership and shall include all activities in different lines of business that contribute to the single economic unit.</para><para>For the purposes of this subdivision, common ownership shall mean one or more corporations owning fifty percent or more of another corporation; and</para><para>(14) Unitary group shall mean the group of corporations that are conducting a unitary business.</para></amendatorysection></section><source><para>Laws 1984, LB 1124, &#167; 7; </para><para>Laws 1986, LB 774, &#167; 10; </para><para>Laws 1987, LB 773, &#167; 20. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id4">
+<amendatorysection amended="yes" chaptername="Revenue and Taxation" id="id6" statutenumber="77-2734.04">
+<bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>77-2734.04</statuteno><catchline id="id9">Income tax;
+terms, defined.</catchline><para>As used in sections 77-2734.01
+to 77-2734.15, unless the context otherwise requires:</para>
+<para>(1) Annual
+average amortized loan balance means the total of the ending monthly values
+in the tax year divided by the number of months in the tax year;</para>
+<para>(2) Application
+service means computer-based services provided to customers over a network
+for a fee without selling, renting, leasing, licensing, or otherwise transferring
+computer software. Application service includes, but is not limited to, software
+as a service, platform as a service, or infrastructure as a service;</para>
+<para>(3) Billing
+address means the location indicated in the books and records of the taxpayer
+as the address of record where the bill relating to the customer's account
+is mailed;</para><para>(4) Borrower located in this state means:</para><para>(a) A borrower who is
+engaged in a trade or business in this state; or</para><para>(b) A borrower whose billing
+address is in this state, but is not engaged in a trade or business in this
+state;</para><para>(5) Buyer includes a buyer, licensee, user, or person providing
+consideration for the use of an item or service;</para><para>(6) Commercial domicile means the
+principal place from which the trade or business of the taxpayer is directed
+or managed;</para>
+<para>(7) Communications
+company means any entity that:</para><para>(a) Is:</para><para>(i) A telecommunications company as defined
+in section 86-119 that provides a telecommunications service as defined in
+section 86-121 or provides broadband, Internet, or video services as defined
+in section 86-593;</para><para>(ii) A communications company that provides the electronic transmission,
+conveyance, or routing of voice, data, audio, video, or any other information
+or signals to a point, or between or among points, and includes such transmission,
+conveyance, or routing in which computer processing applications are used
+to act on the form, code, or protocol of the content for purposes of transmission,
+conveyance, or routing without regard to whether such service is referred
+to as a voice over Internet protocol service or is classified by the Federal
+Communications Commission as enhanced or value added. The company may also
+provide video programming provided by, or generally considered comparable
+to programming provided by, a television broadcast station, regardless of
+the medium, including the furnishing of transmission, conveyance, and routing
+of such services by the programming service provider. Video programming includes,
+but is not limited to, cable service as defined in 47 U.S.C. 522 and video
+programming services delivered by providers of commercial mobile radio service,
+as defined in 47 C.F.R. 20.3; or</para><para>(iii) A broadcast company that provides
+an over-the-air broadcast radio station or over-the-air broadcast television
+station; and</para><para>(b) Owns, operates, manages, or controls any plant or equipment
+used to furnish telecommunications service, communication services, broadband
+services, Internet service, or broadcast services directly or indirectly to
+the general public at large and derives at least seventy percent of its gross
+sales for the current taxable year from the provision of these services. For
+purposes of the seventy-percent test, gross sales does not include interest,
+dividends, rents, royalties, capital gains, or ordinary gains from asset dispositions,
+other than in the normal course of business;</para><para>(8) Compensation means wages,
+salaries, commissions, and any other form of remuneration paid to employees
+for personal services;</para>
+<para>(9) Corporate taxpayer means any corporation that is not a part of
+a unitary business or the part of a unitary business, whether it is one or
+more corporations, that is doing business in this state. Corporate taxpayer does not include any corporation that has a
+valid election under subchapter S of the Internal Revenue Code or any financial
+institution as defined in section 77-3801;</para>
+<para>(10) Corporation means all corporations and all other entities
+that are taxed as corporations under the Internal Revenue Code;</para>
+<para>(11) Credit
+card means a credit card, debit card, purchase card, charge card, and travel
+or entertainment card;</para><para>(12) Doing
+business in this state means the
+exercise of the corporation's franchise in this state or the conduct of operations
+in this state that exceed the limitations provided in 15 U.S.C. 381 on a state
+imposing an income tax;</para>
+<para>(13) Federal taxable income means the corporate taxpayer's federal taxable
+income as reported to the Internal Revenue Service or as subsequently changed
+or amended. Except as provided in subsection (5) or (6) of section 77-2716,
+no adjustment shall be allowed for a change from any election made or the
+method used in computing federal taxable income. An election to file a federal
+consolidated return shall not require the inclusion in any unitary group of
+a corporation that is not a part of the unitary business;</para>
+<para>(14) Intangible
+property means all personal property which is not tangible personal property
+and includes, but is not limited to, patents, copyrights, trademarks, trade
+names, service names, franchises, licenses, royalties, processes, techniques,
+formulas, and technical know-how but excludes money;</para><para>(15) Loan means any extension
+of credit resulting from direct negotiations between the taxpayer and its
+customer or the purchase, in whole or in part, of an extension of credit from
+another person. Loan includes participations, syndications, and leases treated
+as loans for federal income tax purposes. Loan does not include properties
+treated as loans under section 595 of the Internal Revenue Code prior to its
+repeal by Public Law l04-188, futures or forward contracts, options, notional
+principal contracts such as swaps, credit card receivables, including purchased
+credit card relationships, noninterest bearing balances due from depository
+institutions, cash items in the process of collection, federal funds sold,
+securities purchased under agreements to resell, assets held in a trading
+account, securities, interests in a real estate mortgage investment conduit
+or other mortgage-backed or asset-backed security, and other similar items;</para>
+<para>(16) Loan secured
+by real property means a loan or other obligation which, at the time the original
+loan or obligation was incurred or during the current taxable year, was secured
+by real property. A loan secured by real property includes an installment
+sales contract for real property;</para><para>(17) Loan secured by tangible personal property
+means a loan or other obligation which, at the time the original loan or obligation
+was incurred or during the current taxable year, was secured by tangible personal
+property. A loan secured by tangible personal property includes an installment
+sales contract for tangible personal property;</para><para>(18) Loan servicing fee
+includes (a) fees or charges for originating and processing loan applications,
+including, but not limited to, prepaid interest and loan discounts, (b) fees
+or charges for collecting, tracking, and accounting for loan payments received,
+and (c) gross receipts from the sale of loan servicing rights;</para>
+<para>(19) Participation
+means an extension of credit in which an undivided ownership interest is held
+on a pro rata basis in a single loan or pool of loans and related collateral;</para>
+<para>(20) Sales means all
+gross receipts of the taxpayer,
+except:</para>
+<para>(a) Income
+from discharge of indebtedness;</para><para>(b) Amounts received from hedging transactions
+involving intangible assets; or</para><para>(c) Net gains from marketable securities
+held for investment;</para><para>(21) Single
+economic unit means a business in which
+there is a sharing or exchange of value between the parts of the unit. A sharing
+or exchange of value occurs when the parts of the business are linked by (a)
+common management or (b) common operational resources that produce material
+(i) economies of scale, (ii) transfers of value, or (iii) flow of goods, capital,
+or services between the parts of the unit.</para>
+<para>(A) For the purposes of this subdivision, common management includes, but is not limited
+to, (I) a centralized executive force or (II) review or approval authority
+over long-term operations with or without the exercise of control over the
+day-to-day operations.</para>
+<para>(B) For the purposes of this subdivision, common operational
+resources includes, but is not limited
+to, centralization of any of the following: Accounting, advertising, engineering,
+financing, insurance, legal, personnel, pension or benefit plans, purchasing,
+research and development, selling, or union relations;</para>
+<para>(22) State means any
+state of the United States, the District of Columbia, the Commonwealth of
+Puerto Rico, any territory or possession of the United States, and any foreign
+country or political subdivision thereof;</para>
+<para>(23) Subject to the Internal
+Revenue Code means a corporation that meets
+the requirements of section 243 of the Internal Revenue Code in order for
+its distributions to qualify for the dividends-received deduction;</para>
+<para>(24) Taxable income means federal taxable income as adjusted and,
+if appropriate, as apportioned;</para>
+<para>(25) Taxable year means the period the corporate taxpayer used
+on its federal income tax return;</para>
+<para>(26) Treasury
+function is the pooling, management, and investment of intangible assets to
+satisfy the cash-flow needs of the trade or business, including, but not limited
+to, providing liquidity for a taxpayer's business cycle, providing a reserve
+for business contingencies, or business acquisitions. A taxpayer principally
+engaged in the trade or business of purchasing and selling intangible assets
+of the type typically held in a taxpayer's treasury function, such as a registered
+broker-dealer, is not performing a treasury function with respect to income
+so produced;</para><para>(27) Unitary
+business means a business that is conducted
+as a single economic unit by one or more corporations with common ownership
+and shall include all activities in different lines of business that contribute
+to the single economic unit.</para>
+<para>For the purposes of this subdivision, common ownership means one or more corporations owning fifty
+percent or more of another corporation; and</para>
+<para>(28) Unitary group means the group of corporations that are conducting
+a unitary business.</para>
+</amendatorysection></section><source><para>Laws 1984, LB 1124, &#167; 7; </para><para>Laws 1986, LB 774, &#167; 10; </para><para>Laws 1987, LB 773, &#167; 20; </para><para>Laws 2012, LB872, &#167; 1.</para><operativedate>January 1, 2014</operativedate></source>  </law>
+</legaldoc>

@@ -1,1 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Banks and Banking" statutenumber="8-213"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>8-213</statuteno><catchline>Pledged securities of insolvent trust companies; transfer to fiduciary; conditions.</catchline><para>In the case of national banks and federal savings associations doing business as trust companies, trust companies, federally chartered trust companies, and out-of-state trust companies authorized under the Interstate Trust Company Office Act which upon insolvency are not liquidated by the Department of Banking and Finance, upon the appointment of a receiver, trustee in bankruptcy, or other liquidating agent, the department shall turn over to the receiver, trustee in bankruptcy, or other liquidating agent any securities pledged to it by the national bank, federal savings association, trust company, federally chartered trust company, or out-of-state trust company authorized under the Interstate Trust Company Office Act upon:</para><para>(1) The entry of an order by a court having jurisdiction over a receiver, trustee in bankruptcy, or other liquidating agent of the national bank, federal savings association, trust company, federally chartered trust company, or out-of-state trust company authorized under the Interstate Trust Company Office Act ordering the department to turn over to a receiver, trustee in bankruptcy, or other liquidating agent the securities pledged to the department; and</para><para>(2) The publication of a notice for three successive weeks in some legal newspaper published in the county or, if none is published in the county, in a legal newspaper of general circulation in the county in which the principal place of business of the national bank, federal savings association, trust company, federally chartered trust company, or out-of-state trust company authorized under the Interstate Trust Company Office Act is located that all claims for the trust liabilities must be filed with the receiver, trustee in bankruptcy, or other liquidating agent within thirty days. In the case of national banks the notice provided for in 12 U.S.C. 193, and in the case of trust companies liquidated in bankruptcy court, the notice provided for in 11 U.S.C. 94(b), shall be sufficient without further notice being given and shall be in lieu of the notice required in this subdivision. In the case of out-of-state trust companies authorized under the Interstate Trust Company Office Act, an additional notice shall be published in each county in Nebraska where the out-of-state trust company maintains an office or maintained an office within one year prior to the insolvency.</para></amendatorysection></section><source><para>Laws 1933, c. 20, &#167; 1, p. 190; </para><para>Laws 1939, c. 3, &#167; 2, p. 60; </para><para>C.S.Supp.,1941, &#167; 8-212; </para><para>R.S.1943, &#167; 8-213; </para><para>Laws 1986, LB 960, &#167; 2; </para><para>Laws 1993, LB 81, &#167; 27; </para><para>Laws 1998, LB 1321, &#167; 42; </para><para>Laws 2005, LB 533, &#167; 13.</para></source><crossreference><para><emphasis>Interstate Trust Company Office Act,</emphasis> see section 8-2301.</para></crossreference></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Banks and Banking" statutenumber="8-213"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>8-213</statuteno><catchline>Pledged securities of insolvent trust
+companies or out-of-state entity
+acting in fiduciary capacity; transfer to fiduciary; conditions.</catchline>
+<para>In the case of national banks and federal savings associations doing
+business as trust companies, trust companies, federally chartered trust companies, out-of-state trust companies
+authorized under the Interstate Trust Company Office Act or otherwise doing business in this state, and out-of-state
+entities acting in a fiduciary capacity in this state, which upon
+insolvency are not liquidated by the Department of Banking and Finance, upon
+the appointment of a receiver, trustee in bankruptcy, or other liquidating
+agent, the department shall turn over to the receiver, trustee in bankruptcy,
+or other liquidating agent any securities pledged to it by the national bank,
+federal savings association, trust company, federally chartered trust company, out-of-state trust company
+authorized under the Interstate Trust Company Office Act or otherwise doing business in this state, or any out-of-state
+entity acting in a fiduciary capacity in this state, upon:</para>
+<para>(1) The entry of an order by a court having jurisdiction over a receiver,
+trustee in bankruptcy, or other liquidating agent of the national bank, federal
+savings association, trust company, federally chartered trust company, out-of-state trust company
+authorized under the Interstate Trust Company Office Act or otherwise doing business in this state, or any out-of-state
+entity acting in a fiduciary capacity in this state, ordering
+the department to turn over to a receiver, trustee in bankruptcy, or other
+liquidating agent the securities pledged to the department; and</para>
+<para>(2) The publication of a notice for three successive weeks in some legal
+newspaper published in the county or, if none is published in the county,
+in a legal newspaper of general circulation in the county in which the principal
+place of business of the national bank, federal savings association, trust
+company, federally chartered trust company, out-of-state
+trust company authorized under the Interstate Trust Company Office Act or otherwise doing business in this state,
+or any out-of-state entity acting in a fiduciary capacity in this state, is
+located that all claims for the trust liabilities must be filed with the receiver,
+trustee in bankruptcy, or other liquidating agent within thirty days. In the
+case of national banks the notice provided for in 12 U.S.C. 193, and in the
+case of trust companies liquidated in bankruptcy court, the notice provided
+for in 11 U.S.C. 94(b), shall be sufficient without further notice being given
+and shall be in lieu of the notice required in this subdivision. In the case
+of out-of-state trust companies authorized under the Interstate Trust Company
+Office Act or otherwise doing
+business in this state, or in the case of any out-of-state entity acting in
+a fiduciary capacity in this state, an additional notice shall
+be published in each county in Nebraska where the out-of-state trust company or out-of-state entity maintains
+an office, does business, or
+acts in a fiduciary capacity, or maintained an office, conducted business, or acted in a fiduciary
+capacity, within one year prior to the insolvency.</para>
+</amendatorysection></section><source><para>Laws 1933, c. 20, &#167; 1, p. 190; </para><para>Laws 1939, c. 3, &#167; 2, p. 60; </para><para>C.S.Supp.,1941, &#167; 8-212; </para><para>R.S.1943, &#167; 8-213; </para><para>Laws 1986, LB 960, &#167; 2; </para><para>Laws 1993, LB 81, &#167; 27; </para><para>Laws 1998, LB 1321, &#167; 42; </para><para>Laws 2005, LB 533, &#167; 13; </para><para>Laws 2012, LB963, &#167; 7.</para><effectivedate>April 7, 2012</effectivedate></source><crossreference><para><emphasis>Interstate Trust Company Office Act,</emphasis> see section 8-2301.</para></crossreference>  </law>
+</legaldoc>

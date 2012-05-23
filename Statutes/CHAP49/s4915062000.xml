@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id301">
-<sectno id="id302" opdate="July 15, 2010">Sec. 42.</sectno><amendatorysection chaptername="Law" id="id303" publishedsource="CumulativeSupplement" statutenumber="49-1562"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>49-1562</statuteno><catchline>Powers relating to rights of survivorship
-and beneficiary designations.</catchline><para>An agent or attorney in fact under a power of attorney,
-whether the power of attorney is durable or nondurable, may do the following
-on behalf of the principal or with the principal's property only if the power
-of attorney expressly grants the agent or attorney in fact the authority and
-exercise of the authority is not otherwise prohibited by another agreement
-or instrument to which the authority or property is subject:</para>
-<para>(1) Create
-or change rights of survivorship; or</para><para>(2) Create or change a beneficiary designation.</para>
-</amendatorysection></section><source><para>Laws 2010, LB712, &#167; 42.</para></source>  </law>
+		<section>
+			<amendatorysection chaptername="" statutenumber="49-1562">
+				<statuteno>49-1562</statuteno>
+				<catchline>Repealed. Laws 2012, LB 1113, &#167; 50.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>January 1, 2013</operativedate></source>
+	</law>
 </legaldoc>

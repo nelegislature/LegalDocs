@@ -1,1 +1,93 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection amended="yes" chaptername="Revenue and Taxation" publishedsource="CumulativeSupplement" statutenumber="77-2715.02"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>77-2715.02</statuteno><catchline>Rate schedules; established; other taxes; tax rate; tax tables.</catchline><para>(1) Whenever the primary rate is changed by the Legislature under section 77-2715.01, the Tax Commissioner shall update the rate schedules required in subsection (2) of this section to reflect the new primary rate and shall publish such updated schedules.</para><para>(2) The following rate schedules are hereby established for the Nebraska individual income tax and shall be in the following form:</para><para>(a) For taxable years beginning or deemed to begin before January 1, 2007, income amounts for columns A and E shall be:</para><para>(i) $0, $2,400, $17,500, and $27,000, for single returns;</para><para>(ii) $0, $4,000, $31,000, and $50,000, for married filing joint returns;</para><para>(iii) $0, $3,800, $25,000, and $35,000, for head-of-household returns;</para><para>(iv) $0, $2,000, $15,500, and $25,000, for married filing separate returns; and</para><para>(v) $0, $500, $4,700, and $15,150, for estates and trusts;</para><para>(b) For taxable years beginning or deemed to begin on or after January 1, 2007, income amounts for columns A and E shall be:</para><para>(i) $0, $2,400, $17,500, and $27,000, for single returns;</para><para>(ii) $0, $4,800, $35,000, and $54,000, for married filing joint returns;</para><para>(iii) $0, $4,500, $28,000, and $40,000, for head-of-household returns;</para><para>(iv) $0, $2,400, $17,500, and $27,000, for married filing separate returns; and</para><para>(v) $0, $500, $4,700, and $15,150, for estates and trusts;</para><para>(c) The amount in column C shall be the total amount of the tax imposed on income less than the amount in column A;</para><para>(d) The amount in column D shall be the rate on the income in excess of the amount in column E;</para><para>(e) For taxable years beginning or deemed to begin before January 1, 2003, under the Internal Revenue Code of 1986, as amended, the primary rate set by the Legislature shall be multiplied by the following factors to compute the tax rates for column D. The factors for the brackets, from lowest to highest bracket, shall be .6784, .9432, 1.3541, and 1.8054;</para><para>(f) For taxable years beginning or deemed to begin on or after January 1, 2003, under the Internal Revenue Code of 1986, as amended, the primary rate set by the Legislature shall be multiplied by the following factors to compute the tax rates for column D. The factors for the brackets, from lowest to highest bracket, shall be .6932, .9646, 1.3846, and 1.848;</para><para>(g) The amounts for column C shall be rounded to the nearest dollar, and the amounts in column D shall be rounded to hundredths of one percent; and</para><para>(h) One rate schedule shall be established for each federal filing status.</para><para>(3) The tax rate schedules shall use the format set forth in this subsection.</para><para><table frame="none"><tgroup align="center" cols="5"><colspec colname="col1"/><colspec colname="col2"/><colspec colname="col3"/><colspec colname="col4"/><colspec colname="col5"/><tbody><row><entry colsep="0" rowsep="0">A</entry><entry colsep="0" rowsep="0">B</entry><entry colsep="0" rowsep="0">C</entry><entry colsep="0" rowsep="0">D</entry><entry colsep="0" rowsep="0">E</entry></row><row><entry colsep="0" rowsep="0">Taxable income</entry><entry colsep="0" rowsep="0">but not</entry><entry colsep="0" rowsep="0">pay</entry><entry colsep="0" rowsep="0">plus</entry><entry colsep="0" rowsep="0">of the</entry></row><row><entry colsep="0" rowsep="0">over</entry><entry colsep="0" rowsep="0">over</entry><entry colsep="0" rowsep="0"/><entry colsep="0" rowsep="0"/><entry colsep="0" rowsep="0">amount over</entry></row></tbody></tgroup></table></para><para>(4) The tax rate applied to other federal taxes included in the computation of the Nebraska individual income tax shall be eight times the primary rate.</para><para>(5) The Tax Commissioner shall prepare, from the rate schedules, tax tables which can be used by a majority of the taxpayers to determine their Nebraska tax liability. The design of the tax tables shall be determined by the Tax Commissioner. The size of the tax table brackets may change as the level of income changes. The difference in tax between two tax table brackets shall not exceed fifteen dollars. The Tax Commissioner may build the personal exemption credit and standard deduction amounts into the tax tables.</para><para>(6) The Tax Commissioner may require by rule and regulation that all taxpayers shall use the tax tables if their income is less than the maximum income included in the tax tables.</para></amendatorysection></section><source><para>Laws 1990, LB 1059, &#167; 34; </para><para>Laws 1993, LB 240, &#167; 3; </para><para>Laws 1994, LB 977, &#167; 11; </para><para>Laws 1997, LB 401, &#167; 1; </para><para>Laws 1998, LB 1028, &#167; 1; </para><para>Laws 2002, LB 1085, &#167; 17; </para><para>Laws 2003, LB 759, &#167; 21; </para><para>Laws 2006, LB 968, &#167; 7; </para><para>Laws 2007, LB367, &#167; 19.</para></source><annotation><para>This section and section 77-2717, when read together, require the Nebraska Department of Revenue to tax trusts and estates in conformity with the federal tax code. FirsTier Bank v. Department of Revenue, 254 Neb. 918, 580 N.W.2d 537 (1998).</para></annotation></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id35">
+<amendatorysection amended="yes" chaptername="Revenue and Taxation" id="id37" publishedsource="CumulativeSupplement" statutenumber="77-2715.02">
+<bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>77-2715.02</statuteno><catchline id="id40">Rate schedules;
+established; other taxes; tax rate.</catchline>
+<para>(1) The following rate schedules
+are hereby established for the Nebraska individual income tax and shall be
+in the following form:</para>
+<para>(a) For taxable years beginning or deemed to begin before
+January 1, 2007, income amounts for columns A and E shall be:</para>
+<para>(i) $0, $2,400, $17,500, and $27,000, for single returns;</para>
+<para>(ii) $0, $4,000, $31,000, and $50,000, for married filing
+joint returns;</para>
+<para>(iii) $0, $3,800, $25,000, and $35,000, for head-of-household
+returns;</para>
+<para>(iv) $0, $2,000, $15,500, and $25,000, for married filing
+separate returns; and</para>
+<para>(v) $0, $500, $4,700, and $15,150, for estates and trusts;</para>
+<para>(b) For taxable years beginning or deemed to begin on or after
+January 1, 2007, and before
+January 1, 2013, income amounts for columns A and E shall be:</para>
+<para>(i) $0, $2,400, $17,500, and $27,000, for single returns;</para>
+<para>(ii) $0, $4,800, $35,000, and $54,000, for married filing
+joint returns;</para>
+<para>(iii) $0, $4,500, $28,000, and $40,000, for head-of-household
+returns;</para>
+<para>(iv) $0, $2,400, $17,500, and $27,000, for married filing
+separate returns; and</para>
+<para>(v) $0, $500, $4,700, and $15,150, for estates and trusts;</para>
+<para>(c) The amount in column C shall be the total amount of the
+tax imposed on income less than the amount in column A;</para>
+<para>(d) The amount in column D shall be the rate on the income
+in excess of the amount in column E;</para>
+<para>(e) For taxable years beginning or deemed to begin before
+January 1, 2003, under the Internal Revenue Code of 1986, as amended, the
+primary rate set by the Legislature shall be multiplied by the following factors
+to compute the tax rates for column D. The factors for the brackets, from
+lowest to highest bracket, shall be .6784, .9432, 1.3541, and 1.8054;</para>
+<para>(f) For taxable years beginning or deemed to begin on or after
+January 1, 2003, and before
+January 1, 2013, under the Internal Revenue Code of 1986, as amended,
+the primary rate set by the Legislature shall be multiplied by the following
+factors to compute the tax rates for column D. The factors for the brackets,
+from lowest to highest bracket, shall be .6932, .9646, 1.3846, and 1.848;</para>
+<para>(g) The amounts for column C shall be rounded to the nearest
+dollar, and the amounts in column D shall be rounded to hundredths of one
+percent; and</para>
+<para>(h) One rate schedule shall be established for each federal
+filing status.</para>
+<para>(2) The tax rate schedules
+shall use the format set forth in this subsection.</para>
+<para><table frame="none">
+<tgroup align="center" cols="5">
+<?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt" rth="1.00pt" dispwid="1363.00px"?>
+<colspec colname="col1" colwidth="23.25*" /><colspec colname="col2" colwidth="18.92*" />
+<colspec colname="col3" colwidth="18.41*" /><colspec colname="col4" colwidth="18.21*" />
+<colspec colname="col5" colwidth="21.22*" />
+<tbody>
+<row>
+<?PubTbl row rht="0.32in"?>
+<entry colsep="0" rowsep="0">A</entry>
+<entry colsep="0" rowsep="0">B</entry>
+<entry colsep="0" rowsep="0">C</entry>
+<entry colsep="0" rowsep="0">D</entry>
+<entry colsep="0" rowsep="0">E</entry>
+</row>
+<row>
+<?PubTbl row rht="0.33in"?>
+<entry colsep="0" rowsep="0">Taxable income</entry>
+<entry colsep="0" rowsep="0">but not</entry>
+<entry colsep="0" rowsep="0">pay</entry>
+<entry colsep="0" rowsep="0">plus</entry>
+<entry colsep="0" rowsep="0">of the</entry>
+</row>
+<row>
+<?PubTbl row rht="0.33in"?>
+<entry colsep="0" rowsep="0">over</entry>
+<entry colsep="0" rowsep="0">over</entry>
+<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0">amount over</entry>
+</row>
+</tbody>
+</tgroup>
+</table></para>
+<para>(3) For taxable years beginning or deemed
+to begin before January 1, 2013, the tax rate applied to other
+federal taxes included in the computation of the Nebraska individual income
+tax shall be eight times the primary rate.</para>
+</amendatorysection></section><source><para>Laws 1990, LB 1059, &#167; 34; </para><para>Laws 1993, LB 240, &#167; 3; </para><para>Laws 1994, LB 977, &#167; 11; </para><para>Laws 1997, LB 401, &#167; 1; </para><para>Laws 1998, LB 1028, &#167; 1; </para><para>Laws 2002, LB 1085, &#167; 17; </para><para>Laws 2003, LB 759, &#167; 21; </para><para>Laws 2006, LB 968, &#167; 7; </para><para>Laws 2007, LB367, &#167; 19; </para><para>Laws 2012, LB970, &#167; 4.</para><effectivedate>July 19, 2012</effectivedate></source><annotation><para>This section and section 77-2717, when read together, require the Nebraska Department of Revenue to tax trusts and estates in conformity with the federal tax code. FirsTier Bank v. Department of Revenue, 254 Neb. 918, 580 N.W.2d 537 (1998).</para></annotation>  </law>
+</legaldoc>

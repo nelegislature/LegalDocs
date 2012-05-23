@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Public Health and Welfare" statutenumber="71-6225"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>71-6225</statuteno><catchline>Board; review technical committee report; report to director.</catchline><para>The board shall receive reports from the technical committees and shall meet to review and discuss each report. The board shall apply the criteria established in sections 71-6221 to 71-6223 and compile its own report, including its findings and recommendations, and submit such report, together with the committee report, to the director. The recommendation of the board shall be developed in a manner consistent with subsection (3) of section 71-6224.</para></amendatorysection></section><source><para>Laws 1985, LB 407, &#167; 25; </para><para>Laws 1988, LB 384, &#167; 11. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id179">
+<amendatorysection amended="yes" chaptername="Public Health and Welfare" id="id181" statutenumber="71-6225"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>71-6225</statuteno><catchline id="id184">Board; review
+technical committee report; report to director.</catchline><para>The
+board shall receive reports from the technical committees and shall meet to
+review and discuss each report. The board shall apply the criteria established
+in sections 71-6221 to 71-6223 and compile its own report, including its findings
+and recommendations, and submit such report, together with the committee report,
+to the director. The recommendation of the board shall be developed in a manner
+consistent with subsection (4) of section 71-6224.</para>
+</amendatorysection></section><source><para>Laws 1985, LB 407, &#167; 25; </para><para>Laws 1988, LB 384, &#167; 11; </para><para>Laws 2012, LB834, &#167; 20.</para><effectivedate>July 19, 2012</effectivedate></source>  </law>
+</legaldoc>

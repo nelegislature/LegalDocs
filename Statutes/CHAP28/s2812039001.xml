@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id24">
-<sectno id="id25" opdate="October 1, 2010">Sec. 2.</sectno><amendatorysection amended="yes" chaptername="Crimes and Punishments" id="id26" statutenumber="28-1239.01"><bookinfo>Revised Statutes Cumulative Supplement, 2010</bookinfo><statuteno id="id28">28-1239.01</statuteno><catchline id="id29">Fireworks
-display; permit required; fee; sale of display fireworks; regulation.</catchline><para>(1) No person shall conduct a public exhibition or display
-of display fireworks
-without first procuring a display permit from the State Fire Marshal. If the
-applicant is an individual, the application for a display permit shall include
-the applicant's social security number. Such application for a display permit
-shall be accompanied by a fee of ten dollars to be deposited in the State
-Fire Marshal Cash Fund.</para>
-<para>(2) No display fireworks shall be sold or delivered by a licensed
-distributor to any person who is not in possession of an approved display
-permit. Sales of display fireworks to persons without an approved display
-permit shall be subject to sections 28-1213 to 28-1239.</para>
-</amendatorysection></section><source><para>Laws 1986, LB 969, &#167; 4; </para><para>Laws 1993, LB 251, &#167; 1; </para><para>Laws 1997, LB 752, &#167; 82; </para><para>Laws 2010, LB880, &#167; 2.</para></source>  </law>
+<section>
+<amendatorysection amended="yes" chaptername="Crimes and Punishments" id="id26" statutenumber="28-1239.01"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>28-1239.01</statuteno><catchline id="id29">Fireworks
+display; permit required; fee; sale of display fireworks; regulation.</catchline>
+<para>(1) No person shall conduct a public exhibition or display of display
+fireworks without first procuring a display permit from the State Fire Marshal. Such application for a display permit shall be accompanied
+by a fee of ten dollars to be deposited in the State Fire Marshal Cash Fund.</para>
+<para>(2) No display fireworks shall be sold or delivered by a licensed distributor
+to any person who is not in possession of an approved display permit. Sales
+of display fireworks to persons without an approved display permit shall be
+subject to sections 28-1213 to 28-1239.</para>
+</amendatorysection></section><source><para>Laws 1986, LB 969, &#167; 4; </para><para>Laws 1993, LB 251, &#167; 1; </para><para>Laws 1997, LB 752, &#167; 82; </para><para>Laws 2010, LB880, &#167; 2; </para><para>Laws 2012, LB805, &#167; 1.</para><effectivedate>July 19, 2012</effectivedate></source>  </law>
 </legaldoc>

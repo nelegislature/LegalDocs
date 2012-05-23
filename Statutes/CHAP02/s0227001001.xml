@@ -1,1 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Agriculture" statutenumber="2-2701.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>2-2701.01</statuteno><catchline>Terms, defined.</catchline><para>For purposes of sections 2-2701 to 2-2711, unless the context otherwise requires:</para><para>(1) Board shall mean the University of Nebraska Board of Tractor Test Engineers which shall consist of three engineers under the control of the university;</para><para>(2) Current tractor model shall mean any model included in the manufacturer's annual price list of tractors being offered for sale by its dealers or distributors;</para><para>(3) Department shall mean the Department of Agriculture;</para><para>(4) Director shall mean the Director of Agriculture or his or her authorized representative;</para><para>(5) Person shall mean bodies politic and corporate, societies, communities, the public generally, individuals, partnerships, limited liability companies, joint-stock companies, and associations; and</para><para>(6) Tractor shall mean an agricultural tractor of forty or more horsepower which is a traction machine designed and advertised primarily to supply power to agricultural implements and farmstead equipment. An agricultural tractor propels itself and provides a force in the direction of travel to enable attached soil-engaging and other agricultural implements to perform their intended function.</para></amendatorysection></section><source><para>Laws 1986, LB 768, &#167; 1; </para><para>Laws 1989, LB 381, &#167; 1; </para><para>Laws 1993, LB 121, &#167; 67.</para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Agriculture" statutenumber="2-2701.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>2-2701.01</statuteno><catchline>Terms, defined.</catchline><para>For
+purposes of sections 2-2701 to 2-2711, unless the context otherwise requires:</para>
+<para>(1) Board means the University of Nebraska
+Board of Tractor Test Engineers which shall consist of three engineers under
+the control of the university;</para>
+<para>(2) Current tractor model means any
+model included in the manufacturer's annual price list of tractors being offered
+for sale by its dealers or distributors;</para>
+<para>(3) Department means the
+Department of Agriculture;</para>
+<para>(4) Director means the Director of Agriculture
+or his or her authorized representative;</para>
+<para>(5) Person means bodies politic and corporate,
+societies, communities, the public generally, individuals, partnerships, limited
+liability companies, joint-stock companies, and associations; and</para>
+<para>(6) Tractor means a traction machine designed
+and advertised primarily to supply power to agricultural implements and farmstead
+equipment. An agricultural tractor propels itself and provides a force in
+the direction of travel and
+may provide mechanical, hydraulic, and electrical power and control to
+enable attached soil-engaging and other agricultural implements to perform
+their intended function.</para>
+</amendatorysection></section><source><para>Laws 1986, LB 768, &#167; 1; </para><para>Laws 1989, LB 381, &#167; 1; </para><para>Laws 1993, LB 121, &#167; 67; </para><para>Laws 2012, LB907, &#167; 2.</para><effectivedate>July 19, 2012</effectivedate></source>  </law>
+</legaldoc>

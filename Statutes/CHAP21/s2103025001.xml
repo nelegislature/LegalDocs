@@ -1,1 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Corporations and Other Companies" statutenumber="21-325.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>21-325.01</statuteno><catchline>Foreign corporation automatically dissolved; reinstatement; procedure.</catchline><para>(1) A foreign corporation, the certificate of authority of which has been revoked under section 21-325, may apply to the Secretary of State for reinstatement. The application shall:</para><para>(a) Recite the name of the foreign corporation and the effective date of the revocation;</para><para>(b) State that the ground or grounds for revocation either did not exist or have been eliminated;</para><para>(c) State that the foreign corporation's name satisfies the requirements of section 21-20,173; and</para><para>(d) Be accompanied by a fee in the amount prescribed in section 21-2005, as such section may from time to time be amended, for an application for reinstatement.</para><para>(2) If the Secretary of State determines (a) that the application contains the information required by subsection (1) of this section and that the information is correct and (b) that the foreign corporation has complied with subsection (4) of this section, he or she shall cancel the certificate of revocation, prepare a certificate of reinstatement that recites his or her determination and the effective date of reinstatement, file the original of the certificate, and serve a copy on the foreign corporation under section 21-20,177.</para><para>(3) When the reinstatement is effective, it shall relate back to and take effect as of the effective date of the revocation and the foreign corporation shall resume carrying on its business as if the revocation had never occurred.</para><para>(4) A foreign corporation applying for reinstatement under this section shall:</para><para>(a)(i) Pay to the Secretary of State a sum equal to all occupation taxes delinquent as of the effective date of the revocation, plus a sum equal to all occupation taxes which would otherwise have been due for the years the foreign corporation's certificate of authority was revoked; and (ii) forward to the Secretary of State a properly executed and signed biennial report for the most recent even-numbered year; and</para><para>(b) Pay to the Secretary of State an additional amount derived by multiplying the rate specified in section 45-104.02, as such rate may from time to time be adjusted, times the amount of occupation taxes required to be paid by it for each year that such foreign corporation's certificate of authority was revoked.</para></amendatorysection></section><source><para>Laws 1995, LB 109, &#167; 201; </para><para>Laws 1996, LB 1036, &#167; 2; </para><para>Laws 2003, LB 524, &#167; 14. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Corporations and Other Companies" statutenumber="21-325.01">
+<bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>21-325.01</statuteno><catchline>Foreign corporation automatically
+dissolved; reinstatement; procedure.</catchline><para>(1) A foreign corporation,
+the certificate of authority of which has been revoked under section 21-325,
+may apply to the Secretary of State for reinstatement within five years after the effective date of the revocation.
+The application shall:</para>
+<para>(a) Recite the name of the foreign corporation and the effective date
+of the revocation;</para>
+<para>(b) State that the ground or grounds for revocation either did not exist
+or have been eliminated;</para>
+<para>(c) State that the foreign corporation's name satisfies the requirements
+of section 21-20,173; and</para>
+<para>(d) Be accompanied by a fee in the amount prescribed in section 21-2005,
+as such section may from time to time be amended, for an application for reinstatement.</para>
+<para>(2) If the Secretary of State determines (a) that the application contains
+the information required by subsection (1) of this section and that the information
+is correct and (b) that the foreign corporation has complied with subsection
+(4) of this section, he or she shall cancel the certificate of revocation,
+prepare a certificate of reinstatement that recites his or her determination
+and the effective date of reinstatement, file the original of the certificate,
+and serve a copy on the foreign corporation under section 21-20,177.</para>
+<para>(3) When the reinstatement is effective, it shall relate back to and
+take effect as of the effective date of the revocation and the foreign corporation
+shall resume carrying on its business as if the revocation had never occurred.</para>
+<para>(4) A foreign corporation applying for reinstatement under this section
+shall:</para>
+<para>(a)(i) Pay to the Secretary of State a sum equal to all occupation taxes
+delinquent as of the effective date of the revocation, plus a sum equal to
+all occupation taxes which would otherwise have been due for the years the
+foreign corporation's certificate of authority was revoked; and (ii) forward
+to the Secretary of State a properly executed and signed biennial report for
+the most recent even-numbered year; and</para>
+<para>(b) Pay to the Secretary of State an additional amount derived by multiplying
+the rate specified in section 45-104.02, as such rate may from time to time
+be adjusted, times the amount of occupation taxes required to be paid by it
+for each year that such foreign corporation's certificate of authority was
+revoked.</para>
+</amendatorysection></section><source><para>Laws 1995, LB 109, &#167; 201; </para><para>Laws 1996, LB 1036, &#167; 2; </para><para>Laws 2003, LB 524, &#167; 14; </para><para>Laws 2012, LB854, &#167; 3.</para><operativedate>January 1, 2013</operativedate></source>  </law>
+</legaldoc>

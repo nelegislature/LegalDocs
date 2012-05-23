@@ -1,1 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Paupers and Public Assistance" statutenumber="68-1518"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>68-1518</statuteno><catchline>Department; report; contents.</catchline><para>The department shall file an annual report with the Governor and the Clerk of the Legislature on or before January 1 of each year beginning January 1, 1983. Such report shall include:</para><para>(1) The number of families and disabled persons applying for support pursuant to sections 68-1501 to 68-1519 and the number of families and disabled persons receiving support pursuant to sections 68-1501 to 68-1519;</para><para>(2) The types of services and programs being applied for and those being provided through sections 68-1501 to 68-1519;</para><para>(3) The effects of the support provided under sections 68-1501 to 68-1519 on the disabled and their families; and</para><para>(4) Any proposals for amendment of sections 68-1501 to 68-1519.</para></amendatorysection></section><source><para>Laws 1981, LB 389, &#167; 18. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Paupers and Public Assistance" statutenumber="68-1518"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>68-1518</statuteno><catchline>Department; report; contents.</catchline>
+<para>The department shall file an annual report with the Governor and the
+Clerk of the Legislature on or before January 1 of each year beginning January
+1, 1983. The report submitted
+to the Clerk of the Legislature shall be submitted electronically. Such
+report shall include:</para>
+<para>(1) The number of families and disabled persons applying for support
+pursuant to the
+Disabled Persons and Family Support Act and the number of families
+and disabled persons receiving support pursuant to the act;</para>
+<para>(2) The types of services and programs being applied for and those being
+provided through the
+act;</para>
+<para>(3) The effects of the support provided under the act on the disabled and their families;
+and</para>
+<para>(4) Any proposals for amendment of the
+act.</para>
+</amendatorysection></section><source><para>Laws 1981, LB 389, &#167; 18; </para><para>Laws 2012, LB782, &#167; 97.</para><operativedate>July 19, 2012</operativedate></source>  </law>
+</legaldoc>

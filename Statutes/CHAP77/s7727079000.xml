@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Revenue and Taxation" statutenumber="77-2779"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>77-2779</statuteno><catchline>Income tax; notice of Tax Commissioner's determination; mailing; contents.</catchline><para>Notice of the Tax Commissioner's determination shall be mailed to the taxpayer by certified or registered mail and such notice shall set forth briefly the Tax Commissioner's findings of fact and the basis of decision in each case decided in whole or in part adversely to the taxpayer.</para></amendatorysection></section><source><para>Laws 1967, c. 487, &#167; 79, p. 1605. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id483">
+<amendatorysection amended="yes" chaptername="Revenue and Taxation" id="id485" statutenumber="77-2779">
+<bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>77-2779</statuteno><catchline id="id488">Income tax;
+notice of Tax Commissioner's determination; mailing; contents.</catchline>
+<para>Notice of the Tax Commissioner's determination shall be mailed
+to the taxpayer and such notice shall set forth briefly the
+Tax Commissioner's findings of fact and the basis of decision in each case
+decided in whole or in part adversely to the taxpayer.</para>
+</amendatorysection></section><source><para>Laws 1967, c. 487, &#167; 79, p. 1605; </para><para>Laws 2012, LB727, &#167; 42.</para><operativedate>April 12, 2012</operativedate></source>  </law>
+</legaldoc>
