@@ -137,7 +137,7 @@ it unless that person knows it has terminated or is invalid.</para>
 <para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="0.00pt" dispwid="834.00px"?>
-<colspec colname="col1" colwidth="1.37" /><colspec colname="col2" colwidth="0.63" />
+<colspec colname="col1" colwidth="1.37*" /><colspec colname="col2" colwidth="0.63*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.33in"?>

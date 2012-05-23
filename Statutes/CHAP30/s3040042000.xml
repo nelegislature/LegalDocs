@@ -29,7 +29,7 @@ statements)</para><para>SIGNATURE
 AND ACKNOWLEDGMENT</para><para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="0.00pt" dispwid="810.00px"?>
-<colspec colname="col1" colwidth="1.43" /><colspec colname="col2" colwidth="0.57" />
+<colspec colname="col1" colwidth="1.43*" /><colspec colname="col2" colwidth="0.57*" />
 <tbody>
 <row>
 <?PubTbl row rht="0.33in"?>
