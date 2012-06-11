@@ -1,30 +1,57 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="ucc"><section><sectno></sectno><amendatorysection chaptername="Uniform Commercial Code" statutenumber="9-523">
-<bookinfo>Uniform Commercial Code, Reissue Revised Statutes of Nebraska</bookinfo>
-<statuteno>9-523</statuteno>
-<catchline>Information from filing office; sale or license of records.</catchline>
-<para>(a) If a person that files a written record requests an acknowledgment of the filing, the filing office shall send to the person an image of the record showing the number assigned to the record pursuant to section 9-519(a)(1) and the date and time of the filing of the record. However, if the person furnishes a copy of the record to the filing office, the filing office may instead:</para>
-<para>(1) note upon the copy the number assigned to the record pursuant to section 9-519(a)(1) and the date and time of the filing of the record; and</para>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="ucc">
+<section>
+<amendatorysection amended="yes" chaptername="Uniform Commercial Code" statutenumber="9-523"><bookinfo>Uniform Commercial Code, Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>9-523</statuteno><catchline>Information from filing office; sale
+or license of records.</catchline><para>(a) If a person that files a written
+record requests an acknowledgment of the filing, the filing office shall send
+to the person an image of the record showing the number assigned to the record
+pursuant to section 9-519(a)(1) and the date and time of the filing of the
+record. However, if the person furnishes a copy of the record to the filing
+office, the filing office may instead:</para>
+<para>(1) note upon the copy the number assigned to the record pursuant to
+section 9-519(a)(1) and the date and time of the filing of the record; and</para>
 <para>(2) send the copy to the person.</para>
-<para>(b) If a person files a record other than a written record, the filing office shall communicate to the person an acknowledgment that provides:</para>
+<para>(b) If a person files a record other than a written record, the filing
+office shall communicate to the person an acknowledgment that provides:</para>
 <para>(1) the information in the record;</para>
-<para>(2) the number assigned to the record pursuant to section 9-519(a)(1); and</para>
+<para>(2) the number assigned to the record pursuant to section 9-519(a)(1);
+and</para>
 <para>(3) the date and time of the filing of the record.</para>
-<para>(c) The filing office shall communicate or otherwise make available in a record the following information to any person that requests it:</para>
-<para>(1) whether there is on file on a date and time specified by the filing office, but not a date earlier than three business days before the filing office receives the request, any financing statement that:</para>
+<para>(c) The filing office shall communicate or otherwise make available
+in a record the following information to any person that requests it:</para>
+<para>(1) whether there is on file on a date and time specified by the filing
+office, but not a date earlier than three business days before the filing
+office receives the request, any financing statement that:</para>
 <para>(A) designates a particular debtor;</para>
-<para>(B) has not lapsed under section 9-515 with respect to all secured parties of record; and</para>
-<para>(C) if the request so states, has lapsed under section 9-515 and a record of which is maintained by the filing office under section 9-522(a);</para>
+<para>(B) has not lapsed under section 9-515 with respect to all secured parties
+of record; and</para>
+<para>(C) if the request so states, has lapsed under section 9-515 and a record
+of which is maintained by the filing office under section 9-522(a);</para>
 <para>(2) the date and time of filing of each financing statement; and</para>
 <para>(3) the information provided in each financing statement.</para>
-<para>(d) In complying with its duty under subsection (c), the filing office may communicate information in any medium. However, if requested, the filing office shall communicate information by issuing its written certificate.</para>
-<para>(e) The filing office shall perform the acts required by subsections (a) through (d) at the time and in the manner prescribed by filing-office rule, but not later than two business days after the filing office receives the request.</para>
-<para>(f)(1) The Secretary of State shall offer to sell or license to the public on a nonexclusive basis, in bulk, copies of all records filed in the office of the Secretary of State under this part, in every medium from time to time available to the filing office.</para>
-<para>(2) Records filed in the office of the Secretary of State under this part may be made available electronically through the gateway or electronic network established under section 84-1204, Reissue Revised Statutes of Nebraska. For batch requests, the fee is two dollars per record accessed through the electronic network, except that the fee for a batch request for one thousand or more records is two thousand dollars. All fees collected pursuant to this subdivision shall be deposited in the Records Management Cash Fund and shall be distributed as provided in any agreements between the State Records Board and the Secretary of State.</para>
-</amendatorysection></section>
-<source>
-<para>Laws 1999, LB 550, &#167; 167.</para>
-</source>
-<annotation>
+<para>(d) In complying with its duty under subsection (c), the filing office
+may communicate information in any medium. However, if requested, the filing
+office shall communicate information by issuing its written certificate.</para>
+<para>(e) The filing office shall perform the acts required by subsections
+(a) through (d) at the time and in the manner prescribed by filing-office
+rule, but not later than two business days after the filing office receives
+the request.</para>
+<para>(f)(1) The Secretary of State shall offer to sell or license to the
+public on a nonexclusive basis, in bulk, copies of all records filed in the
+office of the Secretary of State under this part, in every medium from time
+to time available to the filing office.</para>
+<para>(2) Records filed in the office of the Secretary of State under this
+part may be made available electronically through the portal established under section 84-1204, Reissue
+Revised Statutes of Nebraska. For batch requests, the fee is two dollars per
+record accessed through the portal, except
+that the fee for a batch request for one thousand or more records is two thousand
+dollars. All fees collected pursuant to this subdivision shall be deposited
+in the Records Management Cash Fund and shall be distributed as provided in
+any agreements between the State Records Board and the Secretary of State.</para>
+</amendatorysection></section><source>
+<para>Laws 1999, LB 550, &#167; 167; </para>
+<para>Laws 2012, LB719, &#167; 31.</para><effectivedate>July 19, 2012</effectivedate></source><annotation>
 <para><emphasis>COMMENT</emphasis></para>
 <para><emphasis>1. Source.</emphasis> Former section 9-407; subsections (d) and (e) are new.</para>
 <para><emphasis>2. Filing Office's Duty to Provide Information.</emphasis> Former section 9-407, dealing with obtaining information from the filing office, was bracketed to suggest to legislatures that its enactment was optional. Experience has shown that the method by which interested persons can obtain information concerning the public records should be uniform. Accordingly, the analogous provisions of this article are not in brackets.</para>
@@ -37,4 +64,5 @@
 <para><emphasis>7. Medium of Communication; Certificates.</emphasis> Former article 9 provided that the filing office respond to a request for information by providing a certificate. The principle of medium-neutrality would suggest that the statute not require a written certificate. Subsection (d) follows this principle by permitting the filing office to respond by communicating "in any medium". By permitting communication "in any medium", subsection (d) is not inconsistent with a system in which persons other than filing office staff conduct searches of the filing office's (computer) records.</para>
 <para>Some searchers find it necessary to introduce the results of their search into evidence. Because official written certificates might be introduced into evidence more easily than official communications in another medium, subsection (d) affords states the option of requiring the filing office to issue written certificates upon request. The alternative bracketed language in subsection (d) recognizes that some states may prefer to permit the filing office to respond in another medium, as long as the response can be admitted into evidence in the courts of that state without extrinsic evidence of its authenticity.</para>
 <para><emphasis>8. Performance Standard.</emphasis> The utility of the filing system depends on the ability of searchers to get current information quickly. Accordingly, subsection (e) requires that the filing office respond to a request for information no later than two business days after it receives the request. The information contained in the response must be current as of a date no earlier than three business days before the filing office receives the request. See subsection (c)(1). The failure of the filing office to comply with performance standards, such as subsection (e), has no effect on the private rights of persons affected by the filing of records.</para>
-<para><emphasis>9. Sales of Records in Bulk.</emphasis> Subsection (f), which is new, mandates that the appropriate official or the filing office sell or license the filing records to the public in bulk, on a nonexclusive basis, in every medium available to the filing office. The details of implementation are left to filing-office rules.</para></annotation></law></legaldoc>
+<para><emphasis>9. Sales of Records in Bulk.</emphasis> Subsection (f), which is new, mandates that the appropriate official or the filing office sell or license the filing records to the public in bulk, on a nonexclusive basis, in every medium available to the filing office. The details of implementation are left to filing-office rules.</para></annotation>  </law>
+</legaldoc>
