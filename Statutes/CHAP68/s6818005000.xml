@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Paupers and Public Assistance" statutenumber="68-1805"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>68-1805</statuteno><catchline>State medicaid plan; application for amendment; tax; when due.</catchline><para>(1) On or before July 1, 2004, the department shall submit an application to the Centers for Medicare and Medicaid Services of the United States Department of Health and Human Services amending the state medicaid plan to provide for utilization of money in the ICF/MR Reimbursement Protection Fund to increase medicaid payments to intermediate care facilities for the mentally retarded.</para><para>(2) The tax imposed under section 68-1803 is not due and payable until such amendment to the state medicaid plan is approved by the Centers for Medicare and Medicaid Services.</para></amendatorysection></section><source><para>Laws 2004, LB 841, &#167; 6. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id230">
+<amendatorysection amended="yes" chaptername="Public Assistance" id="id232" statutenumber="68-1805"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>68-1805</statuteno><catchline id="id235">State medicaid
+plan; application for amendment; tax; when due.</catchline><para>(1)
+On or before July 1, 2004, the department shall submit an application to the
+Centers for Medicare and Medicaid Services of the United States Department
+of Health and Human Services amending the state medicaid plan to provide for
+utilization of money in the ICF/DD Reimbursement Protection
+Fund to increase medicaid payments to intermediate care facilities for persons with developmental disabilities.</para>
+<para>(2) The tax imposed under section 68-1803 is not due and
+payable until such amendment to the state medicaid plan is approved by the
+Centers for Medicare and Medicaid Services.</para>
+</amendatorysection></section><source><para>Laws 2004, LB 841, &#167; 6; </para><para>Laws 2013, LB23, &#167; 20.</para><effectivedate>September 6, 2013</effectivedate></source>  </law>
+</legaldoc>

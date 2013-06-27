@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Public Health and Welfare" statutenumber="71-1107"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>71-1107</statuteno><catchline>Developmental disability, defined.</catchline><para>Developmental disability means mental retardation or a severe chronic cognitive impairment, other than mental illness, that is manifested before the age of twenty-two years and is likely to continue indefinitely.</para></amendatorysection></section><source><para>Laws 2005, LB 206, &#167; 7. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id299">
+<amendatorysection amended="yes" chaptername="Public Health and Welfare" id="id301" statutenumber="71-1107"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>71-1107</statuteno><catchline id="id304">Developmental
+disability, defined.</catchline><para>Developmental disability
+means an intellectual disability or
+a severe chronic cognitive impairment, other than mental illness, that is
+manifested before the age of twenty-two years and is likely to continue indefinitely.</para>
+</amendatorysection></section><source><para>Laws 2005, LB 206, &#167; 7; </para><para>Laws 2013, LB23, &#167; 31.</para><effectivedate>September 6, 2013</effectivedate></source>  </law>
+</legaldoc>

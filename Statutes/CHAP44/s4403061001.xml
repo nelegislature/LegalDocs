@@ -1,1 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Insurance" statutenumber="44-361.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>44-361.01</statuteno><catchline>Rebates; circumventing; presumptions.</catchline><para>A licensed agent, whose total commissions and underwriting fees on business written upon the property, life, health, or liability of himself, his relatives by consanguinity or affinity, and his employer or employees exceed ten percent of the total commissions or underwriting fees received during any one license year, shall be presumed to have obtained a license or renewal thereof primarily to circumvent the enforcement of section 44-361. A licensed agent, whose commissions and underwriting fees on such business exceed thirty percent of the total commissions and underwriting fees received during any one license year, shall be conclusively presumed to have obtained a license or renewal thereof primarily to circumvent enforcement of section 44-361.</para></amendatorysection></section><source><para>Laws 1955, c. 175, &#167; 3, p. 503. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id3">
+<amendatorysection amended="yes" chaptername="Insurance" id="id5" statutenumber="44-361.01"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>44-361.01</statuteno><catchline id="id8">Rebates; circumventing;
+presumptions.</catchline><para>(1) A
+licensed agent whose
+total commissions and underwriting fees on business written upon the property,
+life, health, or liability of himself or
+herself, his or
+her relatives by consanguinity or affinity, and his or her employer or employees
+exceed ten percent of the total commissions or underwriting fees received
+during any one license year shall
+be presumed to have obtained a license or renewal thereof primarily to circumvent
+the enforcement of section 44-361,
+except that for a licensed agent soliciting crop insurance, the percentage
+shall be thirty percent for commissions and underwriting fees on crop insurance
+business.</para>
+<para>(2) A licensed agent whose total commissions and underwriting fees on business written upon the property, life, health, or liability of
+himself or herself, his or her relatives by consanguinity or affinity, and
+his or her employer or employees exceed thirty percent of the
+total commissions and underwriting fees received during any one license year shall be conclusively presumed
+to have obtained a license or renewal thereof primarily to circumvent the enforcement of section
+44-361, except that for a licensed
+agent soliciting crop insurance, the percentage shall be fifty percent for
+commissions and underwriting fees on crop insurance business.</para>
+</amendatorysection></section><source><para>Laws 1955, c. 175, &#167; 3, p. 503; </para><para>Laws 2013, LB59, &#167; 1.</para><effectivedate>September 6, 2013</effectivedate></source>  </law>
+</legaldoc>

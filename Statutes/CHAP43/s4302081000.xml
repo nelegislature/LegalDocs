@@ -1,1 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Infants and Juveniles" statutenumber="43-281"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>43-281</statuteno><catchline>Adjudication of jurisdiction; temporary placement for evaluation.</catchline><para>Following an adjudication of jurisdiction and prior to final disposition, the court may place the juvenile with the Office of Juvenile Services or the Department of Health and Human Services for evaluation. The office or department shall make arrangements for an appropriate evaluation.</para></amendatorysection></section><source><para>Laws 1981, LB 346, &#167; 37; </para><para>Laws 1982, LB 787, &#167; 16; </para><para>Laws 1994, LB 436, &#167; 1; </para><para>Laws 1998, LB 1073, &#167; 24. </para></source><annotation><para>The juvenile court cannot order a specific placement of a juvenile for the purposes of the evaluation authorized by this section. In re Interest of Taylor W., 276 Neb. 679, 757 N.W.2d 1 (2008).</para><para>An order placing a juvenile in the Youth Development Center temporarily for the purpose of evaluation preliminary to a dispositional hearing is not a final order for the purposes of appeal. In re Interest of J.M.S., 218 Neb. 72, 352 N.W.2d 186 (1984).</para></annotation></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id254">
+<amendatorysection amended="yes" chaptername="Infants and Juveniles" id="id256" statutenumber="43-281"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>43-281</statuteno><catchline id="id259">Adjudication
+of jurisdiction; temporary placement for evaluation; payment of costs; restrictions on placement.</catchline><para>(1) Following
+an adjudication of jurisdiction and prior to final disposition, the court
+may place the juvenile with the Office of Juvenile Services or the Department
+of Health and Human Services for evaluation,
+except that on and after October 1, 2013, no juvenile adjudicated under subdivision
+(1), (2), (3)(b), or (4) of section 43-247 shall be placed with the office
+or the department. The office or department shall arrange and pay for an appropriate evaluation if the office or department determines
+that there are no parental funds or private or public insurance available
+to pay for such evaluation, except that on and after October 1, 2013, the
+office and the department shall not be responsible for such evaluations of
+any juvenile adjudicated under subdivision (1), (2), (3)(b), or (4) of section
+43-247.</para>
+<para>(2) On and after October
+1, 2013, following an adjudication of jurisdiction under subdivision (1),
+(2), (3)(b), or (4) of section 43-247 and prior to final disposition, the
+court may order an evaluation. The Office of Probation Administration shall
+arrange and pay for the evaluation ordered by the court if the office determines
+that there are no parental funds or private or public insurance available
+to pay for such evaluation. Any evaluation ordered under this subsection shall
+be completed and the juvenile shall be returned to the court within twenty-one
+days after the evaluation is ordered. The physician, psychologist, licensed
+mental health practitioner, licensed drug and alcohol counselor, or other
+provider responsible for completing the evaluation shall have up to ten days
+to complete the evaluation after receiving the referral authorizing the evaluation.</para>
+<para>(3) A juvenile pending
+evaluation ordered under subsection (1) or (2) of this section shall not reside
+in a detention facility at the time of the evaluation or while waiting for
+the completed evaluation to be returned to the court unless detention of such
+juvenile is a matter of immediate and urgent necessity for the protection
+of such juvenile or the person or property of another or if it appears that
+such juvenile is likely to flee the jurisdiction of the court.</para>
+</amendatorysection></section><source><para>Laws 1981, LB 346, &#167; 37; </para><para>Laws 1982, LB 787, &#167; 16; </para><para>Laws 1994, LB 436, &#167; 1; </para><para>Laws 1998, LB 1073, &#167; 24; </para><para>Laws 2013, LB561, &#167; 19.</para><effectivedate>May 30, 2013</effectivedate></source><annotation><para>The juvenile court cannot order a specific placement of a juvenile for the purposes of the evaluation authorized by this section. In re Interest of Taylor W., 276 Neb. 679, 757 N.W.2d 1 (2008).</para><para>An order placing a juvenile in the Youth Development Center temporarily for the purpose of evaluation preliminary to a dispositional hearing is not a final order for the purposes of appeal. In re Interest of J.M.S., 218 Neb. 72, 352 N.W.2d 186 (1984).</para></annotation>  </law>
+</legaldoc>

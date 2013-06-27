@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Liens" statutenumber="52-1901"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>52-1901</statuteno><catchline>Nonconsensual common-law lien, defined.</catchline><para>For purposes of sections 52-1901 to 52-1904, nonconsensual common-law lien means a document that purports to assert a lien against real or personal property of any person or entity and:</para><para>(1) Is not expressly provided for by a specific state or federal statute;</para><para>(2) Does not depend on the consent of the owner of the real or personal property affected; and</para><para>(3) Is not an equitable or constructive lien imposed by a state or federal court of competent jurisdiction.</para></amendatorysection></section><source><para>Laws 2003, LB 655, &#167; 1. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id20">
+<amendatorysection amended="yes" chaptername="Liens" id="id22" statutenumber="52-1901"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>52-1901</statuteno><catchline id="id25">Nonconsensual
+common-law lien, defined.</catchline><para>For purposes of sections
+52-1901 to 52-1907, nonconsensual common-law
+lien means a document that purports to assert a lien against real or personal
+property of any person or entity and:</para>
+<para>(1) Is not expressly provided for by a specific state or federal
+statute;</para>
+<para>(2) Does not depend on the consent of the owner of the real
+or personal property affected; and</para>
+<para>(3) Is not an equitable or constructive lien imposed by a
+state or federal court of competent jurisdiction.</para>
+</amendatorysection></section><source><para>Laws 2003, LB 655, &#167; 1; </para><para>Laws 2013, LB3, &#167; 3.</para><effectivedate>May 17, 2013</effectivedate></source>  </law>
+</legaldoc>

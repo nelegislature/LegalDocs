@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id67">
-<sectno id="id68">Sec. 5.</sectno><amendatorysection chaptername="Special Acts" id="id69" publishedsource="CumulativeSupplement" statutenumber="90-515"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>90-515</statuteno><catchline>Transfer to Ethanol Production Incentive
-Cash Fund.</catchline><para>The
-State Treasurer shall transfer $214,008 from the Agricultural Alcohol Fuel
-Tax Fund to the Ethanol Production Incentive Cash Fund on or before June 30,
-2010, on such date as directed by the budget administrator of the budget division
-of the Department of Administrative Services, pursuant to section 66-1334.</para>
-</amendatorysection></section><source><para>Laws 2009, First Spec. Sess., LB2, &#167; 5.</para></source>  </law>
+		<section>
+			<amendatorysection chaptername="" statutenumber="90-515">
+				<statuteno>90-515</statuteno>
+				<catchline>Repealed. Laws 2013, LB 2, &#167; 1.</catchline>
+				
+			</amendatorysection>
+		</section>
+	</law>
 </legaldoc>

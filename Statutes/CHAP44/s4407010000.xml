@@ -1,1 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Insurance" statutenumber="44-710"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>44-710</statuteno><catchline>Sickness and accident insurance policy; form; approval; exception; premium rates and classification of risks; filing requirements.</catchline><para>Except as otherwise provided by the Director of Insurance, no policy of sickness and accident insurance shall be delivered or issued for delivery in this state, nor shall any endorsement, rider, or application which becomes a part of any such policy be used, until a copy of the form and of the premium rates and of the classification of risks pertaining thereto has been filed with the Director of Insurance. No policy, endorsement, rider, or application shall be used until the expiration of thirty days after the form has been received by the director unless the director gives his or her written approval thereto prior to the expiration of the thirty-day period. The thirty-day period may be extended by the director for an additional period not to exceed thirty days. Notice of such extension shall be mailed to the insurer involved. The director shall notify in writing the insurer which has filed any such form if it contains benefits that are unreasonable in relation to the premium charged or any provision which is unjust, unfair, inequitable, misleading, or contrary to the law of this state, specifying the reasons for his or her opinion, and it shall thereafter be unlawful for such insurer to use such form in this state. In such notice, the director shall state that a hearing will be granted within thirty days upon written request of the insurer. In all other cases the director shall give his or her approval. The decision of the director may be appealed, and the appeal shall be in accordance with the Administrative Procedure Act.</para></amendatorysection></section><source><para>Laws 1947, c. 164, &#167; 2(1), p. 452; </para><para>Laws 1951, c. 143, &#167; 1, p. 581; </para><para>Laws 1959, c. 209, &#167; 1, p. 728; </para><para>Laws 1969, c. 359, &#167; 21, p. 1276; </para><para>Laws 1989, LB 6, &#167; 5; </para><para>Laws 1989, LB 92, &#167; 130. </para></source><crossreference><para><emphasis>Administrative Procedure Act,</emphasis> see section 84-920.</para></crossreference></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Insurance" statutenumber="44-710"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>44-710</statuteno><catchline>Sickness and accident insurance policy;
+form; approval; exception; premium rates and classification of risks; filing
+requirements.</catchline><para>(1) Except
+as otherwise provided by the Director of Insurance and subsection (2) of this section, no policy
+of sickness and accident insurance shall be delivered or issued for delivery
+in this state, nor shall any endorsement, rider, or application which becomes
+a part of any such policy be used, until a copy of the form and of the premium
+rates and of the classification of risks pertaining thereto has been filed
+with the Director of Insurance. No policy, endorsement, rider, or application
+shall be used until the expiration of thirty days after the form has been
+received by the director unless the director gives his or her written approval
+thereto prior to the expiration of the thirty-day period. The thirty-day period
+may be extended by the director for an additional period not to exceed thirty
+days. Notice of such extension shall be sent to the insurer involved.
+The director shall notify in writing the insurer which has filed any such
+form if it contains benefits that are unreasonable in relation to the premium
+charged or any provision which is unjust, unfair, inequitable, misleading,
+or contrary to the law of this state, specifying the reasons for his or her
+opinion, and it shall thereafter be unlawful for such insurer to use such
+form in this state. In such notice, the director shall state that a hearing
+will be granted within thirty days upon written request of the insurer. In
+all other cases the director shall give his or her approval. The decision
+of the director may be appealed, and the appeal shall be in accordance with
+the Administrative Procedure Act.</para>
+<para>(2) No sickness and accident
+insurance policy subject to the federal Patient Protection and Affordable
+Care Act, Public Law 111-148, shall be delivered or issued for delivery in
+this state, including any policy or certificate of sickness and accident insurance
+issued to or for associations not domiciled in this state other than a certificate
+issued to an employee under an employee benefit plan of an employer headquartered
+in another state where the policy is lawfully issued in that state, nor shall
+any endorsement, rider, certificate, or application which becomes a part of
+any such policy be used until a copy of the form and of the premium rates
+and of the classification of risks pertaining thereto has been filed with
+and approved by the Director of Insurance. No policy, endorsement, rider,
+or application shall be used until the expiration of thirty days after the
+form has been received by the director unless the director gives his or her
+written approval thereto prior to the expiration of the thirty-day period.
+The thirty-day period may be extended by the director for an additional period
+not to exceed thirty days. Notice of such extension shall be sent to the insurer
+involved. The director shall notify in writing the insurer which has filed
+any such form if it contains benefits that are unreasonable in relation to
+the premium charged or any provision which is unjust, unfair, inequitable,
+misleading, or contrary to the law of this state, specifying the reasons for
+his or her opinion, and it shall thereafter be unlawful for such insurer to
+use such form in this state. In such notice, the director shall state that
+a hearing will be granted within thirty days upon written request of the insurer.
+In all other cases the director shall give his or her approval. The decision
+of the director may be appealed, and the appeal shall be in accordance with
+the Administrative Procedure Act.</para></amendatorysection></section><source><para>Laws 1947, c. 164, &#167; 2(1), p. 452; </para><para>Laws 1951, c. 143, &#167; 1, p. 581; </para><para>Laws 1959, c. 209, &#167; 1, p. 728; </para><para>Laws 1969, c. 359, &#167; 21, p. 1276; </para><para>Laws 1989, LB 6, &#167; 5; </para><para>Laws 1989, LB 92, &#167; 130; </para><para>Laws 2013, LB336, &#167; 1.</para><effectivedate>September 6, 2013</effectivedate></source><crossreference><para><emphasis>Administrative Procedure Act,</emphasis> see section 84-920.</para></crossreference>  </law>
+</legaldoc>

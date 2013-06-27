@@ -1,1 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Paupers and Public Assistance" statutenumber="68-153"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>68-153</statuteno><catchline>Employable recipients; terms, defined.</catchline><para>For purposes of sections 68-151 to 68-156:</para><para>(1) Community service shall mean labor performed for a governmental agency, nonprofit corporation, or health care corporation;</para><para>(2) Employable recipient shall mean any individual who is eighteen years of age or older, who is receiving county general assistance pursuant to sections 68-131 to 68-148, who is not engaged in full-time employment or satisfactorily participating in a county-approved vocational, rehabilitation, job training, or community service program, and who is not rendered unable to work by illness or significant and substantial mental or physical incapacitation to the degree and of the duration that the illness or incapacitation prevents the person from performing designated vocational, rehabilitation, job training, or community service activities;</para><para>(3) Full-time employment shall mean being employed at least twenty-five hours per week and receiving wages, tips, and other compensation which meet the applicable federal minimum wage requirements; and</para><para>(4) Job training program shall mean vocational training in technical job skills and equivalent knowledge.</para></amendatorysection></section><source><para>Laws 1990, LB 422, &#167; 3; </para><para>Laws 1991, LB 227, &#167; 3. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Public Assistance" statutenumber="68-153"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>68-153</statuteno><catchline>Employable recipients; terms, defined.</catchline><para>For purposes of sections 68-151 to 68-155:</para>
+<para>(1) Community service shall mean labor performed for a governmental
+agency, nonprofit corporation, or health care corporation;</para>
+<para>(2) Employable recipient shall mean any individual who is eighteen years
+of age or older, who is receiving county general assistance pursuant to sections
+68-131 to 68-148, who is not engaged in full-time employment or satisfactorily
+participating in a county-approved vocational, rehabilitation, job training,
+or community service program, and who is not rendered unable to work by illness
+or significant and substantial mental or physical incapacitation to the degree
+and of the duration that the illness or incapacitation prevents the person
+from performing designated vocational, rehabilitation, job training, or community
+service activities;</para>
+<para>(3) Full-time employment shall mean being employed at least twenty-five
+hours per week and receiving wages, tips, and other compensation which meet
+the applicable federal minimum wage requirements; and</para>
+<para>(4) Job training program shall mean vocational training in technical
+job skills and equivalent knowledge.</para>
+</amendatorysection></section><source><para>Laws 1990, LB 422, &#167; 3; </para><para>Laws 1991, LB 227, &#167; 3; </para><para>Laws 2013, LB156, &#167; 1.</para><effectivedate>September 6, 2013</effectivedate></source>  </law>
+</legaldoc>

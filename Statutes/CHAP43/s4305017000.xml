@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section>
-<amendatorysection chaptername="Infants and Juveniles" publishedsource="CumulativeSupplement" statutenumber="43-517"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>43-517</statuteno><catchline>Department of Health and Human Services;
-report; public record.</catchline><para>(1)
+<section id="id98">
+<amendatorysection amended="yes" chaptername="Infants and Juveniles" id="id100" publishedsource="CumulativeSupplement" statutenumber="43-517">
+<bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>43-517</statuteno><catchline id="id103">Department of
+Health and Human Services; report; public record.</catchline><para>(1)
 The Department of Health and Human Services shall provide a report to the
 Governor and the Legislature no later than December 1 each year regarding
 the data and information collected pursuant to section 43-516, including a
-summary of such data and information.</para>
-<para>(2) The data and information
-collected under such section shall be considered a public record under section
-84-712.01.</para></amendatorysection></section><source><para>Laws 2012, LB842, &#167; 3.</para></source>  </law>
+summary of such data and information. The
+report submitted to the Legislature shall be submitted electronically.</para>
+<para>(2) The data and information collected under such section
+shall be considered a public record under section 84-712.01.</para>
+</amendatorysection></section><source><para>Laws 2012, LB842, &#167; 3; </para><para>Laws 2013, LB222, &#167; 8.</para><effectivedate>May 8, 2013</effectivedate></source>  </law>
 </legaldoc>

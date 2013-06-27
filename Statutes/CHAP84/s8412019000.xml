@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="State Officers" statutenumber="84-1219"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>84-1219</statuteno><catchline>Administrator; biennial report; copies;
-furnish.</catchline><para>The administrator shall prepare a biennial report
-on the status of programs established by the administrator as provided
-in the Records Management Act and
-on the progress made during the preceding biennium in implementing and effectuating
-such programs and in reducing
-costs. Copies of this report shall be furnished to the Governor, the Speaker of the Legislature,
-and such other officials and state
-and local agencies as the Governor or the board shall direct. The report submitted to the Speaker of
+<section id="id555">
+<amendatorysection amended="yes" chaptername="State Officers" id="id557" statutenumber="84-1219"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>84-1219</statuteno><catchline id="id560">Administrator;
+biennial report; copies; furnish.</catchline><para>The administrator
+shall prepare a biennial report on the status of programs established by the
+administrator as provided in the Records Management Act and on the progress
+made during the preceding biennium in implementing and effectuating such programs
+and in reducing costs. Copies of this report shall be furnished to the Governor,
+the Clerk of the Legislature,
+and such other officials and state and local agencies as the Governor or the
+board shall direct. The report submitted to the Clerk of
 the Legislature shall be submitted electronically.</para>
-</amendatorysection></section><source><para>Laws 1961, c. 455, &#167; 19, p. 1394; </para><para>Laws 1979, LB 559, &#167; 11; </para><para>Laws 2012, LB719, &#167; 26; </para><para>Laws 2012, LB782, &#167; 231; </para><para>Laws 2012, LB880, &#167; 8.</para></source>  </law>
+</amendatorysection></section><source><para>Laws 1961, c. 455, &#167; 19, p. 1394; </para><para>Laws 1979, LB 559, &#167; 11; </para><para>Laws 2012, LB719, &#167; 26; </para><para>Laws 2012, LB782, &#167; 231; </para><para>Laws 2012, LB880, &#167; 8; </para><para>Laws 2013, LB222, &#167; 45.</para><effectivedate>May 8, 2013</effectivedate></source>  </law>
 </legaldoc>

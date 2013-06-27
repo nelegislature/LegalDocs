@@ -1,1 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Revenue and Taxation" statutenumber="77-4601"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>77-4601</statuteno><catchline>Estimate of General Fund net receipts; certification by Tax Commissioner and Legislative Fiscal Analyst.</catchline><para>On or before July 15 of each year, the Tax Commissioner and the Legislative Fiscal Analyst shall certify the monthly estimate of General Fund net receipts for each month of the current fiscal year. Such certification shall be filed with the Clerk of the Legislature. The certification shall include estimates of gross receipts to the General Fund and refunds for sales, corporate income, individual income, and other miscellaneous receipts and refunds by month. The total of the monthly estimates for the fiscal year shall take into consideration the most recent net receipts forecast provided during a regular legislative session by the Nebraska Economic Forecasting Advisory Board pursuant to section 77-27,158 plus any revisions due to legislation enacted which has an impact on receipts that were not included in the forecast. If the total of monthly estimates so certified is at variance with the estimates of the Nebraska Economic Forecasting Advisory Board, the certification shall include a statement of the specific statistical or economic reasons for the variance.</para></amendatorysection></section><source><para>Laws 1993, LB 38, &#167; 1. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id367">
+<amendatorysection amended="yes" chaptername="Revenue and Taxation" id="id369" statutenumber="77-4601"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>77-4601</statuteno><catchline id="id372">Estimate of
+General Fund net receipts; certification by Tax Commissioner and Legislative
+Fiscal Analyst.</catchline><para>On or before July 15 of each year,
+the Tax Commissioner and the Legislative Fiscal Analyst shall certify the
+monthly estimate of General Fund net receipts for each month of the current
+fiscal year. Such certification shall be filed electronically with the Clerk of the Legislature.
+The certification shall include estimates of gross receipts to the General
+Fund and refunds for sales, corporate income, individual income, and other
+miscellaneous receipts and refunds by month. The total of the monthly estimates
+for the fiscal year shall take into consideration the most recent net receipts
+forecast provided during a regular legislative session by the Nebraska Economic
+Forecasting Advisory Board pursuant to section 77-27,158 plus any revisions
+due to legislation enacted which has an impact on receipts that were not included
+in the forecast. If the total of monthly estimates so certified is at variance
+with the estimates of the Nebraska Economic Forecasting Advisory Board, the
+certification shall include a statement of the specific statistical or economic
+reasons for the variance.</para>
+</amendatorysection></section><source><para>Laws 1993, LB 38, &#167; 1; </para><para>Laws 2013, LB222, &#167; 31.</para><effectivedate>May 8, 2013</effectivedate></source>  </law>
+</legaldoc>

@@ -1,1 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Insurance" statutenumber="44-4805"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>44-4805</statuteno><catchline>Injunctions and orders.</catchline><para>(1) Any receiver appointed in a proceeding under the Nebraska Insurers Supervision, Rehabilitation, and Liquidation Act may at any time apply for, and the court may grant, such restraining orders, preliminary and permanent injunctions, and other orders as may be deemed necessary and proper to prevent:</para><para>(a) The transaction of further business;</para><para>(b) The transfer of property;</para><para>(c) Interference with the receiver or with a proceeding under the act;</para><para>(d) Waste of the insurer's assets;</para><para>(e) Dissipation and transfer of bank accounts;</para><para>(f) The institution or further prosecution of any actions or proceedings;</para><para>(g) The obtaining of preferences, judgments, attachments, garnishments, or liens against the insurer, its assets, or its insureds;</para><para>(h) The levying of execution against the insurer, its assets, or its insureds;</para><para>(i) The making of any sale or deed for nonpayment of taxes or assessments that would lessen the value of the assets of the insurer;</para><para>(j) The withholding from the receiver of books, accounts, documents, or other records relating to the business of the insurer; or</para><para>(k) Any other threatened or contemplated action that might lessen the value of the insurer's assets or prejudice the rights of insureds, creditors, or shareholders or the administration of any proceeding under the act.</para><para>(2) The receiver may apply to any court outside of the state for the relief described in subsection (1) of this section.</para></amendatorysection></section><source><para>Laws 1989, LB 319, &#167; 5; </para><para>Laws 1991, LB 236, &#167; 62. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id3">
+<amendatorysection amended="yes" chaptername="Insurance" id="id5" statutenumber="44-4805"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>44-4805</statuteno><catchline id="id8">Injunctions and
+orders.</catchline><para>(1) Except as provided in subsection (3) of
+this section, any receiver appointed in a proceeding under the
+Nebraska Insurers Supervision, Rehabilitation, and Liquidation Act may at
+any time apply for, and the court may grant, such restraining orders, preliminary
+and permanent injunctions, and other orders as may be deemed necessary and
+proper to prevent:</para>
+<para>(a) The transaction of further business;</para>
+<para>(b) The transfer of property;</para><?Pub Caret?>
+<para>(c) Interference with the receiver or with a proceeding under
+the act;</para>
+<para>(d) Waste of the insurer's assets;</para>
+<para>(e) Dissipation and transfer of bank accounts;</para>
+<para>(f) The institution or further prosecution of any actions
+or proceedings;</para>
+<para>(g) The obtaining of preferences, judgments, attachments,
+garnishments, or liens against the insurer, its assets, or its insureds;</para>
+<para>(h) The levying of execution against the insurer, its assets,
+or its insureds;</para>
+<para>(i) The making of any sale or deed for nonpayment of taxes
+or assessments that would lessen the value of the assets of the insurer;</para>
+<para>(j) The withholding from the receiver of books, accounts,
+documents, or other records relating to the business of the insurer; or</para>
+<para>(k) Any other threatened or contemplated action that might
+lessen the value of the insurer's assets or prejudice the rights of insureds,
+creditors, or shareholders or the administration of any proceeding under the
+act.</para>
+<para>(2) Except as provided in subsection (3) of
+this section, the receiver may apply to any court outside of the
+state for the relief described in subsection (1) of this section.</para>
+<para>(3) A Federal
+Home Loan Bank shall not be stayed, enjoined, or prohibited from exercising
+or enforcing any right or cause of action regarding collateral pledged under
+any security agreement, or any pledge, security, collateral or guarantee agreement
+or any other similar arrangement or credit enhancement relating to such Federal
+Home Loan Bank security agreement.</para></amendatorysection>
+</section><source><para>Laws 1989, LB 319, &#167; 5; </para><para>Laws 1991, LB 236, &#167; 62; </para><para>Laws 2013, LB337, &#167; 1.</para><effectivedate>March 21, 2013</effectivedate></source>  </law>
+</legaldoc>

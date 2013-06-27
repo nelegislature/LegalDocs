@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id112">
-<sectno id="id113">Sec. 13.</sectno><amendatorysection amended="yes" chaptername="State Administrative Departments" id="id114" statutenumber="81-1834"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno id="id116">81-1834</statuteno><catchline id="id117">Award; payment.</catchline>
-<para>Any award to a claimant and any judgment in favor of a claimant
-under the Nebraska Crime Victim's Reparations Act from the Victim's Compensation Fund shall be
-certified by the committee to the Director of Administrative Services who
-shall promptly issue a warrant for payment of such award of judgment out of
-the fund if sufficient money is
-available in such fund.</para>
-</amendatorysection></section><source><para>Laws 1978, LB 910, &#167; 34; </para><para>Laws 1986, LB 540, &#167; 32; </para><para>Laws 2009, LB598, &#167;  13.</para></source>  </law>
+		<section>
+			<amendatorysection chaptername="" statutenumber="81-1834">
+				<statuteno>81-1834</statuteno>
+				<catchline>Repealed. Laws 2013, LB 99, &#167; 9.</catchline>
+				
+			</amendatorysection>
+		</section>
+	</law>
 </legaldoc>

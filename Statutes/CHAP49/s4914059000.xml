@@ -1,2 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Law" statutenumber="49-1459"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>49-1459</statuteno><catchline>Campaign statements; filing schedule; statement of exemption.</catchline><para>(1) Except as provided in subsection (2) of this section, campaign statements as required by the Nebraska Political Accountability and Disclosure Act shall be filed according to the following schedule:</para><para>(a) A first preelection campaign statement shall be filed not later than the thirtieth day before the election. The closing date for a campaign statement filed under this subdivision shall be the thirty-fifth day before the election;</para><para>(b) A second preelection campaign statement shall be filed not later than the tenth day before the election. The closing date for a campaign statement filed under this subdivision shall be the fifteenth day before the election; and</para><para>(c) A postelection campaign statement shall be filed not later than the fortieth day following the primary election and the seventieth day following the general election. The closing date for a postprimary election campaign statement filed under this subdivision shall be the thirty-fifth day following the election. The closing date for a postgeneral election campaign statement filed under this subdivision shall be December 31 of the year in which the election is held. If all liabilities of a candidate and committee are paid before the closing date and additional contributions are not expected, the campaign statement may be filed at any time after the election, but not later than the dates provided under this subdivision.</para><para>(2) Any committee may file a statement in writing with the commission indicating that the committee does not expect to receive contributions or make expenditures of more than one thousand dollars in the calendar year of an election. Such written statement shall be signed by the committee treasurer or the assistant treasurer, and in the case of a candidate committee, it shall also be signed by the candidate. Such written statement shall be filed on or before the thirtieth day before the election. A committee which files a written statement pursuant to this subsection is not required to file campaign statements according to the schedule prescribed in subsection (1) of this section but shall file a sworn statement of exemption not later than the fortieth day following the primary election and the seventieth day following the general election stating only that the committee did not, in fact, receive or expend an amount in excess of one thousand dollars. If the committee receives contributions or makes expenditures of more than one thousand dollars during the election year, the committee is then subject to all campaign filing requirements under subsection (1) of this section.</para></amendatorysection></section><source><para>Laws 1976, LB 987, &#167; 59; </para><para>Laws 1980, LB 535, &#167; 10; </para><para>Laws 1993, LB 587, &#167; 14; </para><para>Laws 1998, LB 632, &#167; 3; </para><para>Laws 1999, LB 416, &#167; 11. </para></source><annotation><para>The Nebraska Political Accountability and Disclosure Act requires candidate committees to file two preelection campaign statements and one postelection campaign statement for both the primary and general elections. Nebraska Legislature on behalf of State v. Hergert, 271 Neb. 976, 720 N.W.2d 372 (2006).
-</para></annotation></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id142">
+<amendatorysection amended="yes" chaptername="Law" id="id144" statutenumber="49-1459"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>49-1459</statuteno><catchline id="id147">Campaign statements;
+filing schedule; statement of exemption.</catchline><para>(1) Except
+as provided in subsection (2) of this section, campaign statements as required
+by the Nebraska Political Accountability and Disclosure Act shall be filed
+according to the following schedule:</para>
+<para>(a) A first preelection campaign statement shall be filed
+not later than the thirtieth day before the election. The closing date for
+a campaign statement filed under this subdivision shall be the thirty-fifth
+day before the election;</para>
+<para>(b) A second preelection campaign statement shall be filed
+not later than the tenth day before the election. The closing date for a campaign
+statement filed under this subdivision shall be the fifteenth day before the
+election; and</para>
+<para>(c) A postelection campaign statement shall be filed not
+later than the fortieth day following the primary election and the seventieth
+day following the general election. The closing date for a postelection campaign statement to be filed under this subdivision after the primary election shall
+be the thirty-fifth day following the election. The closing date for a postelection campaign statement to be filed under this subdivision after the general election shall
+be December 31 of the year in which the election is held. If all liabilities
+of a candidate and committee are paid before the closing date and additional
+contributions are not expected, the campaign statement may be filed at any
+time after the election, but not later than the dates provided under this
+subdivision.</para>
+<para>(2) Any committee may file a statement with the commission indicating that
+the committee does not expect to receive contributions or make expenditures
+of more than one thousand dollars in the calendar year of an election. Such statement shall be
+signed by the committee treasurer or the assistant treasurer, and in the case
+of a candidate committee, it shall also be signed by the candidate. Such statement shall be
+filed on or before the thirtieth day before the election. A committee which
+files a statement
+pursuant to this subsection is not required to file campaign statements according
+to the schedule prescribed in subsection (1) of this section but shall file
+a sworn statement of exemption not later than the fortieth day following the
+primary election and the seventieth day following the general election stating
+only that the committee did not, in fact, receive or expend an amount in excess
+of one thousand dollars. If the committee receives contributions or makes
+expenditures of more than one thousand dollars during the election year, the
+committee is then subject to all campaign filing requirements under subsection
+(1) of this section.</para>
+</amendatorysection></section><source><para>Laws 1976, LB 987, &#167; 59; </para><para>Laws 1980, LB 535, &#167; 10; </para><para>Laws 1993, LB 587, &#167; 14; </para><para>Laws 1998, LB 632, &#167; 3; </para><para>Laws 1999, LB 416, &#167; 11; </para><para>Laws 2013, LB79, &#167; 12.</para><operativedate>January 1, 2014</operativedate></source><annotation><para>The Nebraska Political Accountability and Disclosure Act requires candidate committees to file two preelection campaign statements and one postelection campaign statement for both the primary and general elections. Nebraska Legislature on behalf of State v. Hergert, 271 Neb. 976, 720 N.W.2d 372 (2006).
+</para></annotation>  </law>
+</legaldoc>

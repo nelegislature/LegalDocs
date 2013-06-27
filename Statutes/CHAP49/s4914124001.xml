@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><!--Arbortext, Inc., 1988-2004, v.4002--><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Law" statutenumber="49-14,124.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>49-14,124.01</statuteno><catchline>Preliminary investigation; confidential; exception.</catchline><para>All commission proceedings and records relating to preliminary investigations shall be confidential until a final determination is made by the commission unless the person alleged to be in violation of the Nebraska Political Accountability and Disclosure Act or the Campaign Finance Limitation Act requests that the proceedings be public. If the commission determines that there was no violation of either act or any rule or regulation adopted and promulgated under either act, the records and actions relative to the investigation and determination shall remain confidential unless the alleged violator requests that the records and actions be made public. If the commission determines that there was a violation, the records and actions shall be made public as soon as practicable after the determination is made.</para></amendatorysection></section><source><para>Laws 2005, LB 242, &#167; 58. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id321">
+<amendatorysection amended="yes" chaptername="Law" id="id323" statutenumber="49-14,124.01"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>49-14,124.01</statuteno><catchline id="id326">Preliminary
+investigation; confidential; exception.</catchline><para>All commission
+proceedings and records relating to preliminary investigations shall be confidential
+until a final determination is made by the commission unless the person alleged
+to be in violation of the Nebraska Political Accountability and Disclosure
+Act requests that the proceedings be public. If the
+commission determines that there was no violation of the act
+or any rule or regulation adopted and promulgated under the act,
+the records and actions relative to the investigation and determination shall
+remain confidential unless the alleged violator requests that the records
+and actions be made public. If the commission determines that there was a
+violation, the records and actions shall be made public as soon as practicable
+after the determination is made.</para>
+</amendatorysection></section><source><para>Laws 2005, LB 242, &#167; 58; </para><para>Laws 2013, LB79, &#167; 29.</para><operativedate>January 1, 2014</operativedate></source>  </law>
+</legaldoc>

@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Law" statutenumber="49-1415"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>49-1415</statuteno><catchline>Contribution, defined.</catchline><para>(1) Contribution shall mean a payment, gift, subscription, assessment, expenditure, contract, payment for services, dues, advance, forbearance, loan, donation, pledge or promise of money or anything of ascertainable monetary value to a person, made for the purpose of influencing the nomination or election of a candidate, or for the qualification, passage, or defeat of a ballot question. An offer or tender of a contribution is not a contribution if expressly and unconditionally rejected or returned.</para><para>(2) Contribution shall include the purchase of tickets or payment of an attendance fee for events such as dinners, luncheons, rallies, testimonials, and similar fundraising events; an individual's own money or property other than the individual's homestead used on behalf of that individual's candidacy; and the granting of discounts or rebates by broadcast media and newspapers not extended on an equal basis to all candidates for the same office.</para><para>(3) Contribution shall not include:</para><para>(a) Volunteer personal services provided without compensation, or payments of costs incurred of less than two hundred fifty dollars in a calendar year by an individual for personal travel expenses if the costs are voluntarily incurred without any understanding or agreement that the costs shall be, directly or indirectly, repaid;</para><para>(b) Amounts received pursuant to a pledge or promise to the extent that the amounts were previously reported as a contribution; or</para><para>(c) Food and beverages, not to exceed fifty dollars in value during a calendar year, which are donated by an individual and for which reimbursement is not given.</para></amendatorysection></section><source><para>Laws 1976, LB 987, &#167; 15. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id24">
+<amendatorysection amended="yes" chaptername="Law" id="id26" statutenumber="49-1415"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>49-1415</statuteno><catchline id="id29">Contribution,
+defined.</catchline><para>(1) Contribution shall mean a payment,
+gift, subscription, assessment, expenditure, contract, payment for services,
+dues, advance, forbearance, loan, donation, pledge or promise of money or
+anything of ascertainable monetary value to a person, made for the purpose
+of influencing the nomination or election of a candidate, or for the qualification,
+passage, or defeat of a ballot question. An offer or tender of a contribution
+is not a contribution if expressly and unconditionally rejected or returned.</para>
+<para>(2) Contribution shall include the purchase of tickets or
+payment of an attendance fee for events such as dinners, luncheons, rallies,
+testimonials, and similar fundraising events; an individual's own money or
+property other than the individual's homestead used on behalf of that individual's
+candidacy; and the granting of discounts or rebates by broadcast media and
+newspapers not extended on an equal basis to all candidates for the same office.</para>
+<para>(3) Contribution shall not include:</para>
+<para>(a) Volunteer personal services provided without compensation,
+or payments of costs incurred of two hundred fifty dollars or
+less in a calendar year by an individual for personal travel expenses
+if the costs are voluntarily incurred without any understanding or agreement
+that the costs shall be, directly or indirectly, repaid;</para>
+<para>(b) Amounts received pursuant to a pledge or promise to the
+extent that the amounts were previously reported as a contribution; or</para>
+<para>(c) Food and beverages, in the
+amount of fifty dollars or
+less in value during a calendar year, which are donated by an
+individual and for which reimbursement is not given.</para>
+</amendatorysection></section><source><para>Laws 1976, LB 987, &#167; 15; </para><para>Laws 2013, LB79, &#167; 3.</para><operativedate>January 1, 2014</operativedate></source>  </law>
+</legaldoc>

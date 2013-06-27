@@ -1,1 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Real Property" statutenumber="76-874"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>76-874</statuteno><catchline>Lien for assessments and fines.</catchline><para>(a) The association has a lien on a unit for any assessment levied against that unit or fines imposed against its unit owner from the time the assessment or fine becomes due and a notice containing the dollar amount of such lien is recorded in the office where mortgages are recorded. The association's lien may be foreclosed in like manner as a mortgage on real estate but the association shall give reasonable notice of its action to all lienholders of the unit whose interest would be affected. Unless the declaration otherwise provides, fees, charges, late charges, fines, and interest charged pursuant to subdivisions (a)(10), (a)(11), and (a)(12) of section 76-860 are enforceable as assessments under this section. If an assessment is payable in installments, the full amount of the assessment may be a lien from the time the first installment thereof becomes due.</para><para>(b) A lien under this section is prior to all other liens and encumbrances on a unit except (i) liens and encumbrances recorded before the recordation of the declaration, (ii) a first mortgage or deed of trust on the unit recorded before the date on which the assessment sought to be enforced became delinquent, and (iii) liens for real estate taxes and other governmental assessments or charges against the unit. The lien under this section is not subject to the homestead exemption pursuant to section 40-101.</para><para>(c) Unless the declaration otherwise provides, if two or more associations have liens for assessments created at any time on the same real estate, those liens have equal priority.</para><para>(d) A lien for unpaid assessments is extinguished unless proceedings to enforce the lien are instituted within three years after the full amount of the assessments becomes due.</para><para>(e) This section does not prohibit actions to recover sums for which subsection (a) of this section creates a lien or prohibit an association from taking a deed in lieu of foreclosure.</para><para>(f) A judgment or decree in any action brought under this section must include costs and reasonable attorney's fees for the prevailing party.</para><para>(g) The association upon written request shall furnish to a unit owner a recordable statement setting forth the amount of unpaid assessments against his or her unit. The statement must be furnished within ten business days after receipt of the request and is binding on the association, the executive board, and every unit owner.</para></amendatorysection></section><source><para>Laws 1983, LB 433, &#167; 50; </para><para>Laws 1984, LB 1105, &#167; 12. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Real Property" statutenumber="76-874"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>76-874</statuteno><catchline>Lien for assessments.</catchline><para>(a) The association has a lien on a unit
+for any assessment levied against that unit from the time the assessment becomes due and a
+notice containing the dollar amount of such lien is recorded in the office
+where mortgages are recorded. The association's lien may be foreclosed in
+like manner as a mortgage on real estate but the association shall give reasonable
+notice of its action to all lienholders of the unit whose interest would be
+affected. Unless the declaration otherwise provides, fees, charges, late charges, and interest charged
+pursuant to subdivisions (a)(10), (a)(11), and (a)(12) of section 76-860 are
+enforceable as assessments under this section. If an assessment is payable
+in installments, the full amount of the assessment may be a lien from the
+time the first installment thereof becomes due.</para>
+<para>(b) A lien under this section is prior to all other liens and encumbrances
+on a unit except (i) liens and encumbrances recorded before the recordation
+of the declaration, (ii) a first mortgage or deed of trust on the unit recorded
+before the notice required under subsection (a) of
+this section has been recorded for a delinquent assessment for which enforcement
+is sought, and (iii) liens for real estate taxes and other governmental
+assessments or charges against the unit. The lien under this section is not
+subject to the homestead exemption pursuant to section 40-101.</para>
+<para>(c) Unless the declaration otherwise provides, if two or more associations
+have liens for assessments created at any time on the same real estate, those
+liens have equal priority.</para>
+<para>(d) A lien for unpaid assessments is extinguished unless proceedings
+to enforce the lien are instituted within three years after the full amount
+of the assessments becomes due.</para>
+<para>(e) This section does not prohibit actions to recover sums for which
+subsection (a) of this section creates a lien or prohibit an association from
+taking a deed in lieu of foreclosure.</para>
+<para>(f) A judgment or decree in any action brought under this section must
+include costs and reasonable attorney's fees for the prevailing party.</para>
+<para>(g) The association upon written request shall furnish to a unit owner
+a recordable statement setting forth the amount of unpaid assessments against
+his or her unit. The statement must be furnished within ten business days
+after receipt of the request and is binding on the association, the executive
+board, and every unit owner.</para>
+</amendatorysection></section><source><para>Laws 1983, LB 433, &#167; 50; </para><para>Laws 1984, LB 1105, &#167; 12; </para><para>Laws 2013, LB442, &#167; 5.</para><effectivedate>September 6, 2013</effectivedate></source>  </law>
+</legaldoc>

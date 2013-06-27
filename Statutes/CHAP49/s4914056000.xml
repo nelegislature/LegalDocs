@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Law" statutenumber="49-1456"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>49-1456</statuteno><catchline>Committee account; income; how treated; loans.</catchline><para>(1) Any income received by a committee on an account consisting of funds or property belonging to the committee shall not be considered a contribution to the committee but shall be reported as income. Any interest paid by a committee shall be reported as an expenditure.</para><para>(2) A loan made or received shall be set forth in a separate schedule providing the date and amount of the loan and, if the loan is repaid, the date and manner of repayment. The committee shall provide the name and address of the lender and any person who is liable directly, indirectly, or contingently on each loan of more than two hundred fifty dollars.</para></amendatorysection></section><source><para>Laws 1976, LB 987, &#167; 56; </para><para>Laws 1981, LB 134, &#167; 3; </para><para>Laws 1999, LB 416, &#167; 8. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id109">
+<amendatorysection amended="yes" chaptername="Law" id="id111" statutenumber="49-1456"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>49-1456</statuteno><catchline id="id114">Committee account;
+income; how treated; loans.</catchline><para>(1) Any income received
+by a committee on an account consisting of funds or property belonging to
+the committee shall not be considered a contribution to the committee but
+shall be reported as income. Any interest paid by a committee shall be reported
+as an expenditure.</para>
+<para>(2) A loan made or received shall be set forth in a separate
+schedule providing the date and amount of the loan and, if the loan is repaid,
+the date and manner of repayment. The committee shall provide the name and
+address of the lender and any person who is liable directly, indirectly, or
+contingently on each loan of two hundred fifty dollars or
+more.</para>
+</amendatorysection></section><source><para>Laws 1976, LB 987, &#167; 56; </para><para>Laws 1981, LB 134, &#167; 3; </para><para>Laws 1999, LB 416, &#167; 8; </para><para>Laws 2013, LB79, &#167; 10.</para><operativedate>January 1, 2014</operativedate></source>  </law>
+</legaldoc>

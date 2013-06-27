@@ -1,1 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="State Institutions" statutenumber="83-1205"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>83-1205</statuteno><catchline>Developmental disability, defined.</catchline><para>Developmental disability shall mean:</para><para>(1) Mental retardation; or</para><para>(2) A severe, chronic disability other than mental retardation or mental illness which:</para><para>(a) Is attributable to a mental or physical impairment other than a mental or physical impairment caused solely by mental illness;</para><para>(b) Is manifested before the age of twenty-two years;</para><para>(c) Is likely to continue indefinitely; and</para><para>(d) Results in:</para><para>(i) In the case of a person under three years of age, at least one developmental delay; or</para><para>(ii) In the case of a person three years of age or older, a substantial limitation in three or more of the following areas of major life activity, as appropriate for the person's age:</para><para>(A) Self-care;</para><para>(B) Receptive and expressive language development and use;</para><para>(C) Learning;</para><para>(D) Mobility;</para><para>(E) Self-direction;</para><para>(F) Capacity for independent living; and</para><para>(G) Economic self-sufficiency.</para></amendatorysection></section><source><para>Laws 1991, LB 830, &#167; 5. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id602">
+<amendatorysection amended="yes" chaptername="State Institutions" id="id604" statutenumber="83-1205"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>83-1205</statuteno><catchline id="id607">Developmental
+disability, defined.</catchline><para>Developmental disability
+shall mean:</para>
+<para>(1) Intellectual
+disability; or</para>
+<para>(2) A severe, chronic disability other than an intellectual disability or mental illness
+which:</para>
+<para>(a) Is attributable to a mental or physical impairment other
+than a mental or physical impairment caused solely by mental illness;</para>
+<para>(b) Is manifested before the age of twenty-two years;</para>
+<para>(c) Is likely to continue indefinitely; and</para>
+<para>(d) Results in:</para>
+<para>(i) In the case of a person under three years of age, at
+least one developmental delay; or</para>
+<para>(ii) In the case of a person three years of age or older,
+a substantial limitation in three or more of the following areas of major
+life activity, as appropriate for the person's age:</para>
+<para>(A) Self-care;</para>
+<para>(B) Receptive and expressive language development and use;</para>
+<para>(C) Learning;</para>
+<para>(D) Mobility;</para>
+<para>(E) Self-direction;</para>
+<para>(F) Capacity for independent living; and</para>
+<para>(G) Economic self-sufficiency.</para>
+</amendatorysection></section><source><para>Laws 1991, LB 830, &#167; 5; </para><para>Laws 2013, LB23, &#167; 59.</para><effectivedate>September 6, 2013</effectivedate></source>  </law>
+</legaldoc>

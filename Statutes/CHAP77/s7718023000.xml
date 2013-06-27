@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Revenue and Taxation" statutenumber="77-1823"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>77-1823</statuteno><catchline>Real property taxes; tax certificates and deeds; fees of treasurer; entry on books of issuance of deed.</catchline><para>The treasurer shall charge a ten-dollar issuance fee for each deed or certificate made by him or her for a sale of real property for taxes together with the fee of the notary public or other officer acknowledging the deed, but any number of items of real property bought by any one person may be included in one deed as desired by the purchaser. The issuance fee shall not be required if the tax sale certificate is issued in the name of the county, but the issuance fee is due from the purchaser when the county assigns the certificate to another person. Whenever the treasurer makes a deed to any real property sold for taxes, he or she shall enter an account thereof in the sale book opposite the description of the real property conveyed.</para></amendatorysection></section><source><para>Laws 1903, c. 73, &#167; 211, p. 466; </para><para>R.S.1913, &#167; 6539; </para><para>C.S.1922, &#167; 6067; </para><para>C.S.1929, &#167; 77-2019; </para><para>R.S.1943, &#167; 77-1823; </para><para>Laws 1989, LB 324, &#167; 2; </para><para>Laws 1992, LB 1063, &#167; 151; </para><para>Laws 1992, Second Spec. Sess., LB 1, &#167; 124; </para><para>Laws 1995, LB 202, &#167; 3. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id54">
+<amendatorysection amended="yes" chaptername="Revenue and Taxation" id="id56" statutenumber="77-1823">
+<bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>77-1823</statuteno><catchline id="id59">Real property
+taxes; tax certificates and deeds; fees of county treasurer;
+entry on record of issuance of deed.</catchline><para>The county treasurer
+shall charge a twenty-dollar issuance fee
+for each deed or certificate made by him or her for a sale of real property
+for taxes together with the fee of the notary public or other officer acknowledging
+the deed. The
+issuance fee shall not be required if the tax sale certificate is issued in
+the name of the county, but the issuance fee is due from the purchaser when
+the county assigns the certificate to another person. The fee is not refundable upon redemption. Whenever
+the county treasurer
+makes a deed to any real property sold for taxes, he or she shall enter an
+account thereof in the record opposite
+the description of the real property conveyed.</para>
+</amendatorysection></section><source><para>Laws 1903, c. 73, &#167; 211, p. 466; </para><para>R.S.1913, &#167; 6539; </para><para>C.S.1922, &#167; 6067; </para><para>C.S.1929, &#167; 77-2019; </para><para>R.S.1943, &#167; 77-1823; </para><para>Laws 1989, LB 324, &#167; 2; </para><para>Laws 1992, LB 1063, &#167; 151; </para><para>Laws 1992, Second Spec. Sess., LB 1, &#167; 124; </para><para>Laws 1995, LB 202, &#167; 3; </para><para>Laws 2013, LB341, &#167; 7.</para><operativedate>January 1, 2015</operativedate></source>  </law>
+</legaldoc>

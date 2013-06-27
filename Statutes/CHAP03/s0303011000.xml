@@ -1,1 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Aeronautics" statutenumber="3-311"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>3-311</statuteno><catchline>Zoning regulations; new or changed structure; nonconforming use; permit.</catchline><para>Airport zoning regulations, adopted under sections 3-301 to 3-333, may require that a permit be obtained before any new structure or use may be constructed or established and before any existing use or structure may be substantially changed, altered or repaired. In any event, however, all such regulations shall provide that before any nonconforming structure or tree may be replaced, substantially altered or repaired, rebuilt, allowed to grow higher, or replanted, a permit must be secured from the administrative agency authorized to administer and enforce the regulations, authorizing such replacement, change or repair. No permit shall be granted that would allow the establishment or creation of an airport hazard or permit a nonconforming structure, tree or nonconforming use to be made, become higher or become a greater hazard to air navigation than it was when the applicable regulation was adopted or than it is when the application for a permit is made. Except as provided herein, all applications for permits shall be granted.</para></amendatorysection></section><source><para>Laws 1945, c. 233, &#167; 7(1), p. 685.</para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id102">
+<amendatorysection amended="yes" chaptername="Aeronautics" id="id104" statutenumber="3-311"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>3-311</statuteno><catchline id="id107">Zoning regulations;
+new or changed structure; nonconforming use; permit.</catchline><para>(1) Airport zoning regulations adopted under the Airport Zoning Act may
+require that a permit be obtained before any new structure or use may be constructed
+or established and before any existing use or structure may be substantially
+changed, altered, or
+repaired.</para>
+<para>(2) Except as provided in subsection (3)
+of this section for certain electric facilities, all airport zoning regulations adopted under the act shall provide that before
+any nonconforming structure or tree may be replaced, substantially altered
+or repaired, rebuilt, allowed to grow higher, or replanted, a permit authorizing any replacement, alteration,
+repair, reconstruction, growth, or replanting must be secured
+from the administrative agency authorized to administer and enforce the regulations. A permit shall be granted under this subsection if the applicant shows that the replacement,
+alteration, repair, reconstruction, growth, or replanting of the nonconforming
+structure, tree, or
+nonconforming use would
+not result in an increase in height or a greater hazard to air
+navigation than the condition that existed when
+the applicable regulation was adopted.
+For nonconforming structures other than electric facilities, no permit under
+this subsection shall be required for repairs necessitated by fire, explosion,
+act of God, or the common enemy or for repairs which do not involve expenditures
+exceeding more than sixty percent of the fair market value of the nonconforming
+structure, so long as the height of the nonconforming structure is not increased
+over its preexisting height.</para>
+<para>(3) An electric
+supplier owning or operating an electric facility made nonconforming by the
+adoption of airport zoning regulations under the Airport Zoning Act may, without
+a permit or other approval by the political subdivision adopting such regulations,
+repair, reconstruct, or replace such electric facility if the height of such
+electric facility is not increased over its preexisting height. Any construction,
+repair, reconstruction, or replacement of an electric facility, the height
+of which will exceed the preexisting height of such electric facility, shall
+require a permit from the political subdivision adopting such regulations.
+The permit shall be granted only upon a showing that the excess height of
+the electric facility will not establish or create an airport hazard or become
+a greater hazard to air navigation than the electric facility that previously
+existed.</para></amendatorysection></section><source><para>Laws 1945, c. 233, &#167; 7(1), p. 685; </para><para>Laws 2013, LB140, &#167; 11.</para><effectivedate>September 6, 2013</effectivedate></source>  </law>
+</legaldoc>

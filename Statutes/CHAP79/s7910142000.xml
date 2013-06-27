@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id24">
-<amendatorysection chaptername="Schools" id="id26" publishedsource="CumulativeSupplement" statutenumber="79-10,142"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>79-10,142</statuteno><catchline>Summer food service program; department;
-collect data; report.</catchline><para>The department shall collect data regarding the number of
-sponsors, the number of sites utilized by sponsors, and the number of children
-served as a result of the grants awarded under section 79-10,141. The department
-shall submit a report to the Education Committee of the Legislature on this
-data not later than December 1 each year.</para>
-</amendatorysection></section><source><para>Laws 2012, LB1090, &#167; 3.</para></source>  </law>
+<section id="id399">
+<amendatorysection amended="yes" chaptername="Schools" id="id401" publishedsource="CumulativeSupplement" statutenumber="79-10,142">
+<bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>79-10,142</statuteno><catchline id="id404">Summer food
+service program; department; collect data; report.</catchline><para>The
+department shall collect data regarding the number of sponsors, the number
+of sites utilized by sponsors, and the number of children served as a result
+of the grants awarded under section 79-10,141. The department shall submit
+a report electronically to
+the Education Committee of the Legislature on this data not later than December
+1 each year.</para>
+</amendatorysection></section><source><para>Laws 2012, LB1090, &#167; 3; </para><para>Laws 2013, LB222, &#167; 34.</para><effectivedate>May 8, 2013</effectivedate></source>  </law>
 </legaldoc>

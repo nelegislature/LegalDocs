@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Public Health and Welfare" statutenumber="71-428"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>71-428</statuteno><catchline>Respite care service, defined.</catchline><para>(1) Respite care service means a person or any legal entity that provides short-term temporary care on an intermittent basis to persons with special needs when the person's primary caregiver is unavailable to provide such care.</para><para>(2) Respite care service does not include:</para><para>(a) A person or any legal entity which is licensed under the Health Care Facility Licensure Act and which provides respite care services at the licensed location;</para><para>(b) A person or legal entity which is licensed to provide child care to thirteen or more children under the Child Care Licensing Act or which is licensed as a group home or child-caring agency under sections 71-1901 to 71-1906.01;</para><para>(c) An agency that recruits, screens, or trains a person to provide respite care;</para><para>(d) An agency that matches a respite care service or other providers of respite care with a person with special needs, or refers a respite care service or other providers of respite care to a person with special needs, unless the agency receives compensation for such matching or referral from the service or provider or from or on behalf of the person with special needs;</para><para>(e) A person who provides respite care to fewer than eight unrelated persons in any seven-day period in his or her home or in the home of the recipient of the respite care; or</para><para>(f) A nonprofit agency that provides group respite care for no more than eight hours in any seven-day period.</para></amendatorysection></section><source><para>Laws 2000, LB 819, &#167; 28; </para><para>Laws 2002, LB 1062, &#167; 40; </para><para>Laws 2004, LB 1005, &#167; 43; </para><para>Laws 2005, LB 2, &#167; 1. </para></source><crossreference><para><emphasis>Child Care Licensing Act,</emphasis> see section 71-1908.</para><para><emphasis>Children's Residential Facilities and Placing Licensure Act,</emphasis> see section 71-1924.</para></crossreference></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id360">
+<amendatorysection amended="yes" chaptername="Public Health and Welfare" id="id362" statutenumber="71-428"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>71-428</statuteno><catchline id="id365">Respite care
+service, defined.</catchline><para>(1) Respite care service means
+a person or any legal entity that provides short-term temporary care on an
+intermittent basis to persons with special needs when the person's primary
+caregiver is unavailable to provide such care.</para>
+<para>(2) Respite care service does not include:</para>
+<para>(a) A person or any legal entity which is licensed under
+the Health Care Facility Licensure Act and which provides respite care services
+at the licensed location;</para>
+<para>(b) A person or legal entity which is licensed to provide
+child care to thirteen or more children under the Child Care Licensing Act
+or which is licensed as a residential child-caring
+agency under the
+Children's Residential Facilities and Placing Licensure Act;</para>
+<para>(c) An agency that recruits, screens, or trains a person
+to provide respite care;</para>
+<para>(d) An agency that matches a respite care service or other
+providers of respite care with a person with special needs, or refers a respite
+care service or other providers of respite care to a person with special needs,
+unless the agency receives compensation for such matching or referral from
+the service or provider or from or on behalf of the person with special needs;</para>
+<para>(e) A person who provides respite care to fewer than eight
+unrelated persons in any seven-day period in his or her home or in the home
+of the recipient of the respite care; or</para>
+<para>(f) A nonprofit agency that provides group respite care for
+no more than eight hours in any seven-day period.</para>
+</amendatorysection></section><source><para>Laws 2000, LB 819, &#167; 28; </para><para>Laws 2002, LB 1062, &#167; 40; </para><para>Laws 2004, LB 1005, &#167; 43; </para><para>Laws 2005, LB 2, &#167; 1; </para><para>Laws 2013, LB265, &#167; 39.</para><effectivedate>May 26, 2013</effectivedate></source><crossreference><para><emphasis>Child Care Licensing Act,</emphasis> see section 71-1908.</para><para><emphasis>Children's Residential Facilities and Placing Licensure Act,</emphasis> see section 71-1924.</para></crossreference>  </law>
+</legaldoc>

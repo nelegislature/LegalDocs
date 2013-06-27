@@ -1,17 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--Arbortext, Inc., 1988-2004, v.4002-->
-<!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN"
- "legaldoc.dtd">
-<legaldoc><law type="ucc">
-<section><sectno></sectno>
-<amendatorysection chaptername="Uniform Commercial Code" statutenumber="9-101">
-<bookinfo>Uniform Commercial Code, Reissue Revised Statutes of Nebraska</bookinfo>
-<statuteno>9-101</statuteno>
-<catchline>Short title.</catchline>
-<para>This article may be cited as Uniform Commercial Code - Secured Transactions.</para></amendatorysection></section>
-<source>
-<para>Laws 1999, LB 550, &#167; 74.</para></source>
-<annotation>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="UCC">
+<section id="id11">
+<amendatorysection amended="yes" chaptername="Uniform Commercial Code" id="id13" statutenumber="9-101"><bookinfo>Uniform Commercial Code, Revised Statutes Supplement, 2013</bookinfo><statuteno>9-101</statuteno><catchline>Short title.</catchline>
+<para>This article may be cited as Uniform Commercial Code - Secured
+Transactions.</para>
+</amendatorysection></section><source>
+<para>Laws 1999, LB 550, &#167; 74; </para><para>Laws 2013, LB210, &#167; 2.</para><effectivedate>September 6, 2013</effectivedate></source><annotation>
 <para><emphasis>COMMENT</emphasis></para>
 <para><emphasis>1. Source.</emphasis> This article supersedes former Uniform Commercial Code (UCC) article
 9. As did its predecessor, it provides a comprehensive scheme for the regulation
@@ -75,8 +70,8 @@ A health-care-insurance receivable is included within the definition of "account
 in section 9-102.</para>
 <para>Nonpossessory statutory agricultural liens. Section 9-109 also brings
 nonpossessory statutory agricultural liens within the scope of article 9.</para>
-<para>Consignments. Section 9-109 provides that "true" consignments &#8212; bailments for the purpose
-of sale by the bailee &#8212; are security interests covered by article 9, with certain exceptions. See
+<para>Consignments. Section 9-109 provides that "true" consignments — bailments for the purpose
+of sale by the bailee — are security interests covered by article 9, with certain exceptions. See
 section 9-102 (defining "consignment"). Currently, many consignments are subject
 to article 9's filing requirements by operation of former section 2-326.</para>
 <para>Supporting obligations and property securing rights to payment. This
@@ -624,4 +619,5 @@ intermediary's jurisdiction", conform it to the revised treatment of a "commodit
 intermediary's jurisdiction" in section 9-305. Sections 8-301 and 8-302 have
 been revised for clarification. Section 8-510 has been revised to conform
 it to the revised priority rules of section 9-328. Several comments in article
-8 also have been revised.</para></annotation></law></legaldoc>
+8 also have been revised.</para></annotation>  </law>
+</legaldoc>

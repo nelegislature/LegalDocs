@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Legislature" statutenumber="50-1209"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>50-1209</statuteno><catchline>Performance audit; notification of agency.</catchline><para>Upon approval of an audit plan pursuant to section 50-1208, the agency shall be notified in writing of the specific scope of the audit and the projected deadline for completion of the section's report. If the section needs information from a political subdivision or entity thereof to effectively conduct a performance audit of an agency, the political subdivision or entity thereof shall provide information, on request, to the section.</para></amendatorysection></section><source><para>Laws 1992, LB 988, &#167; 9; </para><para>Laws 2003, LB 607, &#167; 12. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Legislature" statutenumber="50-1209"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>50-1209</statuteno><catchline>Performance audit; notification of
+agency.</catchline><para>Upon approval of an audit plan pursuant to section
+50-1208, the agency shall be notified in writing of the specific scope of
+the audit and the projected deadline for completion of the office's report.
+If the office needs information from
+a political subdivision or entity thereof to effectively conduct a performance
+audit of an agency, the political subdivision or entity thereof shall provide
+information, on request, to the office.</para>
+</amendatorysection></section><source><para>Laws 1992, LB 988, &#167; 9; </para><para>Laws 2003, LB 607, &#167; 12; </para><para>Laws 2013, LB39, &#167; 7.</para><effectivedate>September 6, 2013</effectivedate></source>  </law>
+</legaldoc>

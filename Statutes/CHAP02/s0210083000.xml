@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Agriculture" statutenumber="2-1083"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>2-1083</statuteno><catchline>Nursery stock, defined.</catchline><para>Nursery stock shall mean all field-grown or container-grown perennial plants, including, but not limited to, vegetative or propagative parts or perennial plants dug from the wild, so labeled, and distributed, and excluding, among other things, greenhouse plants grown for indoor use, annual plants, biennial plants, florist stock, cut flowers, sod, turf, onions, or potatoes, or seeds of any such plant.</para></amendatorysection></section><source><para>Laws 1988, LB 874, &#167; 12.</para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id29">
+<amendatorysection amended="yes" chaptername="Agriculture" id="id31" statutenumber="2-1083"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>2-1083</statuteno><catchline id="id34">Nursery stock,
+defined.</catchline><para>Nursery stock shall mean all botanically classified hardy perennial
+or biennial plants, trees, shrubs, and vines, either domesticated or wild,
+cuttings, grafts, scions, buds, bulbs, rhizomes, or roots thereof, and such
+plants and plant parts for, or capable of, propagation, excluding plants grown
+for indoor use, annual plants, florist stock, cut flowers, sod, turf, onions,
+potatoes, or seeds of any such plant.</para>
+</amendatorysection></section><source><para>Laws 1988, LB 874, &#167; 12; </para><para>Laws 2013, LB68, &#167; 6.</para><effectivedate>September 6, 2013</effectivedate></source>  </law>
+</legaldoc>

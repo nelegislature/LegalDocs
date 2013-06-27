@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id76">
-<amendatorysection amended="yes" chaptername="Infants and Juveniles" id="id78" statutenumber="43-412"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>43-412</statuteno><catchline id="id81">Commitment to
-Office of Juvenile Services; discharge of juvenile; effect of discharge; notice to committing court.</catchline>
-<para>(1) Every juvenile committed to the Office of Juvenile Services
+<section id="id444">
+<amendatorysection amended="yes" chaptername="Infants and Juveniles" id="id446" statutenumber="43-412"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>43-412</statuteno><catchline id="id449">Commitment to
+Office of Juvenile Services; discharge of juvenile; effect of discharge; notice of discharge.</catchline><para>(1) Every juvenile committed to the Office of Juvenile Services
 pursuant to the Nebraska Juvenile Code or pursuant to subsection (3) of section
 29-2204 shall remain committed until he or she attains the age of nineteen
 or is legally discharged.</para>
-<para>(2) The discharge of any juvenile pursuant to the rules and
-regulations or upon his or her attainment of the age of nineteen shall be
-a complete release from all penalties incurred by conviction or adjudication
+<para>(2) Upon attainment of the age of nineteen
+or absent a continuing order of intensive supervised probation, discharge
+of any juvenile pursuant to the rules and regulations shall
+be a complete release from all penalties incurred by conviction or adjudication
 of the offense for which he or she was committed.</para>
-<para>(3) The Office
-of Juvenile Services shall provide the committing court with written notification
-of the juvenile's discharge within thirty days of a juvenile being discharged
-from the care and custody of the office.</para></amendatorysection>
-</section><source><para>Laws 1901, c. 51, &#167; 11, p. 407; </para><para>Laws 1903, c. 69, &#167; 2, p. 369; </para><para>R.S.1913, &#167; 7379; </para><para>C.S.1922, &#167; 7038; </para><para>C.S.1929, &#167; 83-1109; </para><para>R.S.1943, &#167; 83-472; </para><para>Laws 1969, c. 817, &#167; 80, p. 3111; </para><para>Laws 1974, LB 992, &#167; 1; </para><para>Laws 1993, LB 31, &#167; 44; </para><para>Laws 1994, LB 988, &#167; 35; </para><para>Laws 1996, LB 1044, &#167; 956; </para><para>R.S.Supp.,1996, &#167; 83-472; </para><para>Laws 1998, LB 1073, &#167; 44; </para><para>Laws 2011, LB463, &#167; 12.</para></source><crossreference><para><emphasis>Nebraska Juvenile Code,</emphasis> see section 43-2,129.</para></crossreference><annotation><para>Under former law a commitment hereunder is not for a definite period. State v. Pinkerton, 186 Neb. 225, 182 N.W.2d 198 (1970).</para><para>Juvenile court, in committing boy to industrial school, cannot fix definite term of detention. Cohen v. Clark, 107 Neb. 849, 187 N.W. 120 (1922).</para><para>A juvenile court's commitment of a juvenile to a youth rehabilitation treatment center does not constitute a discharge within the meaning of section 43-247, and therefore, the juvenile court retains jurisdiction. A juvenile court does not have jurisdiction over the Office of Juvenile Services in placing, managing, or discharging a juvenile committed to a youth rehabilitation treatment center, even though the juvenile court retains jurisdiction of the juvenile. In re Interest of David C., 6 Neb. App. 198, 572 N.W.2d 392 (1997).</para></annotation>  </law>
+<para>(3) The Office of Juvenile Services shall provide the committing
+court, Office of Probation
+Administration, county attorney, defense attorney, if any, and guardian ad
+litem, if any, with written notification of the juvenile's discharge
+within thirty days prior to a juvenile being
+discharged from the care and custody of the office.</para>
+</amendatorysection></section><source><para>Laws 1901, c. 51, &#167; 11, p. 407; </para><para>Laws 1903, c. 69, &#167; 2, p. 369; </para><para>R.S.1913, &#167; 7379; </para><para>C.S.1922, &#167; 7038; </para><para>C.S.1929, &#167; 83-1109; </para><para>R.S.1943, &#167; 83-472; </para><para>Laws 1969, c. 817, &#167; 80, p. 3111; </para><para>Laws 1974, LB 992, &#167; 1; </para><para>Laws 1993, LB 31, &#167; 44; </para><para>Laws 1994, LB 988, &#167; 35; </para><para>Laws 1996, LB 1044, &#167; 956; </para><para>R.S.Supp.,1996, &#167; 83-472; </para><para>Laws 1998, LB 1073, &#167; 44; </para><para>Laws 2011, LB463, &#167; 12; </para><para>Laws 2013, LB561, &#167; 32.</para><effectivedate>May 30, 2013</effectivedate></source><crossreference><para><emphasis>Nebraska Juvenile Code,</emphasis> see section 43-2,129.</para></crossreference><annotation><para>Under former law a commitment hereunder is not for a definite period. State v. Pinkerton, 186 Neb. 225, 182 N.W.2d 198 (1970).</para><para>Juvenile court, in committing boy to industrial school, cannot fix definite term of detention. Cohen v. Clark, 107 Neb. 849, 187 N.W. 120 (1922).</para><para>A juvenile court's commitment of a juvenile to a youth rehabilitation treatment center does not constitute a discharge within the meaning of section 43-247, and therefore, the juvenile court retains jurisdiction. A juvenile court does not have jurisdiction over the Office of Juvenile Services in placing, managing, or discharging a juvenile committed to a youth rehabilitation treatment center, even though the juvenile court retains jurisdiction of the juvenile. In re Interest of David C., 6 Neb. App. 198, 572 N.W.2d 392 (1997).</para></annotation>  </law>
 </legaldoc>

@@ -1,1 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Public Health and Welfare" statutenumber="71-8506" amended="yes" publishedsource="CumulativeSupplement"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>71-8506</statuteno><catchline>Medical assistance program; reimbursement; requirements.</catchline><para>(1) On or after July 1, 2000, in-person contact between a health care practitioner and a patient shall not be required under the medical assistance program established pursuant to the Medical Assistance Act and Title XXI of the federal Social Security Act, as amended, for health care services delivered through telehealth that are otherwise eligible for reimbursement under such program and federal act. Such services shall be subject to reimbursement policies developed pursuant to such program and federal act. This section also applies to managed care plans which contract with the department pursuant to the Medical Assistance Act only to the extent that:</para><para>(a) Health care services delivered through telehealth are covered by and reimbursed under the medicaid fee-for-service program; and</para><para>(b) Managed care contracts with managed care plans are amended to add coverage of health care services delivered through telehealth and any appropriate capitation rate adjustments are incorporated.</para><para>(2) The reimbursement rate for a telehealth consultation shall, as a minimum, be set at the same rate as the medical assistance program rate for a comparable in-person consultation.</para><para>(3) The department shall establish rates for transmission cost reimbursement for telehealth consultations, considering, to the extent applicable, reductions in travel costs by health care practitioners and patients to deliver or to access health care services and such other factors as the department deems relevant.</para></amendatorysection></section><source><para>Laws 1999, LB 559, &#167; 6; </para><para>Laws 2006, LB 1248, &#167; 82. </para></source><crossreference><para><emphasis>Medical Assistance Act,</emphasis> see section 68-901.</para></crossreference></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id70">
+<amendatorysection amended="yes" chaptername="Public Health and Welfare" id="id72" publishedsource="CumulativeSupplement" statutenumber="71-8506">
+<bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>71-8506</statuteno><catchline id="id75">Medical assistance
+program; reimbursement; requirements.</catchline><para>(1) In-person contact between
+a health care practitioner and a patient shall not be required under the medical
+assistance program established pursuant to the Medical Assistance Act and
+Title XXI of the federal Social Security Act, as amended, for health care
+services delivered through telehealth that are otherwise eligible for reimbursement
+under such program and federal act. Such services shall be subject to reimbursement
+policies developed pursuant to such program and federal act. This section
+also applies to managed care plans which contract with the department pursuant
+to the Medical Assistance Act only to the extent that:</para>
+<para>(a) Health care services delivered through telehealth are
+covered by and reimbursed under the medicaid fee-for-service program; and</para>
+<para>(b) Managed care contracts with managed care plans are amended
+to add coverage of health care services delivered through telehealth and any
+appropriate capitation rate adjustments are incorporated.</para>
+<para>(2) The reimbursement rate for a telehealth consultation shall,
+as a minimum, be set at the same rate as the medical assistance program rate
+for a comparable in-person consultation.</para>
+<para>(3) The department shall establish rates for transmission
+cost reimbursement for telehealth consultations, considering, to the extent
+applicable, reductions in travel costs by health care practitioners and patients
+to deliver or to access health care services and such other factors as the
+department deems relevant. Such
+rates shall include reimbursement for all two-way, real-time, interactive
+communications, unless provided by an Internet service provider, between the
+patient and the physician or health care practitioner at the distant site
+which comply with the federal Health Insurance Portability and Accountability
+Act of 1996 and rules and regulations adopted thereunder and with regulations
+relating to encryption adopted by the federal Centers for Medicare and Medicaid
+Services and which satisfy federal requirements relating to efficiency, economy,
+and quality of care.</para>
+</amendatorysection></section><source><para>Laws 1999, LB 559, &#167; 6; </para><para>Laws 2006, LB 1248, &#167; 82; </para><para>Laws 2013, LB556, &#167; 6.</para><effectivedate>September 6, 2013</effectivedate></source><crossreference><para><emphasis>Medical Assistance Act,</emphasis> see section 68-901.</para></crossreference>  </law>
+</legaldoc>

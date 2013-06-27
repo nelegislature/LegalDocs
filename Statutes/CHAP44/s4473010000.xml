@@ -1,1 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Insurance" statutenumber="44-7310"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>44-7310</statuteno><catchline>Standard review of adverse determinations.</catchline><para>(1) A health carrier shall establish written procedures for a standard review of an adverse determination. Review procedures shall be available to a covered person and to the provider acting on behalf of a covered person. For purposes of this section, covered person includes the representative of a covered person.</para><para>(2) When reasonably necessary or when requested by the provider acting on behalf of a covered person, standard reviews shall be evaluated by an appropriate clinical peer or peers in the same or similar specialty as would typically manage the case being reviewed. The clinical peer shall not have been involved in the initial adverse determination.</para><para>(3) For standard reviews the health carrier shall notify in writing both the covered person and the attending or ordering provider of the decision within fifteen working days after the request for a review. The written decision shall contain the provisions required in subsection (3) of section 44-7308.</para><para>(4) In any case in which the standard review process does not resolve a difference of opinion between the health carrier and the covered person or the provider acting on behalf of the covered person, the covered person or the provider acting on behalf of the covered person may submit a written grievance, unless the provider is prohibited from filing a grievance by federal or other state law. A health carrier that offers managed care plans shall review it as a second-level grievance.</para></amendatorysection></section><source><para>Laws 1998, LB 1162, &#167; 75. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id35">
+<amendatorysection amended="yes" chaptername="Insurance" id="id37" statutenumber="44-7310"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>44-7310</statuteno><catchline id="id40">Standard review
+of adverse determinations.</catchline><para>(1) A health carrier
+shall establish written procedures for a standard review of an adverse determination.
+Review procedures shall be available to a covered person and to the provider
+acting on behalf of a covered person. For purposes of this section, covered
+person includes the representative of a covered person.</para>
+<para>(2) When reasonably necessary or when requested by the provider
+acting on behalf of a covered person, standard reviews shall be evaluated
+by an appropriate clinical peer or peers in the same or similar specialty
+as would typically manage the case being reviewed. The clinical peer shall
+not have been involved in the initial adverse determination.</para>
+<para>(3) For standard reviews the health carrier shall notify in
+writing both the covered person and the attending or ordering provider of
+the decision within fifteen working days after the request for a review. The
+written decision shall contain the provisions required in subsection (3) of
+section 44-7308.</para>
+<para>(4) In any case in which the standard review process does
+not resolve a difference of opinion between the health carrier and the covered
+person or the provider acting on behalf of the covered person, the covered
+person or the provider acting on behalf of the covered person may submit a
+written grievance, unless the provider is prohibited from filing a grievance
+by federal or other state law.</para>
+</amendatorysection></section><source><para>Laws 1998, LB 1162, &#167; 75; </para><para>Laws 2013, LB147, &#167; 21.</para><effectivedate>September 6, 2013</effectivedate></source>  </law>
+</legaldoc>

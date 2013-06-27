@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Telecommunications and Technology" statutenumber="86-255"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>86-255</statuteno><catchline>Commission decision; appeal.</catchline><para>Any decision of the commission made pursuant to the Automatic Dialing-Announcing Devices Act or the rules and regulations may be appealed. The appeal shall be in accordance with the Administrative Procedure Act.</para></amendatorysection></section><source><para>Laws 1993, LB 305, &#167; 19; </para><para>Laws 2000, LB 1285, &#167; 20; </para><para>R.S.Supp.,2000, &#167; 86-1219; </para><para>Laws 2002, LB 1105, &#167; 117. </para></source><crossreference><para><emphasis>Administrative Procedure Act,</emphasis> see section 84-920.</para></crossreference></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id114">
+<amendatorysection amended="yes" chaptername="Telecommunications and Technology" id="id116" statutenumber="86-255">
+<bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>86-255</statuteno><catchline id="id119">Commission decision;
+appeal.</catchline><para>Any decision of the commission made pursuant
+to the Automatic Dialing-Announcing Devices Act or the rules and regulations
+may be appealed. The appeal shall be in accordance with section 75-136.</para>
+</amendatorysection></section><source><para>Laws 1993, LB 305, &#167; 19; </para><para>Laws 2000, LB 1285, &#167; 20; </para><para>R.S.Supp.,2000, &#167; 86-1219; </para><para>Laws 2002, LB 1105, &#167; 117; </para><para>Laws 2013, LB545, &#167; 13.</para><effectivedate>September 6, 2013</effectivedate></source><crossreference><para><emphasis>Administrative Procedure Act,</emphasis> see section 84-920.</para></crossreference>  </law>
+</legaldoc>

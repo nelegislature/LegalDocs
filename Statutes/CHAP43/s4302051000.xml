@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Infants and Juveniles" statutenumber="43-251"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>43-251</statuteno><catchline>Preadjudication placement or detention; mental health placement; prohibitions.</catchline><para>(1) When a juvenile is taken into custody pursuant to sections 43-248 and 43-250, the court or magistrate may take any action for preadjudication placement or detention prescribed in the Nebraska Juvenile Code.</para><para>(2) Any juvenile taken into custody under the Nebraska Juvenile Code for allegedly being mentally ill and dangerous shall not be placed in a jail or detention facility designed for juveniles who are accused of criminal acts or for juveniles as described in subdivision (1), (2), or (4) of section 43-247 either as a temporary placement by a peace officer, as a temporary placement by a court, or as an adjudication placement by the court.</para></amendatorysection></section><source><para>Laws 1981, LB 346, &#167; 7; </para><para>Laws 1985, LB 447, &#167; 15; </para><para>Laws 1997, LB 622, &#167; 66; </para><para>Laws 1998, LB 1073, &#167; 14. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id136">
+<amendatorysection amended="yes" chaptername="Infants and Juveniles" id="id138" statutenumber="43-251"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>43-251</statuteno><catchline id="id141">Preadjudication
+placement or detention; mental health placement; prohibitions.</catchline>
+<para>(1) When a juvenile is taken into custody pursuant to sections
+43-248 and 43-250, the court or magistrate may take any action for preadjudication
+placement or detention prescribed in the Nebraska Juvenile Code.</para>
+<para>(2) Any juvenile taken into custody under the Nebraska Juvenile
+Code for allegedly being mentally ill and dangerous shall not be placed in
+a staff secure juvenile facility, jail, or detention facility designed
+for juveniles who are accused of criminal acts or for juveniles as described
+in subdivision (1), (2), or (4) of section 43-247 either as a temporary placement
+by a peace officer, as a temporary placement by a court, or as an adjudication
+placement by the court.</para>
+</amendatorysection></section><source><para>Laws 1981, LB 346, &#167; 7; </para><para>Laws 1985, LB 447, &#167; 15; </para><para>Laws 1997, LB 622, &#167; 66; </para><para>Laws 1998, LB 1073, &#167; 14; </para><para>Laws 2013, LB561, &#167; 9.</para><effectivedate>May 30, 2013</effectivedate></source>  </law>
+</legaldoc>

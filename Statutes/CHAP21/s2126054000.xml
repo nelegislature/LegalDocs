@@ -1,47 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id4">
-<sectno id="id5" opdate="January 1, 2011">Sec. 100.</sectno><amendatorysection amended="yes" chaptername="Corporations and Other Companies" id="id6" publishedsource="AnnualSupplement" statutenumber="21-2654"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id8">21-2654</statuteno><catchline id="id9">Charging order;
-authorized; procedure; effect;
-powers of court.</catchline><para>(1) On application
-to a court of competent jurisdiction by any judgment creditor of a member
-or transferee, the court may charge the transferable interest of the judgment
-debtor in the limited liability company with payment of the unsatisfied amount
-of the judgment with interest. To the extent of the amounts so charged, the
-judgment creditor has only the rights of the transferee to receive any distribution
-to which the judgment debtor would otherwise have been entitled with respect
-to the interest of the judgment debtor in the limited liability company.</para>
-<para>(2) A charging order entered pursuant to this section constitutes
-a lien on the judgment debtor's transferable interest in the limited liability
-company.</para>
-<para>(3) To the
-extent necessary to effectuate the collection of distributions pursuant to
-a charging order in effect under subsection (1) of this section, the court
-may (a) appoint a receiver of the distribution subject to the charging order,
-and the receiver shall have the power to make all inquiries the judgment debtor
-might have made, and (b) make all other orders necessary to give effect to
-the charging order.</para><para>(4) Upon a showing that distributions under a charging order will
-not pay the judgment debt within a reasonable time, the court may foreclose
-the lien and order the sale of the transferable interest. The purchaser at
-the foreclosure sale only obtains the transferable interest and does not become
-a member of the limited liability company.</para><para>(5) At any time before completion of the
-foreclosure sale under subsection (4) of this section, the member or transferee
-whose transferable interest is subject to a charging order under subsection
-(1) of this section may extinguish the charging order by satisfying the judgment
-and filing a certified copy of the satisfaction with the court that issued
-the charging order.</para><para>(6) At any time before completion of the foreclosure sale under
-subsection (4) of this section, a limited liability company or one or more
-members whose transferable interests are not subject to the charging order
-may pay to the judgment creditor the full amount due under the judgment and
-thereby succeed to the rights of the judgment creditor, including the charging
-order.</para><para>(7) This section does not
-deprive any member or transferee of the benefit of any exemption laws applicable
-to the member's or transferee's interest in the limited liability company.</para>
-<para>(8) This section
-provides the exclusive remedy by which a person seeking to enforce a judgment
-against a member or transferee may, in the capacity of judgment creditor,
-satisfy the judgment from the judgment debtor's transferable interest.</para>
-</amendatorysection>
-</section><source><para>Laws 2009, LB35, &#167; 1; </para><para>Laws 2010, LB888, &#167; 100.</para><terminationdate>January 1, 2013</terminationdate></source>  </law>
+		<section>
+			<amendatorysection chaptername="" statutenumber="21-2654">
+				<statuteno>21-2654</statuteno>
+				<catchline>Repealed. Laws 2013, LB 283, &#167; 10.</catchline>
+				
+			</amendatorysection>
+		</section>
+	</law>
 </legaldoc>

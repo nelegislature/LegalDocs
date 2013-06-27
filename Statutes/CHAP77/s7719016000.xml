@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="Revenue and Taxation" statutenumber="77-1916"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>77-1916</statuteno><catchline>Foreclosure proceedings; surplus
-proceeds; disposition; prorating.</catchline><para>If a surplus remains after
-satisfying all costs and taxes against any particular item of real property,
-the excess shall be applied in the manner provided by law for the disposition
-of the surplus in the foreclosure of mortgages on real property. If the proceeds
-are insufficient to pay the costs and all the taxes, when the plaintiff is
-a governmental subdivision, a municipal corporation, or a drainage or irrigation
-district, the amount remaining shall be prorated among the governmental subdivisions,
-municipal corporations, and drainage or irrigation districts in the proportion
-of their interest in the decree of foreclosure. The proceeds of the sale of
-one item of real property shall not be applied to the discharge of a lien
-for taxes against another item of real property except when so directed by
-the decree for foreclosure under the circumstances set forth in section 77-1910. The lien on real estate for special assessments
-levied by any sanitary and improvement district shall not be entitled to any
-surplus unless such special assessments have been previously offered for sale
-by the county treasurer.</para>
-</amendatorysection></section><source><para>Laws 1943, c. 176, &#167; 16, p. 618; </para><para>R.S.1943, &#167; 77-1916; </para><para>Laws 1992, LB 1063, &#167; 177; </para><para>Laws 1992, Second Spec. Sess., LB 1, &#167; 150; </para><para>Laws 2011, LB423, &#167; 6.</para></source>  </law>
+<section id="id255">
+<amendatorysection amended="yes" chaptername="Revenue and Taxation" id="id257" statutenumber="77-1916">
+<bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>77-1916</statuteno><catchline id="id260">Foreclosure
+proceedings; surplus proceeds; disposition; prorating.</catchline><para>If
+a surplus remains after satisfying all costs and taxes against any particular
+item of real property, the excess shall be applied in the manner provided
+by law for the disposition of the surplus in the foreclosure of mortgages
+on real property. If the proceeds are insufficient to pay the costs and all
+the taxes, when the plaintiff is a governmental subdivision other
+than a land bank or is a municipal corporation or a drainage or irrigation district, the
+amount remaining shall be prorated among the governmental subdivisions, municipal
+corporations, and drainage or irrigation districts in the proportion of their
+interest in the decree of foreclosure. The proceeds of the sale of one item
+of real property shall not be applied to the discharge of a lien for taxes
+against another item of real property except when so directed by the decree
+for foreclosure under the circumstances set forth in section 77-1910. The
+lien on real estate for special assessments levied by any sanitary and improvement
+district shall not be entitled to any surplus unless such special assessments
+have been previously offered for sale by the county treasurer.</para>
+</amendatorysection></section><source><para>Laws 1943, c. 176, &#167; 16, p. 618; </para><para>R.S.1943, &#167; 77-1916; </para><para>Laws 1992, LB 1063, &#167; 177; </para><para>Laws 1992, Second Spec. Sess., LB 1, &#167; 150; </para><para>Laws 2011, LB423, &#167; 6; </para><para>Laws 2013, LB97, &#167; 25.</para><operativedate>October 1, 2013</operativedate></source>  </law>
 </legaldoc>

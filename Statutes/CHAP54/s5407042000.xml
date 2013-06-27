@@ -1,1 +1,65 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Livestock" statutenumber="54-742"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>54-742</statuteno><catchline>Diseased animals; duty to report; livestock disease reporting system.</catchline><para>It is the duty of any person who discovers, suspects, or has reason to believe that any animal belonging to him or her or which he or she has in his or her possession or custody or which, belonging to another, may come under his or her observation is affected with any dangerous, infectious, contagious, or otherwise transmissible disease which affects livestock to immediately report such fact, belief, or suspicion to the department or to any agent, employee, or appointee thereof.</para><para>The department shall work together with livestock health committees, livestock groups, diagnostic laboratories, practicing veterinarians, producers, and others who may be affected, to adopt and promulgate rules and regulations to effectuate a workable livestock disease reporting system according to the provisions of this section. The rules and regulations shall establish who shall report diseases, what diseases shall be reported, how such diseases shall be reported, to whom diseases shall be reported, the method by which diseases shall be reported, and the frequency of reports required. For disease reporting purposes, the department shall categorize livestock diseases according to relative economic or health risk factors and may provide different reporting measures for the various categories.</para></amendatorysection></section><source><para>Laws 1927, c. 12, art. VIII, &#167; 1, p. 92; </para><para>C.S.1929, &#167; 54-938; </para><para>R.S.1943, &#167; 54-742; </para><para>Laws 1993, LB 267, &#167; 7; </para><para>Laws 2001, LB 438, &#167; 7. </para></source><crossreference><para><emphasis>Definitions for sections 54-742 to 54-753.05,</emphasis> see section 54-701.03.</para></crossreference></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id21">
+<amendatorysection amended="yes" chaptername="Livestock" id="id23" statutenumber="54-742"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>54-742</statuteno><catchline id="id26">Diseased animals;
+duty to report; livestock disease reporting system; animal infected with bovine trichomoniasis; report required;
+notice to adjacent landowner or land manager; form or affidavit submitted
+to department; department; duties; costs.</catchline><para>(1) It is the duty of any
+person who discovers, suspects, or has reason to believe that any animal belonging
+to him or her or which he or she has in his or her possession or custody or
+which, belonging to another, may come under his or her observation is affected
+with any dangerous, infectious, contagious, or otherwise transmissible disease
+which affects livestock to immediately report such fact, belief, or suspicion
+to the department or to any agent, employee, or appointee thereof.</para>
+<para>(2) The
+department shall work together with livestock health committees, livestock
+groups, diagnostic laboratories, practicing veterinarians, producers, and
+others who may be affected, to adopt and promulgate rules and regulations
+to effectuate a workable livestock disease reporting system according to the
+provisions of this section. The rules and regulations shall establish who
+shall report diseases, what diseases shall be reported, how such diseases
+shall be reported, to whom diseases shall be reported, the method by which
+diseases shall be reported, and the frequency of reports required. For disease
+reporting purposes, the department shall categorize livestock diseases according
+to relative economic or health risk factors and may provide different reporting
+measures for the various categories.</para>
+<para>(3) Any person
+who reasonably suspects that any beef or dairy breeding bull belonging to
+him or her or which he or she has in his or her possession or custody is infected
+with bovine trichomoniasis shall not sell or transport such animal, except
+for consignment directly to a federally recognized slaughter establishment,
+unless such person causes such animal to be tested for bovine trichomoniasis.
+Any person who owns or has possession or custody of a beef or dairy breeding
+bull, or who has a beef or dairy breeding bull belonging to another under
+his or her observation, for which a laboratory confirmed diagnosis of bovine
+trichomoniasis has been made, shall report such diagnosis to the department
+within five business days after receipt of the laboratory confirmation. Any
+such breeding bull for which a laboratory confirmation of bovine trichomoniasis
+has been made shall not be sold or transported except for consignment directly
+to a federally recognized slaughter establishment.</para><para>(4)(a) An owner or manager
+of any beef or dairy breeding bull for which a laboratory confirmed diagnosis
+of bovine trichomoniasis has been made shall notify each adjacent landowner
+or land manager of the diagnosis if such land is capable of maintaining livestock
+susceptible to bovine trichomoniasis. Such notification shall be made to each
+landowner or land manager within fourteen days after the diagnosis even if
+cattle are not currently maintained on the owner's or manager's land.</para>
+<para>(b) The owner
+or manager of the cattle shall submit to the department a form or affidavit
+attesting to the fact that the notification required under this subsection
+has occurred. The form or affidavit shall be submitted to the department within
+fourteen days after the diagnosis and shall include the names of adjacent
+landowners or land managers who were notified and their contact information.</para>
+<para>(c) If an owner
+or manager does not, within such fourteen-day period, submit the form or affidavit
+indicating that adjacent landowners or land managers have been notified as
+required under this subsection, the department shall notify each adjacent
+landowner or land manager of the diagnosis. The department shall assess the
+administrative costs of the department to notify the adjacent landowners or
+land managers against the owner or manager that failed to comply with this
+subsection. The department shall determine the definition of adjacent based
+on the disease characteristics and modes of transmission. The department shall
+remit any administrative costs collected under this subsection to the State
+Treasurer for credit to the Nebraska Agricultural Products Marketing Cash
+Fund.</para></amendatorysection></section><source><para>Laws 1927, c. 12, art. VIII, &#167; 1, p. 92; </para><para>C.S.1929, &#167; 54-938; </para><para>R.S.1943, &#167; 54-742; </para><para>Laws 1993, LB 267, &#167; 7; </para><para>Laws 2001, LB 438, &#167; 7; </para><para>Laws 2013, LB423, &#167; 4.</para><effectivedate>September 6, 2013</effectivedate></source><crossreference><para><emphasis>Definitions for sections 54-742 to 54-753.05,</emphasis> see section 54-701.03.</para></crossreference>  </law>
+</legaldoc>

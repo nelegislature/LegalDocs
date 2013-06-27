@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id97">
-<amendatorysection chaptername="Infants and Juveniles" id="id99" publishedsource="CumulativeSupplement" statutenumber="43-4308"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>43-4308</statuteno><catchline>Licensed child care facility, defined.</catchline>
-<para>Licensed child
-care facility means a facility or program licensed under the Child Care Licensing
-Act or sections 71-1901 to 71-1906.01.</para>
-</amendatorysection></section><source><para>Laws 2012, LB821, &#167; 15.</para></source> <crossreference><para><emphasis>Child Care Licensing Act,</emphasis> see section 71-1908.</para><para><emphasis>Children's Residential Facilities and Placing Licensure Act,</emphasis> see section 71-1924.</para></crossreference> </law>
+<section id="id335">
+<amendatorysection amended="yes" chaptername="Infants and Juveniles" id="id337" publishedsource="CumulativeSupplement" statutenumber="43-4308">
+<bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>43-4308</statuteno><catchline id="id340">Licensed child
+care facility, defined.</catchline><para>Licensed child care facility
+means a facility or program licensed under the Child Care Licensing Act, the Children's Residential Facilities
+and Placing Licensure Act, or sections 71-1901 to 71-1906.01.</para>
+</amendatorysection></section><source><para>Laws 2012, LB821, &#167; 15; </para><para>Laws 2013, LB265, &#167; 36.</para><effectivedate>May 26, 2013</effectivedate></source><crossreference><para><emphasis>Child Care Licensing Act,</emphasis> see section 71-1908.</para><para><emphasis>Children's Residential Facilities and Placing Licensure Act,</emphasis> see section 71-1924.</para></crossreference>  </law>
 </legaldoc>

@@ -1,72 +1,74 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="Insurance" statutenumber="44-710.04"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>44-710.04</statuteno><catchline>Sickness and accident insurance;
-permissive provisions; standard policy form; requirements.</catchline><para>Except
-as provided in sections 44-710.05 and 44-787, no policy of sickness and accident
-insurance delivered or issued for delivery to any person in this state shall
-contain provisions respecting the matters set forth below unless such provisions
-are in the words in which the provisions appear in this
-section, except that the insurer may, at its option, use in lieu of any such
-provision a corresponding provision of different wording approved by the Director
-of Insurance which is not less favorable in any respect to the insured or
-the beneficiary. Any such provision contained in the policy shall be preceded
-individually by the appropriate caption appearing in this section or, at the
-option of the insurer, by such appropriate individual or group captions or
-subcaptions as the Director of Insurance may approve.</para>
-<para>(1) A provision as follows: CHANGE OF OCCUPATION: If the insured be
-injured or contract sickness after having changed his or her occupation to
-one classified by the insurer as more hazardous than that stated in this policy
-or while doing for compensation anything pertaining to an occupation so classified,
-the insurer will pay only such portion of the indemnities provided in this
-policy as the premium paid would have purchased at the rates and within the
-limits fixed by the insurer for such more hazardous occupation. If the insured
-changes his or her occupation to one classified by the insurer as less hazardous
-than that stated in this policy, the insurer, upon receipt of proof of such
-change of occupation, will reduce the premium rate accordingly and will return
-the excess pro rata unearned premium from the date of change of occupation
-or from the policy anniversary date immediately preceding receipt of such
-proof, whichever is the more recent. In applying this provision, the classification
-of occupational risk and the premium rates shall be such as have been last
-filed by the insurer prior to the occurrence of the loss for which the insurer
-is liable or prior to date of proof of change in occupation with the state
-official having supervision of insurance in the state where the insured resided
-at the time this policy was issued; but if such filing was not required, then
-the classification of occupational risk and the premium rates shall be those
-last made effective by the insurer in such state prior to the occurrence of
-the loss or prior to the date of proof of change of occupation.</para>
-<para>(2) A provision as follows: MISSTATEMENT OF AGE: If the age of the insured
-has been misstated, all amounts payable under this policy shall be such as
-the premium paid would have purchased at the correct age.</para>
-<para>(3) A provision as follows: OTHER INSURANCE IN THIS INSURER: If an accident
-or sickness or accident and sickness policy or policies previously issued
-by the insurer to the insured be in force concurrently herewith, making the
-aggregate indemnity for ................ (insert type of coverage or coverages)
-in excess of $................ (insert maximum limit of indemnity or indemnities),
-the excess insurance shall be void and all premiums paid for such excess shall
-be returned to the insured or to his or her estate; or in lieu thereof: Insurance
-effective at any one time on the insured under a like policy or policies in
-this insurer is limited to the one such policy elected by the insured, his
-or her beneficiary, or his or her estate, as the case may be, and the insurer
-will return all premiums paid for all other such policies.</para>
-<para>(4) A provision as follows: INSURANCE WITH OTHER INSURERS: If there
-be other valid coverage, not with this insurer, providing benefits for the
-same loss on a provision-of-service basis or on an expense-incurred basis
-and of which this insurer has not been given written notice prior to the occurrence
-or commencement of loss, the only liability under any expense-incurred coverage
-of this policy shall be for such proportion of the loss as the amount which
-would otherwise have been payable hereunder plus the total of the like amounts
-under all such other valid coverages for the same loss of which this insurer
-had notice bears to the total like amounts under all valid coverages for such
-loss and for the return of such portion of the premiums paid as shall exceed
-the pro rata portion for the amount so determined. For the purpose of applying
-this provision when other coverage is on a provision-of-service basis, the
-like amount of such other coverage shall be taken as the amount which the
-services rendered would have cost in the absence of such coverage. If the
-foregoing policy provision is included in a policy which also contains the
-next following policy provision there shall be added to the caption of the
-foregoing provision the phrase .... EXPENSE-INCURRED BENEFITS. The insurer
+<section id="id10">
+<amendatorysection amended="yes" chaptername="Insurance" id="id12" statutenumber="44-710.04"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>44-710.04</statuteno><catchline id="id15">Sickness and
+accident insurance; permissive provisions; standard policy form; requirements.</catchline><para>Except as provided in sections 44-710.05 and 44-787, no policy
+of sickness and accident insurance delivered or issued for delivery to any
+person in this state shall contain provisions respecting the matters set forth
+below unless such provisions are in the words in which the provisions appear
+in this section, except that the insurer may, at its option, use in lieu of
+any such provision a corresponding provision of different wording approved
+by the Director of Insurance which is not less favorable in any respect to
+the insured or the beneficiary. Any such provision contained in the policy
+shall be preceded individually by the appropriate caption appearing in this
+section or, at the option of the insurer, by such appropriate individual or
+group captions or subcaptions as the Director of Insurance may approve.</para>
+<para>(1) A provision as follows: CHANGE OF OCCUPATION: If the insured
+be injured or contract sickness after having changed his or her occupation
+to one classified by the insurer as more hazardous than that stated in this
+policy or while doing for compensation anything pertaining to an occupation
+so classified, the insurer will pay only such portion of the indemnities provided
+in this policy as the premium paid would have purchased at the rates and within
+the limits fixed by the insurer for such more hazardous occupation. If the
+insured changes his or her occupation to one classified by the insurer as
+less hazardous than that stated in this policy, the insurer, upon receipt
+of proof of such change of occupation, will reduce the premium rate accordingly
+and will return the excess pro rata unearned premium from the date of change
+of occupation or from the policy anniversary date immediately preceding receipt
+of such proof, whichever is the more recent. In applying this provision, the
+classification of occupational risk and the premium rates shall be such as
+have been last filed by the insurer prior to the occurrence of the loss for
+which the insurer is liable or prior to date of proof of change in occupation
+with the state official having supervision of insurance in the state where
+the insured resided at the time this policy was issued; but if such filing
+was not required, then the classification of occupational risk and the premium
+rates shall be those last made effective by the insurer in such state prior
+to the occurrence of the loss or prior to the date of proof of change of occupation.</para>
+<para>(2) A provision as follows: MISSTATEMENT OF AGE: If the age
+of the insured has been misstated, all amounts payable under this policy shall
+be such as the premium paid would have purchased at the correct age.</para>
+<para>(3) Except as provided in subdivision (6)
+of this section, a provision as follows: OTHER INSURANCE IN THIS
+INSURER: If an accident or sickness or accident and sickness policy or policies
+previously issued by the insurer to the insured be in force concurrently herewith,
+making the aggregate indemnity for ................ (insert type of coverage
+or coverages) in excess of $................ (insert maximum limit of indemnity
+or indemnities), the excess insurance shall be void and all premiums paid
+for such excess shall be returned to the insured or to his or her estate;
+or in lieu thereof: Insurance effective at any one time on the insured under
+a like policy or policies in this insurer is limited to the one such policy
+elected by the insured, his or her beneficiary, or his or her estate, as the
+case may be, and the insurer will return all premiums paid for all other such
+policies.</para>
+<para>(4) Except as provided in subdivision (6)
+of this section, a provision as follows: INSURANCE WITH OTHER
+INSURERS: If there be other valid coverage, not with this insurer, providing
+benefits for the same loss on a provision-of-service basis or on an expense-incurred
+basis and of which this insurer has not been given written notice prior to
+the occurrence or commencement of loss, the only liability under any expense-incurred
+coverage of this policy shall be for such proportion of the loss as the amount
+which would otherwise have been payable hereunder plus the total of the like
+amounts under all such other valid coverages for the same loss of which this
+insurer had notice bears to the total like amounts under all valid coverages
+for such loss and for the return of such portion of the premiums paid as shall
+exceed the pro rata portion for the amount so determined. For the purpose
+of applying this provision when other coverage is on a provision-of-service
+basis, the like amount of such other coverage shall be taken as the amount
+which the services rendered would have cost in the absence of such coverage.
+If the foregoing policy provision is included in a policy which also contains
+the next following policy provision there shall be added to the caption of
+the foregoing provision the phrase .... EXPENSE-INCURRED BENEFITS. The insurer
 may, at its option, include in this provision a definition of other valid
 coverage, approved as to form by the Director of Insurance, which definition
 shall be limited in subject matter to coverage provided by organizations subject
@@ -84,16 +86,17 @@ statute, whether provided by a governmental agency or otherwise shall in all
 cases be deemed to be other valid coverage of which the insurer has had notice.
 In applying the foregoing policy provision no third-party liability coverage
 shall be included as other valid coverage.</para>
-<para>(5) A provision as follows: INSURANCE WITH OTHER INSURERS: If there
-be other valid coverage, not with this insurer, providing benefits for the
-same loss on other than an expense-incurred basis and of which this insurer
-has not been given written notice prior to the occurrence or commencement
-of loss, the only liability for such benefits under this policy shall be for
-such proportion of the indemnities otherwise provided hereunder for such loss
-as the like indemnities of which the insurer had notice (including the indemnities
-under this policy) bear to the total amount of all like indemnities for such
-loss, and for the return of such portion of the premium paid as shall exceed
-the pro rata portion for the indemnities thus determined. If the foregoing
+<para>(5) Except as provided in subdivision (6)
+of this section, a provision as follows: INSURANCE WITH OTHER
+INSURERS: If there be other valid coverage, not with this insurer, providing
+benefits for the same loss on other than an expense-incurred basis and of
+which this insurer has not been given written notice prior to the occurrence
+or commencement of loss, the only liability for such benefits under this policy
+shall be for such proportion of the indemnities otherwise provided hereunder
+for such loss as the like indemnities of which the insurer had notice (including
+the indemnities under this policy) bear to the total amount of all like indemnities
+for such loss, and for the return of such portion of the premium paid as shall
+exceed the pro rata portion for the indemnities thus determined. If the foregoing
 policy provision is included in a policy which also contains the next preceding
 policy provision, there shall be added to the caption of the foregoing provision
 the phrase .... OTHER BENEFITS. The insurer may, at its option, include in
@@ -112,16 +115,22 @@ whether provided by a governmental agency or otherwise shall in all cases
 be deemed to be other valid coverage of which the insurer has had notice.
 In applying the foregoing policy provision no third-party liability coverage
 shall be included as other valid coverage.</para>
-<para>(6) A provision as follows: RELATION OF EARNINGS TO INSURANCE: If the
-total monthly amount of loss-of-time benefits promised for the same loss under
-all valid loss-of-time coverage upon the insured, whether payable on a weekly
-or monthly basis, shall exceed the monthly earnings of the insured at the
-time disability commenced or his or her average monthly earnings for the period
-of two years immediately preceding a disability for which claim is made, whichever
-is the greater, the insurer will be liable only for such proportionate amount
-of such benefits under this policy as the amount of such monthly earnings
-or such average monthly earnings of the insured bears to the total amount
-of monthly benefits for the same loss under all such coverage upon the insured
+<para>(6) In lieu
+of the provisions set forth in subdivisions (3) through (5) of this section
+but subject to section 44-3,159, the insurer may at its option include a provision
+entitled COORDINATION OF BENEFITS which provides for nonduplication and coordination
+between two or more coverages based on rules and regulations adopted and promulgated
+by the director.</para><para>(7) A
+provision as follows: RELATION OF EARNINGS TO INSURANCE: If the total monthly
+amount of loss-of-time benefits promised for the same loss under all valid
+loss-of-time coverage upon the insured, whether payable on a weekly or monthly
+basis, shall exceed the monthly earnings of the insured at the time disability
+commenced or his or her average monthly earnings for the period of two years
+immediately preceding a disability for which claim is made, whichever is the
+greater, the insurer will be liable only for such proportionate amount of
+such benefits under this policy as the amount of such monthly earnings or
+such average monthly earnings of the insured bears to the total amount of
+monthly benefits for the same loss under all such coverage upon the insured
 at the time such disability commences and for the return of such part of the
 premiums paid during such two years as shall exceed the pro rata amount of
 the premiums for the benefits actually paid hereunder; but this shall not
@@ -144,20 +153,22 @@ In the absence of such definition such term shall not include any coverage
 provided for such insured pursuant to any compulsory benefit statute, including
 any workers' compensation or employers liability statute, or benefits provided
 by union welfare plans or by employer or employee benefit organizations.</para>
-<para>(7) A provision as follows: UNPAID PREMIUM: Upon the payment of a claim
-under this policy, any premium then due and unpaid or covered by any note
-or written order may be deducted therefrom.</para>
-<para>(8) A provision as follows: CANCELLATION: The insurer may cancel this
-policy at any time by written notice delivered to the insured which shall
-be effective only if mailed by certified or registered mail to the named insured
-at his or her last-known address, as shown by the records of the insurer,
-at least thirty days prior to the effective date of cancellation, except that
-cancellation due to failure to pay the premium or in cases of fraud or misrepresentation
-shall not require that such notice be given at least thirty days prior to
-cancellation. Subject to any provisions in the policy or a grace period, cancellation
-for failure to pay a premium shall be effective as of midnight of the last
-day for which the premium has been paid. In cases of fraud or misrepresentation,
-coverage shall be canceled upon the date of the notice or any later date designated
+<para>(8) A provision as follows:
+UNPAID PREMIUM: Upon the payment of a claim under this policy, any premium
+then due and unpaid or covered by any note or written order may be deducted
+therefrom.</para>
+<para>(9) A provision as follows:
+CANCELLATION: The insurer may cancel this policy at any time by written notice
+delivered to the insured which shall be effective only if mailed by certified
+or registered mail to the named insured at his or her last-known address,
+as shown by the records of the insurer, at least thirty days prior to the
+effective date of cancellation, except that cancellation due to failure to
+pay the premium or in cases of fraud or misrepresentation shall not require
+that such notice be given at least thirty days prior to cancellation. Subject
+to any provisions in the policy or a grace period, cancellation for failure
+to pay a premium shall be effective as of midnight of the last day for which
+the premium has been paid. In cases of fraud or misrepresentation, coverage
+shall be canceled upon the date of the notice or any later date designated
 by the insurer. After the policy has been continued beyond its original term
 the insured may cancel this policy at any time by written notice delivered
 or mailed to the insurer, effective upon receipt or on such later date as
@@ -169,14 +180,14 @@ the state where the insured resided when the policy was issued. If the insurer
 cancels, the earned premium shall be computed pro rata. Cancellation shall
 be without prejudice to any claim originating prior to the effective date
 of cancellation.</para>
-<para>(9) A provision as follows:
+<para>(10) A provision as follows:
 ILLEGAL OCCUPATION: The insurer shall not be liable for any loss to which
 a contributing cause was the insured's commission of or attempt to commit
 a felony or to which a contributing cause was the insured's being engaged
 in an illegal occupation.</para>
-<para>(10) A provision as follows:
+<para>(11) A provision as follows:
 INTOXICANTS AND NARCOTICS: The insurer shall not be liable for any loss sustained
 or contracted in consequence of the insured's being intoxicated or under the
 influence of any narcotic unless administered on the advice of a physician.</para>
-</amendatorysection></section><source><para>Laws 1957, c. 188, &#167; 5, p. 650; </para><para>Laws 1985, LB 76, &#167; 1; </para><para>Laws 1989, LB 92, &#167; 134; </para><para>Laws 1997, LB 55, &#167; 2; </para><para>Laws 2011, LB72, &#167; 4.</para></source>  </law>
+</amendatorysection></section><source><para>Laws 1957, c. 188, &#167; 5, p. 650; </para><para>Laws 1985, LB 76, &#167; 1; </para><para>Laws 1989, LB 92, &#167; 134; </para><para>Laws 1997, LB 55, &#167; 2; </para><para>Laws 2011, LB72, &#167; 4; </para><para>Laws 2013, LB479, &#167; 2.</para><effectivedate>September 6, 2013</effectivedate></source>  </law>
 </legaldoc>

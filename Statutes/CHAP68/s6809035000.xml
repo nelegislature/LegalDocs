@@ -1,1 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Paupers and Public Assistance" statutenumber="68-935" amended="yes" publishedsource="CumulativeSupplement"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>68-935</statuteno><catchline>Terms, defined.</catchline><para>For purposes of the False Medicaid Claims Act:</para><para>(1) Attorney General means the Attorney General, the office of the Attorney General, or a designee of the Attorney General;</para><para>(2) Claim means any request or demand, whether under a contract or otherwise, for money or property that is made to a contractor, grantee, provider, or other recipient if the state provides any portion of the money or property that is requested or demanded or if the government will reimburse the contractor, grantee, or other recipient for any portion of the money or property that is requested or demanded, whether or not the state pays any portion of such request or demand;</para><para>(3) Good or service includes (a) any particular item, device, medical supply, or service claimed to have been provided to a recipient and listed in an itemized claim for payment and (b) any entry in the cost report, books of account, or other documents supporting such good or service;</para><para>(4) Knowing or knowingly means that a person, with respect to information:</para><para>(a) Has actual knowledge of such information;</para><para>(b) Acts in deliberate ignorance of the truth or falsity of such information; or</para><para>(c) Acts in reckless disregard of the truth or falsity of such information;</para><para>(5) Person means any body politic or corporate, society, community, the public generally, individual, partnership, limited liability company, joint-stock company, or association; and</para><para>(6) Recipient means an individual who is eligible to receive goods or services for which payment may be made under the medical assistance program.</para></amendatorysection></section><source><para>Laws 1996, LB 1155, &#167; 68; </para><para>R.S.1943, (2003), &#167; 68-1037.02; </para><para>Laws 2004, LB 1084, &#167; 2; </para><para>R.S.Supp.,2004, &#167; 68-1074; </para><para>Laws 2006, LB 1248, &#167; 35. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id3">
+<amendatorysection amended="yes" chaptername="Public Assistance" id="id5" publishedsource="CumulativeSupplement" statutenumber="68-935"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>68-935</statuteno><catchline id="id8">Terms, defined.</catchline><para>For purposes of the False Medicaid Claims Act:</para>
+<para>(1) Attorney General means the Attorney General, the office
+of the Attorney General, or a designee of the Attorney General;</para>
+<para>(2) Claim means
+any request or demand, whether under a contract or otherwise, for money or
+property, and whether or not the state has title to the money or property,
+that:</para><para>(a) Is presented to an officer, employee, or agent of the state;
+or</para><para>(b) Is made to a contractor, grantee, or other recipient, if the
+money or property is to be spent or used on the state's behalf or to advance
+a state program or interest, and if the state:</para><para>(i) Provides or has provided
+any portion of the money or property requested or demanded; or</para>
+<para>(ii) Will reimburse
+such contractor, grantee, or other recipient for any portion of the money
+or property which is requested or demanded;</para><para>(3)
+Good or service includes (a) any particular item, device, medical supply,
+or service claimed to have been provided to a recipient and listed in an itemized
+claim for payment and (b) any entry in the cost report, books of account,
+or other documents supporting such good or service;</para>
+<para>(4)(a) Knowing and knowingly means that a person, with respect
+to information:</para>
+<para>(i) Has actual knowledge of the information;</para>
+<para>(ii) Acts in deliberate ignorance
+of the truth or falsity of the information; or</para>
+<para>(iii) Acts in reckless disregard
+of the truth or falsity of the information.</para>
+<para>(b) Acts committed
+in a knowing manner or committed knowingly shall not require proof of a specific
+intent to defraud;</para><para>(5) Material means having a natural tendency to influence or be
+capable of influencing the payment or receipt of money or property;</para>
+<para>(6) Obligation
+means an established duty, whether or not fixed, arising from (a) an express
+or implied contractual, grantor-grantee, or licensor-licensee relationship,
+(b) a fee-based or similar relationship, (c) statute or rule or regulation,
+or (d) the retention of any overpayment;</para><para>(7) Person means any body politic or corporate,
+society, community, the public generally, individual, partnership, limited
+liability company, joint-stock company, or association; and</para>
+<para>(8) Recipient means an individual
+who is eligible to receive goods or services for which payment may be made
+under the medical assistance program.</para>
+</amendatorysection></section><source><para>Laws 1996, LB 1155, &#167; 68; </para><para>R.S.1943, (2003), &#167; 68-1037.02; </para><para>Laws 2004, LB 1084, &#167; 2; </para><para>R.S.Supp.,2004, &#167; 68-1074; </para><para>Laws 2006, LB 1248, &#167; 35; </para><para>Laws 2013, LB277, &#167; 1.</para><effectivedate>September 6, 2013</effectivedate></source>  </law>
+</legaldoc>

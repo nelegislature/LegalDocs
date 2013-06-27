@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Elections" statutenumber="32-620"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>32-620</statuteno><catchline>President and Vice President; candidates; certification; new political party; how treated; requirements.</catchline><para>Partisan candidates for the offices of President and Vice President of the United States on the general election ballot shall be certified to the Governor and Secretary of State by the national nominating convention as provided by law. Candidates for the offices of President and Vice President of the United States of newly established political parties or of nonpartisan status may obtain general election ballot position by filing with the Secretary of State:</para><para>(1) An application containing:</para><para>(a) The name or names to be printed on the ballot;</para><para>(b) The status of the candidacy, whether nonpartisan or partisan;</para><para>(c) The written consent of the designated vice-presidential candidate to have his or her name printed on the ballot; and</para><para>(d) The names and addresses of the persons who will represent the applicant as presidential elector candidates together with the written consent of such persons to become candidates; and</para><para>(2) A petition signed by not less than two thousand five hundred registered voters. Such petitions shall conform to the requirements of section 32-628 and shall not be circulated until after the date of the primary election in that election year. Registered voters who voted in the primary election of any political party that held a presidential preference primary election that year shall be ineligible to sign the petitions of any other candidate for president.</para></amendatorysection></section><source><para>Laws 1994, LB 76, &#167; 188; </para><para>Laws 1997, LB 764, &#167; 64. </para></source><annotation><para>This statute is unconstitutional as relates to requirements for independent candidates for President and Vice President of United States. MacBride v. Exon, 558 F.2d 443 (8th Cir. 1977).</para><para>Although Nebraska's statutes unconstitutionally deny an independent candidate access to appear on the ballot in presidential elections, the court directed the independent be included upon a determination he was a serious candidate, truly independent, with a satisfactory level of community support. McCarthy v. Exon, 424 F.Supp. 1143 (D. Neb. 1976).</para></annotation></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Elections" statutenumber="32-620"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>32-620</statuteno><catchline>President and Vice President; candidates;
+certification; new political party; how treated; requirements; nonpartisan status; filing; application; contents.</catchline>
+<para>(1) Partisan
+candidates for the offices of President and Vice President of the United States
+on the general election ballot shall be certified to the Governor and Secretary
+of State by the national nominating convention as provided by law.</para>
+<para>(2) Candidates for the offices
+of President and Vice President of the United States of newly established
+political parties may obtain general election ballot position by filing with
+the Secretary of State </para>
+<para>an application containing:</para>
+<para>(a) The name or names to be printed on the ballot;</para>
+<para>(b) The name of the political party;</para>
+<para>(c) The written consent of the designated vice-presidential candidate
+to have his or her name printed on the ballot; and</para>
+<para>(d) The names and addresses of the persons who will represent the applicant
+as presidential elector candidates together with the written consent of such
+persons to become candidates.</para>
+<para>(3) Candidates for the
+offices of President and Vice President of the United States of nonpartisan
+status may obtain general election ballot position by filing with the Secretary
+of State:</para><para>(a)
+An application containing:</para><para>(i) The name or names to be printed on the ballot;</para>
+<para>(ii) The status of the
+candidacy as nonpartisan;</para><para>(iii)
+The written consent of the designated vice-presidential candidate to have
+his or her name printed on the ballot; and</para><para>(iv) The names and addresses of the persons who will
+represent the applicant as presidential elector candidates together with the
+written consent of such persons to become candidates; and</para>
+<para>(b) A petition signed by not
+less than two thousand five hundred registered voters. Such petitions shall
+conform to the requirements of section 32-628 and shall be
+filed with the Secretary of State by August 1 in the year of the presidential
+general election.</para>
+</amendatorysection></section><source><para>Laws 1994, LB 76, &#167; 188; </para><para>Laws 1997, LB 764, &#167; 64; </para><para>Laws 2013, LB349, &#167; 3.</para><effectivedate>September 6, 2013</effectivedate></source><annotation><para>This statute is unconstitutional as relates to requirements for independent candidates for President and Vice President of United States. MacBride v. Exon, 558 F.2d 443 (8th Cir. 1977).</para><para>Although Nebraska's statutes unconstitutionally deny an independent candidate access to appear on the ballot in presidential elections, the court directed the independent be included upon a determination he was a serious candidate, truly independent, with a satisfactory level of community support. McCarthy v. Exon, 424 F.Supp. 1143 (D. Neb. 1976).</para></annotation>  </law>
+</legaldoc>

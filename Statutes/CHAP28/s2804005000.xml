@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id4">
-<amendatorysection amended="yes" chaptername="Crimes and Punishments" id="id6" statutenumber="28-405"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>28-405</statuteno><catchline id="id9">Controlled substances;
+<section id="id3">
+<amendatorysection amended="yes" chaptername="Crimes and Punishments" id="id5" statutenumber="28-405"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>28-405</statuteno><catchline id="id8">Controlled substances;
 schedules; enumerated.</catchline><para>The following are the schedules
 of controlled substances referred to in the Uniform Controlled Substances
 Act:</para>
@@ -118,171 +118,298 @@ isomer shall include the optical, position, and geometric isomers:</para>
 <para>(1) Bufotenine. Trade and other names shall include, but are
 not limited to: 3-(beta-Dimethylaminoethyl)-5-hydroxyindole; 3-(2-dimethylaminoethyl)-5-indolol;
 N,N-dimethylserotonin; 5-hydroxy-N,N-dimethyltryptamine; and mappine;</para>
-<para>(2) Diethyltryptamine. Trade and other names shall include,
-but are not limited to: N,N-Diethyltryptamine; and DET;</para>
-<para>(3) Dimethyltryptamine. Trade and other names shall include,
-but are not limited to: DMT;</para>
-<para>(4) 4-bromo-2,5-dimethoxyamphetamine. Trade and other names
-shall include, but are not limited to: 4-bromo-2,5-dimethoxy-alpha-methylphenethylamine;
+<para>(2) 4-bromo-2,5-dimethoxyamphetamine. Trade
+and other names shall include, but are not limited to: 4-bromo-2,5-dimethoxy-alpha-methylphenethylamine;
 and 4-bromo-2,5-DMA;</para>
-<para>(5) 4-methoxyamphetamine. Trade and other names shall include,
-but are not limited to: 4-methoxy-alpha-methylphenethylamine; and paramethoxyamphetamine,
-PMA;</para>
-<para>(6) 4-methyl-2,5-dimethoxyamphetamine. Trade and other names
-shall include, but are not limited to: 4-methyl-2,5-dimethoxy-alpha-methylphenethylamine;
+<para>(3) 4-methoxyamphetamine.
+Trade and other names shall include, but are not limited to: 4-methoxy-alpha-methylphenethylamine;
+and paramethoxyamphetamine, PMA;</para>
+<para>(4) 4-methyl-2,5-dimethoxyamphetamine.
+Trade and other names shall include, but are not limited to: 4-methyl-2,5-dimethoxy-alpha-methylphenethylamine;
 DOM; and STP;</para>
-<para>(7) 5-methoxy-N,N-dimethyltryptamine;</para>
-<para>(8) Ibogaine. Trade and other names shall include, but are
-not limited to: 7-Ethyl-6,6beta,7,8,9,10,12,13-octahydro-2-methoxy-6,9-methano-5H-pyrido
+<para>(5) Ibogaine. Trade and other
+names shall include, but are not limited to: 7-Ethyl-6,6beta,7,8,9,10,12,13-octahydro-2-methoxy-6,9-methano-5H-pyrido
 (1',2':1,2) azepino (5,4-b) indole; and Tabernanthe iboga;</para>
-<para>(9) Lysergic acid diethylamide;</para>
-<para>(10) Marijuana;</para>
-<para>(11) Mescaline;</para>
-<para>(12) Peyote. Peyote shall mean all parts of the plant presently
-classified botanically as Lophophora williamsii Lemaire, whether growing or
-not, the seeds thereof, any extract from any part of such plant, and every
-compound, manufacture, salts, derivative, mixture, or preparation of such
-plant or its seeds or extracts;</para>
-<para>(13) Psilocybin;</para>
-<para>(14) Psilocyn;</para>
-<para>(15) Tetrahydrocannabinols, including, but not limited to,
-synthetic equivalents of the substances contained in the plant or in the resinous
-extractives of cannabis, sp. or synthetic substances, derivatives, and their
-isomers with similar chemical structure and pharmacological activity such
-as the following: Delta 1 cis or trans tetrahydrocannabinol and their optical
-isomers, excluding dronabinol in sesame oil and encapsulated in a soft gelatin
-capsule in a drug product approved by the federal Food and Drug Administration;
-Delta 6 cis or trans tetrahydrocannabinol and their optical isomers; and Delta
-3,4 cis or trans tetrahydrocannabinol and its optical isomers. Since nomenclature
-of these substances is not internationally standardized, compounds of these
-structures shall be included regardless of the numerical designation of atomic
-positions covered;</para>
-<para>(16) 3,4-methylenedioxy amphetamine;</para>
-<para>(17) 5-methoxy-3,4-methylenedioxy-amphetamine;</para>
-<para>(18) 3,4,5-trimethoxy amphetamine;</para>
-<para>(19) N-ethyl-3-piperidyl benzilate;</para>
-<para>(20) N-methyl-3-piperidyl benzilate;</para>
-<para>(21) Thiophene analog of phencyclidine. Trade and other names
-shall include, but are not limited to: 1-(1-(2-thienyl)-cyclohexyl)-piperidine;
+<para>(6) Lysergic acid diethylamide;</para>
+<para>(7) Marijuana;</para>
+<para>(8) Mescaline;</para>
+<para>(9) Peyote. Peyote shall mean
+all parts of the plant presently classified botanically as Lophophora williamsii
+Lemaire, whether growing or not, the seeds thereof, any extract from any part
+of such plant, and every compound, manufacture, salts, derivative, mixture,
+or preparation of such plant or its seeds or extracts;</para>
+<para>(10) Psilocybin;</para>
+<para>(11) Psilocyn;</para>
+<para>(12) Tetrahydrocannabinols,
+including, but not limited to, synthetic equivalents of the substances contained
+in the plant or in the resinous extractives of cannabis, sp. or synthetic
+substances, derivatives, and their isomers with similar chemical structure
+and pharmacological activity such as the following: Delta 1 cis or trans tetrahydrocannabinol
+and their optical isomers, excluding dronabinol in sesame oil and encapsulated
+in a soft gelatin capsule in a drug product approved by the federal Food and
+Drug Administration; Delta 6 cis or trans tetrahydrocannabinol and their optical
+isomers; and Delta 3,4 cis or trans tetrahydrocannabinol and its optical isomers.
+Since nomenclature of these substances is not internationally standardized,
+compounds of these structures shall be included regardless of the numerical
+designation of atomic positions covered;</para>
+<para>(13) N-ethyl-3-piperidyl benzilate;</para>
+<para>(14) N-methyl-3-piperidyl
+benzilate;</para>
+<para>(15) Thiophene analog of phencyclidine.
+Trade and other names shall include, but are not limited to: 1-(1-(2-thienyl)-cyclohexyl)-piperidine;
 2-thienyl analog of phencyclidine; TPCP; and TCP;</para>
-<para>(22) 2,5-dimethoxyamphetamine. Trade and other names shall
-include, but are not limited to: 2,5-dimethoxy-alpha-methylphenethylamine;
-and 2,5-DMA;</para>
-<para>(23) Hashish or concentrated cannabis;</para>
-<para>(24) Parahexyl. Trade and other names shall include, but
-are not limited to: 3-Hexyl-1-hydroxy-7,8,9,10-tetrahydro-6,6,9-trimethyl-6H-dibenzo(b,d)pyran;
+<para>(16) Hashish
+or concentrated cannabis;</para>
+<para>(17) Parahexyl. Trade and
+other names shall include, but are not limited to: 3-Hexyl-1-hydroxy-7,8,9,10-tetrahydro-6,6,9-trimethyl-6H-dibenzo(b,d)pyran;
 and Synhexyl;</para>
-<para>(25) Ethylamine analog of phencyclidine. Trade and other
-names shall include, but are not limited to: N-ethyl-1-phenylcyclohexylamine;
-(1-phenylcyclohexyl)ethylamine; N-(1-phenylcyclohexyl)ethylamine; cyclohexamine;
-and PCE;</para>
-<para>(26) Pyrrolidine analog of phencyclidine. Trade and other
-names shall include, but are not limited to: 1-(1-phenylcyclohexyl)-pyrrolidine;
-PCPy; and PHP;</para>
-<para>(27) 3,4-methylenedioxymethamphetamine (MDMA), its optical,
-positional, and geometric isomers, salts, and salts of isomers;</para>
-<para>(28) 4-Bromo-2,5-dimethoxyphenethylamine. Some trade or other
-names: 2-(4-bromo-2,5-dimethoxyphenyl)-1-aminoethane; alpha-desmethyl DOB;
-2C-B; and Nexus;</para>
-<para>(29) Alpha-ethyltryptamine. Some trade or other names: etryptamine;
-Monase; alpha-ethyl-1H-indole-3-ethanamine; 3-(2-aminobutyl) indole; alpha-ET;
-and AET;</para>
-<para>(30) 2,5-dimethoxy-4-ethylamphet-amine; and DOET;</para>
-<para>(31) 1-(1-(2-thienyl)cyclohexyl)pyrrolidine; and TCPy;</para>
-<para>(32) Alpha-methyltryptamine, which is also known as AMT;</para>
-<para>(33) 5-Methoxy-N,N-diisopropyltryptamine, which is also known
-as 5-MeO-DIPT;</para>
-<para>(34) Salvia divinorum or Salvinorin A. Salvia divinorum or
-Salvinorin A includes all parts of the plant presently classified botanically
-as Salvia divinorum, whether growing or not, the seeds thereof, any extract
-from any part of such plant, and every compound, manufacture, derivative,
-mixture, or preparation of such plant, its seeds, or its extracts, including
-salts, isomers, and salts of isomers whenever the existence of such salts,
-isomers, and salts of isomers is possible within the specific chemical designation;</para>
-<para>(35) Any material, compound, mixture, or preparation containing
-any quantity of synthetically produced cannabinoids as listed in subdivisions
-(i) through (viii) of this subdivision, including their salts, isomers, and
-salts of isomers, unless specifically excepted elsewhere in this section.
-Since nomenclature of these synthetically produced cannabinoids is not internationally
-standardized and may continually evolve, these structures or compounds of
-these structures shall be included under this subdivision, regardless of their
-specific numerical designation of atomic positions covered, so long as it
-can be determined through some form of scientific testing or analysis that
-the substance contains properties that fit within one or more of the following
-categories:</para>
-<para>(i) Tetrahydrocannabinols: Meaning tetrahydrocannabinols
-naturally contained in a plant of the genus cannabis (cannabis plant), as
-well as synthetic equivalents of the substances contained in the plant, or
-in the resinous extractives of cannabis, sp. and/or synthetic substances,
-derivatives, and their isomers with similar chemical structure and pharmacological
-activity such as the following: Delta 1 cis or trans tetrahydrocannabinol,
-and their optical isomers Delta 6 cis or trans tetrahydrocannabinol, and their
-optical isomers Delta 3,4 cis or trans tetrahydrocannabinol, and its optical
-isomers;</para>
-<para>(ii) Naphthoylindoles: Any compound containing a 3-(1-naphthoyl)indole
-structure with substitution at the nitrogen atom of the indole ring by a alkyl,
-haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl or 2-(4-morpholinyl)ethyl
+<para>(18) Ethylamine analog of
+phencyclidine. Trade and other names shall include, but are not limited to:
+N-ethyl-1-phenylcyclohexylamine; (1-phenylcyclohexyl)ethylamine; N-(1-phenylcyclohexyl)ethylamine;
+cyclohexamine; and PCE;</para>
+<para>(19) Pyrrolidine analog of
+phencyclidine. Trade and other names shall include, but are not limited to:
+1-(1-phenylcyclohexyl)-pyrrolidine; PCPy; and PHP;</para>
+<para>(20) Alpha-ethyltryptamine.
+Some trade or other names: etryptamine; Monase; alpha-ethyl-1H-indole-3-ethanamine;
+3-(2-aminobutyl) indole; alpha-ET; and AET;</para>
+<para>(21) 2,5-dimethoxy-4-ethylamphet-amine;
+and DOET;</para>
+<para>(22) 1-(1-(2-thienyl)cyclohexyl)pyrrolidine;
+and TCPy;</para>
+<para>(23) Alpha-methyltryptamine,
+which is also known as AMT;</para>
+<para>(24) Salvia divinorum or Salvinorin A. Salvia
+divinorum or Salvinorin A includes all parts of the plant presently classified
+botanically as Salvia divinorum, whether growing or not, the seeds thereof,
+any extract from any part of such plant, and every compound, manufacture,
+derivative, mixture, or preparation of such plant, its seeds, or its extracts,
+including salts, isomers, and salts of isomers whenever the existence of such
+salts, isomers, and salts of isomers is possible within the specific chemical
+designation;</para>
+<para>(25) Any material, compound,
+mixture, or preparation containing any quantity of synthetically produced
+cannabinoids as listed in subdivisions (A) through (K) of
+this subdivision, including their salts, isomers, salts of isomers, and nitrogen-heterocyclic analogs, unless specifically
+excepted elsewhere in this section. Since nomenclature of these synthetically
+produced cannabinoids is not internationally standardized and may continually
+evolve, these structures or compounds of these structures shall be included
+under this subdivision, regardless of their specific numerical designation
+of atomic positions covered, so long as it can be determined through a recognized method of scientific testing or
+analysis that the substance contains properties that fit within one or more
+of the following categories:</para>
+<para>(A) Tetrahydrocannabinols:
+Meaning tetrahydrocannabinols naturally contained in a plant of the genus
+cannabis (cannabis plant), as well as synthetic equivalents of the substances
+contained in the plant, or in the resinous extractives of cannabis, sp. and/or
+synthetic substances, derivatives, and their isomers with similar chemical
+structure and pharmacological activity such as the following: Delta 1 cis
+or trans tetrahydrocannabinol, and their optical isomers; Delta 6 cis or trans tetrahydrocannabinol,
+and their optical isomers; Delta
+3,4 cis or trans tetrahydrocannabinol, and its optical isomers;</para>
+<para>(B) Naphthoylindoles: Any
+compound containing a 3-(1-naphthoyl)indole structure with substitution at
+the nitrogen atom of the indole ring by an alkyl, haloalkyl, alkenyl,
+cycloalkylmethyl, cycloalkylethyl, 2-(4-morpholinyl)ethyl
+group, cyanoalkyl, 1-(N-methyl-2-piperidinyl)methyl,
+1-(N-methyl-2-pyrrolidinyl)methyl 1-(N-methyl-3-morpholinyl)methyl, or tetrahydropyranylmethyl
+group, whether or not further substituted in the indole ring to
+any extent and whether or not substituted in the naphthyl ring to any extent;</para>
+<para>(C) Naphthylmethylindoles:
+Any compound containing a 1 H-indol-3-yl-(1-naphthyl)methane structure with
+substitution at the nitrogen atom of the indole ring by an alkyl,
+haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, 2-(4-morpholinyl)ethyl
+group, cyanoalkyl, 1-(N-methyl-2-piperidinyl)methyl,
+1-(N-methyl-2-pyrrolidinyl)methyl 1-(N-methyl-3-morpholinyl)methyl, or tetrahydropyranylmethyl
+group, whether or not further substituted in the indole ring to
+any extent and whether or not substituted in the naphthyl ring to any extent;</para>
+<para>(D) Naphthoylpyrroles: Any
+compound containing a 3-(1-naphthoyl)pyrrole structure with substitution at
+the nitrogen atom of the pyrrole ring by an alkyl, haloalkyl, alkenyl,
+cycloalkylmethyl, cycloalkylethyl, 2-(4-morpholinyl)ethyl
+group, cyanoalkyl, 1-(N-methyl-2-piperidinyl)methyl,
+1-(N-methyl-2-pyrrolidinyl)methyl 1-(N-methyl-3-morpholinyl)methyl, or tetrahydropyranylmethyl
+group, whether or not further substituted in the pyrrole ring
+to any extent and whether or not substituted in the naphthyl ring to any extent;</para>
+<para>(E) Naphthylideneindenes:
+Any compound containing a naphthylideneindene structure with substitution
+at the 3-position of the indene ring by an alkyl, haloalkyl, alkenyl,
+cycloalkylmethyl, cycloalkylethyl, 2-(4-morpholinyl)ethyl
+group, cyanoalkyl, 1-(N-methyl-2-piperidinyl)methyl,
+1-(N-methyl-2-pyrrolidinyl)methyl 1-(N-methyl-3-morpholinyl)methyl, or tetrahydropyranylmethyl
+group, whether or not further substituted in the indene ring to
+any extent and whether or not substituted in the naphthyl ring to any extent;</para>
+<para>(F) Phenylacetylindoles: Any
+compound containing a 3-phenylacetylindole structure with substitution at
+the nitrogen atom of the indole ring by an alkyl, haloalkyl, alkenyl,
+cycloalkylmethyl, cycloalkylethyl, 2-(4-morpholinyl)ethyl
+group, cyanoalkyl, 1-(N-methyl-2-piperidinyl)methyl,
+1-(N-methyl-2-pyrrolidinyl)methyl 1-(N-methyl-3-morpholinyl)methyl, or tetrahydropyranylmethyl
+group, whether or not further substituted in the indole ring to
+any extent and whether or not substituted in the phenyl ring to any extent;</para>
+<para>(G) Cyclohexylphenols: Any
+compound containing a 2-(3-hydroxycyclohexyl)phenol structure with substitution
+at the 5-position of the phenolic ring by an alkyl, haloalkyl, alkenyl,
+cycloalkylmethyl, cycloalkylethyl, 2-(4-morpholinyl)ethyl
+group, cyanoalkyl, 1-(N-methyl-2-piperidinyl)methyl,
+1-(N-methyl-2-pyrrolidinyl)methyl 1-(N-methyl-3-morpholinyl)methyl, or tetrahydropyranylmethyl
+group, whether or not substituted in the cyclohexyl ring to any
+extent;</para>
+<para>(H) Benzoylindoles: Any compound
+containing a 3-(benzoyl)indole structure with substitution at the nitrogen
+atom of the indole ring by an alkyl, haloalkyl, alkenyl,
+cycloalkylmethyl, cycloalkylethyl, 2-(4-morpholinyl)ethyl
+group, cyanoalkyl, 1-(N-methyl-2-piperidinyl)methyl,
+1-(N-methyl-2-pyrrolidinyl)methyl 1-(N-methyl-3-morpholinyl)methyl, or tetrahydropyranylmethyl
+group, whether or not further substituted in the indole ring to
+any extent and whether or not substituted in the phenyl ring to any extent;</para>
+<para>(I) Adamantoylindoles:
+Any compound containing a 3-adamantoylindole structure with substitution at
+the nitrogen atom of the indole ring by an alkyl, haloalkyl, cyanoalkyl, alkenyl,
+cycloalkylmethyl, cycloalkylethyl, 1-(N-methyl-2-piperidinyl)methyl, 2-(4-morpholinyl)ethyl,
+1-(N-methyl-2-pyrrolidinyl)methyl, 1-(N-methyl-3-morpholinyl)methyl, or tetrahydropyranylmethyl
 group, whether or not further substituted in the indole ring to any extent
-and whether or not substituted in the naphthyl ring to any extent;</para>
-<para>(iii) Naphthylmethylindoles: Any compound containing a 1
-H-indol-3-yl-(1-naphthyl)methane structure with substitution at the nitrogen
-atom of the indole ring by a alkyl, haloalkyl, alkenyl, cycloalkylmethyl,
-cycloalkylethyl or 2-(4-morpholinyl)ethyl group, whether or not further substituted
-in the indole ring to any extent and whether or not substituted in the naphthyl
-ring to any extent;</para>
-<para>(iv) Naphthoylpyrroles: Any compound containing a 3-(1-naphthoyl)pyrrole
-structure with substitution at the nitrogen atom of the pyrrole ring by a
-alkyl, haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl or 2-(4-morpholinyl)ethyl
-group, whether or not further substituted in the pyrrole ring to any extent
-and whether or not substituted in the naphthyl ring to any extent;</para>
-<para>(v) Naphthylideneindenes: Any compound containing a naphthylideneindene
-structure with substitution at the 3-position of the indene ring by a alkyl,
-haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl or 2-(4-morpholinyl)ethyl
-group, whether or not further substituted in the indene ring to any extent
-and whether or not substituted in the naphthyl ring to any extent;</para>
-<para>(vi) Phenylacetylindoles: Any compound containing a 3-phenylacetylindole
-structure with substitution at the nitrogen atom of the indole ring by a alkyl,
-haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl or 2-(4-morpholinyl)ethyl
-group, whether or not further substituted in the indole ring to any extent
-and whether or not substituted in the phenyl ring to any extent;</para>
-<para>(vii) Cyclohexylphenols: Any compound containing a 2-(3-hydroxycyclohexyl)phenol
-structure with substitution at the 5-position of the phenolic ring by a alkyl,
-haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl or 2-(4-morpholinyl)ethyl
-group, whether or not substituted in the cyclohexyl ring to any extent; and</para>
-<para>(viii) Benzoylindoles: Any compound containing a 3-(benzoyl)indole
-structure with substitution at the nitrogen atom of the indole ring by a alkyl,
-haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl or 2-(4-morpholinyl)ethyl
-group, whether or not further substituted in the indole ring to any extent
-and whether or not substituted in the phenyl ring to any extent; and</para>
-<para>(36)(A) Any
+and whether or not substituted in the adamantyl ring to any extent;</para>
+<para>(J) Tetramethylcyclopropanoylindoles:
+Any compound containing a 3-tetramethylcyclopropanoylindole structure with
+substitution at the nitrogen atom of the indole ring by an alkyl, haloalkyl,
+cyanoalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, 1-(N-methyl-2-piperidinyl)methyl,
+2-(4-morpholinyl)ethyl, 1-(N-methyl-2-pyrrolidinyl)methyl, 1-(N-methyl-3-morpholinyl)methyl,
+or tetrahydropyranylmethyl group, whether or not further substituted in the
+indole ring to any extent and whether or not substituted in the tetramethylcycloproplyl
+ring to any extent; and</para><para>(K) Adamantylindole carboxamides: Any compound containing a 1-indole-3-carboxamide
+structure with substitution at the nitrogen atom of the indole ring by an
+alkyl, haloalkyl, cyanoalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl,
+1-(N-methyl-2-piperidinyl)methyl, 2-(4-morpholinyl)ethyl, 1-(N-methyl-2-pyrrolidinyl)methyl,
+1-(N-methyl-3-morpholinyl)methyl, or tetrahydropyranylmethyl group, substitution
+at the carboxamide group by an adamantyl, 1-naphthyl, or phenyl group, whether
+or not further substituted in the indole ring to any extent and whether or
+not substituted in the adamantyl ring to any extent;</para><para>(26) Any material, compound,
+mixture, or preparation containing any quantity of a substituted phenethylamine
+as listed in subdivisions (A) through (C) of this subdivision, unless specifically
+excepted, listed in another schedule, or specifically named in this schedule,
+that is structurally derived from phenylethan-2-amine by substitution on the
+phenyl ring with a fused methylenedioxy ring, fused furan ring, or a fused
+tetrahydrofuran ring; by substitution with two alkoxy groups; by substitution
+with one alkoxy and either one fused furan, tetrahydrofuran, or tetrahydropyran
+ring system; or by substitution with two fused ring systems from any combination
+of the furan, tetrahydrofuran, or tetrahydropyran ring systems, whether or
+not the compound is further modified in any of the following ways:</para>
+<para>(A) Substitution
+of the phenyl ring by any halo, hydroxyl, alkyl, trifluoromethyl, alkoxy,
+or alkylthio groups; (B) substitution at the 2-position by any alkyl groups;
+or (C) substitution at the 2-amino nitrogen atom with alkyl, dialkyl, benzyl,
+hydroxybenzyl or methoxybenzyl groups, and including, but not limited to:</para>
+<para>(i) 2-(4-Chloro-2,5-dimethoxyphenyl)ethanamine,
+which is also known as 2C-C or 2,5-Dimethoxy-4-chlorophenethylamine;</para>
+<para>(ii) 2-(2,5-Dimethoxy-4-methylphenyl)ethanamine,
+which is also known as 2C-D or 2,5-Dimethoxy-4-methylphenethylamine;</para>
+<para>(iii) 2-(2,5-Dimethoxy-4-ethylphenyl)ethanamine,
+which is also known as 2C-E or 2,5-Dimethoxy-4-ethylphenethylamine;</para>
+<para>(iv) 2-(2,5-Dimethoxyphenyl)ethanamine,
+which is also known as 2C-H or 2,5-Dimethoxyphenethylamine;</para>
+<para>(v) 2-(4-lodo-2,5-dimethoxyphenyl)ethanamine,
+which is also known as 2C-I or 2,5-Dimethoxy-4-iodophenethylamine;</para>
+<para>(vi) 2-(2,5-Dimethoxy-4-nitro-phenyl)ethanamine,
+which is also known as 2C-N or 2,5-Dimethoxy-4-nitrophenethylamine;</para>
+<para>(vii) 2-(2,5-Dimethoxy-4-(n)-propylphenyl)ethanamine,
+which is also known as 2C-P or 2,5-Dimethoxy-4-propylphenethylamine;</para>
+<para>(viii) 2-[4-(Ethylthio)-2,5-dimethoxyphenyl]ethanamine,
+which is also known as 2C-T-2 or 2,5-Dimethoxy-4-ethylthiophenethylamine;</para>
+<para>(ix) 2-[4-(Isopropylthio)-2,5-dimethoxyphenyl]ethanamine,
+which is also known as 2C-T-4 or 2,5-Dimethoxy-4-isopropylthiophenethylamine;</para>
+<para>(x) 2-(4-bromo-2,5-dimethoxyphenyl)ethanamine,
+which is also known as 2C-B or 2,5-Dimethoxy-4-bromophenethylamine;</para>
+<para>(xi) 2-(2,5-dimethoxy-4-(methylthio)phenyl)ethanamine,
+which is also known as 2C-T or 4-methylthio-2,5-dimethoxyphenethylamine;</para>
+<para>(xii) 1-(2,5-dimethoxy-4-iodophenyl)-propan-2-amine,
+which is also known as DOI or 2,5-Dimethoxy-4-iodoamphetamine;</para>
+<para>(xiii) 1-(4-Bromo-2,5-dimethoxyphenyl)-2-aminopropane,
+which is also known as DOB or 2,5-Dimethoxy-4-bromoamphetamine;</para>
+<para>(xiv) 1-(4-chloro-2,5-dimethoxy-phenyl)propan-2-amine,
+which is also known as DOC or 2,5-Dimethoxy-4-chloroamphetamine;</para>
+<para>(xv) 2-(4-bromo-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine,
+which is also known as 2C-B-NBOMe; 25B-NBOMe or 2,5-Dimethoxy-4-bromo-N-(2-methoxybenzyl)phenethylamine;</para>
+<para>(xvi) 2-(4-iodo-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine,
+which is also known as 2C-I-NBOMe; 25I-NBOMe or 2,5-Dimethoxy-4-iodo-N-(2-methoxybenzyl)phenethylamine;</para>
+<para>(xvii) N-(2-Methoxybenzyl)-2-(3,4,5-trimethoxyphenyl)ethanamine,
+which is also known as Mescaline-NBOMe or 3,4,5-trimethoxy-N-(2-methoxybenzyl)phenethylamine;</para>
+<para>(xviii) 2-(4-chloro-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine,
+which is also known as 2C-C-NBOMe; or 25C-NBOMe or 2,5-Dimethoxy-4-chloro-N-(2-methoxybenzyl)phenethylamine;</para>
+<para>(xix) 2-(7-Bromo-5-methoxy-2,3-dihydro-1-benzofuran-4-yl)ethanamine,
+which is also known as 2CB-5-hemiFLY;</para><para>(xx) 2-(8-bromo-2,3,6,7-tetrahydrofuro
+[2,3-f][1]benzofuran-4-yl)ethanamine, which is also known as 2C-B-FLY;</para>
+<para>(xxi) 2-(10-Bromo-2,3,4,7,8,9-hexahydropyrano[2,3-g]chromen-5-yl)ethanamine,
+which is also known as 2C-B-butterFLY;</para><para>(xxii) N-(2-Methoxybenzyl)-1-(8-bromo-2,3,6,7-
+tetrahydrobenzo[1,2-b:4,5-b']difuran-4-yl)-2-aminoethane, which is also known
+as 2C-B-FLY-NBOMe;</para><para>(xxiii) 1-(4-Bromofuro[2,3-f][1]benzofuran-8-yl)propan-2-amine,
+which is also known as bromo-benzodifuranylisopropylamine or bromo-dragonFLY;</para>
+<para>(xxiv) N-(2-Hydroxybenzyl)-4-iodo-2,5-dimethoxyphenethylamine,
+which is also known as 2C-INBOH or 25I-NBOH;</para><para>(xxv) 5-(2-Aminoprpyl)benzofuran,
+which is also known as 5-APB;</para><para>(xxvi) 6-(2-Aminopropyl)benzofuran, which
+is also known as 6-APB;</para><para>(xxvii) 5-(2-Aminopropyl)-2,3-dihydrobenzofuran, which is also
+known as 5-APDB;</para><para>(xxviii) 6-(2-Aminopropyl)-2,3-dihydrobenzofuran, which is also
+known as 6-APDB;</para><para>(xxvix) 2,5-dimethoxy-amphetamine, which is also known as 2, 5-dimethoxy-a-methylphenethylamine;
+2, 5-DMA;</para><para>(xxx) 2,5-dimethoxy-4-ethylamphetamine, which is also known as
+DOET;</para><para>(xxxi) 2,5-dimethoxy-4-(n)-propylthiophenethylamine, which is also
+known as 2C-T-7;</para><para>(xxxii) 5-methoxy-3,4-methylenedioxy-amphetamine;</para>
+<para>(xxxiii) 4-methyl-2,5-dimethoxy-amphetamine,
+which is also known as 4-methyl-2,5-dimethoxy-amethylphenethylamine; DOM and
+STP;</para><para>(xxxiv) 3,4-methylenedioxy amphetamine, which is also known as
+MDA;</para><para>(xxxv) 3,4-methylenedioxymethamphetamine, which is also known as
+MDMA;</para><para>(xxxvi) 3,4-methylenedioxy-N-ethylamphetamine, which is also known
+as N-ethyl-alpha-methyl-3,4(methylenedioxy)phenethylamine, MDE, MDEA; and</para>
+<para>(xxxvii) 3,4,5-trimethoxy
+amphetamine;</para><para>(27) Any material, compound, mixture, or preparation containing
+any quantity of a substituted tryptamine unless specifically excepted, listed
+in another schedule, or specifically named in this schedule, that is structurally
+derived from 2-(1H-indol-3-yl)ethanamine, which is also known as tryptamine,
+by mono- or di-substitution of the amine nitrogen with alkyl or alkenyl groups
+or by inclusion of the amino nitrogen atom in a cyclic structure whether or
+not the compound is further substituted at the alpha position with an alkyl
+group or whether or not further substituted on the indole ring to any extent
+with any alkyl, alkoxy, halo, hydroxyl,or acetoxy groups, and including, but
+not limited to:</para><para>(A) 5-methoxy-N,N-diallyltryptamine, which is also known as 5-MeO-DALT;</para>
+<para>(B) 4-acetoxy-N,N-dimethyltryptamine,
+which is also known as 4-AcO-DMT or OAcetylpsilocin;</para><para>(C) 4-hydroxy-N-methyl-N-ethyltryptamine,
+which is also known as 4-HO-MET;</para><para>(D) 4-hydroxy-N,N-diisopropyltryptamine,
+which is also known as 4-HO-DIPT;</para><para>(E) 5-methoxy-N-methyl-N-isopropyltryptamine,
+which is also known as 5-MeOMiPT;</para><para>(F) 5-Methoxy-N,N-Dimethyltryptamine, which
+is also known as 5-MeO-DMT;</para><para>(G) 5-methoxy-N,N-diisopropyltryptamine,
+which is also known as 5-MeO-DiPT;</para><para>(H) Diethyltryptamine, which is also known
+as N,N-Diethyltryptamine, DET; and</para><para>(I) Dimethyltryptamine, which is also known
+as DMT; and</para><para>(28)(A) Any
 substance containing any quantity of the following materials, compounds, mixtures,
-or structures:</para><para>(i) 3,4-methylenedioxymethcathinone, or bk-MDMA, or methylone;</para>
-<para>(ii) 3,4-methylenedioxypyrovalerone,
-or MDPV;</para><para>(iii) 4-methylmethcathinone, or 4-MMC, or mephedrone;</para>
-<para>(iv) 4-methoxymethcathinone,
-or bk-PMMA, or PMMC, or methedrone;</para><para>(v) Fluoromethcathinone, or FMC;</para>
-<para>(vi) Napthylpyrovalerone,
-or naphyrone; or</para><para>(vii) Beta-keto-N-methylbenzodioxolylpropylamine; or</para>
-<para>(B) Unless
-listed in another schedule, any substance which contains any quantity of any
-material, compound, mixture, or structure, other than buproprion, that is
-structurally derived by any means from 2-aminopropan-1-one by substitution
-at the 1-position with either phenyl, naphthyl, or thiophene ring systems,
-whether or not the compound is further modified in any of the following ways:</para>
-<para>(i) Substitution
-in the ring system to any extent with alkyl, alkoxy, alkylenedioxy, haloalkyl,
-hydroxyl, or halide substituents, whether or not further substituted in the
-ring system by one or more other univalent substituents;</para>
-<para>(ii) Substitution
-at the 3-position with an acyclic alkyl substituent; or</para>
-<para>(iii) Substitution
-at the 2-amino nitrogen atom with alkyl or dialkyl groups, or by inclusion
-of the 2-amino nitrogen atom in a cyclic structure.</para><para>(d) Unless specifically excepted or unless listed in another schedule,
-any material, compound, mixture, or preparation which contains any quantity
-of the following substances having a depressant effect on the central nervous
-system, including its salts, isomers, and salts of isomers whenever the existence
-of such salts, isomers, and salts of isomers is possible within the specific
-chemical designation:</para>
+or structures:</para>
+<para>(i) 3,4-methylenedioxymethcathinone, or bk-MDMA, or methylone;</para>
+<para>(ii) 3,4-methylenedioxypyrovalerone, or MDPV;</para>
+<para>(iii) 4-methylmethcathinone, or 4-MMC, or mephedrone;</para>
+<para>(iv) 4-methoxymethcathinone, or bk-PMMA, or PMMC, or methedrone;</para>
+<para>(v) Fluoromethcathinone, or FMC;</para>
+<para>(vi) Naphthylpyrovalerone, or naphyrone;
+or</para>
+<para>(vii) Beta-keto-N-methylbenzodioxolylpropylamine; or</para>
+<para>(B) Unless listed in another schedule, any substance which
+contains any quantity of any material, compound, mixture, or structure, other
+than buproprion, that is structurally derived by any means from 2-aminopropan-1-one
+by substitution at the 1-position with either phenyl, naphthyl, or thiophene
+ring systems, whether or not the compound is further modified in any of the
+following ways:</para>
+<para>(i) Substitution in the ring system to any extent with alkyl,
+alkoxy, alkylenedioxy, haloalkyl, hydroxyl, or halide substituents, whether
+or not further substituted in the ring system by one or more other univalent
+substituents;</para>
+<para>(ii) Substitution at the 3-position with an acyclic alkyl
+substituent; or</para>
+<para>(iii) Substitution at the 2-amino nitrogen atom with alkyl
+or dialkyl groups, or by inclusion of the 2-amino nitrogen atom in a cyclic
+structure.</para>
+<para>(d) Unless specifically excepted or unless listed in another
+schedule, any material, compound, mixture, or preparation which contains any
+quantity of the following substances having a depressant effect on the central
+nervous system, including its salts, isomers, and salts of isomers whenever
+the existence of such salts, isomers, and salts of isomers is possible within
+the specific chemical designation:</para>
 <para>(1) Mecloqualone;</para>
 <para>(2) Methaqualone; and</para>
 <para>(3) Gamma-Hydroxybutyric Acid. Some other names include:
@@ -408,7 +535,8 @@ designations:</para>
 <para>(4) Phencyclidine; and</para>
 <para>(5) Glutethimide.</para>
 <para>(e) Hallucinogenic substances known as:</para>
-<para>(1) Nabilone. Another name for nabilone: (+/-)-trans-3-(1,1-dimethylheptyl)- 6,6a,7,8,10,10a-Hexahydro-1-hydroxy-6,6-dimethyl-9H-dibenzo(b,d)pyran-9-one.</para>
+<para>(1) Nabilone. Another name for nabilone: (+/-)-trans-3-(1,1-dimethylheptyl)-
+6,6a,7,8,10,10a-Hexahydro-1-hydroxy-6,6-dimethyl-9H-dibenzo(b,d)pyran-9-one.</para>
 <para>(f) Unless specifically excepted or unless listed in another
 schedule, any material, compound, mixture, or preparation which contains any
 quantity of the following substances:</para>
@@ -642,34 +770,34 @@ quantity of the following substance, including its salts: Pentazocine.</para>
 schedule, any material, compound, mixture, or preparation which contains any
 quantity of the following substance, including its salts, isomers, and salts
 of such isomers: Butorphanol.</para>
-<para>(g) Unless
-specifically excepted or unless listed in another schedule, any material,
-compound, mixture, or preparation which contains any quantity of the following
-substance, including its salts, isomers, and salts of such isomers: Carisoprodol.</para>
-<para>(h)(1) Unless specifically
-excepted or unless listed in another schedule, any material, compound, mixture,
-or preparation which contains any quantity of the following substance, including
-its salts, optical isomers, and salts of such optical isomers: Ephedrine.</para>
+<para>(g) Unless specifically excepted or unless listed in another
+schedule, any material, compound, mixture, or preparation which contains any
+quantity of the following substance, including its salts, isomers, and salts
+of such isomers: Carisoprodol.</para>
+<para>(h)(1) Unless specifically excepted or unless listed in another
+schedule, any material, compound, mixture, or preparation which contains any
+quantity of the following substance, including its salts, optical isomers,
+and salts of such optical isomers: Ephedrine.</para>
 <para>(2) The following drug products containing ephedrine, its
 salts, optical isomers, and salts of such optical isomers, are excepted from
-subdivision (h)(1) of Schedule IV if they
-(A) are stored behind a counter, in an area not accessible to customers, or
-in a locked case so that a customer needs assistance from an employee to access
-the drug product; (B) are sold by a person, eighteen years of age or older,
-in the course of his or her employment to a customer eighteen years of age
-or older with the following restrictions: No customer shall be allowed to
-purchase, receive, or otherwise acquire more than three and six-tenths grams
-of ephedrine base during a twenty-four-hour period; no customer shall purchase,
-receive, or otherwise acquire more than nine grams of ephedrine base during
-a thirty-day period; and the customer shall display a valid driver's or operator's
-license, a Nebraska state identification card, a military identification card,
-an alien registration card, or a passport as proof of identification; (C)
-are labeled and marketed in a manner consistent with the pertinent OTC Tentative
-Final or Final Monograph; (D) are manufactured and distributed for legitimate
-medicinal use in a manner that reduces or eliminates the likelihood of abuse;
-and (E) are not marketed, advertised, or represented in any manner for the
-indication of stimulation, mental alertness, euphoria, ecstasy, a buzz or
-high, heightened sexual performance, or increased muscle mass:</para>
+subdivision (h)(1) of Schedule IV if they (A) are stored behind a counter,
+in an area not accessible to customers, or in a locked case so that a customer
+needs assistance from an employee to access the drug product; (B) are sold
+by a person, eighteen years of age or older, in the course of his or her employment
+to a customer eighteen years of age or older with the following restrictions:
+No customer shall be allowed to purchase, receive, or otherwise acquire more
+than three and six-tenths grams of ephedrine base during a twenty-four-hour
+period; no customer shall purchase, receive, or otherwise acquire more than
+nine grams of ephedrine base during a thirty-day period; and the customer
+shall display a valid driver's or operator's license, a Nebraska state identification
+card, a military identification card, an alien registration card, or a passport
+as proof of identification; (C) are labeled and marketed in a manner consistent
+with the pertinent OTC Tentative Final or Final Monograph; (D) are manufactured
+and distributed for legitimate medicinal use in a manner that reduces or eliminates
+the likelihood of abuse; and (E) are not marketed, advertised, or represented
+in any manner for the indication of stimulation, mental alertness, euphoria,
+ecstasy, a buzz or high, heightened sexual performance, or increased muscle
+mass:</para>
 <para>(i) Primatene Tablets; and</para>
 <para>(ii) Bronkaid Dual Action Caplets.</para>
 <para>Schedule V</para>
@@ -696,16 +824,15 @@ in another schedule, any material, compound, mixture, or preparation which
 contains any quantity of the following substances having a stimulant effect
 on the central nervous system, including its salts, isomers, and salts of
 isomers: Pyrovalerone.</para>
-<para>(c) Unless
-specifically exempted or excluded or unless listed in another schedule, any
-material, compound, mixture, or preparation which contains any quantity of
-the following substances having a depressant effect on the central nervous
-system, including its salts, isomers, and salts of isomers:</para>
-<para>(1) Ezogabine
-(N-(2-amino-4-(4-fluorobenzylamino)-phenyl)-carbamic acid ethyl ester);</para>
-<para>(2) Lacosamide
-((R)-2-acetoamido-N-benzyl-3-methoxy-propionamide); and</para>
-<para>(3) Pregabalin
-((S)-3-(aminomethyl)-5-methylhexanoic acid).</para></amendatorysection>
-</section><source><para>Laws 1977, LB 38, &#167; 65; </para><para>Laws 1978, LB 748, &#167; 50; </para><para>Laws 1980, LB 696, &#167; 2; </para><para>Laws 1985, LB 323, &#167; 2; </para><para>Laws 1985, LB 406, &#167; 3; </para><para>Laws 1986, LB 1160, &#167; 1; </para><para>Laws 1987, LB 473, &#167; 1; </para><para>Laws 1990, LB 571, &#167; 6; </para><para>Laws 1992, LB 1019, &#167; 32; </para><para>Laws 1994, LB 1210, &#167; 3; </para><para>Laws 1995, LB 406, &#167; 5; </para><para>Laws 1996, LB 1213, &#167; 4; </para><para>Laws 1998, LB 1073, &#167; 8; </para><para>Laws 1999, LB 594, &#167; 1; </para><para>Laws 2000, LB 1115, &#167; 2; </para><para>Laws 2001, LB 113, &#167; 10; </para><para>Laws 2002, LB 500, &#167; 1; </para><para>Laws 2003, LB 245, &#167; 1; </para><para>Laws 2005, LB 382, &#167; 2; </para><para>Laws 2007, LB247, &#167; 2; </para><para>Laws 2008, LB902, &#167; 1; </para><para>Laws 2009, LB123, &#167; 1; </para><para>Laws 2009, LB151, &#167; 1; </para><para>Laws 2010, LB792, &#167; 1; </para><para>Laws 2011, LB19, &#167; 1; </para><para>Laws 2012, LB670, &#167; 1.</para></source><annotation><para>An information containing the descriptive language from this section is not deficient if it contains an incorrect trade name description, since the use of said language is unnecessary to constitute a proper charge and is mere surplusage. State v. Spiegel, 239 Neb. 233, 474 N.W.2d 873 (1991).</para><para>Under subsections (c)(10) and (c)(15) of this section and section 28-404, marijuana is a Schedule I controlled substance, and thus is a "drug." State v. Finnegan, 232 Neb. 75, 439 N.W.2d 496 (1989).</para></annotation>  </law>
+<para>(c) Unless specifically exempted or excluded or unless listed
+in another schedule, any material, compound, mixture, or preparation which
+contains any quantity of the following substances having a depressant effect
+on the central nervous system, including its salts, isomers, and salts of
+isomers:</para>
+<para>(1) Ezogabine (N-(2-amino-4-(4-fluorobenzylamino)-phenyl)-carbamic
+acid ethyl ester);</para>
+<para>(2) Lacosamide ((R)-2-acetoamido-N-benzyl-3-methoxy-propionamide);
+and</para>
+<para>(3) Pregabalin ((S)-3-(aminomethyl)-5-methylhexanoic acid).</para>
+</amendatorysection></section><source><para>Laws 1977, LB 38, &#167; 65; </para><para>Laws 1978, LB 748, &#167; 50; </para><para>Laws 1980, LB 696, &#167; 2; </para><para>Laws 1985, LB 323, &#167; 2; </para><para>Laws 1985, LB 406, &#167; 3; </para><para>Laws 1986, LB 1160, &#167; 1; </para><para>Laws 1987, LB 473, &#167; 1; </para><para>Laws 1990, LB 571, &#167; 6; </para><para>Laws 1992, LB 1019, &#167; 32; </para><para>Laws 1994, LB 1210, &#167; 3; </para><para>Laws 1995, LB 406, &#167; 5; </para><para>Laws 1996, LB 1213, &#167; 4; </para><para>Laws 1998, LB 1073, &#167; 8; </para><para>Laws 1999, LB 594, &#167; 1; </para><para>Laws 2000, LB 1115, &#167; 2; </para><para>Laws 2001, LB 113, &#167; 10; </para><para>Laws 2002, LB 500, &#167; 1; </para><para>Laws 2003, LB 245, &#167; 1; </para><para>Laws 2005, LB 382, &#167; 2; </para><para>Laws 2007, LB247, &#167; 2; </para><para>Laws 2008, LB902, &#167; 1; </para><para>Laws 2009, LB123, &#167; 1; </para><para>Laws 2009, LB151, &#167; 1; </para><para>Laws 2010, LB792, &#167; 1; </para><para>Laws 2011, LB19, &#167; 1; </para><para>Laws 2012, LB670, &#167; 1; </para><para>Laws 2013, LB298, &#167; 1.</para><effectivedate>June 5, 2013</effectivedate></source><annotation><para>An information containing the descriptive language from this section is not deficient if it contains an incorrect trade name description, since the use of said language is unnecessary to constitute a proper charge and is mere surplusage. State v. Spiegel, 239 Neb. 233, 474 N.W.2d 873 (1991).</para><para>Under subsections (c)(10) and (c)(15) of this section and section 28-404, marijuana is a Schedule I controlled substance, and thus is a "drug." State v. Finnegan, 232 Neb. 75, 439 N.W.2d 496 (1989).</para></annotation>  </law>
 </legaldoc>

@@ -1,1 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection amended="yes" chaptername="Public Health and Welfare" publishedsource="CumulativeSupplement" statutenumber="71-804"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>71-804</statuteno><catchline>Terms, defined.</catchline><para>For purposes of the Nebraska Behavioral Health Services Act:</para><para>(1) Behavioral health disorder means mental illness or alcoholism, drug abuse, problem gambling, or other addictive disorder;</para><para>(2) Behavioral health region means a behavioral health region established in section 71-807;</para><para>(3) Behavioral health services means services, including, but not limited to, consumer-provided services, support services, inpatient and outpatient services, and residential and nonresidential services, provided for the prevention, diagnosis, and treatment of behavioral health disorders and the rehabilitation and recovery of persons with such disorders;</para><para>(4) Community-based behavioral health services or community-based services means behavioral health services that are not provided at a regional center;</para><para>(5) Department means the Department of Health and Human Services;</para><para>(6) Director means the Director of Behavioral Health;</para><para>(7) Division means the Division of Behavioral Health of the department;</para><para>(8) Medical assistance program means the program established pursuant to the Medical Assistance Act;</para><para>(9) Public behavioral health system means the statewide array of behavioral health services for children and adults provided by the public sector or private sector and supported in whole or in part with funding received and administered by the department, including behavioral health services provided under the medical assistance program; </para><para>(10) Regional center means one of the state hospitals for the mentally ill designated in section 83-305; and</para><para>(11) Regional center behavioral health services or regional center services means behavioral health services provided at a regional center.</para></amendatorysection></section><source><para>Laws 2004, LB 1083, &#167; 4; </para><para>Laws 2006, LB 1248, &#167; 74; </para><para>Laws 2007, LB296, &#167; 454.</para></source><crossreference><para><emphasis>Medical Assistance Act,</emphasis> see section 68-901.</para></crossreference></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id109">
+<amendatorysection amended="yes" chaptername="Public Health and Welfare" id="id111" publishedsource="CumulativeSupplement" statutenumber="71-804"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>71-804</statuteno><catchline id="id114">Terms, defined.</catchline>
+<para>For purposes of the Nebraska Behavioral Health Services Act:</para>
+<para>(1) Behavioral health disorder means mental illness or alcoholism,
+drug abuse, or
+other addictive disorder;</para>
+<para>(2) Behavioral health region means a behavioral health region
+established in section 71-807;</para>
+<para>(3) Behavioral health services means services, including,
+but not limited to, consumer-provided services, support services, inpatient
+and outpatient services, and residential and nonresidential services, provided
+for the prevention, diagnosis, and treatment of behavioral health disorders
+and the rehabilitation and recovery of persons with such disorders;</para>
+<para>(4) Community-based behavioral health services or community-based
+services means behavioral health services that are not provided at a regional
+center;</para>
+<para>(5) Department means the Department of Health and Human Services;</para>
+<para>(6) Director means the Director of Behavioral Health;</para>
+<para>(7) Division means the Division of Behavioral Health of the
+department;</para>
+<para>(8) Medical assistance program means the program established
+pursuant to the Medical Assistance Act;</para>
+<para>(9) Public behavioral health system means the statewide array
+of behavioral health services for children and adults provided by the public
+sector or private sector and supported in whole or in part with funding received
+and administered by the department, including behavioral health services provided
+under the medical assistance program; </para>
+<para>(10) Regional center means one of the state hospitals for
+the mentally ill designated in section 83-305; and</para>
+<para>(11) Regional center behavioral health services or regional
+center services means behavioral health services provided at a regional center.</para>
+</amendatorysection></section><source><para>Laws 2004, LB 1083, &#167; 4; </para><para>Laws 2006, LB 1248, &#167; 74; </para><para>Laws 2007, LB296, &#167; 454; </para><para>Laws 2013, LB6, &#167; 13.</para><operativedate>July 1, 2013</operativedate></source><crossreference><para><emphasis>Medical Assistance Act,</emphasis> see section 68-901.</para></crossreference>  </law>
+</legaldoc>

@@ -1,114 +1,105 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id104">
-<amendatorysection amended="yes" chaptername="Motor Vehicles" id="id106" statutenumber="60-1438"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>60-1438</statuteno><catchline id="id109">Manufacturer
-or distributor; warranty obligation;
-prohibited acts.</catchline><para>(1) Each new motor
+<section>
+<amendatorysection amended="yes" chaptername="Motor Vehicles" id="id106" statutenumber="60-1438"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>60-1438</statuteno><catchline id="id109">Manufacturer or distributor;
+warranty obligation; prohibited acts.</catchline><para>(1) Each new motor
 vehicle manufacturer or distributor shall specify in writing to each of its
 new motor vehicle dealers licensed in this state the dealer's obligations
 for preparation, delivery, and warranty service on its products. The manufacturer
 or distributor shall compensate the new motor vehicle dealer for warranty
-service which such manufacturer or distributor requires the dealer to provide, including warranty and recall obligations
-related to repairing and servicing motor vehicles and all parts and components
-included in or manufactured for installation in the motor vehicles of the
-manufacturer or distributor. The manufacturer or distributor shall
-provide the new motor vehicle dealer with the schedule of compensation to
-be paid to the dealer for parts, work, and service and the time allowance
-for the performance of the work and service.</para>
-<para>(2)(a) The schedule of compensation
-shall include reasonable compensation for diagnostic work, as well as repair
-service, parts, and labor. Time allowances for the diagnosis and performance
-of warranty work and service shall be reasonable and adequate for the work
-to be performed. In the determination of what constitutes reasonable compensation
-under this section, the principal factors to be given consideration shall
-be the prevailing wage rates being paid by dealers in the community in which
-the dealer is doing business, and in no event shall the compensation of the
-dealer for warranty parts and labor be less than the rates charged by the
-dealer for like parts and service to retail or fleet customers, as long as
-such rates are reasonable. In
-determining prevailing wage rates, the rate of compensation for labor for
-that portion of repair orders for routine maintenance, such as oil and fluid
-changes, shall not be used.</para>
-<para>(b) For purposes
-of this section, compensation for parts may be determined by calculating the
-price paid by the dealer for parts, including all shipping and other charges,
-multiplied by the sum of one and the dealer's average percentage markup over
-the price paid by the dealer for parts purchased by the dealer from the manufacturer
-and sold at retail. The dealer may establish average percentage markup by
-submitting to the manufacturer one hundred sequential customer-paid service
-repair orders or ninety days of customer-paid service repair orders, whichever
-is less, covering repairs made no more than one hundred eighty days before
-the submission and declaring what the average percentage markup is. Within
-thirty days after receipt of the repair orders, the manufacturer may audit
-the submitted repair orders and approve or deny approval of the average percentage
-markup based on the audit. The average percentage markup shall go into effect
-forty-five days after the approval based on that audit. If the manufacturer
-denies approval of the average percentage markup declared by the dealer, the
-dealer may file a complaint with the board. The manufacturer shall have the
-burden to establish that the denial was reasonable. If the board determines
-that the denial was not reasonable, the denial shall be deemed a violation
-of the Motor Vehicle Industry Regulation Act subject to the enforcement procedures
-of the act. Only retail sales not involving warranty repairs or parts supplied
-for routine vehicle maintenance shall be considered in calculating average
-percentage markup. No manufacturer shall require a dealer to establish average
-percentage markup by a methodology, or by requiring information, that is unduly
-burdensome or time consuming to provide, including, but not limited to, part-by-part
-or transaction-by-transaction calculations. A dealer shall not request a change
-in the average percentage markup more than twice in one calendar year.</para>
-<para>(3) A manufacturer or distributor shall not do any of the
-following:</para>
+service which such manufacturer or distributor requires the dealer to provide,
+including warranty and recall obligations related to repairing and servicing
+motor vehicles and all parts and components included in or manufactured for
+installation in the motor vehicles of the manufacturer or distributor. The
+manufacturer or distributor shall provide the new motor vehicle dealer with
+the schedule of compensation to be paid to the dealer for parts, work, and
+service and the time allowance for the performance of the work and service.</para>
+<para>(2)(a) The schedule of compensation shall include reasonable compensation
+for diagnostic work, as well as repair service, parts, and labor. Time allowances
+for the diagnosis and performance of warranty work and service shall be reasonable
+and adequate for the work to be performed. In the determination of what constitutes
+reasonable compensation under this section, the principal factors to be given
+consideration shall be the prevailing wage rates being paid by dealers in
+the community in which the dealer is doing business, and in no event shall
+the compensation of the dealer for warranty parts and labor be less than the
+rates charged by the dealer for like parts and service to retail or fleet
+customers, as long as such rates are reasonable. In determining prevailing
+wage rates, the rate of compensation for labor for that portion of repair
+orders for routine maintenance, such as tire
+repair or replacement and oil and fluid changes, shall not be
+used.</para>
+<para>(b) For purposes of this section, compensation for parts may be determined
+by calculating the price paid by the dealer for parts, including all shipping
+and other charges, multiplied by the sum of one and the dealer's average percentage
+markup over the price paid by the dealer for parts purchased by the dealer
+from the manufacturer and sold at retail. The dealer may establish average
+percentage markup by submitting to the manufacturer one hundred sequential
+customer-paid service repair orders or ninety days of customer-paid service
+repair orders, whichever is less, covering repairs made no more than one hundred
+eighty days before the submission and declaring what the average percentage
+markup is. Within thirty days after receipt of the repair orders, the manufacturer
+may audit the submitted repair orders and approve or deny approval of the
+average percentage markup based on the audit. The average percentage markup
+shall go into effect forty-five days after the approval based on that audit.
+If the manufacturer denies approval of the average percentage markup declared
+by the dealer, the dealer may file a complaint with the board. The manufacturer
+shall have the burden to establish that the denial was reasonable. If the
+board determines that the denial was not reasonable, the denial shall be deemed
+a violation of the Motor Vehicle Industry Regulation Act subject to the enforcement
+procedures of the act. Only retail sales not involving warranty repairs or
+parts supplied for routine vehicle maintenance shall be considered in calculating
+average percentage markup. No manufacturer shall require a dealer to establish
+average percentage markup by a methodology, or by requiring information, that
+is unduly burdensome or time consuming to provide, including, but not limited
+to, part-by-part or transaction-by-transaction calculations. A dealer shall
+not request a change in the average percentage markup more than twice in one
+calendar year.</para>
+<para>(3) A manufacturer or distributor shall not do any of the following:</para>
 <para>(a) Fail to perform any warranty obligation;</para>
-<para>(b) Fail to include in written notices of factory recalls
-to new motor vehicle owners and dealers the expected date by which necessary
-parts and equipment will be available to dealers for the correction of the
-defects; or</para>
-<para>(c) Fail to compensate any of the new motor vehicle dealers
-licensed in this state for repairs effected by the recall.</para>
-<para>(4) A dealer's
-claim for warranty compensation may be denied only if:</para>
-<para>(a) The dealer's
-claim is based on a nonwarranty repair;</para><para>(b) The dealer lacks documentation for
-the claim;</para><para>(c) The dealer fails to comply with specific substantive terms
-and conditions of the franchisor's warranty compensation program; or</para>
-<para>(d) The manufacturer
-has a bona fide belief based on competent evidence that the dealer's claim
-is intentionally false, fraudulent, or misrepresented.</para>
-<para>(5) All claims made by a new
-motor vehicle dealer pursuant to this section for labor and parts shall be made within six months after completing
-the work and shall be paid within thirty days after their approval.
-All claims shall be either approved or disapproved by the manufacturer or
-distributor within thirty days after their receipt on a proper form generally
-used by the manufacturer or distributor and containing the usually required
-information therein. Any claim not specifically disapproved in writing within
-thirty days after the receipt of the form shall be considered to be approved
-and payment shall be made within thirty days. The manufacturer has the right
-to audit the claims for one year after
-payment, except that if the
-manufacturer has reasonable cause to believe that a claim submitted by a dealer
-is intentionally false or fraudulent, the manufacturer has the right to audit
-the claims for four years after payment. For purposes of this subsection,
-reasonable cause means a bona fide belief based upon evidence that the issues
-of fact are such that a person of ordinary caution, prudence, and judgment
-could believe that a claim was intentionally false or fraudulent. As a result
-of an audit authorized under this subsection, the manufacturer has the right to charge back to the
-new motor vehicle dealer the amount of any previously
-paid claim after
-the new motor vehicle dealer has had notice and an opportunity to participate
+<para>(b) Fail to include in written notices of factory recalls to new motor
+vehicle owners and dealers the expected date by which necessary parts and
+equipment will be available to dealers for the correction of the defects;
+or</para>
+<para>(c) Fail to compensate any of the new motor vehicle dealers licensed
+in this state for repairs effected by the recall.</para>
+<para>(4) A dealer's claim for warranty compensation may be denied only if:</para>
+<para>(a) The dealer's claim is based on a nonwarranty repair;</para>
+<para>(b) The dealer lacks documentation for the claim;</para>
+<para>(c) The dealer fails to comply with specific substantive terms and conditions
+of the franchisor's warranty compensation program; or</para>
+<para>(d) The manufacturer has a bona fide belief based on competent evidence
+that the dealer's claim is intentionally false, fraudulent, or misrepresented.</para>
+<para>(5) All claims made by a new motor vehicle dealer pursuant to this section
+for labor and parts shall be made within six months after completing the work
+and shall be paid within thirty days after their approval. All claims shall
+be either approved or disapproved by the manufacturer or distributor within
+thirty days after their receipt on a proper form generally used by the manufacturer
+or distributor and containing the usually required information therein. Any
+claim not specifically disapproved in writing within thirty days after the
+receipt of the form shall be considered to be approved and payment shall be
+made within thirty days. The manufacturer has the right to audit the claims
+for one year after payment, except that if the manufacturer has reasonable
+cause to believe that a claim submitted by a dealer is intentionally false
+or fraudulent, the manufacturer has the right to audit the claims for four
+years after payment. For purposes of this subsection, reasonable cause means
+a bona fide belief based upon evidence that the issues of fact are such that
+a person of ordinary caution, prudence, and judgment could believe that a
+claim was intentionally false or fraudulent. As a result of an audit authorized
+under this subsection, the manufacturer has the right to charge back to the
+new motor vehicle dealer the amount of any previously paid claim after the
+new motor vehicle dealer has had notice and an opportunity to participate
 in all franchisor internal appeal processes as well as all available legal
-processes. The
-requirement to approve and pay the claim within thirty days after receipt
-of the claim does not preclude chargebacks for any fraudulent claim previously
-paid. A manufacturer may not deny a claim based solely on a dealer's
-incidental failure to comply with a specific claim processing requirement,
+processes. The requirement to approve and pay the claim within thirty days
+after receipt of the claim does not preclude chargebacks for any fraudulent
+claim previously paid. A manufacturer may not deny a claim based solely on
+a dealer's incidental failure to comply with a specific claim processing requirement,
 such as a clerical error that does not put into question the legitimacy of
 the claim. If a claim is rejected for a clerical error, the dealer may resubmit
 a corrected claim in a timely manner.</para>
-<para>(6) The warranty obligations
-set forth in this section shall also apply to any manufacturer of a new motor
-vehicle transmission, engine, or rear axle that separately warrants its components
-to customers.</para>
-<para>(7) This section
-does not apply to recreational vehicles.</para></amendatorysection>
-</section><source><para>Laws 1984, LB 825, &#167; 21; </para><para>Laws 1991, LB 393, &#167; 1; </para><para>Laws 2003, LB 371, &#167; 1; </para><para>Laws 2010, LB816, &#167; 83; </para><para>Laws 2011, LB477, &#167; 9.</para></source>  </law>
+<para>(6) The warranty obligations set forth in this section shall also apply
+to any manufacturer of a new motor vehicle transmission, engine, or rear axle
+that separately warrants its components to customers.</para>
+<para>(7) This section does not apply to recreational vehicles.</para>
+</amendatorysection></section><source><para>Laws 1984, LB 825, &#167; 21; </para><para>Laws 1991, LB 393, &#167; 1; </para><para>Laws 2003, LB 371, &#167; 1; </para><para>Laws 2010, LB816, &#167; 83; </para><para>Laws 2011, LB477, &#167; 9; </para><para>Laws 2013, LB165, &#167; 1.</para><effectivedate>September 6, 2013</effectivedate></source>  </law>
 </legaldoc>

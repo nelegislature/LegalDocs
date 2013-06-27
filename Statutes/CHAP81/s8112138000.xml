@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id12">
-<amendatorysection chaptername="State Administrative Department" id="id14" publishedsource="AnnualSupplement" statutenumber="81-12,138"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>81-12,138</statuteno><catchline>Terms, defined.</catchline><para>For purposes of the
-Small Business Innovation Act:</para>
-<para>(1) Department
-means the Department of Economic Development;</para><para>(2) Nebraska-based
-growth business means a corporation, partnership, limited liability company,
-limited partnership, or limited liability partnership registered with the
-Secretary of State that has five to fifty employees and annual sales revenue
-of no less than five hundred thousand dollars and no more than two million
-five hundred thousand dollars; and</para><para>(3) Small business innovation means the
-provision of technical resources to locally owned and operated Nebraska-based
-growth businesses to foster development, growth, and high-wage job creation.</para>
-</amendatorysection></section><source><para>Laws 2011, LB345, &#167; 3.</para><terminationdate>December 31, 2013</terminationdate></source>  </law>
+<section>
+<amendatorysection amended="yes" chaptername="State Administrative Department" id="id14" publishedsource="AnnualSupplement" statutenumber="81-12,138"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>81-12,138</statuteno><catchline>Terms, defined.</catchline><para>For
+purposes of the Small Business Innovation Act:</para>
+<para>(1) Department means the Department of Economic Development;</para>
+<para>(2) Nebraska-based growth business means a corporation, partnership,
+limited liability company, limited partnership, or limited liability partnership
+registered with the Secretary of State that has two to
+fifty employees and annual sales revenue of no less than five hundred thousand
+dollars and no more than two million five hundred thousand dollars; and</para>
+<para>(3) Small business innovation means the provision of technical resources
+to locally owned and operated Nebraska-based growth businesses to foster development,
+growth, and high-wage job creation.</para><?Pub Caret?>
+</amendatorysection></section><source><para>Laws 2011, LB345, &#167; 3; </para><para>Laws 2013, LB628, &#167; 1.</para><effectivedate>September 6, 2013</effectivedate><terminationdate>December 31, 2014</terminationdate></source>  </law>
 </legaldoc>

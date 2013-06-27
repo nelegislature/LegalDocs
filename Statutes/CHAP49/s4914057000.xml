@@ -1,1 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Law" statutenumber="49-1457"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>49-1457</statuteno><catchline>Political party committee; campaign statement; contents, enumerated; contribution and expenditure information.</catchline><para>(1) The campaign statement filed by a political party committee shall contain the following information:</para><para>(a) The full name and street address of each person from whom contributions totaling more than two hundred fifty dollars in value are received in a calendar year, the amount, and the date or dates contributed; and if the person is a committee, the name and address of the committee and the full name and street address of the committee treasurer, together with the amount of the contribution and the date received;</para><para>(b) An itemized list of all expenditures, including in-kind contributions and expenditures and loans, made during the period covered by the campaign statement which were contributions to a candidate committee of a candidate for elective office or a ballot question committee; or independent expenditures in support of the qualification, passage, or defeat of a ballot question, or in support of the nomination or election of a candidate for elective office or the defeat of any of the candidate's opponents;</para><para>(c) The total expenditure by the committee for each candidate for elective office or ballot question in whose behalf an independent expenditure was made or a contribution was given for the election; and</para><para>(d) The filer's name, address, and telephone number, if any, and the full name, residential and business addresses, and telephone numbers of the committee treasurer.</para><para>(2) A contribution to a candidate or ballot question committee listed under subdivision (1)(b) of this section shall note the name and address of the committee, the name of the candidate and the office sought, if any, the amount contributed, and the date of the contribution.</para><para>(3) An independent expenditure listed under subdivision (1)(b) of this section shall note the name of the candidate for whose benefit the expenditure was made and the office sought by the candidate, or a brief description of the ballot question for which the expenditure was made, the amount, date, and purpose of the expenditure, and the full name and address of the person to whom the expenditure was made.</para><para>(4) An expenditure listed which was made in support of more than one candidate or ballot question, or both, shall be apportioned reasonably among the candidates or ballot questions, or both.</para></amendatorysection></section><source><para>Laws 1976, LB 987, &#167; 57; </para><para>Laws 1999, LB 416, &#167; 9. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id117">
+<amendatorysection amended="yes" chaptername="Law" id="id119" statutenumber="49-1457"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>49-1457</statuteno><catchline id="id122">Political party
+committee; campaign statement; contents, enumerated; contribution and expenditure
+information.</catchline><para>(1) The campaign statement filed
+by a political party committee shall contain the following information:</para>
+<para>(a) The full name and street address of each person from
+whom contributions totaling two hundred fifty dollars or
+more in value are received in a calendar year, the amount, and
+the date or dates contributed; and if the person is a committee, the name
+and address of the committee and the full name and street address of the committee
+treasurer, together with the amount of the contribution and the date received;</para>
+<para>(b) An itemized list of all expenditures, including in-kind
+contributions and expenditures and loans, made during the period covered by
+the campaign statement which were contributions to a candidate committee of
+a candidate for elective office or a ballot question committee; or independent
+expenditures in support of the qualification, passage, or defeat of a ballot
+question, or in support of the nomination or election of a candidate for elective
+office or the defeat of any of the candidate's opponents;</para>
+<para>(c) The total expenditure by the committee for each candidate
+for elective office or ballot question in whose behalf an independent expenditure
+was made or a contribution was given for the election; and</para>
+<para>(d) The filer's name, address, and telephone number, if any,
+and the full name, residential and business addresses, and telephone numbers
+of the committee treasurer.</para>
+<para>(2) A contribution to a candidate or ballot question committee
+listed under subdivision (1)(b) of this section shall note the name and address
+of the committee, the name of the candidate and the office sought, if any,
+the amount contributed, and the date of the contribution.</para>
+<para>(3) An independent expenditure listed under subdivision (1)(b)
+of this section shall note the name of the candidate for whose benefit the
+expenditure was made and the office sought by the candidate, or a brief description
+of the ballot question for which the expenditure was made, the amount, date,
+and purpose of the expenditure, and the full name and address of the person
+to whom the expenditure was made.</para>
+<para>(4) An expenditure listed which was made in support of more
+than one candidate or ballot question, or both, shall be apportioned reasonably
+among the candidates or ballot questions, or both.</para>
+</amendatorysection></section><source><para>Laws 1976, LB 987, &#167; 57; </para><para>Laws 1999, LB 416, &#167; 9; </para><para>Laws 2013, LB79, &#167; 11.</para><operativedate>January 1, 2014</operativedate></source>  </law>
+</legaldoc>

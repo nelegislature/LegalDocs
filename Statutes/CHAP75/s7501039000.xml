@@ -1,1 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Public Service Commission" statutenumber="75-139"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>75-139</statuteno><catchline>Rate order; appeal; when effective; supersedeas bond; effect.</catchline><para>Except as otherwise provided in this section, the effective date of a rate order that is appealed shall be the first Monday following the date of the appellate court's mandate if the order is affirmed, except that (1) a shipper may make effective a rate order reducing a fixed rate by filing a supersedeas bond with the commission sufficient in amount to insure refund of the difference between the rate appealed and the original rate to the carrier entitled thereto if the order appealed is reversed and (2) a common carrier may make effective a rate order increasing a fixed rate by filing a supersedeas bond with the commission sufficient in amount to insure refund of the difference between the rate finally approved and the rate appealed to shippers or subscribers entitled thereto if the order appealed is reversed. A supersedeas bond may be filed by any affected shipper or common carrier, including shippers or common carriers that were not parties to the rate proceeding, at any time prior to the issuance of the appellate court's mandate. Only the shipper or common carrier filing a supersedeas bond shall benefit from such filing. The commission shall approve a supersedeas bond which meets the requirements of this section within seven days after a written request therefor has been made, and failure to disapprove the bond within the time specified shall be deemed to be an approval. A carrier may put into effect rate increases granted by a commission order while appealing that portion of the commission's order denying a part of an application of the carrier.</para></amendatorysection></section><source><para>Laws 1963, c. 425, art. I, &#167; 39, p. 1369; </para><para>Laws 1967, c. 479, &#167; 14, p. 1481; </para><para>Laws 1976, LB 426, &#167; 2; </para><para>Laws 1991, LB 732, &#167; 135. </para></source><crossreference><para><emphasis>State Natural Gas Regulation Act,</emphasis> see section 66-1801.</para></crossreference><annotation><para>The filing of a motion for rehearing before the Public Service Commission is the commencement of an appeal proceeding, and where followed by overruling of the motion and filing of notice of appeal and appeal to Supreme Court the rate order is put in abeyance until a supersedeas bond is filed. Chicago &amp; Northwestern Transp. Co. v. Nebco, Inc., 196 Neb. 490, 243 N.W.2d 779 (1976).</para></annotation></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id47">
+<amendatorysection amended="yes" chaptername="Public Service Commission" id="id49" statutenumber="75-139">
+<bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>75-139</statuteno><catchline id="id52">Rate order; appeal;
+when effective; supersedeas bond; effect;
+applicability of section.</catchline><para>(1) Except as otherwise provided
+in this section, the effective date of a rate order that is appealed shall
+be the first Monday following the date of the appellate court's mandate if
+the order is affirmed, except that (a) a shipper may make effective
+a rate order reducing a fixed rate by filing a supersedeas bond with the commission
+sufficient in amount to insure refund of the difference between the rate appealed
+and the original rate to the carrier entitled thereto if the order appealed
+is reversed and (b) a common carrier may make
+effective a rate order increasing a fixed rate by filing a supersedeas bond
+with the commission sufficient in amount to insure refund of the difference
+between the rate finally approved and the rate appealed to shippers or subscribers
+entitled thereto if the order appealed is reversed.</para>
+<para>(2) A supersedeas bond may
+be filed by any affected shipper or common carrier, including shippers or
+common carriers that were not parties to the rate proceeding, at any time
+prior to the issuance of the appellate court's mandate. Only the shipper or
+common carrier filing a supersedeas bond shall benefit from such filing.</para>
+<para>(3) The commission shall approve
+a supersedeas bond which meets the requirements of this section within seven
+days after a written request therefor has been made, and failure to disapprove
+the bond within the time specified shall be deemed to be an approval.</para>
+<para>(4) A carrier may put into
+effect rate increases granted by a commission order while appealing that portion
+of the commission's order denying a part of an application of the carrier.</para>
+<para>(5) This section
+does not apply to rate orders under the State Natural Gas Regulation Act entered
+pursuant to section 66-1838.</para></amendatorysection></section><source><para>Laws 1963, c. 425, art. I, &#167; 39, p. 1369; </para><para>Laws 1967, c. 479, &#167; 14, p. 1481; </para><para>Laws 1976, LB 426, &#167; 2; </para><para>Laws 1991, LB 732, &#167; 135; </para><para>Laws 2013, LB545, &#167; 6.</para><effectivedate>September 6, 2013</effectivedate></source><crossreference><para><emphasis>State Natural Gas Regulation Act,</emphasis> see section 66-1801.</para></crossreference><annotation><para>The filing of a motion for rehearing before the Public Service Commission is the commencement of an appeal proceeding, and where followed by overruling of the motion and filing of notice of appeal and appeal to Supreme Court the rate order is put in abeyance until a supersedeas bond is filed. Chicago &amp; Northwestern Transp. Co. v. Nebco, Inc., 196 Neb. 490, 243 N.W.2d 779 (1976).</para></annotation>  </law>
+</legaldoc>

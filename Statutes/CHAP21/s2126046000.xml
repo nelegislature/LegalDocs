@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Corporations and Other Companies" statutenumber="21-2646"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>21-2646</statuteno><catchline>Act; applicability to attorneys at law.</catchline><para>The provisions of the Limited Liability Company Act shall be applicable to attorneys at law only to the extent and under such terms and conditions as the Nebraska Supreme Court determines to be necessary and appropriate. Articles of organization of limited liability companies organized to practice law shall contain such provisions as may be appropriate to comply with applicable rules of the court.</para></amendatorysection></section><source><para>Laws 1994, LB 884, &#167; 45. </para><terminationdate>January 1, 2013</terminationdate></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<amendatorysection chaptername="" statutenumber="21-2646">
+				<statuteno>21-2646</statuteno>
+				<catchline>Repealed. Laws 2013, LB 283, &#167; 10.</catchline>
+				
+			</amendatorysection>
+		</section>
+	</law>
+</legaldoc>

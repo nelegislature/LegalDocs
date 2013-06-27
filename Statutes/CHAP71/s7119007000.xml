@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Public Health and Welfare" statutenumber="71-1907"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>71-1907</statuteno><catchline>Child passenger restraint; requirements; violation; penalty.</catchline><para>Any person furnishing foster care who is subject to licensure under section 71-1902, when transporting in a motor vehicle any children for whom care is being furnished, shall use an approved child passenger restraint system for each child, except that an occupant protection system as defined in section 60-6,265 may be used for any child six years of age or older.</para><para>Any person violating this section shall be guilty of an infraction as defined in section 29-431 and shall have his or her license to furnish foster care revoked or suspended by the Department of Health and Human Services.</para><para>For purposes of this section, approved child passenger restraint system shall mean a restraint system which meets Federal Motor Vehicle Safety Standard 213 as developed by the National Highway Traffic Safety Administration, as such standard existed on July 20, 2002.</para></amendatorysection></section><source><para>Laws 1982, LB 69, &#167; 1; </para><para>Laws 1987, LB 386, &#167; 4; </para><para>Laws 1992, LB 958, &#167; 10; </para><para>Laws 1993, LB 370, &#167; 475; </para><para>Laws 1995, LB 401, &#167; 28; </para><para>Laws 1996, LB 1044, &#167; 586; </para><para>Laws 1997, LB 307, &#167; 174; </para><para>Laws 2000, LB 410, &#167; 3; </para><para>Laws 2002, LB 1073, &#167; 3. </para></source><crossreference><para><emphasis>Children's Residential Facilities and Placing Licensure Act,</emphasis> see section 71-1924.</para></crossreference></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id420">
+<amendatorysection amended="yes" chaptername="Public Health and Welfare" id="id422" statutenumber="71-1907"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>71-1907</statuteno><catchline id="id425">Child passenger
+restraint; requirements; violation; penalty.</catchline><para>Any
+person furnishing foster care who is subject to licensure under section 71-1902 or the Children's Residential Facilities
+and Placing Licensure Act, when transporting in a motor vehicle
+any children for whom care is being furnished, shall use an approved child
+passenger restraint system for each child, except that an occupant protection
+system as defined in section 60-6,265 may be used for any child six years
+of age or older.</para>
+<para>Any person violating this section shall be guilty of an infraction
+as defined in section 29-431 and shall have his or her license to furnish
+foster care revoked or suspended by the Department of Health and Human Services.</para>
+<para>For purposes of this section, approved child passenger restraint
+system shall mean a restraint system which meets Federal Motor Vehicle Safety
+Standard 213 as developed by the National Highway Traffic Safety Administration,
+as such standard existed on July 20, 2002.</para>
+</amendatorysection></section><source><para>Laws 1982, LB 69, &#167; 1; </para><para>Laws 1987, LB 386, &#167; 4; </para><para>Laws 1992, LB 958, &#167; 10; </para><para>Laws 1993, LB 370, &#167; 475; </para><para>Laws 1995, LB 401, &#167; 28; </para><para>Laws 1996, LB 1044, &#167; 586; </para><para>Laws 1997, LB 307, &#167; 174; </para><para>Laws 2000, LB 410, &#167; 3; </para><para>Laws 2002, LB 1073, &#167; 3; </para><para>Laws 2013, LB265, &#167; 44.</para><effectivedate>May 26, 2013</effectivedate></source><crossreference><para><emphasis>Children's Residential Facilities and Placing Licensure Act,</emphasis> see section 71-1924.</para></crossreference>  </law>
+</legaldoc>

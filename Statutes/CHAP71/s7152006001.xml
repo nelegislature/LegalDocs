@@ -1,42 +1,34 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="Public Health and Welfare" statutenumber="71-5206.01"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>71-5206.01</statuteno><catchline>Family practice residents; funding
-of stipends and benefits; report.</catchline>
-<para>(1) The Legislature
-may provide funding to the Office of Rural Health for the purpose of funding
-the cost of resident stipends and benefits, which funding may include health
-insurance, professional liability insurance, disability insurance, medical
-education expenses, continuing competency expenses, pension benefits, moving
-expenses, and meal expenses in family practice residency programs based in
-Nebraska but which are not under a contract pursuant to section 71-5206. The
-resident stipends and benefits funded in this section shall apply only to
-residents who begin family practice residency training at a qualifying institution
-in years beginning on or after January 1, 1993. The total funding provided
-in the form of stipend and benefit support per resident to a family practice
-residency program under this section shall not exceed the total funding provided
-in the form of stipend and benefit support per resident to a family practice
-residency program under section 71-5203.</para>
-<para>(2) Upon
-receiving an itemized statement of the cost of stipends and benefits of a
-family practice residency program from a sponsoring institution and upon determining
-that the sponsoring institution is not receiving funds under a contract pursuant
-to section 71-5206, the office may reimburse such institution fifty percent
-of such cost for each family practice resident in the program. The office
-may reimburse such institution twenty-five percent of the remaining cost per
-family practice resident for each year that one of the program's graduates
-practices family medicine in Nebraska, up to a maximum of three years for
-each graduate, and an additional twenty-five percent of the remaining cost
-per resident for each of the program's graduates who practices family medicine
-in an area of Nebraska classified as of January 1, 1991, by the United States
-Secretary of Health and Human Services as Medicare Locale 16. The total number
-of residents receiving annual financial payments made under this section shall
-not exceed nine students during any school year.</para>
-<para>(3) At the
-end of the third year of the funding under this section, the sponsoring institutions
-and the office shall report electronically to
-the Legislature regarding the performance of the residency programs and the
-placement of residents and physicians for training and practice.</para>
-</amendatorysection></section><source><para>Laws 1993, LB 152, &#167; 4; </para><para>Laws 1999, LB 241, &#167; 2; </para><para>Laws 2002, LB 1021, &#167; 89; </para><para>Laws 2012, LB782, &#167; 120.</para></source>  </law>
+<section id="id352">
+<amendatorysection amended="yes" chaptername="Public Health and Welfare" id="id354" statutenumber="71-5206.01"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>71-5206.01</statuteno><catchline id="id357">Family practice
+residents; funding of stipends and benefits.</catchline><para>(1) The Legislature may provide funding to the Office of Rural
+Health for the purpose of funding the cost of resident stipends and benefits,
+which funding may include health insurance, professional liability insurance,
+disability insurance, medical education expenses, continuing competency expenses,
+pension benefits, moving expenses, and meal expenses in family practice residency
+programs based in Nebraska but which are not under a contract pursuant to
+section 71-5206. The resident stipends and benefits funded in this section
+shall apply only to residents who begin family practice residency training
+at a qualifying institution in years beginning on or after January 1, 1993.
+The total funding provided in the form of stipend and benefit support per
+resident to a family practice residency program under this section shall not
+exceed the total funding provided in the form of stipend and benefit support
+per resident to a family practice residency program under section 71-5203.</para>
+<para>(2) Upon receiving an itemized statement of the cost of stipends
+and benefits of a family practice residency program from a sponsoring institution
+and upon determining that the sponsoring institution is not receiving funds
+under a contract pursuant to section 71-5206, the office may reimburse such
+institution fifty percent of such cost for each family practice resident in
+the program. The office may reimburse such institution twenty-five percent
+of the remaining cost per family practice resident for each year that one
+of the program's graduates practices family medicine in Nebraska, up to a
+maximum of three years for each graduate, and an additional twenty-five percent
+of the remaining cost per resident for each of the program's graduates who
+practices family medicine in an area of Nebraska classified as of January
+1, 1991, by the United States Secretary of Health and Human Services as Medicare
+Locale 16. The total number of residents receiving annual financial payments
+made under this section shall not exceed nine students during any school year.</para>
+</amendatorysection></section><source><para>Laws 1993, LB 152, &#167; 4; </para><para>Laws 1999, LB 241, &#167; 2; </para><para>Laws 2002, LB 1021, &#167; 89; </para><para>Laws 2012, LB782, &#167; 120; </para><para>Laws 2013, LB222, &#167; 29.</para><effectivedate>May 8, 2013</effectivedate></source>  </law>
 </legaldoc>

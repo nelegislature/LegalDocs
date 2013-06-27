@@ -1,26 +1,28 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="Cities and Villages; Laws Applicable to All" publishedsource="CumulativeSupplement" statutenumber="18-2147"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>18-2147</statuteno><catchline>Ad valorem tax; division authorized;
-limitation; fifteen-year period.</catchline><para>(1) Any redevelopment plan
-as originally approved or as later modified pursuant to section 18-2117 may contain a provision
-that any ad valorem tax levied upon real property, or any portion thereof, in a redevelopment
-project for the benefit of any public body shall be divided, for a period
-not to exceed fifteen years after the effective date as identified in the project redevelopment
+<section id="id59">
+<amendatorysection amended="yes" chaptername="Cities and Villages; Laws Applicable to All" id="id61" publishedsource="CumulativeSupplement" statutenumber="18-2147">
+<bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>18-2147</statuteno><catchline id="id64">Ad valorem tax;
+division authorized; limitation; fifteen-year period.</catchline><para>(1)
+Any redevelopment plan as originally approved or as later modified pursuant
+to section 18-2117 may contain a provision that any ad valorem tax levied
+upon real property, or any portion thereof, in a redevelopment project for
+the benefit of any public body shall be divided, for a period not to exceed
+fifteen years after the effective date as identified in the project redevelopment
 contract or in the resolution of the authority authorizing the issuance of
 bonds pursuant to section 18-2124, as follows:</para>
-<para>(a) That portion of the ad valorem tax which is produced by the levy
-at the rate fixed each year by or for each such public body upon the redevelopment
-project valuation shall be paid into the funds of each such public body in
-the same proportion as are all other taxes collected by or for the body. When
-there is not a redevelopment project valuation on a parcel or parcels, the
-county assessor shall determine the redevelopment project valuation based
-upon the fair market valuation of the parcel or parcels as of January 1 of
-the year prior to the year that the ad valorem taxes are to be divided. The
-county assessor shall provide written notice of the redevelopment project
-valuation to the authority as defined in section 18-2103 and the owner. The
-authority or owner may protest the valuation to the county board of equalization
+<para>(a) That portion of the ad valorem tax which is produced by
+the levy at the rate fixed each year by or for each such public body upon
+the redevelopment project valuation shall be paid into the funds of each such
+public body in the same proportion as are all other taxes collected by or
+for the body. When there is not a redevelopment project valuation on a parcel
+or parcels, the county assessor shall determine the redevelopment project
+valuation based upon the fair market valuation of the parcel or parcels as
+of January 1 of the year prior to the year that the ad valorem taxes are to
+be divided. The county assessor shall provide written notice of the redevelopment
+project valuation to the authority as defined in section 18-2103 and the owner.
+The authority or owner may protest the valuation to the county board of equalization
 within thirty days after the date of the valuation notice. All provisions
 of section 77-1502 except dates for filing of a protest, the period for hearing
 protests, and the date for mailing notice of the county board of equalization's
@@ -32,10 +34,11 @@ on protests pursuant to this section to the authority or owner within seven
 days after the board's decision. Any decision of the county board of equalization
 may be appealed to the Tax Equalization and Review Commission, in accordance
 with section 77-5013, within thirty days after the date of the decision;</para>
-<para>(b) That portion of the ad valorem tax on real property, as provided in the redevelopment contract or bond resolution, in
-the redevelopment project in excess of such amount, if any, shall be allocated
-to and, when collected, paid into a special fund of the authority to be used
-solely to pay the principal of, the interest on, and any premiums due in connection
+<para>(b) That portion of the ad valorem tax on real property, as
+provided in the redevelopment contract or bond resolution, in the redevelopment
+project in excess of such amount, if any, shall be allocated to and, when
+collected, paid into a special fund of the authority to be used solely to
+pay the principal of, the interest on, and any premiums due in connection
 with the bonds of, loans, notes, or advances of money to, or indebtedness
 incurred by, whether funded, refunded, assumed, or otherwise, such authority
 for financing or refinancing, in whole or in part, the redevelopment project.
@@ -44,26 +47,28 @@ interest and premiums due, have been paid, the authority shall so notify the
 county assessor and county treasurer and all ad valorem taxes upon taxable
 real property in such a redevelopment project shall be paid into the funds
 of the respective public bodies; and</para>
-<para>(c) Any interest and penalties due for delinquent taxes shall be paid
-into the funds of each public body in the same proportion as are all other
-taxes collected by or for the public body.</para>
+<para>(c) Any interest and penalties due for delinquent taxes shall
+be paid into the funds of each public body in the same proportion as are all
+other taxes collected by or for the public body.</para>
 <para>(2) The effective date of a provision dividing ad valorem
-taxes as provided in subsection (1) of this section shall not occur until such time as the real
-property in the redevelopment project is within the corporate boundaries of
-the city.</para>
-<para>(3) Beginning August 1, 2006, all notices of the provision for dividing
-ad valorem taxes shall be sent by the authority to the county assessor on
-forms prescribed by the Property Tax Administrator. The notice shall be sent
-to the county assessor on or before August 1 of the year of the effective
-date of the provision. Failure to satisfy the notice requirement of this section
-shall result in the taxes, for all taxable years affected by the failure to
-give notice of the effective date of the provision, remaining undivided and
-being paid into the funds for each public body receiving property taxes generated
-by the property in the redevelopment project. However, the redevelopment project
-valuation for the remaining division of ad valorem taxes in accordance with
-subdivisions (1)(a) and (b) of this section shall be the last certified valuation
-for the taxable year prior to the effective date of the provision to divide
-the taxes for the remaining portion of the fifteen-year period pursuant to
-subsection (1) of this section.</para>
-</amendatorysection></section><source><para>Laws 1979, LB 158, &#167; 10; </para><para>Laws 1997, LB 875, &#167; 14; </para><para>Laws 1999, LB 194, &#167; 2; </para><para>Laws 2002, LB 994, &#167; 2; </para><para>Laws 2006, LB 808, &#167; 2; </para><para>Laws 2006, LB 1175, &#167; 2; </para><para>Laws 2011, LB54, &#167; 1.</para></source>  </law>
+taxes as provided in subsection (1) of this section shall not occur until
+such time as the real property in the redevelopment project is within the
+corporate boundaries of the city. This
+subsection shall not apply to a redevelopment project involving a formerly
+used defense site as authorized in section 18-2123.01.</para>
+<para>(3) Beginning August 1, 2006, all notices of the provision
+for dividing ad valorem taxes shall be sent by the authority to the county
+assessor on forms prescribed by the Property Tax Administrator. The notice
+shall be sent to the county assessor on or before August 1 of the year of
+the effective date of the provision. Failure to satisfy the notice requirement
+of this section shall result in the taxes, for all taxable years affected
+by the failure to give notice of the effective date of the provision, remaining
+undivided and being paid into the funds for each public body receiving property
+taxes generated by the property in the redevelopment project. However, the
+redevelopment project valuation for the remaining division of ad valorem taxes
+in accordance with subdivisions (1)(a) and (b) of this section shall be the
+last certified valuation for the taxable year prior to the effective date
+of the provision to divide the taxes for the remaining portion of the fifteen-year
+period pursuant to subsection (1) of this section.</para>
+</amendatorysection></section><source><para>Laws 1979, LB 158, &#167; 10; </para><para>Laws 1997, LB 875, &#167; 14; </para><para>Laws 1999, LB 194, &#167; 2; </para><para>Laws 2002, LB 994, &#167; 2; </para><para>Laws 2006, LB 808, &#167; 2; </para><para>Laws 2006, LB 1175, &#167; 2; </para><para>Laws 2011, LB54, &#167; 1; </para><para>Laws 2013, LB66, &#167; 4.</para><effectivedate>September 6, 2013</effectivedate></source>  </law>
 </legaldoc>

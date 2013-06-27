@@ -1,1 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Infants and Juveniles" statutenumber="43-413"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>43-413</statuteno><catchline>Evaluations authorized; costs.</catchline><para>(1) A court may, pursuant to section 43-281, place a juvenile with the Office of Juvenile Services or the Department of Health and Human Services for an evaluation to aid the court in the disposition.</para><para>(2) A juvenile convicted as an adult shall be placed with the Office of Juvenile Services for evaluation prior to sentencing as provided by subsection (3) of section 29-2204.</para><para>(3) All juveniles shall be evaluated prior to commitment to the Office of Juvenile Services. The court shall not commit such juvenile to the temporary custody of the Office of Juvenile Services prior to disposition. The office may place a juvenile in residential or nonresidential community-based evaluation services for purposes of evaluation to assist the court in determining the initial level of treatment for the juvenile.</para><para>(4) During any period of detention or evaluation prior to disposition:</para><para>(a) Except as provided in subdivision (4)(b) of this section, the county in which the case is pending is responsible for all detention costs incurred before and after an evaluation period prior to disposition, the cost of delivering the juvenile to the facility or institution for an evaluation, and the cost of returning the juvenile to the court for disposition; and</para><para>(b) The state is responsible for (i) the costs incurred during an evaluation unless otherwise ordered by the court pursuant to section 43-290 and (ii) the preevaluation detention costs for any days over the first ten days from the date the evaluation is ordered by the court.</para><para>(5) The Office of Juvenile Services and the Department of Health and Human Services are not responsible for predisposition costs except as provided in subdivision (4)(b) of this section.</para></amendatorysection></section><source><para>Laws 1969, c. 814, &#167; 2, p. 3060; </para><para>Laws 1973, LB 563, &#167; 50; </para><para>Laws 1993, LB 31, &#167; 49; </para><para>Laws 1994, LB 988, &#167; 38; </para><para>R.S.1943, (1994), &#167; 83-4,101; </para><para>Laws 1998, LB 1073, &#167; 45; </para><para>Laws 2001, LB 640, &#167; 1. </para></source><annotation><para>The juvenile court cannot order a specific placement of a juvenile for the purposes of the evaluation authorized by this section. In re Interest of Taylor W., 276 Neb. 679, 757 N.W.2d 1 (2008).</para><para>By its language, the purpose of subsection (4) of this section is to make the State responsible for the costs incurred in evaluating a juvenile under subsection (1) of this section. In the absence of an immediate physical delivery of the juvenile upon adjudication into an evaluation program, detention is an unavoidable precursor of evaluation and is, therefore, part of the evaluation process under this section. In re Interest of Marie E., 260 Neb. 984, 621 N.W.2d 65 (2000).</para></annotation></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id453">
+<amendatorysection amended="yes" chaptername="Infants and Juveniles" id="id455" statutenumber="43-413"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>43-413</statuteno><catchline id="id458">Evaluations
+authorized; costs.</catchline><para>(1) This section applies to all juveniles placed with the Office
+of Juvenile Services for evaluation prior to October 1, 2013. A
+court may, pursuant to section 43-281, place a juvenile with the Office of
+Juvenile Services or the Department of Health and Human Services for an evaluation
+to aid the court in the disposition.</para>
+<para>(2) A juvenile convicted as an adult shall be placed with
+the Office of Juvenile Services for evaluation prior to sentencing as provided
+by subsection (3) of section 29-2204.</para>
+<para>(3) All juveniles shall be evaluated prior to commitment
+to the Office of Juvenile Services unless
+the court finds that (a) there has been a substantially equivalent evaluation
+within the last twelve months that makes reevaluation unnecessary or (b) an
+addendum to a previous evaluation rather than a reevaluation would be appropriate.
+The court shall not commit such juvenile to the temporary custody of the Office
+of Juvenile Services prior to disposition. The office may place a juvenile
+in residential or nonresidential community-based evaluation services for purposes
+of evaluation to assist the court in determining the initial level of treatment
+for the juvenile.</para>
+<para>(4) During any period of detention or evaluation prior to
+disposition:</para>
+<para>(a) Except as provided in subdivision (4)(b) of this section,
+the county in which the case is pending is responsible for all detention costs
+incurred before and after an evaluation period prior to disposition, the cost
+of delivering the juvenile to the facility or institution for an evaluation,
+and the cost of returning the juvenile to the court for disposition; and</para>
+<para>(b) The state is responsible for (i) the costs incurred during
+an evaluation unless otherwise ordered by the court pursuant to section 43-290
+and (ii) the preevaluation detention costs for any days over the first ten
+days from the date the evaluation is ordered by the court.</para>
+<para>(5) The Office of Juvenile Services and the Department of
+Health and Human Services are not responsible for predisposition costs except
+as provided in subdivision (4)(b) of this section.</para>
+</amendatorysection></section><source><para>Laws 1969, c. 814, &#167; 2, p. 3060; </para><para>Laws 1973, LB 563, &#167; 50; </para><para>Laws 1993, LB 31, &#167; 49; </para><para>Laws 1994, LB 988, &#167; 38; </para><para>R.S.1943, (1994), &#167; 83-4,101; </para><para>Laws 1998, LB 1073, &#167; 45; </para><para>Laws 2001, LB 640, &#167; 1; </para><para>Laws 2013, LB561, &#167; 33.</para><effectivedate>May 30, 2013</effectivedate></source><annotation><para>The juvenile court cannot order a specific placement of a juvenile for the purposes of the evaluation authorized by this section. In re Interest of Taylor W., 276 Neb. 679, 757 N.W.2d 1 (2008).</para><para>By its language, the purpose of subsection (4) of this section is to make the State responsible for the costs incurred in evaluating a juvenile under subsection (1) of this section. In the absence of an immediate physical delivery of the juvenile upon adjudication into an evaluation program, detention is an unavoidable precursor of evaluation and is, therefore, part of the evaluation process under this section. In re Interest of Marie E., 260 Neb. 984, 621 N.W.2d 65 (2000).</para></annotation>  </law>
+</legaldoc>

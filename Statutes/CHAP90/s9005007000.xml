@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id31">
-<sectno id="id32">Sec. 7.</sectno><amendatorysection chaptername="Special Acts" id="id33" publishedsource="AnnualSupplement" statutenumber="90-507"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>90-507</statuteno><catchline>Transfer to Water Resources Cash Fund.</catchline>
-<para>The State Treasurer
-shall transfer $2,700,000 from the General Fund to the Water Resources Cash
-Fund on or before June 30, 2011, on such date as directed by the budget administrator
-of the budget division of the Department of Administrative Services, pursuant
-to section 61-218.</para>
-</amendatorysection></section><source><para>Laws 2009, LB316, &#167; 7.</para></source>  </law>
+		<section>
+			<amendatorysection chaptername="" statutenumber="90-507">
+				<statuteno>90-507</statuteno>
+				<catchline>Repealed. Laws 2013, LB 2, &#167; 1.</catchline>
+				
+			</amendatorysection>
+		</section>
+	</law>
 </legaldoc>

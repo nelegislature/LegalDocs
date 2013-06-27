@@ -1,1 +1,116 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Aeronautics" statutenumber="3-301"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>3-301</statuteno><catchline>Terms, defined.</catchline><para>For purposes of the Airport Zoning Act, unless the context otherwise requires:</para><para>(1) Airport means any area of land or water designed and set aside for the landing and taking off of aircraft and utilized or to be utilized in the interest of the public for such purposes;</para><para>(2) Airport hazard means any structure or tree or use of land which obstructs the airspace required for the flight of aircraft in landing or taking off at an airport or is otherwise hazardous to such landing or taking off of aircraft;</para><para>(3) Airport hazard area means any area of land or water upon which an airport hazard might be established if not prevented as provided in the act, but such area shall not extend in any direction a distance in excess of three miles from the adjacent boundary of an airport;</para><para>(4) Political subdivision means any municipality, city, village, or county;</para><para>(5) Person means any individual, firm, partnership, limited liability company, corporation, company, association, joint-stock association, or body politic and includes any trustee, receiver, assignee, or other similar representative thereof;</para><para>(6) Structure means any object constructed or installed by man, including, but without limitation, buildings, towers, smokestacks, and overhead transmission lines; and</para><para>(7) Tree means any object of natural growth.</para></amendatorysection></section><source><para>Laws 1945, c. 233, &#167; 1, p. 682; </para><para>Laws 1993, LB 121, &#167; 84.</para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id4">
+<amendatorysection amended="yes" chaptername="Aeronautics" id="id6" statutenumber="3-301"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>3-301</statuteno><catchline id="id9">Terms, defined.</catchline><para>For purposes of the Airport Zoning Act, unless the context
+otherwise requires:</para>
+<para>(1)(a) Airport
+means an area of land or water that is used or intended to be used for
+the landing and takeoff of aircraft and includes
+any related buildings and facilities.</para>
+<para>(b) Airport
+includes only public-use airports with state or federally approved airport
+layout plans and military airports with military service-approved military
+layout plans;</para><para>(2) Airport hazard means any
+structure or tree or use of land that
+penetrates any approach, operation, transition, or turning zone;</para>
+<para>(3) Airport hazard area means any area of land or water upon
+which an airport hazard might be established if not prevented as provided
+in the act, but such area shall not extend in any direction a distance in
+excess of the limits provided for approach, operation, transition,
+and turning zones;</para>
+<para>(4) Airport
+layout plan means a scaled drawing of existing and proposed land, buildings,
+and facilities necessary for the operation and development of an airport prepared
+in accordance with state rules and regulations and federal regulations and
+guidelines;</para><para>(5) Approach zone means a zone that extends from the end of each
+operation zone and is centered along the extended runway centerlines. Approach
+zone dimensions are as follows:</para><para>(a) For an existing or proposed instrument
+runway:</para><para>(i) An approach zone extends ten miles from the operation zone,
+measured along the extended runway centerline. The approach zone is one thousand
+feet wide at the end of the zone nearest the runway and expands uniformly
+to sixteen thousand eight hundred forty feet wide at the farthest end of the
+zone; and</para><para>(ii) The height limit of an approach zone begins at the elevation
+of the runway end for which it is the approach and rises one foot vertically
+for every fifty feet horizontally, except that the height limit shall not
+exceed one hundred fifty feet above the nearest existing or proposed runway
+end elevation within three miles of the end of the operation zone at that
+runway end. At three miles from such operation zone, the height limit resumes
+sloping one foot vertically for every fifty feet horizontally and continues
+to the ten-mile limit; and</para><para>(b) For an existing or proposed visual runway:</para>
+<para>(i) An approach
+zone extends from the operation zone to the limits of the turning zone, measured
+along the extended runway centerline. The approach zone is five hundred feet
+wide at the end of the zone nearest the runway and expands uniformly so that
+at a point on the extended runway centerline three miles from the operation
+zone, the approach zone is three thousand seven hundred feet wide; and</para>
+<para>(ii) The height
+limit of an approach zone begins at the elevation of the runway end for which
+it is the approach and rises one foot vertically for every forty feet horizontally,
+except that the height limit shall not exceed one hundred fifty feet above
+the nearest existing or proposed runway end elevation within three miles of
+the end of the operation zone at that runway end;</para><para>(6) Electric facility
+means an overhead electrical line, including poles or other supporting structures,
+owned or operated by an electric supplier as defined in section 70-1001.01,
+for the transmission or distribution of electrical power to the electric supplier's
+customers;</para><para>(7) Existing runway means an instrument runway or a visual runway
+that is paved or made of turf that has been constructed or is under construction;</para>
+<para>(8) Instrument
+runway means an existing runway with precision or nonprecision instrument
+approaches as developed and published by the Federal Aviation Administration
+or an existing or proposed runway with future precision or nonprecision instrument
+approaches reflected on the airport layout plan. After September 6, 2013,
+an airport shall not designate an existing or proposed runway as an instrument
+runway if the runway was not previously designated as such without the approval
+of the airport's governing body after a public hearing on such designation;</para>
+<para>(9) Operation
+zone means a zone that is longitudinally centered on each existing or proposed
+runway. Operation zone dimensions are as follows:</para><para>(a) For existing and proposed
+paved runways, the operation zone extends two hundred feet beyond the ends
+of each runway. For existing and proposed turf runways, the operation zone
+begins and ends at the same points as the runway begins and ends;</para>
+<para>(b) For existing
+and proposed instrument runways, the operation zone is one thousand feet wide,
+with five hundred feet on either side of the runway centerline. For all other
+existing and proposed runways, the operation zone is five hundred feet wide,
+with two hundred fifty feet on either side of the runway centerline; and</para>
+<para>(c) The height
+limit of the operation zone is the same as the height of the runway centerline
+elevation on an existing or proposed runway or the surface of the ground,
+whichever is higher;</para><para>(10) Person
+means any individual, firm, partnership, limited liability company, corporation,
+company, association, joint-stock association, or body politic and includes
+any trustee, receiver, assignee, or other similar representative thereof;</para>
+<para>(11) Political
+subdivision means any municipality, city, village, or county;</para>
+<para>(12) Proposed
+runway means an instrument runway or a visual runway that has not been constructed
+and is not under construction but that is depicted on the airport layout plan
+that has been conditionally or unconditionally approved by, or has been submitted
+for approval to, the Federal Aviation Administration;</para><para>(13) Runway means a defined
+area at an airport that is prepared for the landing and takeoff of aircraft
+along its length;</para><para>(14) Structure
+means any object constructed or installed by man, including, but without limitation,
+buildings, towers, smokestacks, and overhead transmission or distribution lines;</para>
+<para>(15) Transition
+zone means a zone that extends outward at a right angle to the runway centerline
+and upward at a rate of one foot vertically for every seven feet horizontally.
+The height limit of a transition zone begins at the height limit of the adjacent
+approach zone or operation zone and ends at a height of one hundred fifty
+feet above the highest elevation on the existing or proposed runway;</para>
+<para>(16) Tree means any object
+of natural growth;</para>
+<para>(17) Turning
+zone's outer limit means the area located at a distance of three miles as
+a radius from the corners of the operation zone of each runway and connecting
+adjacent arcs with tangent lines, excluding any area within the approach zone,
+operation zone, or transition zone. The height limit of the turning zone is
+one hundred fifty feet above the highest elevation on the existing or proposed
+runway; and</para><para>(18) Visual runway means a runway intended solely for the operation
+of aircraft using visual approach procedures, with no straight-in instrument
+approach procedure and no instrument designation indicated on an airport layout
+plan approved by the Federal Aviation Administration, a military service-approved
+military layout plan, or any planning documents submitted to the Federal Aviation
+Administration by a competent authority.</para></amendatorysection>
+</section><source><para>Laws 1945, c. 233, &#167; 1, p. 682; </para><para>Laws 1993, LB 121, &#167; 84; </para><para>Laws 2013, LB140, &#167; 1.</para><effectivedate>September 6, 2013</effectivedate></source>  </law>
+</legaldoc>

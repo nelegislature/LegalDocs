@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id49">
-<amendatorysection chaptername="Infants and Juveniles" id="id51" publishedsource="CumulativeSupplement" statutenumber="43-4213"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>43-4213</statuteno><catchline>Foster parents; additional stipend;
-payment; administrative fee.</catchline><para>In recognition of Nebraska foster parents' essential contribution
-to the safety and well-being of Nebraska's foster children and the need for
-additional compensation for the services provided by Nebraska foster parents
-while the Foster Care Reimbursement Rate Committee completes its duties under
-section 43-4212, beginning July 1, 2012, through June 30, 2013, all foster
-parents providing foster care in Nebraska, including traditional, agency-based,
+<section id="id64"><?Pub Caret1?>
+<amendatorysection amended="yes" chaptername="Infants and Juveniles" id="id66" publishedsource="CumulativeSupplement" statutenumber="43-4213">
+<bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>43-4213</statuteno><catchline id="id69">Foster parents;
+additional stipend; payment; administrative fee.</catchline><para>In
+recognition of Nebraska foster parents' essential contribution to the safety
+and well-being of Nebraska's foster children and the need for additional compensation
+for the services provided by Nebraska foster parents,  beginning July 1, 2012, through June 30, 2014, all
+foster parents providing foster care in Nebraska, including traditional, agency-based,
 licensed, approved, relative placement, and child-specific foster care, shall
 receive an additional stipend of three dollars and ten cents per day per child.
 The stipend shall be in addition to the current foster care reimbursement
@@ -22,5 +22,5 @@ fee of twenty-five cents per child per day for processing the payments for
 the benefit of the foster parents and the state, which administrative fee
 shall be paid monthly by the state. The administrative fee shall not reduce
 the stipend of three dollars and ten cents provided by this section.</para>
-</amendatorysection></section><source><para>Laws 2012, LB820, &#167; 6.</para></source>  </law>
+</amendatorysection></section><source><para>Laws 2012, LB820, &#167; 6; </para><para>Laws 2013, LB530, &#167; 7.</para><effectivedate>June 5, 2013</effectivedate></source>  </law>
 </legaldoc>

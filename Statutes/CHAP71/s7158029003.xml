@@ -1,1 +1,35 @@
-<?xml version="1.0" encoding="iso-8859-1"?> <legaldoc> <law type="statute"> <section id="id1097"> <sectno id="id1098" opdate=" ">Sec. 84.</sectno><amendatorysection amended="yes" chaptername="Public Health and Welfare" id="id1099" statutenumber="71-5829.03"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id1101">71-5829.03</statuteno><catchline id="id1102">Certificate of need; activities requiring.</catchline><para>Except as provided in section 71-5830.01, no person, including persons acting for or on behalf of a health care facility, shall engage in any of the following activities without having first applied for and received the necessary certificate of need:</para> <para>(1) The initial establishment of long-term care beds or rehabilitation beds except as permitted under subdivisions (4) and (5) of this section;</para> <para>(2) An increase in the long-term care beds of a health care facility by more than ten long-term care beds or more than ten percent of the total long-term care bed capacity of such facility, whichever is less, over a two-year period;</para> <para>(3) An increase in the rehabilitation beds of a health care facility by more than ten rehabilitation beds or more than ten percent of the total rehabilitation bed capacity of such facility, whichever is less, over a two-year period;</para> <para>(4) Any initial establishment of long-term care beds through conversion by a hospital of any type of hospital beds to long-term care beds if the total beds converted by the hospital are more than ten beds or more than ten percent of the total bed capacity of such hospital, whichever is less, over a two-year period;</para> <para>(5) Any initial establishment of rehabilitation beds through conversion by a hospital of any type of hospital beds to rehabilitation beds if the total beds converted by the hospital are more than ten beds or more than ten percent of the total bed capacity of such hospital, whichever is less, over a two-year period; or</para> <para>(6) Any relocation of rehabilitation beds in Nebraska from one health care facility to another health care facility.</para> </amendatorysection></section><source><para>Laws 1997, LB 798, &#167; 22; </para><para>Laws 2008, LB765, &#167; 1; </para><para>Laws 2009, LB195, &#167; 84.</para></source>  </law> </legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Public Health and Welfare" id="id1099" statutenumber="71-5829.03"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>71-5829.03</statuteno><catchline id="id1102">Certificate
+of need; activities requiring.</catchline><para>Except as provided in section
+71-5830.01, no person, including persons acting for or on behalf of a health
+care facility, shall engage in any of the following activities without having
+first applied for and received the necessary certificate of need:</para>
+<para>(1) The initial establishment of long-term care beds or rehabilitation
+beds except as permitted under subdivisions (4) and (5) of this section;</para>
+<para>(2) An increase in the long-term care beds of a health care facility
+by more than ten long-term care beds or more than ten percent of the total
+long-term care bed capacity of such facility, whichever is less, over a two-year
+period;</para>
+<para>(3) An increase in the rehabilitation beds of a health care facility
+by more than ten rehabilitation beds or more than ten percent of the total
+rehabilitation bed capacity of such facility, whichever is less, over a two-year
+period;</para>
+<para>(4) Any initial establishment of long-term care beds through conversion
+by a hospital of any type of hospital beds to long-term care beds if the total
+beds converted by the hospital are more than ten beds or more than ten percent
+of the total bed capacity of such hospital, whichever is less, over a two-year
+period;</para>
+<para>(5) Any initial establishment of rehabilitation beds through conversion
+by a hospital of any type of hospital beds to rehabilitation beds if the total
+beds converted by the hospital are more than ten beds or more than ten percent
+of the total bed capacity of such hospital, whichever is less, over a two-year
+period; or</para>
+<para>(6) Any relocation of rehabilitation beds in Nebraska from one health
+care facility to another health care facility, except that no certificate of need is required for relocation
+or transfer of rehabilitation beds from a health care facility to another
+health care facility owned and operated by the same entity.</para>
+</amendatorysection></section><source><para>Laws 1997, LB 798, &#167; 22; </para><para>Laws 2008, LB765, &#167; 1; </para><para>Laws 2009, LB195, &#167; 84; </para><para>Laws 2013, LB487, &#167; 1.</para><effectivedate>September 6, 2013</effectivedate></source>  </law>
+</legaldoc>

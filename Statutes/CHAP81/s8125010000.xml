@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id11">
-<sectno id="id12" opdate=" ">Sec. 2.</sectno><amendatorysection chaptername="State Administrative Departments" id="id13" publishedsource="CumulativeSupplement" statutenumber="81-2510"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>81-2510</statuteno><catchline>State assistance to political subdivision;
-application; use.</catchline><para>Any
-political subdivision may annually apply to the commission for state assistance
-under sections 81-2509 to 81-2515. The state assistance shall be used for
-economic development, health care, and law enforcement needs in such political
-subdivision.</para>
-</amendatorysection></section><source><para>Laws 2010, LB1002, &#167; 2.</para><terminationdate>June 30, 2018</terminationdate></source>  </law>
+<section id="id13">
+<amendatorysection amended="yes" chaptername="State Administrative Departments" id="id15" publishedsource="CumulativeSupplement" statutenumber="81-2510">
+<bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>81-2510</statuteno><catchline id="id18">State assistance
+to political subdivision or
+nonprofit corporation; application; use.</catchline><para>Any
+political subdivision or nonprofit
+corporation may annually apply to the commission for state assistance
+under sections 81-2509 to 81-2515. The state assistance shall be used by the applicant for economic
+development, education, health
+care, and law enforcement needs in such political subdivision when the applicant is a political subdivision and in the
+political subdivision where the nonprofit corporation is located when the
+applicant is a nonprofit corporation.</para>
+</amendatorysection></section><source><para>Laws 2010, LB1002, &#167; 2; </para><para>Laws 2013, LB199, &#167; 35.</para><effectivedate>May 26, 2013</effectivedate><terminationdate>June 30, 2018</terminationdate></source>  </law>
 </legaldoc>

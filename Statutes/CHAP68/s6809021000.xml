@@ -1,1 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection amended="yes" chaptername="Paupers and Public Assistance" publishedsource="CumulativeSupplement" statutenumber="68-921"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>68-921</statuteno><catchline>Entitlement of spouse; terms, defined.</catchline><para>For purposes of sections 68-921 to 68-925:</para><para>(1) Assets means property which is not exempt from consideration in determining eligibility for medical assistance under rules and regulations adopted and promulgated under section 68-922;</para><para>(2) Community spouse monthly income allowance means the amount of income determined by the department in accordance with section 1924 of the federal Social Security Act, as amended, Public Law 100-360, 42 U.S.C. 1396r-5;</para><para>(3) Community spouse resource allowance means the amount of assets determined in accordance with section 1924 of the federal Social Security Act, as amended, Public Law 100-360, 42 U.S.C. 1396r-5. For purposes of 42 U.S.C. 1396r-5(f)(2)(A)(i), the amount specified by the state shall be twelve thousand dollars;</para><para>(4) Home and community-based services means services furnished under home and community-based waivers as defined in Title XIX of the federal Social Security Act, as amended, 42 U.S.C. 1396;</para><para>(5) Qualified applicant means a person (a) who applies for medical assistance on or after July 9, 1988, (b) who is under care in a state-licensed hospital, a nursing facility, an intermediate care facility for the mentally retarded, an assisted-living facility, or a center for the developmentally disabled, as such terms are defined in the Health Care Facility Licensure Act, or an adult family home certified by the department or is receiving home and community-based services, and (c) whose spouse is not under such care or receiving such services and is not applying for or receiving medical assistance;</para><para>(6) Qualified recipient means a person (a) who has applied for medical assistance before July 9, 1988, and is eligible for such assistance, (b) who is under care in a facility certified to receive medical assistance funds or is receiving home and community-based services, and (c) whose spouse is not under such care or receiving such services and is not applying for or receiving medical assistance; and</para><para>(7) Spouse means the spouse of a qualified applicant or qualified recipient.</para></amendatorysection></section><source><para>Laws 1988, LB 419, &#167; 1; </para><para>Laws 1989, LB 362, &#167; 11; </para><para>Laws 1991, LB 244, &#167; 1; </para><para>Laws 1996, LB 1044, &#167; 336; </para><para>Laws 1997, LB 608, &#167; 4; </para><para>Laws 2000, LB 819, &#167; 81; </para><para>R.S.1943, (2003), &#167; 68-1038; </para><para>Laws 2006, LB 1248, &#167; 21; </para><para>Laws 2007, LB185, &#167; 3; </para><para>Laws 2007, LB296, &#167; 250.</para></source><crossreference><para><emphasis>Health Care Facility Licensure Act,</emphasis> see section 71-401.</para></crossreference></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id189">
+<amendatorysection amended="yes" chaptername="Public Assistance" id="id191" publishedsource="CumulativeSupplement" statutenumber="68-921">
+<bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>68-921</statuteno><catchline id="id194">Entitlement
+of spouse; terms, defined.</catchline><para>For purposes of sections
+68-921 to 68-925:</para>
+<para>(1) Assets means property which is not exempt from consideration
+in determining eligibility for medical assistance under rules and regulations
+adopted and promulgated under section 68-922;</para>
+<para>(2) Community spouse monthly income allowance means the amount
+of income determined by the department in accordance with section 1924 of
+the federal Social Security Act, as amended, Public Law 100-360, 42 U.S.C.
+1396r-5;</para>
+<para>(3) Community spouse resource allowance means the amount
+of assets determined in accordance with section 1924 of the federal Social
+Security Act, as amended, Public Law 100-360, 42 U.S.C. 1396r-5. For purposes
+of 42 U.S.C. 1396r-5(f)(2)(A)(i), the amount specified by the state shall
+be twelve thousand dollars;</para>
+<para>(4) Home and community-based services means services furnished
+under home and community-based waivers as defined in Title XIX of the federal
+Social Security Act, as amended, 42 U.S.C. 1396;</para>
+<para>(5) Qualified applicant means a person (a) who applies for
+medical assistance on or after July 9, 1988, (b) who is under care in a state-licensed
+hospital, a nursing facility, an intermediate care facility for persons with developmental disabilities, an
+assisted-living facility, or a center for the developmentally disabled, as
+such terms are defined in the Health Care Facility Licensure Act, or an adult
+family home certified by the department or is receiving home and community-based
+services, and (c) whose spouse is not under such care or receiving such services
+and is not applying for or receiving medical assistance;</para>
+<para>(6) Qualified recipient means a person (a) who has applied
+for medical assistance before July 9, 1988, and is eligible for such assistance,
+(b) who is under care in a facility certified to receive medical assistance
+funds or is receiving home and community-based services, and (c) whose spouse
+is not under such care or receiving such services and is not applying for
+or receiving medical assistance; and</para>
+<para>(7) Spouse means the spouse of a qualified applicant or qualified
+recipient.</para>
+</amendatorysection></section><source><para>Laws 1988, LB 419, &#167; 1; </para><para>Laws 1989, LB 362, &#167; 11; </para><para>Laws 1991, LB 244, &#167; 1; </para><para>Laws 1996, LB 1044, &#167; 336; </para><para>Laws 1997, LB 608, &#167; 4; </para><para>Laws 2000, LB 819, &#167; 81; </para><para>R.S.1943, (2003), &#167; 68-1038; </para><para>Laws 2006, LB 1248, &#167; 21; </para><para>Laws 2007, LB185, &#167; 3; </para><para>Laws 2007, LB296, &#167; 250; </para><para>Laws 2013, LB23, &#167; 14.</para><effectivedate>September 6, 2013</effectivedate></source><crossreference><para><emphasis>Health Care Facility Licensure Act,</emphasis> see section 71-401.</para></crossreference>  </law>
+</legaldoc>

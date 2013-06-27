@@ -1,1 +1,106 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Schools" statutenumber="79-1118.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>79-1118.01</statuteno><catchline>Disability, defined; classifications.</catchline><para>Disability means an impairment which causes a child to be classified as mentally retarded, hard of hearing, deaf, speech and language impaired, blind and visually impaired, behaviorally disordered, orthopedically impaired, other health impaired, deaf-blind, or developmentally delayed or as having multiple disabilities or specific learning disabilities, traumatic brain injury, or autism and causes such child to need special education and related services. For purposes of this section:</para><para>(1) Autism means a developmental disability significantly affecting verbal and nonverbal communication and social interaction, generally evident before age three, that adversely affects a child's educational performance. Other characteristics often associated with autism are engagement in repetitive activities and stereotyped movements, resistance to environmental change or change in daily routines, and unusual responses to sensory experiences. Autism does not apply if a child's educational performance is adversely affected primarily because the child has a serious emotional disturbance;</para><para>(2) Behaviorally disordered means a condition in which a child exhibits one or more of the following characteristics over a long period of time and to a marked degree which adversely affects educational performance:</para><para>(a) An inability to learn which cannot be explained by intellectual, sensory, or health factors;</para><para>(b) An inability to build or maintain satisfactory interpersonal relationships with peers and teachers;</para><para>(c) Inappropriate types of behavior or feelings under normal circumstances;</para><para>(d) A general pervasive mood of unhappiness or depression; or</para><para>(e) A tendency to develop physical symptoms or fears associated with personal or school problems.</para><para>Behaviorally disordered includes schizophrenia but does not include social maladjustment unless the characteristics defined in subdivision (a) or (b) of this subdivision are also present;</para><para>(3) Blind and visually impaired means partially seeing or blind, which visual impairment, even with correction, adversely affects a child's educational performance;</para><para>(4) Deaf means a hearing impairment which is so severe that processing linguistic information through hearing, with or without amplification, is impaired to the extent that educational performance is adversely affected;</para><para>(5) Deaf-blind means concomitant hearing and visual impairments, the combination of which causes such severe communication and other developmental and educational problems that such impairments cannot be accommodated in special education programs solely for children who are deaf or blind;</para><para>(6) Developmental delay means either a significant delay in function in one or more of the following areas: (a) Cognitive development; (b) physical development; (c) communication development; (d) social or emotional development; or (e) adaptive behavior or skills development, or a diagnosed physical or mental condition that has a high probability of resulting in a substantial delay in function in one or more of such areas;</para><para>(7) Hard of hearing means a hearing impairment, whether permanent or fluctuating, which adversely affects educational performance but is not included under the term deaf in subdivision (4) of this section;</para><para>(8) Mentally retarded means a condition in which a child exhibits significantly subaverage general intellectual functioning existing concurrently with deficits in adaptive behavior and manifested during the developmental period which adversely affects educational performance;</para><para>(9) Multiple disabilities means concomitant impairments, such as mentally retarded-blind or mentally retarded-orthopedically impaired, the combination of which causes such severe educational problems that a child with such impairments cannot be accommodated in special education programs for one of the impairments. Multiple disabilities does not include deaf-blind;</para><para>(10) Orthopedically impaired means a severe orthopedic impairment which adversely affects a child's educational performance. Severe orthopedic impairments include impairments caused by (a) congenital anomaly, including, but not limited to, clubfoot or absence of a member, (b) disease, including, but not limited to, poliomyelitis or bone tuberculosis, or (c) other causes, including, but not limited to, cerebral palsy, amputations, and fractures and burns which cause contractures;</para><para>(11) Other health impaired means having limited strength, vitality, or alertness due to chronic or acute health problems, including, but not limited to, a heart condition, tuberculosis, rheumatic fever, nephritis, asthma, sickle cell anemia, hemophilia, epilepsy, lead poisoning, leukemia, or diabetes, which adversely affects a child's educational performance;</para><para>(12) Specific learning disability means a disorder in one or more of the basic psychological processes involved in understanding or in using language, spoken or written, which may manifest itself in an imperfect ability to listen, think, speak, read, write, spell, or do mathematical calculations. Specific learning disability includes, but is not limited to, perceptual disabilities, brain injury, minimal brain dysfunction, dyslexia, and developmental aphasia;</para><para>(13) Speech-and-language-impaired means having a communication disorder such as stuttering, impaired articulation, language impairments, or voice impairment which adversely affects a child's educational performance; and</para><para>(14) Traumatic brain injury means an acquired injury to the brain caused by an external physical force, resulting in total or partial functional disability or psychosocial impairment, or both, that adversely affects a child's educational performance. Traumatic brain injury applies to open or closed head injuries resulting in impairments in one or more areas, including cognition; language; memory; attention; reasoning; abstract thinking; judgment; problem solving; sensory, perceptual, and motor abilities; psychosocial behavior; physical functions; information processing; and speech. Traumatic brain injury does not include brain injuries that are congenital or degenerative or brain injuries induced by birth trauma.</para><para>The State Department of Education may group or subdivide the classifications of children with disabilities for the purpose of program description and reporting. The department shall establish eligibility criteria and age ranges for the disability classification of developmental delay.</para></amendatorysection></section><source><para>Laws 1987, LB 367, &#167; 9; </para><para>Laws 1993, LB 348, &#167; 62; </para><para>R.S.1943, (1994), &#167; 79-3309; </para><para>Laws 1996, LB 900, &#167; 802; </para><para>R.S.1943, (1996), &#167; 79-1120; </para><para>Laws 1997, LB 346, &#167; 12; </para><para>Laws 1999, LB 813, &#167; 38. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id468">
+<amendatorysection amended="yes" chaptername="Schools" id="id470" statutenumber="79-1118.01"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>79-1118.01</statuteno><catchline id="id473">Disability,
+defined; diagnosis.</catchline><para>Disability means an impairment which causes a child to be diagnosed
+with an intellectual disability; a hearing, speech, language, or visual impairment;
+a behavioral disorder; an orthopedic impairment; another health impairment;
+deafness or blindness; or a developmental delay or as having multiple
+disabilities or specific learning disabilities, traumatic brain injury, or
+autism and causes such child to need special education and related services.
+For purposes of this section:</para>
+<para>(1) Autism means a developmental disability significantly
+affecting verbal and nonverbal communication and social interaction, generally
+evident before age three, that adversely affects a child's educational performance.
+Other characteristics often associated with autism are engagement in repetitive
+activities and stereotyped movements, resistance to environmental change or
+change in daily routines, and unusual responses to sensory experiences. Autism
+does not apply if a child's educational performance is adversely affected
+primarily because the child has a serious emotional disturbance;</para>
+<para>(2) Behavior
+disorder means a condition in which a child exhibits one or more
+of the following characteristics over a long period of time and to a marked
+degree which adversely affects educational performance:</para>
+<para>(a) An inability to learn which cannot be explained by intellectual,
+sensory, or health factors;</para>
+<para>(b) An inability to build or maintain satisfactory interpersonal
+relationships with peers and teachers;</para>
+<para>(c) Inappropriate types of behavior or feelings under normal
+circumstances;</para>
+<para>(d) A general pervasive mood of unhappiness or depression;
+or</para>
+<para>(e) A tendency to develop physical symptoms or fears associated
+with personal or school problems.</para>
+<para>Behavior
+disorder includes schizophrenia but does not include social maladjustment
+unless the characteristics defined in subdivision (a) or (b) of this subdivision
+are also present;</para>
+<para>(3) Blind and visually impaired means partially seeing or
+blind, which visual impairment, even with correction, adversely affects a
+child's educational performance;</para>
+<para>(4) Deaf means a hearing impairment which is so severe that
+processing linguistic information through hearing, with or without amplification,
+is impaired to the extent that educational performance is adversely affected;</para>
+<para>(5) Deaf-blind means concomitant hearing and visual impairments,
+the combination of which causes such severe communication and other developmental
+and educational problems that such impairments cannot be accommodated in special
+education programs solely for children who are deaf or blind;</para>
+<para>(6) Developmental delay means either a significant delay
+in function in one or more of the following areas: (a) Cognitive development;
+(b) physical development; (c) communication development; (d) social or emotional
+development; or (e) adaptive behavior or skills development, or a diagnosed
+physical or mental condition that has a high probability of resulting in a
+substantial delay in function in one or more of such areas;</para>
+<para>(7) Hard of hearing means a hearing impairment, whether permanent
+or fluctuating, which adversely affects educational performance but is not
+included under the term deaf in subdivision (4) of this section;</para>
+<para>(8) Intellectual
+disability means a condition in which a child exhibits significantly
+subaverage general intellectual functioning existing concurrently with deficits
+in adaptive behavior and manifested during the developmental period which
+adversely affects educational performance;</para>
+<para>(9) Multiple disabilities means concomitant impairments,
+such as intellectual disability-blind or intellectual disability-orthopedic impairment, the
+combination of which causes such severe educational problems that a child
+with such impairments cannot be accommodated in special education programs
+for one of the impairments. Multiple disabilities does not include deaf-blind;</para>
+<para>(10) Orthopedic
+impairment means a severe orthopedic impairment which adversely
+affects a child's educational performance. Severe orthopedic impairments include
+impairments caused by (a) congenital anomaly, including, but not limited to,
+clubfoot or absence of a member, (b) disease, including, but not limited to,
+poliomyelitis or bone tuberculosis, or (c) other causes, including, but not
+limited to, cerebral palsy, amputations, and fractures and burns which cause
+contractures;</para>
+<para>(11) Other health impaired means having limited strength,
+vitality, or alertness due to chronic or acute health problems, including,
+but not limited to, a heart condition, tuberculosis, rheumatic fever, nephritis,
+asthma, sickle cell anemia, hemophilia, epilepsy, lead poisoning, leukemia,
+or diabetes, which adversely affects a child's educational performance;</para>
+<para>(12) Specific learning disability means a disorder in one
+or more of the basic psychological processes involved in understanding or
+in using language, spoken or written, which may manifest itself in an imperfect
+ability to listen, think, speak, read, write, spell, or do mathematical calculations.
+Specific learning disability includes, but is not limited to, perceptual disabilities,
+brain injury, minimal brain dysfunction, dyslexia, and developmental aphasia;</para>
+<para>(13) Speech-and-language-impaired means having a communication
+disorder such as stuttering, impaired articulation, language impairments,
+or voice impairment which adversely affects a child's educational performance;
+and</para>
+<para>(14) Traumatic brain injury means an acquired injury to the
+brain caused by an external physical force, resulting in total or partial
+functional disability or psychosocial impairment, or both, that adversely
+affects a child's educational performance. Traumatic brain injury applies
+to open or closed head injuries resulting in impairments in one or more areas,
+including cognition; language; memory; attention; reasoning; abstract thinking;
+judgment; problem solving; sensory, perceptual, and motor abilities; psychosocial
+behavior; physical functions; information processing; and speech. Traumatic
+brain injury does not include brain injuries that are congenital or degenerative
+or brain injuries induced by birth trauma.</para>
+<para>The State Department of Education may group or subdivide
+the classifications of children with disabilities for the purpose of program
+description and reporting. The department shall establish eligibility criteria
+and age ranges for the disability classification of developmental delay.</para>
+</amendatorysection></section><source><para>Laws 1987, LB 367, &#167; 9; </para><para>Laws 1993, LB 348, &#167; 62; </para><para>R.S.1943, (1994), &#167; 79-3309; </para><para>Laws 1996, LB 900, &#167; 802; </para><para>R.S.1943, (1996), &#167; 79-1120; </para><para>Laws 1997, LB 346, &#167; 12; </para><para>Laws 1999, LB 813, &#167; 38; </para><para>Laws 2013, LB23, &#167; 45; </para><para>Laws 2013, LB410, &#167; 12.</para><effectivedate>September 6, 2013</effectivedate><note>This section was amended by LB23, section 45, and LB410, section 12. The section was not correlated as a part of the normal legislative process and the amendments are not entirely reconcilable and are in conflict with each other. The Revisor of Statutes has pursuant to section 49-770 printed this section as amended by LB23 as this was the latest version to pass the Legislature.</note></source>  </law>
+</legaldoc>

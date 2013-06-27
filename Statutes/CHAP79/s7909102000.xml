@@ -1,1 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Schools" statutenumber="79-9,102"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>79-9,102</statuteno><catchline>Employees retirement system; annuity benefit; limitations.</catchline><para>(1) Notwithstanding any other provision of the Class V School Employees Retirement Act, no member of the retirement system shall receive in any calendar year an annuity benefit derived from contributions of the board which if received in the form of a straight life annuity with no ancillary benefits would exceed a dollar limitation of ninety thousand dollars, adjusted as of January 1 of each calendar year to the dollar limitation as determined for such year by the Commissioner of Internal Revenue pursuant to section 415(d) of the Internal Revenue Code.</para><para>(2) The limitation provided in this section shall be adjusted as follows:</para><para>(a) If the annuity begins prior to the sixty-second birthday of the member, the dollar limitation shall be equal to an annual annuity benefit which is equal to the actuarial equivalent of an annuity benefit commencing on the sixty-second birthday of the member, but not less than seventy-five thousand dollars if the member's annuity benefit begins at or after age fifty-five and not less than the actuarial equivalent of seventy-five thousand dollars if the annuity benefit begins before age fifty-five;</para><para>(b) If the annuity begins after the sixty-fifth birthday of the member, the dollar limitation shall be equal to an annual annuity benefit which is equal to the actuarial equivalent of an annuity benefit commencing on the sixty-fifth birthday of the member;</para><para>(c) If the annuity begins prior to the member having ten years of creditable service, the dollar limitation shall be reduced by a fraction, the numerator of which is the total full fractional parts of years of creditable service and the denominator of which is ten; and</para><para>(d) The adjustments provided in subdivisions (a) and (c) of this subsection shall not apply to the disability retirement annuity under section 79-9,105 or to any annuity paid to a beneficiary as the result of the death of a member.</para><para>(3) For purposes of the limitations provided in this section, the actuarial equivalent shall be determined from the actuarial tables used for the retirement allowance for early retirement, except that in the case of the adjustment for an annuity which begins (a) before the sixty-second birthday of a member, the rate to be used in determining actuarial equivalency shall not be less than five percent, and (b) after the sixty-fifth birthday of a member, the interest rate to be used in determining the actuarial equivalency shall not be greater than five percent. The value of the joint and survivorship feature of an annuity shall not be taken into account in applying the limitations provided in this section.</para><para>(4) Any payments provided for by sections 79-990, 79-991, and 79-992 for the purchase or restoration of creditable service shall be subject to the limitations of section 415 of the Internal Revenue Code on annual additions to the system, and the trustees may suspend payments, alter installment periods, or, if such suspension or alteration is not possible, deny the purchase of all or a portion of the creditable service desired to be purchased, as necessary to comply with the requirements of section 415 of the Internal Revenue Code.</para><para>(5) This section is intended to meet the requirements of section 415 of the Internal Revenue Code and shall be construed in accordance with such section and shall, by this reference, incorporate any subsequent changes made to such section as the same may apply to the retirement system.</para></amendatorysection></section><source><para>Laws 1985, LB 215, &#167; 8; </para><para>Laws 1995, LB 574, &#167; 75; </para><para>R.S.Supp.,1995, &#167; 79-1046.01; </para><para>Laws 1996, LB 900, &#167; 637; </para><para>Laws 1997, LB 623, &#167; 31; </para><para>Laws 1998, LB 497, &#167; 22. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id424">
+<amendatorysection amended="yes" chaptername="Schools" id="id426" statutenumber="79-9,102"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>79-9,102</statuteno><catchline id="id429">Employees
+retirement system; annuity or
+other benefit; limitations.</catchline><para>(1) Notwithstanding
+any other provision of the Class V School Employees Retirement Act, no member or beneficiary of the retirement
+system shall receive in any calendar year an annuity or other benefit which would exceed the maximum benefit
+permitted under section 415 of the Internal Revenue Code, or any successor
+provision and the regulations issued thereunder, as they may be amended from
+time to time, and as adjusted as of January 1 of each calendar year to the
+dollar limitation as determined for such year by the Commissioner of Internal
+Revenue pursuant to section 415(d) of the Internal Revenue Code to reflect
+cost-of-living adjustments, and the amount of benefit to be paid to any member
+or beneficiary by the retirement system shall be adjusted each calendar year,
+if necessary, to conform with the maximum benefit permitted under section
+415 of the Internal Revenue Code. The cost-of-living adjustment to the maximum
+benefit permitted under section 415 of the Internal Revenue Code shall apply
+to determining the maximum benefit of a member who severed employment or commenced
+receiving benefits prior to the effective date of the adjustment.</para>
+<para>(2) Any
+payments provided for by sections 79-990, 79-991, and 79-992 for the purchase
+or restoration of creditable service shall be subject to the limitations of
+section 415 of the Internal Revenue Code on annual additions to the system,
+and the trustees may suspend payments, alter installment periods, or, if such
+suspension or alteration is not possible, deny the purchase of all or a portion
+of the creditable service desired to be purchased, as necessary to comply
+with the requirements of section 415 of the Internal Revenue Code.</para>
+<para>(3) This section is intended
+to meet and incorporate the
+requirements of section 415 of the Internal Revenue Code and regulations under that section that are applicable to
+governmental plans and shall be construed in accordance with section 415 of the Internal Revenue Code and the regulations issued
+thereunder and shall, by this reference, incorporate any subsequent
+changes made to such section as the same may apply to the retirement system.</para>
+</amendatorysection></section><source><para>Laws 1985, LB 215, &#167; 8; </para><para>Laws 1995, LB 574, &#167; 75; </para><para>R.S.Supp.,1995, &#167; 79-1046.01; </para><para>Laws 1996, LB 900, &#167; 637; </para><para>Laws 1997, LB 623, &#167; 31; </para><para>Laws 1998, LB 497, &#167; 22; </para><para>Laws 2013, LB263, &#167; 27.</para><effectivedate>April 25, 2013</effectivedate></source>  </law>
+</legaldoc>

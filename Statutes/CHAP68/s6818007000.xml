@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection amended="yes" chaptername="Paupers and Public Assistance" statutenumber="68-1807"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>68-1807</statuteno><catchline>Failure to pay tax; penalty.</catchline><para>(1) An intermediate care facility for the mentally retarded that fails to pay the tax required by section 68-1803 shall be subject to a penalty of five hundred dollars per day of delinquency. The total amount of the penalty assessed under this section shall not exceed five percent of the tax due from the intermediate care facility for the mentally retarded for the year for which the tax is assessed.</para><para>(2) The department shall collect the penalties and remit them to the State Treasurer for distribution in accordance with Article VII, section 5, of the Constitution of Nebraska. </para></amendatorysection></section><source><para>Laws 2004, LB 841, &#167; 8; </para><para>Laws 2007, LB296, &#167; 293.</para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id238">
+<amendatorysection amended="yes" chaptername="Public Assistance" id="id240" statutenumber="68-1807"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>68-1807</statuteno><catchline id="id243">Failure to
+pay tax; penalty.</catchline><para>(1) An intermediate care facility
+for persons with developmental disabilities that
+fails to pay the tax required by section 68-1803 shall be subject to a penalty
+of five hundred dollars per day of delinquency. The total amount of the penalty
+assessed under this section shall not exceed five percent of the tax due from
+the intermediate care facility for persons
+with developmental disabilities for the year for which the tax
+is assessed.</para>
+<para>(2) The department shall collect the penalties and remit
+them to the State Treasurer for distribution in accordance with Article VII,
+section 5, of the Constitution of Nebraska. </para>
+</amendatorysection></section><source><para>Laws 2004, LB 841, &#167; 8; </para><para>Laws 2007, LB296, &#167; 293; </para><para>Laws 2013, LB23, &#167; 23.</para><effectivedate>September 6, 2013</effectivedate></source>  </law>
+</legaldoc>

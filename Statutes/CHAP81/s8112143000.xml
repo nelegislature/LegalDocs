@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id38">
-<amendatorysection chaptername="State Administrative Department" id="id40" publishedsource="AnnualSupplement" statutenumber="81-12,143"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>81-12,143</statuteno><catchline>Act; termination.</catchline><para>The Small Business
-Innovation Act terminates on December 31, 2013.</para>
-</amendatorysection></section><source><para>Laws 2011, LB345, &#167; 8.</para><terminationdate>December 31, 2013</terminationdate></source>  </law>
+<section>
+<amendatorysection amended="yes" chaptername="State Administrative Department" id="id40" publishedsource="AnnualSupplement" statutenumber="81-12,143"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>81-12,143</statuteno><catchline>Act; termination.</catchline><para>The
+Small Business Innovation Act terminates on December 31, 2014.</para>
+</amendatorysection></section><source><para>Laws 2011, LB345, &#167; 8; </para><para>Laws 2013, LB628, &#167; 3.</para><effectivedate>September 6, 2013</effectivedate><terminationdate>December 31, 2014</terminationdate></source>  </law>
 </legaldoc>

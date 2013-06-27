@@ -1,1 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Real Property" statutenumber="76-856"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>76-856</statuteno><catchline>Rights of secured lenders.</catchline><para>The declaration may require that all or a specified number or percentage of the mortgagees or beneficiaries of deeds of trust encumbering the units approve specified actions of the unit owners or the association as a condition to the effectiveness of those actions, but no requirement for approval may operate to (i) deny or delegate control over the general administrative affairs of the association by the unit owners or the executive board, or (ii) prevent the association or the executive board from commencing, intervening in, or settling any litigation or proceeding, or receiving and distributing any insurance proceeds except pursuant to section 76-871.</para></amendatorysection></section><source><para>Laws 1983, LB 433, &#167; 32. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Real Property" statutenumber="76-856"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>76-856</statuteno><catchline>Rights of secured lenders; restrictions on lien.</catchline>
+<para>The declaration may require that all or a specified number or percentage
+of the mortgagees or beneficiaries of deeds of trust encumbering the units
+approve specified actions of the unit owners or the association as a condition
+to the effectiveness of those actions, but no requirement for approval may
+operate to (i) deny or delegate control over the general administrative affairs
+of the association by the unit owners or the executive board, or (ii) prevent
+the association or the executive board from commencing, intervening in, or
+settling any litigation or proceeding, or receiving and distributing any insurance
+proceeds except pursuant to section 76-871. The
+declaration may not provide that a lien on a member's unit for any assessment
+levied against the unit relates back to the date of filing of the declaration
+or that such lien takes priority over any mortgage or deed of trust on the
+unit recorded subsequent to the filing of the declaration and prior to the
+recording by the association of the notice required under subsection (a) of
+section 76-874.</para>
+</amendatorysection></section><source><para>Laws 1983, LB 433, &#167; 32; </para><para>Laws 2013, LB442, &#167; 4.</para><effectivedate>September 6, 2013</effectivedate></source>  </law>
+</legaldoc>

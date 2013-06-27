@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Revenue and Taxation" statutenumber="77-1836"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>77-1836</statuteno><catchline>Real property taxes; issuance of treasurer's tax deed; fee.</catchline><para>If any person is compelled to publish notice in a newspaper as provided in sections 77-1834 and 77-1835, then before any person who may have a right to redeem such real property from such sale is permitted to redeem, he or she shall pay the officer or person who by law is authorized to receive such redemption money the amount paid for publishing such notice, for the use of the person compelled to publish the notice. The fee for such publication shall not exceed five dollars for each item of real property contained in such notice. The cost of making such publication shall be noted by the treasurer in the sales book opposite the real property described in the notice.</para></amendatorysection></section><source><para>Laws 1903, c. 73, &#167; 216, p. 468; </para><para>R.S.1913, &#167; 6544; </para><para>C.S.1922, &#167; 6072; </para><para>C.S.1929, &#167; 77-2024; </para><para>R.S.1943, &#167; 77-1836; </para><para>Laws 1992, LB 1063, &#167; 161; </para><para>Laws 1992, Second Spec. Sess., LB 1, &#167; 134; </para><para>Laws 2002, LB 994, &#167; 25. </para></source><annotation><para>Treasurer cannot demand amount unless statement thereof is left with him. State ex rel. Nelson v. Harper, 26 Neb. 761, 42 N.W. 764 (1889).</para><para>This action does not definitely fix charge, only limits amount owner shall pay to redeem. Swan v. Huse, 15 Neb. 465, 19 N.W. 605 (1884).</para></annotation></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id125">
+<amendatorysection amended="yes" chaptername="Revenue and Taxation" id="id127" statutenumber="77-1836">
+<bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>77-1836</statuteno><catchline id="id130">Real property
+taxes; issuance of treasurer's tax deed; fee.</catchline><para>If
+any person is compelled to publish notice in a newspaper as provided in sections
+77-1834 and 77-1835, then before any person who may have a right to redeem
+such real property from such sale is permitted to redeem, he or she shall
+pay the officer or person who by law is authorized to receive such redemption
+money the amount paid for publishing such notice, for the use of the person
+compelled to publish the notice. The fee for such publication shall not exceed
+five dollars for each item of real property contained in such notice. The
+cost of making such publication shall be noted by the county treasurer in the record opposite
+the real property described in the notice.</para>
+</amendatorysection></section><source><para>Laws 1903, c. 73, &#167; 216, p. 468; </para><para>R.S.1913, &#167; 6544; </para><para>C.S.1922, &#167; 6072; </para><para>C.S.1929, &#167; 77-2024; </para><para>R.S.1943, &#167; 77-1836; </para><para>Laws 1992, LB 1063, &#167; 161; </para><para>Laws 1992, Second Spec. Sess., LB 1, &#167; 134; </para><para>Laws 2002, LB 994, &#167; 25; </para><para>Laws 2013, LB341, &#167; 15.</para><operativedate>January 1, 2015</operativedate></source><annotation><para>Treasurer cannot demand amount unless statement thereof is left with him. State ex rel. Nelson v. Harper, 26 Neb. 761, 42 N.W. 764 (1889).</para><para>This action does not definitely fix charge, only limits amount owner shall pay to redeem. Swan v. Huse, 15 Neb. 465, 19 N.W. 605 (1884).</para></annotation>  </law>
+</legaldoc>

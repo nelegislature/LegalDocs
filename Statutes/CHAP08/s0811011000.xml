@@ -2,8 +2,7 @@
 <legaldoc>
 <law type="statute">
 <section>
-<amendatorysection amended="yes" chaptername="Banks and Banking" publishedsource="CumulativeSupplement" statutenumber="8-1111"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>8-1111</statuteno><catchline>Transactions exempt from registration.</catchline>
-<para>Except as provided in this section, sections 8-1103 to 8-1109 shall
+<amendatorysection amended="yes" chaptername="Banks and Banking" publishedsource="CumulativeSupplement" statutenumber="8-1111"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>8-1111</statuteno><catchline>Transactions exempt from registration.</catchline><para>Except as provided in this section, sections 8-1103 to 8-1109 shall
 not apply to any of the following transactions:</para>
 <para>(1) Any isolated transaction, whether effected through a broker-dealer
 or not;</para>
@@ -25,7 +24,8 @@ an underwriter of the security;</para>
 <para>(iv) A nationally recognized securities manual designated by rule and
 regulation or order of the director or a document filed with the Securities
 and Exchange Commission which is publicly available through the Electronic
-Data Gathering and Retrieval System (EDGAR) contains:</para>
+Data Gathering, Analysis, and
+Retrieval System (EDGAR) contains:</para>
 <para>(A) A description of the business and operations of the issuer;</para>
 <para>(B) The names of the issuer's officers and the names of the issuer's
 directors, if any, or, in the case of a non-United-States issuer, the corporate
@@ -82,7 +82,7 @@ by a real estate mortgage or deed of trust or by an agreement for the sale
 of real estate if the real estate securing the evidences of indebtedness are
 parcels of real estate the sale of which requires the subdivision in which
 the parcels are located to be registered under the Interstate Land Sales Full
-Disclosure Act, 15 U.S.C. 1701 et seq., as the act existed on January 1, 2011;</para>
+Disclosure Act, 15 U.S.C. 1701 et seq., as the act existed on January 1, 2013;</para>
 <para>(6) Any transaction by an executor, personal representative, administrator,
 sheriff, marshal, receiver, guardian, or conservator;</para>
 <para>(7) Any transaction executed by a bona fide pledgee without any purpose
@@ -99,11 +99,13 @@ or general partner of a general partner of that issuer, (b) any manager of
 a limited liability company that is the issuer of the securities being offered
 or sold, (c) any natural person whose individual net worth, or joint net worth
 with that person's spouse, at the time of his or her purchase, exceeds one
-million dollars, or (d) any natural person who had an individual income in
-excess of two hundred thousand dollars in each of the two most recent years
-or joint income with that person's spouse in excess of three hundred thousand
-dollars in each of those years and has a reasonable expectation of reaching
-the same income level in the current year;</para>
+million dollars, excluding
+the value of the primary residence of such person, <?Pub Caret?>or
+(d) any natural person who had an individual income in excess of two hundred
+thousand dollars in each of the two most recent years or joint income with
+that person's spouse in excess of three hundred thousand dollars in each of
+those years and has a reasonable expectation of reaching the same income level
+in the current year;</para>
 <para>(9)(a) Any transaction pursuant to an offering in which sales are made
 to not more than fifteen persons, other than those designated in subdivisions
 (8), (11), and (17) of this section, in this state during any period of twelve
@@ -238,7 +240,7 @@ any such transaction is effected by a trustee, director, officer, employee,
 or volunteer of the seller who is either a volunteer or is engaged in the
 overall fundraising activities of a charitable organization and receives no
 commission or other special compensation based on the number or the value
-of interests sold in the fund; or</para>
+of interests sold in the fund;</para>
 <para>(22) Any offer or sale of any viatical settlement contract or any fractionalized
 or pooled interest therein in a transaction that meets all of the following
 criteria:</para>
@@ -253,13 +255,12 @@ home, home furnishings, and automobiles;</para>
 <para>(ii) A corporation, partnership, or other organization specifically
 formed for the purpose of acquiring securities offered by the issuer in reliance
 upon this exemption if each equity owner of the corporation, partnership,
-or other organization is a person described in subdivision (22)(a)(i) of
-this section;</para>
+or other organization is a person described in subdivision (22)(a)(i) of this
+section;</para>
 <para>(iii) A pension or profit-sharing trust of the issuer, a self-employed
 individual retirement plan, or an individual retirement account, if the investment
 decisions made on behalf of the trust, plan, or account are made solely by
-persons described in subdivision (22)(a)(i) of this section;
-or</para>
+persons described in subdivision (22)(a)(i) of this section; or</para>
 <para>(iv) An organization described in section 501(c)(3) of the Internal
 Revenue Code as defined in section 49-801.01, or a corporation, Massachusetts
 or similar business trust, or partnership with total assets in excess of five
@@ -394,24 +395,81 @@ broker-dealer or registered issuer-dealer; and</para>
 <para>(h) At least ten days before use within this state, the issuer files
 with the department all advertising and sales materials that will be published,
 exhibited, broadcast, or otherwise used, directly or indirectly, in the offer
-or sale of a viatical settlement contract in this state.</para>
-<para>The director may by order deny or revoke the exemption specified in
-subdivision (2) of this section with respect to a specific security. Upon
-the entry of such an order, the director shall promptly notify all registered
-broker-dealers that it has been entered and of the reasons therefor and that
-within fifteen business days of the receipt of a written request the matter
-will be set down for hearing. If no hearing is requested within fifteen business
-days of the issuance of the order and none is ordered by the director, the
-order shall automatically become a final order and shall remain in effect
-until it is modified or vacated by the director. If a hearing is requested
-or ordered, the director, after notice of and opportunity for hearing to all
-interested persons, shall enter his or her written findings of fact and conclusions
-of law and may affirm, modify, or vacate the order. No such order may operate
-retroactively. No person may be considered to have violated the provisions
-of the Securities Act of Nebraska by reason of any offer or sale effected
-after the entry of any such order if he or she sustains the burden of proof
-that he or she did not know and in the exercise of reasonable care could not
-have known of the order. In any proceeding under the act, the burden of proving
-an exemption from a definition shall be upon the person claiming it.</para>
-</amendatorysection></section><source><para>Laws 1965, c. 549, &#167; 11, p. 1787; </para><para>Laws 1973, LB 167, &#167; 6; </para><para>Laws 1977, LB 263, &#167; 5; </para><para>Laws 1978, LB 760, &#167; 2; </para><para>Laws 1980, LB 496, &#167; 1; </para><para>Laws 1986, LB 909, &#167; 11; </para><para>Laws 1987, LB 93, &#167; 1; </para><para>Laws 1989, LB 60, &#167; 3; </para><para>Laws 1990, LB 956, &#167; 10; </para><para>Laws 1991, LB 305, &#167; 5; </para><para>Laws 1992, LB 758, &#167; 2; </para><para>Laws 1993, LB 216, &#167; 7; </para><para>Laws 1994, LB 1241, &#167; 1; </para><para>Laws 1995, LB 96, &#167; 1; </para><para>Laws 1996, LB 1053, &#167; 9; </para><para>Laws 1997, LB 335, &#167; 7; </para><para>Laws 2000, LB 932, &#167; 20; </para><para>Laws 2001, LB 52, &#167; 44; </para><para>Laws 2002, LB 957, &#167; 9; </para><para>Laws 2006, LB 876, &#167; 20; </para><para>Laws 2010, LB814, &#167; 1; </para><para>Laws 2011, LB76, &#167; 3.</para></source><annotation><para>Exemption for a transaction under subsection (9) of this section contemplates only a situation where no remuneration in any form is to be given the offeror of the stock. Labenz v. Labenz, 198 Neb. 548, 253 N.W.2d 855 (1977).</para></annotation>  </law>
+or sale of a viatical settlement contract in this state; or</para>
+<para>(23) Any transaction
+in this state not involving a public offering by a Nebraska issuer selling
+solely to Nebraska residents when:</para><para>(a) The proceeds from all sales of securities by the
+issuer in any two-year period do not exceed two hundred fifty thousand dollars
+and at least eighty percent of the proceeds are used in Nebraska;</para>
+<para>(b) No commission or
+other remuneration is paid or given directly or indirectly for soliciting
+any prospective buyer except to a registered agent of a registered broker-dealer;</para>
+<para>(c) The issuer, any partner
+or limited liability company member of the issuer, any officer, director,
+or any person occupying a similar status of the issuer, any person performing
+similar functions for the issuer, or any person holding a direct or indirect
+ownership interest in the issuer or in any way a beneficial interest in such
+sale of securities of the issuer, has not been:</para><para>(i) Found by a final order of any
+state or federal administrative agency or a court of competent jurisdiction
+to have violated any provision of the Securities Act of Nebraska or a similar
+act of any other state or of the United States;</para><para>(ii) Convicted of any felony or
+misdemeanor in connection with the offer, purchase, or sale of any security
+or any felony involving fraud or deceit, including, but not limited to, forgery,
+embezzlement, obtaining money under false pretenses, larceny, or conspiracy
+to defraud;</para><para>(iii)
+Found by any state or federal administrative agency or court of competent
+jurisdiction to have engaged in fraud or deceit, including, but not limited
+to, making an untrue statement of a material fact or omitting to state a material
+fact; or</para><para>(iv)
+Temporarily or preliminarily restrained or enjoined by a court of competent
+jurisdiction from engaging in or continuing any conduct or practice in connection
+with the purchase or sale of any security or involving the making of any false
+filing with any state or with the Securities and Exchange Commission;</para>
+<para>(d)(i) At least fifteen
+business days prior to the offer or sale, the issuer files a notice with the
+director, which notice shall include:</para><para>(A) The name, address, telephone number, and email
+address of the issuer;</para><para>(B)
+The name and address of each person holding direct or indirect ownership or
+beneficial interest in the issuer;</para><para>(C) The amount of the offering; and</para>
+<para>(D) The type of security
+being offered, the manner in which purchasers will be solicited, and a statement
+made upon oath or affirmation that the conditions of this exemption have been
+or will be met.</para><para>(ii)
+Failure to give such notice may be cured by an order issued by the director
+in his or her discretion;</para><para>(e)
+Prior to payment of consideration for the securities, the offeree receives
+a written disclosure statement containing (i) a description of the proposed
+use of the proceeds of the offering; (ii) the name of each partner or limited
+liability company member of the issuer, officer, director, or person occupying
+a similar status of the issuer or performing similar functions for the issuer;
+and (iii) the financial condition of the issuer;</para><para>(f) The purchaser signs a subscription
+agreement in which the purchaser acknowledges that he or she:</para>
+<para>(i) Has received the
+written disclosure statement;</para><para>(ii) Understands the investment involves a high level
+of risk; and</para><para>(iii)
+Has the financial resources to withstand the total loss of the money invested;
+and</para><para>(g)
+The issuer, within thirty days after the completion of the offering, files
+with the Department of Banking and Finance a statement indicating the number
+of investors, the total dollar amount raised, and the use of the offering
+proceeds.</para><para>The director may by order deny or revoke
+the exemption specified in subdivision (2) of this section with respect to
+a specific security. Upon the entry of such an order, the director shall promptly
+notify all registered broker-dealers that it has been entered and of the reasons
+therefor and that within fifteen business days of the receipt of a written
+request the matter will be set down for hearing. If no hearing is requested
+within fifteen business days of the issuance of the order and none is ordered
+by the director, the order shall automatically become a final order and shall
+remain in effect until it is modified or vacated by the director. If a hearing
+is requested or ordered, the director, after notice of and opportunity for
+hearing to all interested persons, shall enter his or her written findings
+of fact and conclusions of law and may affirm, modify, or vacate the order.
+No such order may operate retroactively. No person may be considered to have
+violated the provisions of the Securities Act of Nebraska by reason of any
+offer or sale effected after the entry of any such order if he or she sustains
+the burden of proof that he or she did not know and in the exercise of reasonable
+care could not have known of the order. In any proceeding under the act, the
+burden of proving an exemption from a definition shall be upon the person
+claiming it.</para>
+</amendatorysection></section><source><para>Laws 1965, c. 549, &#167; 11, p. 1787; </para><para>Laws 1973, LB 167, &#167; 6; </para><para>Laws 1977, LB 263, &#167; 5; </para><para>Laws 1978, LB 760, &#167; 2; </para><para>Laws 1980, LB 496, &#167; 1; </para><para>Laws 1986, LB 909, &#167; 11; </para><para>Laws 1987, LB 93, &#167; 1; </para><para>Laws 1989, LB 60, &#167; 3; </para><para>Laws 1990, LB 956, &#167; 10; </para><para>Laws 1991, LB 305, &#167; 5; </para><para>Laws 1992, LB 758, &#167; 2; </para><para>Laws 1993, LB 216, &#167; 7; </para><para>Laws 1994, LB 1241, &#167; 1; </para><para>Laws 1995, LB 96, &#167; 1; </para><para>Laws 1996, LB 1053, &#167; 9; </para><para>Laws 1997, LB 335, &#167; 7; </para><para>Laws 2000, LB 932, &#167; 20; </para><para>Laws 2001, LB 52, &#167; 44; </para><para>Laws 2002, LB 957, &#167; 9; </para><para>Laws 2006, LB 876, &#167; 20; </para><para>Laws 2010, LB814, &#167; 1; </para><para>Laws 2011, LB76, &#167; 3; </para><para>Laws 2013, LB205, &#167; 2; </para><para>Laws 2013, LB214, &#167; 6. </para><effectivedate>September 6, 2013</effectivedate><note>The Revisor of Statutes has pursuant to section 49-769 correlated LB205, section 2, with LB214, section 6, to reflect all amendments.</note></source><annotation><para>Exemption for a transaction under subsection (9) of this section contemplates only a situation where no remuneration in any form is to be given the offeror of the stock. Labenz v. Labenz, 198 Neb. 548, 253 N.W.2d 855 (1977).</para></annotation>  </law>
 </legaldoc>

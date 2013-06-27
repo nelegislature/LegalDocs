@@ -1,1 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Livestock" statutenumber="54-784.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>54-784.01</statuteno><catchline>Act, how cited.</catchline><para>Sections 54-784.01 to 54-796 shall be known and may be cited as the Animal Importation Act.</para></amendatorysection></section><source><para>Laws 1992, LB 366, &#167; 13. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id3">
+<amendatorysection amended="yes" chaptername="Livestock" id="id5" statutenumber="54-784.01"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>54-784.01</statuteno><catchline id="id8">Act, how cited.</catchline><para>Sections 54-784.01 to 54-796 shall be known and may be cited
+as the Animal Importation Act.</para>
+</amendatorysection></section><source><para>Laws 1992, LB 366, &#167; 13; </para><para>Laws 2013, LB647, &#167; 1.</para><effectivedate>September 6, 2013</effectivedate></source>  </law>
+</legaldoc>

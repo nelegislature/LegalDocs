@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Irrigation and Regulation of Water" statutenumber="46-637"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>46-637</statuteno><catchline>Pumping for irrigation purposes; permit; application; approval by Director of Natural Resources.</catchline><para>The use of water described in section 46-636 may only be made after securing a permit from the Department of Natural Resources for such use. If the applicant is an individual, the application for a permit shall include the applicant's social security number. In approving or disapproving applications for such permits, the Director of Natural Resources shall take into account the effect that such pumping may have on the amount of water in the stream and its ability to meet the requirements of appropriators from the stream. This section does not apply to (1) water wells located within fifty feet of the bank of a channel of any natural stream which were in existence on July 1, 2000, and (2) replacement water wells as defined in section 46-602 that are located within fifty feet of the banks of a channel of a stream if the water wells being replaced were originally constructed prior to July 1, 2000, and were located within fifty feet of the bank of a channel of any natural stream.</para></amendatorysection></section><source><para>Laws 1963, c. 275, &#167; 2, p. 828; </para><para>Laws 1993, LB 131, &#167; 17; </para><para>Laws 1997, LB 30, &#167; 3; </para><para>Laws 1997, LB 752, &#167; 121; </para><para>Laws 2000, LB 900, &#167; 176; </para><para>Laws 2001, LB 667, &#167; 8. </para></source><crossreference><para><emphasis>Exemption for reusing ground water from reuse pit,</emphasis> see section 46-287.</para><para><emphasis>For additional definitions,</emphasis> see section 46-706.</para></crossreference></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Irrigation and Regulation of Water" statutenumber="46-637"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>46-637</statuteno><catchline>Pumping for irrigation purposes; permit;
+application; approval by Director of Natural Resources.</catchline><para>The
+use of water described in section 46-636 may only be made after securing a
+permit from the Department of Natural Resources for such use. In
+approving or disapproving applications for such permits, the Director of Natural
+Resources shall take into account the effect that such pumping may have on
+the amount of water in the stream and its ability to meet the requirements
+of appropriators from the stream. This section does not apply to (1) water
+wells located within fifty feet of the bank of a channel of any natural stream
+which were in existence on July 1, 2000, and (2) replacement water wells as
+defined in section 46-602 that are located within fifty feet of the banks
+of a channel of a stream if the water wells being replaced were originally
+constructed prior to July 1, 2000, and were located within fifty feet of the
+bank of a channel of any natural stream.</para>
+</amendatorysection></section><source><para>Laws 1963, c. 275, &#167; 2, p. 828; </para><para>Laws 1993, LB 131, &#167; 17; </para><para>Laws 1997, LB 30, &#167; 3; </para><para>Laws 1997, LB 752, &#167; 121; </para><para>Laws 2000, LB 900, &#167; 176; </para><para>Laws 2001, LB 667, &#167; 8; </para><para>Laws 2013, LB102, &#167; 2.</para><effectivedate>September 6, 2013</effectivedate></source><crossreference><para><emphasis>Exemption for reusing ground water from reuse pit,</emphasis> see section 46-287.</para><para><emphasis>For additional definitions,</emphasis> see section 46-706.</para></crossreference>  </law>
+</legaldoc>

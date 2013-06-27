@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Corporations and Other Companies" statutenumber="21-2617"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>21-2617</statuteno><catchline>Property.</catchline><para>Real and personal property owned or purchased by a limited liability company shall be held and owned and conveyance shall be made in the name of the limited liability company. Instruments and documents providing for the acquisition, mortgage, or disposition of property of the limited liability company shall be valid and binding upon the limited liability company if executed by a manager of a limited liability company having a manager or, if management has been retained by one or more classes of members, by a member of any such class.</para></amendatorysection></section><source><para>Laws 1993, LB 121, &#167; 17; </para><para>Laws 1997, LB 631, &#167; 10.</para><terminationdate>January 1, 2013</terminationdate></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<amendatorysection chaptername="" statutenumber="21-2617">
+				<statuteno>21-2617</statuteno>
+				<catchline>Repealed. Laws 2013, LB 283, &#167; 10.</catchline>
+				
+			</amendatorysection>
+		</section>
+	</law>
+</legaldoc>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id47">
-<sectno id="id48">Sec. 11.</sectno><amendatorysection chaptername="Special Acts" id="id49" publishedsource="AnnualSupplement" statutenumber="90-511"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>90-511</statuteno><catchline>Transfer to Property Tax Credit Cash
-Fund.</catchline><para>The
-State Treasurer shall transfer $112,000,000 from the General Fund to the Property
-Tax Credit Cash Fund on or before December 31, 2010, on such date as directed
-by the budget administrator of the budget division of the Department of Administrative
-Services.</para>
-</amendatorysection></section><source><para>Laws 2009, LB316, &#167; 11.</para></source>  </law>
+		<section>
+			<amendatorysection chaptername="" statutenumber="90-511">
+				<statuteno>90-511</statuteno>
+				<catchline>Repealed. Laws 2013, LB 2, &#167; 1.</catchline>
+				
+			</amendatorysection>
+		</section>
+	</law>
 </legaldoc>

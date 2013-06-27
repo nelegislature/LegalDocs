@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section>
-<sectno></sectno><amendatorysection amended="yes" chaptername="Revenue and Taxation" publishedsource="CumulativeSupplement" statutenumber="77-5719"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>77-5719</statuteno><catchline>Taxpayer, defined.</catchline><para>Taxpayer
-means any person subject to sales and use taxes under the Nebraska Revenue
-Act of 1967 and subject to withholding under section 77-2753 and any corporation,
-partnership, limited liability company, cooperative, including a cooperative
-exempt under section 521 of the Internal Revenue Code of 1986, as amended,
-limited cooperative association, or joint venture that is or would otherwise
-be a member of the same unitary group, if incorporated, that is subject to
-such sales and use taxes or such withholding. Taxpayer does not include a
-political subdivision or an organization that is exempt from income taxes
-under section 501(a) of the Internal Revenue Code of 1986, as amended, or
-any partnership, limited liability company, cooperative, including a cooperative
-exempt under section 521 of the Internal Revenue Code of 1986, as amended,
-limited cooperative association, or joint venture in which political subdivisions
-or organizations described in section 501(c) or (d) of the code hold an ownership
-interest of twenty percent or more.</para>
-</amendatorysection></section><source><para>Laws 2005, LB 312, &#167; 41; </para><para>Laws 2006, LB 1003, &#167; 12; </para><para>Laws 2007, LB368, &#167; 139; </para><para>Laws 2010, LB918, &#167; 3.</para></source><crossreference><para><emphasis>Nebraska Revenue Act of 1967,</emphasis> see section 77-2701.</para></crossreference>  </law>
+<section id="id24">
+<amendatorysection amended="yes" chaptername="Revenue and Taxation" id="id26" publishedsource="CumulativeSupplement" statutenumber="77-5719">
+<bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>77-5719</statuteno><catchline id="id29">Taxpayer, defined.</catchline><para>Taxpayer means any person subject to sales and use taxes under
+the Nebraska Revenue Act of 1967 and subject to withholding under section
+77-2753 and any entity that is or would otherwise be a member
+of the same unitary group, if incorporated, that is subject to such sales
+and use taxes and such withholding. Taxpayer
+does not include a political subdivision or an organization that is exempt
+from income taxes under section 501(a) of the Internal Revenue Code of 1986,
+as amended. For purposes of
+this section, political subdivision includes any public corporation created
+for the benefit of a political subdivision and any group of political subdivisions
+forming a joint public agency, organized by interlocal agreement, or utilizing
+any other method of joint action.</para>
+</amendatorysection></section><source><para>Laws 2005, LB 312, &#167; 41; </para><para>Laws 2006, LB 1003, &#167; 12; </para><para>Laws 2007, LB368, &#167; 139; </para><para>Laws 2010, LB918, &#167; 3; </para><para>Laws 2013, LB34, &#167; 4.</para><effectivedate>September 6, 2013</effectivedate></source><crossreference><para><emphasis>Nebraska Revenue Act of 1967,</emphasis> see section 77-2701.</para></crossreference>  </law>
 </legaldoc>

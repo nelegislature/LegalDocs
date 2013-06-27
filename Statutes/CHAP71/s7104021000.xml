@@ -1,1 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Public Health and Welfare" statutenumber="71-421"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>71-421</statuteno><catchline>Intermediate care facility for the mentally retarded, defined.</catchline><para>Intermediate care facility for the mentally retarded means a facility where shelter, food, and training or habilitation services, advice, counseling, diagnosis, treatment, care, nursing care, or related services are provided for a period of more than twenty-four consecutive hours to four or more persons residing at such facility who have mental retardation or related conditions, including epilepsy, cerebral palsy, or other developmental disabilities.</para></amendatorysection></section><source><para>Laws 2000, LB 819, &#167; 21. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id267">
+<amendatorysection amended="yes" chaptername="Public Health and Welfare" id="id269" statutenumber="71-421"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>71-421</statuteno><catchline id="id272">Intermediate
+care facility for persons
+with developmental disabilities, defined.</catchline><para>Intermediate
+care facility for persons
+with developmental disabilities means a facility where shelter,
+food, and training or habilitation services, advice, counseling, diagnosis,
+treatment, care, nursing care, or related services are provided for a period
+of more than twenty-four consecutive hours to four or more persons residing
+at such facility who have a developmental disability.</para>
+</amendatorysection></section><source><para>Laws 2000, LB 819, &#167; 21; </para><para>Laws 2013, LB23, &#167; 27.</para><effectivedate>September 6, 2013</effectivedate></source>  </law>
+</legaldoc>

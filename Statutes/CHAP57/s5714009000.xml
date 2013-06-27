@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id90">
-<amendatorysection chaptername="Minerals, Oil, and Gas" id="id92" publishedsource="New" statutenumber="57-1409"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>57-1409</statuteno><catchline>Appeal.</catchline><para>Any party aggrieved by a final order of
-the commission regarding an application or assessment under the Major Oil
-Pipeline Siting Act, including, but not limited to, a decision relating to
-the public interest, may appeal. The appeal shall be in accordance with the
-Administrative Procedure Act.</para>
-</amendatorysection></section><source><para>Laws 2011, First Spec. Sess., LB1, &#167; 10.</para></source>  </law>
+<section id="id4">
+<amendatorysection amended="yes" chaptername="Minerals, Oil, and Gas" id="id6" publishedsource="New" statutenumber="57-1409">
+<bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>57-1409</statuteno><catchline id="id9">Appeal.</catchline><para>Any party aggrieved by a final order of the commission regarding
+an application or assessment under the Major Oil Pipeline Siting Act, including,
+but not limited to, a decision relating to the public interest, may appeal.
+The appeal shall be in accordance with section
+75-136.</para>
+</amendatorysection></section><source><para>Laws 2011, First Spec. Sess., LB1, &#167; 10; </para><para>Laws 2013, LB545, &#167; 1.</para><effectivedate>September 6, 2013</effectivedate></source> </law>
 </legaldoc>

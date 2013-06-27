@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Corporations and Other Companies" statutenumber="21-2625"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>21-2625</statuteno><catchline>Distribution of assets upon dissolution.</catchline><para>(1) In settling accounts after dissolution, the liabilities of the limited liability company shall be entitled to payment in the following order:</para><para>(a) Liabilities to creditors other than members of the limited liability company on account of their contributions to capital, in the order of priority provided by law;</para><para>(b) Liabilities to members of the limited liability company in respect of their share of the profits and other compensation by way of income on their contributions; and</para><para>(c) Liabilities to members of the limited liability company in respect of their contributions to capital.</para><para>(2) Subject to any statement in the operating agreement, members shall share in the limited liability company assets in respect to their claims for contributions to capital and in respect to their claims for profits or for compensation by way of income on their contributions to capital, respectively, in proportion to the respective amounts of the claim.</para></amendatorysection></section><source><para>Laws 1993, LB 121, &#167; 25. </para><terminationdate>January 1, 2013</terminationdate></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<amendatorysection chaptername="" statutenumber="21-2625">
+				<statuteno>21-2625</statuteno>
+				<catchline>Repealed. Laws 2013, LB 283, &#167; 10.</catchline>
+				
+			</amendatorysection>
+		</section>
+	</law>
+</legaldoc>

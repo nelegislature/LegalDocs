@@ -1,1 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection amended="yes" chaptername="Revenue and Taxation" statutenumber="77-2715.08"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>77-2715.08</statuteno><catchline>Capital gains; terms, defined.</catchline><para>For purposes of this section and section 77-2715.09, unless the context otherwise requires:</para><para>(1) Capital stock means common or preferred stock, either voting or nonvoting. Capital stock does not include stock rights, stock warrants, stock options, or debt securities;</para><para>(2)(a) Corporation means any corporation which, at the time of the first sale or exchange for which the election is made, has been in existence and actively doing business in this state for at least three years.</para><para>(b) Corporation also includes: </para><para>(i) Any corporation which is a member of a unitary group of corporations, as defined in section 77-2734.04, which includes a corporation defined in subdivision (2)(a) of this section; and</para><para>(ii) Any predecessor or successor corporation of a corporation defined in subdivision (2)(a) of this section.</para><para>(c) All corporations issuing capital stock for which an election under section 77-2715.09 is made shall, at the time of the first sale or exchange for which the election is made, have (i) at least five shareholders and (ii) at least two shareholders or groups of shareholders who are not related to each other and each of which owns at least ten percent of the capital stock.</para><para>For purposes of this subdivision, two persons shall be considered to be related when, under section 318 of the Internal Revenue Code of 1986, one is a person who owns, directly or indirectly, capital stock that if directly owned would be attributed to the other person or is the brother, sister, aunt, uncle, cousin, niece, or nephew of the other person who owns capital stock either directly or indirectly;</para><para>(3) Extraordinary dividend means any dividend exceeding twenty percent of the fair market value of the stock on which it is paid as of the date the dividend is declared; and</para><para>(4) Predecessor or successor corporation means a corporation that was a party to a reorganization that was entirely or substantially tax free and that occurred during or after the employment of the individual making an election under section 77-2715.09.</para></amendatorysection></section><source><para>Laws 1987, LB 775, &#167; 11; </para><para>Laws 1991, LB 773, &#167; 11; </para><para>Laws 2007, LB343, &#167; 4.</para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Revenue and Taxation" statutenumber="77-2715.08"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>77-2715.08</statuteno><catchline>Capital gains; terms, defined.</catchline><para>For purposes of this section and section 77-2715.09, unless the context
+otherwise requires:</para>
+<para>(1) Capital stock means common or preferred stock, either voting or
+nonvoting. Capital stock does not include stock rights, stock warrants, stock
+options, or debt securities;</para>
+<para>(2)(a) Corporation means any corporation which, at the time of the first
+sale or exchange for which the election is made, has been in existence and
+actively doing business in this state for at least three years.</para>
+<para>(b) Corporation also includes:</para>
+<para>(i) Any corporation which is a member of a unitary group of corporations,
+as defined in section 77-2734.04, which includes a corporation defined in
+subdivision (2)(a) of this section; and</para>
+<para>(ii) Any predecessor or successor corporation of a corporation defined
+in subdivision (2)(a) of this section.</para>
+<para>(c) All corporations issuing capital stock for which an election under
+section 77-2715.09 is made shall, at the time of the first sale or exchange
+for which the election is made, have (i) at least five shareholders and (ii)
+at least two shareholders or groups of shareholders who are not related to
+each other and each of which owns at least ten percent of the capital stock.</para>
+<para>(d) For purposes
+of subdivision (2)(c) of this section:</para>
+<para>(i) Each participant
+in an employee stock ownership trust qualified under section 401(a) of the
+Internal Revenue Code of 1986, as amended, is a shareholder; and</para>
+<para>(ii) Two persons shall be
+considered to be related when, under section 318 of the Internal Revenue Code
+of 1986, as amended, one
+is a person who owns, directly or indirectly, capital stock that if directly
+owned would be attributed to the other person or is the brother, sister, aunt,
+uncle, cousin, niece, or nephew of the other person who owns capital stock
+either directly or indirectly;</para>
+<para>(3) Extraordinary dividend means any dividend exceeding twenty percent
+of the fair market value of the stock on which it is paid as of the date the
+dividend is declared; and</para>
+<para>(4) Predecessor or successor corporation means a corporation that was
+a party to a reorganization that was entirely or substantially tax free and
+that occurred during or after the employment of the individual making an election
+under section 77-2715.09.</para>
+</amendatorysection></section><source><para>Laws 1987, LB 775, &#167; 11; </para><para>Laws 1991, LB 773, &#167; 11; </para><para>Laws 2007, LB343, &#167; 4; </para><para>Laws 2013, LB573, &#167; 1.</para><operativedate>January 1, 2014</operativedate></source>  </law>
+</legaldoc>

@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Health Occupations and Professions" statutenumber="38-2845"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>38-2845</statuteno><catchline>Supervision, defined.</catchline><para>Supervision means the immediate personal guidance and direction by the licensed pharmacist on duty in the facility of the performance by a pharmacy technician of authorized activities or functions subject to verification by such pharmacist, except that when a pharmacy technician performs authorized activities or functions to assist a pharmacist on duty in the facility when the prescribed drugs or devices will be administered by a licensed staff member or consultant or by a licensed physician assistant to persons who are patients or residents of a facility, the activities or functions of such pharmacy technician shall only be subject to verification by a pharmacist on duty in the facility.</para></amendatorysection></section><source><para>Laws 2007, LB463, &#167; 941. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id4">
+<amendatorysection amended="yes" chaptername="Health Occupations and Professions" id="id6" statutenumber="38-2845"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>38-2845</statuteno><catchline id="id9">Supervision, defined.</catchline>
+<para>Supervision means the personal
+guidance and direction by a pharmacist of
+the performance by a pharmacy technician of authorized activities or functions
+subject to verification by such pharmacist.
+Supervision of a pharmacy technician may occur by means of a real-time audiovisual
+communication system.</para>
+</amendatorysection></section><source><para>Laws 2007, LB463, &#167; 941; </para><para>Laws 2013, LB326, &#167; 1.</para><effectivedate>September 6, 2013</effectivedate></source>  </law>
+</legaldoc>

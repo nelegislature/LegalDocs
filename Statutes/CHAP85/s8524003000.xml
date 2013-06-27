@@ -1,60 +1,70 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="State Uni., State Colleges, and Post. Education" id="id14" publishedsource="AnnualSupplement" statutenumber="85-2403"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>85-2403</statuteno><catchline>Terms, defined.</catchline><para>For
-purposes of the Postsecondary Institution Act:</para>
-<para>(1) Authorization to operate means either an authorization to operate on
-a continuing basis or a recurrent authorization to operate;</para>
-<para>(2) Authorization to operate on a continuing basis means approval by
-the commission to operate a postsecondary institution in this state without
-a renewal requirement;</para>
-<para>(3) Commission means the Coordinating Commission for Postsecondary Education;</para>
+<section id="id22">
+<amendatorysection amended="yes" chaptername="State Uni., State Colleges, and Post. Education" id="id24" publishedsource="AnnualSupplement" statutenumber="85-2403"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>85-2403</statuteno><catchline id="id27">Terms, defined.</catchline><para>For purposes of the Postsecondary Institution Act:</para>
+<para>(1) Authorization to operate means either an authorization
+to operate on a continuing basis or a recurrent authorization to operate;</para>
+<para>(2) Authorization to operate on a continuing basis means approval
+by the commission to operate a postsecondary institution in this state without
+a renewal requirement and once
+such authorization has been issued it continues indefinitely unless otherwise
+suspended, revoked, or terminated, including such authorizations previously
+deemed to be effective as of May 5, 2011, pursuant to the Postsecondary Institution
+Act for private and out-of-state public postsecondary institutions that had
+been continuously offering four-year undergraduate programs with a physical
+presence in the state for at least twenty academic years and for Nebraska
+public postsecondary institutions;</para>
+<para>(3) Commission means the Coordinating Commission for Postsecondary
+Education;</para>
 <para>(4)(a) Establishing a physical presence means:</para>
-<para>(i) Offering a course for college credit or a degree program in this
-state that leads to an associate, baccalaureate, graduate, or professional
+<para>(i) Offering a course for college credit or a degree program
+in this state that leads to an associate, baccalaureate, graduate, or professional
 degree, including:</para>
-<para>(A) Establishing a physical location in this state where a student may
-receive synchronous or asynchronous instruction; or</para>
-<para>(B) Offering a course or program that requires students to physically
-meet in one location for instructional purposes more than once during the
-course term; or</para>
-<para>(ii) Establishing an administrative office in this state, including:</para>
-<para>(A) Maintaining an administrative office in this state for purposes of enrolling students, providing
-information to students about the institution, or providing student support
-services;</para>
-<para>(B) Providing office space to staff, whether instructional or noninstructional
-staff; or</para>
+<para>(A) Establishing a physical location in this state where a
+student may receive synchronous or asynchronous instruction; or</para>
+<para>(B) Offering a course or program that requires students to
+physically meet in one location for instructional purposes more than once
+during the course term; or</para>
+<para>(ii) Establishing an administrative office in this state,
+including:</para>
+<para>(A) Maintaining an administrative office in this state for
+purposes of enrolling students, providing information to students about the
+institution, or providing student support services;</para>
+<para>(B) Providing office space to staff, whether instructional
+or noninstructional staff; or</para>
 <para>(C) Establishing a mailing address in this state.</para>
 <para>(b) Physical presence does not include:</para>
-<para>(i) Course offerings in the nature of a short course or seminar if instruction
-for the short course or seminar takes no more than twenty classroom hours and the institution offers no more than
-two courses as defined by the commission in a calendar year;</para>
-<para>(ii) Course offerings on a military installation solely for military
-personnel or civilians employed on such installation;</para>
-<para>(iii) An educational experience arranged for an individual student,
-such as a clinical, practicum, residency, or internship; or</para>
-<para>(iv) Courses offered online or through the United States mail or similar
-delivery service which do not require the physical meeting of a student with
-instructional staff;</para>
-<para>(5) Executive director means the executive director of the commission
-or his or her designee;</para>
-<para>(6) Nebraska public postsecondary institution means any public institution
-established, operated, and governed by this state or any of its political
-subdivisions that provides postsecondary education;</para>
-<para>(7) Out-of-state public postsecondary institution means any public institution
-with a physical presence in Nebraska that is established, operated, and governed
-by another state or any of its political subdivisions and that provides postsecondary
-education;</para>
-<para>(8) Postsecondary institution means any private postsecondary institution,
-out-of-state public postsecondary institution, or Nebraska public postsecondary
-institution exempt from the Private Postsecondary Career School Act;</para>
-<para>(9) Private postsecondary institution means any Nebraska or out-of-state
-nonpublic postsecondary institution with a physical presence in Nebraska,
-including any for-profit or nonprofit institution, that provides postsecondary
-education; and</para>
-<para>(10) Recurrent authorization
-to operate means approval by the commission to operate a postsecondary institution
-in this state until a renewal of such authorization is required.</para>
-</amendatorysection></section><source><para>Laws 2011, LB637, &#167; 3; </para><para>Laws 2012, LB1104, &#167; 13.</para></source><crossreference><para><emphasis>Private Postsecondary Career School Act,</emphasis> see section 85-1601.</para></crossreference>  </law>
+<para>(i) Course offerings in the nature of a short course or seminar
+if instruction for the short course or seminar takes no more than twenty classroom
+hours and the institution offers no more than two courses as defined by the
+commission in a calendar year;</para>
+<para>(ii) Course offerings on a military installation solely for
+military personnel or civilians employed on such installation;</para>
+<para>(iii) An educational experience arranged for an individual
+student, such as a clinical, practicum, residency, or internship; or</para>
+<para>(iv) Courses offered online or through the United States mail
+or similar delivery service which do not require the physical meeting of a
+student with instructional staff;</para>
+<para>(5) Executive director means the executive director of the
+commission or his or her designee;</para>
+<para>(6) Nebraska public postsecondary institution means any public
+institution established, operated, and governed by this state or any of its
+political subdivisions that provides postsecondary education;</para>
+<para>(7) Out-of-state public postsecondary institution means any
+public institution with a physical presence in Nebraska that is established,
+operated, and governed by another state or any of its political subdivisions
+and that provides postsecondary education;</para>
+<para>(8) Postsecondary institution means any private postsecondary
+institution, out-of-state public postsecondary institution, or Nebraska public
+postsecondary institution exempt from the Private Postsecondary Career School
+Act;</para>
+<para>(9) Private postsecondary institution means any Nebraska or
+out-of-state nonpublic postsecondary institution with a physical presence
+in Nebraska, including any for-profit or nonprofit institution, that provides
+postsecondary education; and</para>
+<para>(10) Recurrent authorization to operate means approval by
+the commission to operate a postsecondary institution in this state until
+a renewal of such authorization is required.</para>
+</amendatorysection></section><source><para>Laws 2011, LB637, &#167; 3; </para><para>Laws 2012, LB1104, &#167; 13; </para><para>Laws 2013, LB331, &#167; 3.</para><effectivedate>June 5, 2013</effectivedate></source><crossreference><para><emphasis>Private Postsecondary Career School Act,</emphasis> see section 85-1601.</para></crossreference>  </law>
 </legaldoc>

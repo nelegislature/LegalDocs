@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id3">
-<amendatorysection amended="yes" chaptername="Motor Vehicles" id="id5" publishedsource="CumulativeSupplement" statutenumber="60-1401"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>60-1401</statuteno><catchline id="id8">Act, how cited;
-applicability of amendments.</catchline><para>Sections 60-1401 to
-60-1440 shall be known and may be cited as the Motor Vehicle Industry Regulation
-Act.</para>
-<para>Any amendments to the act shall apply to franchises subject
-to the act which are entered into, amended, altered, modified, renewed, or
-extended after the date of the amendments to the act except as otherwise specifically
-provided in the act.</para>
-<para>All amendments
-to the act shall apply upon the issuance or renewal of a dealer's or manufacturer's
-license.</para></amendatorysection></section><source><para>Laws 2010, LB816, &#167; 12; </para><para>Laws 2011, LB477, &#167; 1.</para></source>  </law>
+<section>
+<amendatorysection amended="yes" chaptername="Motor Vehicles" id="id5" publishedsource="CumulativeSupplement" statutenumber="60-1401"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>60-1401</statuteno><catchline id="id8">Act, how cited; applicability
+of amendments.</catchline><para>Sections 60-1401 to 60-1440 shall be known
+and may be cited as the Motor Vehicle Industry Regulation Act.</para><?Pub Caret?>
+<para>Any amendments to the act shall apply to franchises subject to the act
+which are entered into, amended, altered, modified, renewed, or extended after
+the date of the amendments to the act except as otherwise specifically provided
+in the act.</para>
+<para>All amendments to the act shall apply upon the issuance or renewal of
+a dealer's or manufacturer's license.</para>
+</amendatorysection></section><source><para>Laws 2010, LB816, &#167; 12; </para><para>Laws 2011, LB477, &#167; 1; </para><para>Laws 2013, LB133, &#167; 1.</para><effectivedate>September 6, 2013</effectivedate></source>  </law>
 </legaldoc>

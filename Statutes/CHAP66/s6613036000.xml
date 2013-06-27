@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="Oils, Fuels, and Energy" statutenumber="66-1336"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>66-1336</statuteno><catchline>Administrator; appointed; duties.</catchline>
-<para>The board shall retain the services of a full-time administrator to
-be appointed by the board. The administrator shall hold office at the pleasure
-of the board. The administrator shall compile a biennial report to be submitted
-to the board and the Clerk of the Legislature. The report submitted to the Clerk of the Legislature shall
-be submitted electronically. The report shall set forth the activities,
-contracts, and projects of the board for the previous biennium and the amount
-of funds expended. Each member of the Legislature shall receive an electronic copy of such report by making
-a request for it to the board.</para>
-</amendatorysection></section><source><para>Laws 1993, LB 364, &#167; 7; </para><para>Laws 2012, LB782, &#167; 89.</para></source>  </law>
+<section id="id275">
+<amendatorysection amended="yes" chaptername="Oils, Fuels, and Energy" id="id277" statutenumber="66-1336"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>66-1336</statuteno><catchline id="id280">Administrator.</catchline><para>The
+board shall retain the services of a full-time administrator to be appointed
+by the board. The administrator shall hold office at the pleasure of the board.</para>
+</amendatorysection></section><source><para>Laws 1993, LB 364, &#167; 7; </para><para>Laws 2012, LB782, &#167; 89; </para><para>Laws 2013, LB222, &#167; 21.</para><effectivedate>May 8, 2013</effectivedate></source>  </law>
 </legaldoc>

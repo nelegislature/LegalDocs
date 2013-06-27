@@ -1,30 +1,32 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="Cities and Villages; Laws Applicable to All" statutenumber="18-2103"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>18-2103</statuteno><catchline>Terms, defined.</catchline><para>For
-purposes of the Community Development Law, unless the context otherwise requires:</para>
-<para>(1) An authority means any community redevelopment authority created
-pursuant to section 18-2102.01 and a city or village which has created a community
-development agency pursuant to the provisions of section 18-2101.01 and does
-not include a limited community redevelopment authority;</para>
-<para>(2) Limited community redevelopment authority means a community redevelopment
-authority created pursuant to section 18-2102.01 having only one single specific
-limited pilot project authorized;</para>
+<section id="id11">
+<amendatorysection amended="yes" chaptername="Cities and Villages; Laws Applicable to All" id="id13" statutenumber="18-2103"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>18-2103</statuteno><catchline id="id16">Terms, defined.</catchline><para>For purposes of the Community Development Law, unless the
+context otherwise requires:</para>
+<para>(1) An authority means any community redevelopment authority
+created pursuant to section 18-2102.01 and a city or village which has created
+a community development agency pursuant to the provisions of section 18-2101.01
+and does not include a limited community redevelopment authority;</para>
+<para>(2) Limited community redevelopment authority means a community
+redevelopment authority created pursuant to section 18-2102.01 having only
+one single specific limited pilot project authorized;</para>
 <para>(3) City means any city or incorporated village in the state;</para>
-<para>(4) Public body means the state or any municipality, county, township,
-board, commission, authority, district, or other political subdivision or
-public body of the state;</para>
-<para>(5) Governing body or local governing body means the city council, board
-of trustees, or other legislative body charged with governing the municipality;</para>
-<para>(6) Mayor means the mayor of the city or chairperson of the board of
-trustees of the village;</para>
+<para>(4) Public body means the state or any municipality, county,
+township, board, commission, authority, district, or other political subdivision
+or public body of the state;</para>
+<para>(5) Governing body or local governing body means the city
+council, board of trustees, or other legislative body charged with governing
+the municipality;</para>
+<para>(6) Mayor means the mayor of the city or chairperson of the
+board of trustees of the village;</para>
 <para>(7) Clerk means the clerk of the city or village;</para>
-<para>(8) Federal government means the United States of America, or any agency
-or instrumentality, corporate or otherwise, of the United States of America;</para>
-<para>(9) Area of operation means and includes the area within the corporate
-limits of the city and such land outside the city as may come within the purview
-of section 18-2123;</para>
+<para>(8) Federal government means the United States of America,
+or any agency or instrumentality, corporate or otherwise, of the United States
+of America;</para>
+<para>(9) Area of operation means and includes the area within the
+corporate limits of the city and such land outside the city as may come within
+the purview of sections 18-2123 and 18-2123.01;</para>
 <para>(10) Substandard areas means an area in which there is a predominance
 of buildings or improvements, whether nonresidential or residential in character,
 which, by reason of dilapidation, deterioration, age or obsolescence, inadequate
@@ -34,10 +36,10 @@ life or property by fire and other causes, or any combination of such factors,
 is conducive to ill health, transmission of disease, infant mortality, juvenile
 delinquency, and crime, (which cannot be remedied through construction of
 prisons), and is detrimental to the public health, safety, morals, or welfare;</para>
-<para>(11) Blighted area means an area, which (a) by reason of the presence
-of a substantial number of deteriorated or deteriorating structures, existence
-of defective or inadequate street layout, faulty lot layout in relation to
-size, adequacy, accessibility, or usefulness, insanitary or unsafe conditions,
+<para>(11) Blighted area means an area, which (a) by reason of the
+presence of a substantial number of deteriorated or deteriorating structures,
+existence of defective or inadequate street layout, faulty lot layout in relation
+to size, adequacy, accessibility, or usefulness, insanitary or unsafe conditions,
 deterioration of site or other improvements, diversity of ownership, tax or
 special assessment delinquency exceeding the fair value of the land, defective
 or unusual conditions of title, improper subdivision or obsolete platting,
@@ -60,97 +62,100 @@ primary, or first class designate more than thirty-five percent of the city
 as blighted, a city of the second class shall not designate an area larger
 than fifty percent of the city as blighted, and a village shall not designate
 an area larger than one hundred percent of the village as blighted;</para>
-<para>(12) Redevelopment project means any work or undertaking in one or more
-community redevelopment areas: (a) To acquire substandard and blighted areas
-or portions thereof, including lands, structures, or improvements the acquisition
-of which is necessary or incidental to the proper clearance, development,
-or redevelopment of such substandard and blighted areas; (b) to clear any
-such areas by demolition or removal of existing buildings, structures, streets,
-utilities, or other improvements thereon and to install, construct, or reconstruct
-streets, utilities, parks, playgrounds, public spaces, public parking facilities,
-sidewalks or moving sidewalks, convention and civic centers, bus stop shelters,
-lighting, benches or other similar furniture, trash receptacles, shelters,
-skywalks and pedestrian and vehicular overpasses and underpasses, and any
-other necessary public improvements essential to the preparation of sites
-for uses in accordance with a redevelopment plan; (c) to sell, lease, or otherwise
-make available land in such areas for residential, recreational, commercial,
-industrial, or other uses, including parking or other facilities functionally
-related or subordinate to such uses, or for public use or to retain such land
-for public use, in accordance with a redevelopment plan; and may also include
-the preparation of the redevelopment plan, the planning, survey, and other
-work incident to a redevelopment project and the preparation of all plans
-and arrangements for carrying out a redevelopment project; (d) to dispose
-of all real and personal property or any interest in such property, or assets,
-cash, or other funds held or used in connection with residential, recreational,
+<para>(12) Redevelopment project means any work or undertaking in
+one or more community redevelopment areas: (a) To acquire substandard and
+blighted areas or portions thereof, including lands, structures, or improvements
+the acquisition of which is necessary or incidental to the proper clearance,
+development, or redevelopment of such substandard and blighted areas; (b)
+to clear any such areas by demolition or removal of existing buildings, structures,
+streets, utilities, or other improvements thereon and to install, construct,
+or reconstruct streets, utilities, parks, playgrounds, public spaces, public
+parking facilities, sidewalks or moving sidewalks, convention and civic centers,
+bus stop shelters, lighting, benches or other similar furniture, trash receptacles,
+shelters, skywalks and pedestrian and vehicular overpasses and underpasses,
+and any other necessary public improvements essential to the preparation of
+sites for uses in accordance with a redevelopment plan; (c) to sell, lease,
+or otherwise make available land in such areas for residential, recreational,
 commercial, industrial, or other uses, including parking or other facilities
-functionally related or subordinate to such uses, or any public use specified
-in a redevelopment plan or project, except that such disposition shall be
-at its fair value for uses in accordance with the redevelopment plan; (e)
-to acquire real property in a community redevelopment area which, under the
-redevelopment plan, is to be repaired or rehabilitated for dwelling use or
-related facilities, repair or rehabilitate the structures, and resell the
-property; and (f) to carry out plans for a program of voluntary or compulsory
-repair, rehabilitation, or demolition of buildings
-or other improvements in accordance with the redevelopment plan;</para>
-<para>(13) Redevelopment plan means a plan, as it exists from time to time
-for one or more community redevelopment areas, or for a redevelopment project,
-which (a) conforms to the general plan for the municipality as a whole and
-(b) is sufficiently complete to indicate such land acquisition, demolition
-and removal of structures, redevelopment, improvements, and rehabilitation
+functionally related or subordinate to such uses, or for public use or to
+retain such land for public use, in accordance with a redevelopment plan;
+and may also include the preparation of the redevelopment plan, the planning,
+survey, and other work incident to a redevelopment project and the preparation
+of all plans and arrangements for carrying out a redevelopment project; (d)
+to dispose of all real and personal property or any interest in such property,
+or assets, cash, or other funds held or used in connection with residential,
+recreational, commercial, industrial, or other uses, including parking or
+other facilities functionally related or subordinate to such uses, or any
+public use specified in a redevelopment plan or project, except that such
+disposition shall be at its fair value for uses in accordance with the redevelopment
+plan; (e) to acquire real property in a community redevelopment area which,
+under the redevelopment plan, is to be repaired or rehabilitated for dwelling
+use or related facilities, repair or rehabilitate the structures, and resell
+the property; and (f) to carry out plans for a program of voluntary or compulsory
+repair, rehabilitation, or demolition of buildings or other improvements in
+accordance with the redevelopment plan;</para>
+<para>(13) Redevelopment plan means a plan, as it exists from time
+to time for one or more community redevelopment areas, or for a redevelopment
+project, which (a) conforms to the general plan for the municipality as a
+whole and (b) is sufficiently complete to indicate such land acquisition,
+demolition and removal of structures, redevelopment, improvements, and rehabilitation
 as may be proposed to be carried out in the community redevelopment area,
 zoning and planning changes, if any, land uses, maximum densities, and building
 requirements;</para>
-<para>(14) Redeveloper means any person, partnership, or public or private
-corporation or agency which enters or proposes to enter into a redevelopment
-contract;</para>
-<para>(15) Redevelopment contract means a contract entered into between an
-authority and a redeveloper for the redevelopment of an area in conformity
-with a redevelopment plan;</para>
-<para>(16) Real property means all lands, including improvements and fixtures
-thereon, and property of any nature appurtenant thereto, or used in connection
-therewith, and every estate, interest and right, legal or equitable, therein,
-including terms for years and liens by way of judgment, mortgage, or otherwise,
-and the indebtedness secured by such liens;</para>
-<para>(17) Bonds means any bonds, including refunding bonds, notes, interim
-certificates, debentures, or other obligations issued pursuant to the Community
-Development Law except for bonds issued pursuant to section 18-2142.04;</para>
-<para>(18) Obligee means any bondholder, agent, or trustee for any bondholder,
-or lessor demising to any authority, established pursuant to section 18-2102.01,
-property used in connection with a redevelopment project, or any assignee
-or assignees of such lessor's interest or any part thereof, and the federal
-government when it is a party to any contract with such authority;</para>
-<para>(19) Person means any individual, firm, partnership, limited liability
-company, corporation, company, association, joint-stock association, or body
-politic and includes any trustee, receiver, assignee, or other similar representative
-thereof;</para>
-<para>(20) Community redevelopment area means a substandard and blighted area
-which the community redevelopment authority designates as appropriate for
-a renewal project;</para>
-<para>(21) Redevelopment project valuation means the valuation for assessment
-of the taxable real property in a redevelopment project last certified for
-the year prior to the effective date of the provision authorized in section
+<para>(14) Redeveloper means any person, partnership, or public
+or private corporation or agency which enters or proposes to enter into a
+redevelopment contract;</para>
+<para>(15) Redevelopment contract means a contract entered into
+between an authority and a redeveloper for the redevelopment of an area in
+conformity with a redevelopment plan;</para>
+<para>(16) Real property means all lands, including improvements
+and fixtures thereon, and property of any nature appurtenant thereto, or used
+in connection therewith, and every estate, interest and right, legal or equitable,
+therein, including terms for years and liens by way of judgment, mortgage,
+or otherwise, and the indebtedness secured by such liens;</para>
+<para>(17) Bonds means any bonds, including refunding bonds, notes,
+interim certificates, debentures, or other obligations issued pursuant to
+the Community Development Law except for bonds issued pursuant to section
+18-2142.04;</para>
+<para>(18) Obligee means any bondholder, agent, or trustee for any
+bondholder, or lessor demising to any authority, established pursuant to section
+18-2102.01, property used in connection with a redevelopment project, or any
+assignee or assignees of such lessor's interest or any part thereof, and the
+federal government when it is a party to any contract with such authority;</para>
+<para>(19) Person means any individual, firm, partnership, limited
+liability company, corporation, company, association, joint-stock association,
+or body politic and includes any trustee, receiver, assignee, or other similar
+representative thereof;</para>
+<para>(20) Community redevelopment area means a substandard and
+blighted area which the community redevelopment authority designates as appropriate
+for a renewal project;</para>
+<para>(21) Redevelopment project valuation means the valuation for
+assessment of the taxable real property in a redevelopment project last certified
+for the year prior to the effective date of the provision authorized in section
 18-2147;</para>
-<para>(22) Enhanced employment area means an area not exceeding six hundred
-acres (a) within a community redevelopment area which is designated by an
-authority as eligible for the imposition of an occupation tax or (b) not within
-a community redevelopment area as may be designated under section 18-2142.04;</para>
-<para>(23) Employee means a person employed at a business as a result of a
-redevelopment project;</para>
-<para>(24) Employer-provided health benefit means any item paid for by the
-employer in total or in part that aids in the cost of health care services,
-including, but not limited to, health insurance, health savings accounts,
-and employer reimbursement of health care costs;</para>
-<para>(25) Equivalent employees means the number of employees computed by
-(a) dividing the total hours to be paid in a year by (b) the product of forty
-times the number of weeks in a year;</para>
-<para>(26) Business means any private business located in an enhanced employment
-area;</para>
-<para>(27) New investment means the value of improvements to real estate made
-in an enhanced employment area by a developer or a business;</para>
-<para>(28) Number of new employees means the number of equivalent employees
-that are employed at a business as a result of the redevelopment project during
-a year that are in excess of the number of equivalent employees during the
-year immediately prior to the year that a redevelopment plan is adopted; and</para>
+<para>(22) Enhanced employment area means an area not exceeding
+six hundred acres (a) within a community redevelopment area which is designated
+by an authority as eligible for the imposition of an occupation tax or (b)
+not within a community redevelopment area as may be designated under section
+18-2142.04;</para>
+<para>(23) Employee means a person employed at a business as a result
+of a redevelopment project;</para>
+<para>(24) Employer-provided health benefit means any item paid
+for by the employer in total or in part that aids in the cost of health care
+services, including, but not limited to, health insurance, health savings
+accounts, and employer reimbursement of health care costs;</para>
+<para>(25) Equivalent employees means the number of employees computed
+by (a) dividing the total hours to be paid in a year by (b) the product of
+forty times the number of weeks in a year;</para>
+<para>(26) Business means any private business located in an enhanced
+employment area;</para>
+<para>(27) New investment means the value of improvements to real
+estate made in an enhanced employment area by a developer or a business;</para>
+<para>(28) Number of new employees means the number of equivalent
+employees that are employed at a business as a result of the redevelopment
+project during a year that are in excess of the number of equivalent employees
+during the year immediately prior to the year that a redevelopment plan is
+adopted; and</para>
 <para>(29) Occupation tax means a tax imposed under section 18-2142.02.</para>
-</amendatorysection></section><source><para>Laws 1951, c. 224, &#167; 3, p. 797; </para><para>R.R.S.1943, &#167; 14-1603; </para><para>Laws 1957, c. 52, &#167; 4, p. 249; </para><para>Laws 1961, c. 61, &#167; 3, p. 227; </para><para>R.R.S.1943, &#167; 19-2603; </para><para>Laws 1965, c. 74, &#167; 3, p. 303; </para><para>Laws 1969, c. 106, &#167; 2, p. 488; </para><para>Laws 1973, LB 299, &#167; 3; </para><para>Laws 1979, LB 158, &#167; 2; </para><para>Laws 1980, LB 986, &#167; 2; </para><para>Laws 1984, LB 1084, &#167; 2; </para><para>Laws 1993, LB 121, &#167; 143; </para><para>Laws 1997, LB 875, &#167; 5; </para><para>Laws 2007, LB562, &#167; 2; </para><para>Laws 2012, LB729, &#167; 1.</para></source>  </law>
+</amendatorysection></section><source><para>Laws 1951, c. 224, &#167; 3, p. 797; </para><para>R.R.S.1943, &#167; 14-1603; </para><para>Laws 1957, c. 52, &#167; 4, p. 249; </para><para>Laws 1961, c. 61, &#167; 3, p. 227; </para><para>R.R.S.1943, &#167; 19-2603; </para><para>Laws 1965, c. 74, &#167; 3, p. 303; </para><para>Laws 1969, c. 106, &#167; 2, p. 488; </para><para>Laws 1973, LB 299, &#167; 3; </para><para>Laws 1979, LB 158, &#167; 2; </para><para>Laws 1980, LB 986, &#167; 2; </para><para>Laws 1984, LB 1084, &#167; 2; </para><para>Laws 1993, LB 121, &#167; 143; </para><para>Laws 1997, LB 875, &#167; 5; </para><para>Laws 2007, LB562, &#167; 2; </para><para>Laws 2012, LB729, &#167; 1; </para><para>Laws 2013, LB66, &#167; 2.</para><effectivedate>September 6, 2013</effectivedate></source>  </law>
 </legaldoc>

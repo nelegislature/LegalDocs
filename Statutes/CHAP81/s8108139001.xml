@@ -1,33 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="State Administrative Departments" statutenumber="81-8,139.01"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>81-8,139.01</statuteno><catchline>Athletic Advisory Committee;
-created; members; qualifications; expenses; duties; appeal.</catchline><para>(1)
-An advisory committee is hereby created which shall be known as the Athletic
-Advisory Committee. The Governor shall appoint five persons
-to the committee. The members shall be selected on their experience, training,
-and interest in mixed martial arts, professional boxing,
-and professional wrestling.
-One member shall be or shall have been active in mixed martial arts, one member shall be or shall have been
-active in professional wrestling, one member shall be or shall have been active
-in professional boxing, one member shall be a medical doctor with ringside
-experience, and one member shall be an at-large member. The members shall
-serve at the pleasure of the Governor, and the commissioner may recommend
-individuals to serve on the advisory committee. The members shall receive
-no salaries but shall receive reimbursement for their expenses as provided
-in sections 81-1174 to 81-1177. The committee shall meet and be located within
-the Charitable Gaming Division of the Department of Revenue. The committee
-may exercise and perform its powers and duties at any location in the state.
-The committee shall review the rules and regulations drawn up by the commissioner
-pursuant to section 81-8,139 and shall make recommendations and give advice
-regarding any proposed or adopted rules and regulations.</para>
-<para>(2) The Athletic Advisory Committee shall serve as an appeals board
-which shall hear and determine all cases of parties who contest any of the
-State Athletic Commissioner's decisions. The procedure for such appeal shall
-be designated in the commissioner's rules and regulations, and the decision
-of the committee shall be by a majority vote of the committee. Any party who
-wishes to appeal from the committee's decision may appeal the decision, and
-the appeal shall be in accordance with the Administrative Procedure Act.</para>
-</amendatorysection></section><source><para>Laws 1980, LB 849, &#167; 18; </para><para>Laws 1988, LB 352, &#167; 170; </para><para>Laws 1993, LB 397, &#167; 3; </para><para>Laws 2004, LB 1033, &#167; 1; </para><para>Laws 2007, LB471, &#167; 10; </para><para>Laws 2012, LB869, &#167; 11.</para></source><crossreference><para><emphasis>Administrative Procedure Act,</emphasis> see section 84-920.</para></crossreference>  </law>
+		<section>
+			<amendatorysection chaptername="" statutenumber="81-8,139.01">
+				<statuteno>81-8,139.01</statuteno>
+				<catchline>Repealed. Laws 2013, LB 78, &#167; 23.</catchline>
+				
+			</amendatorysection>
+		</section>
+	</law>
 </legaldoc>

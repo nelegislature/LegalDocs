@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection amended="yes" chaptername="Health Occupations and Professions" statutenumber="38-2418"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>38-2418</statuteno><catchline>Nursing home; operation; licensed administrator required; provisional license.</catchline><para>Each nursing home within the state shall be operated under the supervision of an administrator duly licensed in the manner provided in the Nursing Home Administrator Practice Act. If there is a vacancy in the position of licensed administrator of a nursing home, the owner, governing body, or other appropriate authority of the nursing home may select a person to apply for a provisional license in nursing home administration to serve as the administrator of such facility.</para></amendatorysection></section><source><para>Laws 1972, LB 1040, &#167; 8; </para><para>Laws 1980, LB 686, &#167; 5; </para><para>Laws 1988, LB 693, &#167; 12; </para><para>R.S.Supp.,1988, &#167; 71-2045.04; </para><para>R.S.1943, (2003), &#167; 71-6062; </para><para>Laws 2007, LB463, &#167; 833.</para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id10">
+<amendatorysection amended="yes" chaptername="Health Occupations and Professions" id="id12" statutenumber="38-2418"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>38-2418</statuteno><catchline id="id15">Licensed administrator; when required; provisional
+license.</catchline><para>Each nursing home within the state shall
+be operated under the supervision of an administrator duly licensed in the
+manner provided in the Nursing Home Administrator Practice Act. Each facility within the state operated
+primarily for caring for persons with head injuries and associated disorders
+shall be operated under the supervision of an administrator duly licensed
+in the manner provided in the Nursing Home Administrator Practice Act. If
+there is a vacancy in the position of licensed administrator of a nursing
+home, the owner, governing body, or other appropriate authority of the nursing
+home may select a person to apply for a provisional license in nursing home
+administration to serve as the administrator of such facility.</para>
+</amendatorysection></section><source><para>Laws 1972, LB 1040, &#167; 8; </para><para>Laws 1980, LB 686, &#167; 5; </para><para>Laws 1988, LB 693, &#167; 12; </para><para>R.S.Supp.,1988, &#167; 71-2045.04; </para><para>R.S.1943, (2003), &#167; 71-6062; </para><para>Laws 2007, LB463, &#167; 833; </para><para>Laws 2013, LB42, &#167; 4.</para><effectivedate>September 6, 2013</effectivedate></source>  </law>
+</legaldoc>

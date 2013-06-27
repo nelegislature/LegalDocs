@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id149">
-<sectno id="id150">Sec. 13.</sectno><amendatorysection amended="yes" chaptername="Crimes and Punishments" id="id151" publishedsource="AnnualSupplement" statutenumber="28-1354"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno id="id153">28-1354</statuteno><catchline id="id154">Terms, defined.</catchline><para>For purposes of the Public Protection Act:</para>
+<section id="id110">
+<amendatorysection amended="yes" chaptername="Crimes and Punishments" id="id112" publishedsource="AnnualSupplement" statutenumber="28-1354"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>28-1354</statuteno><catchline id="id115">Terms, defined.</catchline><para>For purposes of the Public Protection Act:</para>
 <para>(1) Enterprise means any individual, sole proprietorship,
 partnership, corporation, trust, association, or any legal entity, union,
 or group of individuals associated in fact although not a legal entity, and
@@ -94,34 +94,34 @@ and possession of a gambling device under section 28-1107;</para>
 <para>(g) Offenses relating to firearms, weapons, and explosives
 which include: Carrying a concealed weapon under section 28-1202; transportation
 or possession of machine guns, short rifles, or short shotguns under section
-28-1203; unlawful possession of a handgun under section 28-1204;
-unlawful transfer of a firearm to a juvenile under section 28-1204.01; using
-a deadly weapon to commit a felony or
-possession of a deadly weapon during the commission of a felony under
-section 28-1205; possession of a deadly weapon by a prohibited person under section
-28-1206; possession of a defaced firearm under section 28-1207; defacing a
-firearm under section 28-1208; unlawful discharge of a firearm under section
-28-1212.02; possession, receipt, retention, or disposition of a stolen firearm
-under section 28-1212.03; unlawful possession of explosive materials in the
-first degree under section 28-1215; unlawful possession of explosive materials
-in the second degree under section 28-1216; unlawful sale of explosives under
-section 28-1217; use of explosives without a permit under section 28-1218;
-obtaining an explosives permit through false representations under section
-28-1219; possession of a destructive device under section 28-1220; threatening
-the use of explosives or placing a false bomb under section 28-1221; using
-explosives to commit a felony under section 28-1222; using explosives to damage
-or destroy property under section 28-1223; and using explosives to kill or
-injure any person under section 28-1224;</para>
+28-1203; unlawful possession of a handgun under section 28-1204; unlawful
+transfer of a firearm to a juvenile under section 28-1204.01; using a deadly
+weapon to commit a felony or possession of a deadly weapon during the commission
+of a felony under section 28-1205; possession of a deadly weapon by a prohibited
+person under section 28-1206; possession of a defaced firearm under section
+28-1207; defacing a firearm under section 28-1208; unlawful discharge of a
+firearm under section 28-1212.02; possession, receipt, retention, or disposition
+of a stolen firearm under section 28-1212.03; unlawful possession of explosive
+materials in the first degree under section 28-1215; unlawful possession of
+explosive materials in the second degree under section 28-1216; unlawful sale
+of explosives under section 28-1217; use of explosives without a permit under
+section 28-1218; obtaining an explosives permit through false representations
+under section 28-1219; possession of a destructive device under section 28-1220;
+threatening the use of explosives or placing a false bomb under section 28-1221;
+using explosives to commit a felony under section 28-1222; using explosives
+to damage or destroy property under section 28-1223; and using explosives
+to kill or injure any person under section 28-1224;</para>
 <para>(h) Any violation of the Securities Act of Nebraska pursuant
 to section 8-1117;</para>
 <para>(i) Any violation of the Nebraska Revenue Act of 1967 pursuant
 to section 77-2713;</para>
 <para>(j) Offenses relating to public health and morals which include:
 Prostitution under section 28-801; pandering under section 28-802; keeping
-a place of prostitution under section 28-804; human trafficking or forced
-labor or services under section 28-831; a violation of section 28-1005; and
-any act relating to the visual depiction of sexually explicit conduct prohibited
-in the Child Pornography Prevention Act; and</para>
+a place of prostitution under section 28-804; labor trafficking, sex trafficking, labor
+trafficking of a minor, or sex trafficking of a minor under section
+28-831; a violation of section 28-1005; and any act relating to the visual
+depiction of sexually explicit conduct prohibited in the Child Pornography
+Prevention Act; and</para>
 <para>(k) A violation of the Computer Crimes Act;</para>
 <para>(6) State means the State of Nebraska or any political subdivision
 or any department, agency, or instrumentality thereof; and</para>
@@ -135,5 +135,5 @@ because of the laws relating to usury; or</para>
 gambling in violation of federal law or the law of the state or the business
 of lending money or a thing of value at a rate usurious under state law if
 the usurious rate is at least twice the enforceable rate.</para>
-</amendatorysection></section><source><para>Laws 2009, LB155, &#167; 4; </para><para>Laws 2010, LB771, &#167; 13.</para></source><crossreference><para><emphasis>Child Pornography Prevention Act,</emphasis> see section 28-1463.01.</para><para><emphasis>Computer Crimes Act,</emphasis> see section 28-1341.</para><para><emphasis>Nebraska Revenue Act of 1967,</emphasis> see section 77-2701.</para><para><emphasis>Securities Act of Nebraska,</emphasis> see section 8-1123.</para></crossreference>  </law>
+</amendatorysection></section><source><para>Laws 2009, LB155, &#167; 4; </para><para>Laws 2010, LB771, &#167; 13; </para><para>Laws 2013, LB255, &#167; 8.</para><operativedate>October 1, 2013</operativedate></source><crossreference><para><emphasis>Child Pornography Prevention Act,</emphasis> see section 28-1463.01.</para><para><emphasis>Computer Crimes Act,</emphasis> see section 28-1341.</para><para><emphasis>Nebraska Revenue Act of 1967,</emphasis> see section 77-2701.</para><para><emphasis>Securities Act of Nebraska,</emphasis> see section 8-1123.</para></crossreference>  </law>
 </legaldoc>

@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id27">
-<sectno id="id28" opdate=" ">Sec. 5.</sectno><amendatorysection chaptername="State Administrative Departments" id="id29" publishedsource="CumulativeSupplement" statutenumber="81-2513"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>81-2513</statuteno><catchline>State assistance to political subdivision;
-commission; approval of application; quorum.</catchline><para>(1) After consideration of the application
-and the evidence, the commission shall issue a finding of whether the use
-described in the application is eligible for state assistance.</para>
-<para>(2) If the commission
-finds that the use described in the application is a legitimate use and that
-state assistance is in the best interest of the state, the application shall
-be approved.</para><para>(3) A majority of the commission members constitutes a quorum for
-the purpose of conducting business. All actions of the commission shall be
-made by a majority vote of the voting members.</para></amendatorysection>
-</section><source><para>Laws 2010, LB1002, &#167; 5.</para><terminationdate>June 30, 2018</terminationdate></source>  </law>
+<section id="id20">
+<amendatorysection amended="yes" chaptername="State Administrative Departments" id="id22" publishedsource="CumulativeSupplement" statutenumber="81-2513">
+<bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>81-2513</statuteno><catchline id="id25">State assistance
+to political subdivision or
+nonprofit corporation; commission; approval of application; failure to approve applications; effect; quorum.</catchline><para>(1) After consideration of the application, the commission shall issue a finding of whether
+the use described in the application is eligible for state assistance.</para>
+<para>(2) If the commission finds that the use described in the
+application is a legitimate use and that state assistance is in the best interest
+of the state, the application shall be approved.</para>
+<para>(3) If no applications
+are approved, the commission may use the funds in the Designated Collection
+Fund directly for the needs listed in section 81-2510.</para>
+<para>(4) A majority of the commission
+members constitutes a quorum for the purpose of conducting business. All actions
+of the commission shall be made by a majority vote of the voting members.</para>
+</amendatorysection></section><source><para>Laws 2010, LB1002, &#167; 5; </para><para>Laws 2013, LB199, &#167; 37.</para><effectivedate>May 26, 2013</effectivedate><terminationdate>June 30, 2018</terminationdate></source>  </law>
 </legaldoc>

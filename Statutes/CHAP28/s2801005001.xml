@@ -1,1 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Crimes and Punishments" statutenumber="28-105.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>28-105.01</statuteno><catchline>Death penalty imposition; restriction on person under eighteen years; restriction on person with mental retardation; sentencing procedure.</catchline><para>(1) Notwithstanding any other provision of law, the death penalty shall not be imposed upon any person who was under the age of eighteen years at the time of the commission of the crime.</para><para>(2) Notwithstanding any other provision of law, the death penalty shall not be imposed upon any person with mental retardation.</para><para>(3) As used in subsection (2) of this section, mental retardation means significantly subaverage general intellectual functioning existing concurrently with deficits in adaptive behavior. An intelligence quotient of seventy or below on a reliably administered intelligence quotient test shall be presumptive evidence of mental retardation.</para><para>(4) If (a) a jury renders a verdict finding the existence of one or more aggravating circumstances as provided in section 29-2520 or (b)(i) the information contains a notice of aggravation as provided in section 29-1603 and (ii) the defendant waives his or her right to a jury determination of the alleged aggravating circumstances, the court shall hold a hearing prior to any sentencing determination proceeding as provided in section 29-2521 upon a verified motion of the defense requesting a ruling that the penalty of death be precluded under subsection (2) of this section. If the court finds, by a preponderance of the evidence, that the defendant is a person with mental retardation, the death sentence shall not be imposed. A ruling by the court that the evidence of diminished intelligence introduced by the defendant does not preclude the death penalty under subsection (2) of this section shall not restrict the defendant's opportunity to introduce such evidence at the sentencing determination proceeding as provided in section 29-2521 or to argue that such evidence should be given mitigating significance.</para></amendatorysection></section><source><para>Laws 1982, LB 787, &#167; 23; </para><para>Laws 1998, LB 1266, &#167; 2; </para><para>Laws 2002, Third Spec. Sess., LB 1, &#167; 2. </para></source><annotation><para>This section is based on the determination that mentally retarded persons who meet the law's requirements for criminal responsibility should be tried and punished when they commit crimes, but because of their disabilities in areas of reasoning, judgment, and control of their impulses, they do not act with the level of moral culpability that characterizes the most serious adult criminal conduct. This section prohibits the execution of mentally retarded persons because of a widespread judgment about the relative culpability of mentally retarded offenders, and the relationship between mental retardation and the penological purposes served by the death penalty. State v. Vela, 272 Neb. 287, 721 N.W.2d 631 (2006).</para></annotation></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id18">
+<amendatorysection amended="yes" chaptername="Crimes and Punishments" id="id20" statutenumber="28-105.01"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>28-105.01</statuteno><catchline id="id23">Death penalty
+imposition; restriction on person under eighteen years; restriction on person
+with intellectual disability; sentencing
+procedure.</catchline><para>(1) Notwithstanding any other provision
+of law, the death penalty shall not be imposed upon any person who was under
+the age of eighteen years at the time of the commission of the crime.</para>
+<para>(2) Notwithstanding any other provision of law, the death
+penalty shall not be imposed upon any person with an intellectual disability.</para>
+<para>(3) As used in subsection (2) of this section, intellectual disability means
+significantly subaverage general intellectual functioning existing concurrently
+with deficits in adaptive behavior. An intelligence quotient of seventy or
+below on a reliably administered intelligence quotient test shall be presumptive
+evidence of intellectual disability.</para>
+<para>(4) If (a) a jury renders a verdict finding the existence
+of one or more aggravating circumstances as provided in section 29-2520 or
+(b)(i) the information contains a notice of aggravation as provided in section
+29-1603 and (ii) the defendant waives his or her right to a jury determination
+of the alleged aggravating circumstances, the court shall hold a hearing prior
+to any sentencing determination proceeding as provided in section 29-2521
+upon a verified motion of the defense requesting a ruling that the penalty
+of death be precluded under subsection (2) of this section. If the court finds,
+by a preponderance of the evidence, that the defendant is a person with an intellectual disability, the
+death sentence shall not be imposed. A ruling by the court that the evidence
+of diminished intelligence introduced by the defendant does not preclude the
+death penalty under subsection (2) of this section shall not restrict the
+defendant's opportunity to introduce such evidence at the sentencing determination
+proceeding as provided in section 29-2521 or to argue that such evidence should
+be given mitigating significance.</para>
+</amendatorysection></section><source><para>Laws 1982, LB 787, &#167; 23; </para><para>Laws 1998, LB 1266, &#167; 2; </para><para>Laws 2002, Third Spec. Sess., LB 1, &#167; 2; </para><para>Laws 2013, LB23, &#167; 3.</para><effectivedate>September 6, 2013</effectivedate></source><annotation><para>This section is based on the determination that mentally retarded persons who meet the law's requirements for criminal responsibility should be tried and punished when they commit crimes, but because of their disabilities in areas of reasoning, judgment, and control of their impulses, they do not act with the level of moral culpability that characterizes the most serious adult criminal conduct. This section prohibits the execution of mentally retarded persons because of a widespread judgment about the relative culpability of mentally retarded offenders, and the relationship between mental retardation and the penological purposes served by the death penalty. State v. Vela, 272 Neb. 287, 721 N.W.2d 631 (2006).</para></annotation>  </law>
+</legaldoc>

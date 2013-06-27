@@ -1,1 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Paupers and Public Assistance" statutenumber="68-1806"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>68-1806</statuteno><catchline>Collection of tax; discontinued; when; effect.</catchline><para>(1) Collection of the tax imposed by section 68-1803 shall be discontinued if:</para><para>(a) The amendment to the state medicaid plan described in section 68-1805 is disapproved by the Centers for Medicare and Medicaid Services;</para><para>(b) The department reduces rates paid to intermediate care facilities for the mentally retarded to an amount less than the rates effective September 1, 2003; or</para><para>(c) The department or any other state agency attempts to utilize the money in the ICF/MR Reimbursement Protection Fund for any use other than uses permitted pursuant to the ICF/MR Reimbursement Protection Act.</para><para>(2) If collection of the tax is discontinued as provided in subsection (1) of this section, all money in the fund shall be returned to the intermediate care facilities for the mentally retarded from which the tax was collected on the same basis as the tax was assessed.</para></amendatorysection></section><source><para>Laws 2004, LB 841, &#167; 7. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id30">
+<amendatorysection amended="yes" chaptername="Public Assistance" id="id32" statutenumber="68-1806"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>68-1806</statuteno><catchline id="id35">Collection of
+tax; discontinued; when; effect.</catchline><para>(1) Until July 1, 2014:</para><para>(a) Collection of the tax imposed by section
+68-1803 shall be discontinued if:</para>
+<para>(i) The amendment to the state
+medicaid plan described in section 68-1805 is disapproved by the Centers for
+Medicare and Medicaid Services;</para>
+<para>(ii) The department reduces
+rates paid to intermediate care facilities for persons with developmental disabilities to an
+amount less than the rates effective September 1, 2003; or</para>
+<para>(iii) The department or any
+other state agency attempts to utilize the money in the ICF/DD Reimbursement
+Protection Fund for any use other than uses permitted pursuant to the ICF/DD Reimbursement Protection Act; and</para>
+<para>(b) If collection of the tax
+is discontinued as provided in subdivision
+(a) of this subsection, all money in the
+fund shall be returned to the intermediate care facilities for persons with developmental disabilities from
+which the tax was collected on the same basis as the tax was assessed.</para>
+<para>(2) Beginning
+on July 1, 2014:</para><para>(a) The department shall discontinue collection of the tax provided
+for in section 68-1803:</para><para>(i) If federal financial participation to match the payments by
+intermediate care facilities for persons with developmental disabilities pursuant
+to section 68-1803 becomes unavailable under federal law or the rules and
+regulations of the Centers for Medicare and Medicaid Services of the United
+States Department of Health and Human Services; or</para><para>(ii) If money in the ICF/DD
+Reimbursement Protection Fund is appropriated, transferred, or otherwise expended
+for any use other than uses permitted pursuant to the ICF/DD Reimbursement
+Protection Act; and</para><para>(b) If collection of the tax provided for in section 68-1803 is
+discontinued as provided in subdivision (a) of this subsection, the money
+in the ICF/DD Reimbursement Protection Fund shall be returned to the intermediate
+care facilities for persons with developmental disabilities from which the
+tax was collected on the same basis as collected.</para></amendatorysection>
+</section><source><para>Laws 2004, LB 841, &#167; 7; </para><para>Laws 2013, LB23, &#167; 21.</para><effectivedate>September 6, 2013</effectivedate></source>  </law>
+</legaldoc>

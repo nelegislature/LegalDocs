@@ -1,1 +1,35 @@
-<?xml version="1.0" encoding="iso-8859-1"?> <legaldoc> <law type="statute"> <section> <sectno></sectno><amendatorysection amended="yes" chaptername="Revenue and Taxation" statutenumber="77-3211"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>77-3211</statuteno><catchline>Sheriff; no bids; authority deemed purchaser; payment.</catchline><para>(1) If, when the sheriff offers the parcels of real estate for sale under the tax foreclosure laws of this state, there is no bid equal to the full amount of all tax bills included in the judgment, interest, penalties, fees, and costs then due thereon made or received at such sale, the authority shall be deemed to have bid the full amount of all tax bills included in the judgment, interest, penalties, fees, and costs then due, and if no other earlier or later bid be then received by the sheriff as allowed by law in excess of the bid of the authority, then the bid of the authority shall be announced as accepted. The sheriff shall report any such bid or bids so made by the authority in the same way as his or her report of other bids is made.</para> <para>(2) The authority shall pay, if possible, any penalties, fees, or costs included in the judgment of foreclosure of such parcel of real estate when such parcel is sold or otherwise disposed of by such authority. Upon confirmation by the court of such bid at such sale by such authority, and upon notification by the sheriff, the county treasurer, or the city treasurer in the case of an authority created pursuant to subsection (3) of section 77-3201,  shall mark the tax bills to the date of such confirmation as canceled by sale to the authority, and shall take credit for the full amount of such tax bills, including principal amount, interest, penalties, fees, and costs, on his or her books and his or her statements with any other taxing authorities.</para> </amendatorysection></section><source><para>Laws 1973, LB 73, &#167; 11; </para><para>Laws 1982, LB 630, &#167; 2; </para><para>Laws 2009, LB360, &#167; 6.</para></source><crossreference><para><emphasis>Nebraska Municipal Land Bank Act,</emphasis> see section 19-5201.</para></crossreference>  </law> </legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id272">
+<amendatorysection amended="yes" chaptername="Revenue and Taxation" id="id274" statutenumber="77-3211">
+<bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>77-3211</statuteno><catchline id="id277">Sheriff; no
+bids; authority deemed purchaser; payment;
+applicability of section.</catchline><para>(1)(a) Except as provided in subsection (2) of this section,
+if, when the sheriff offers the parcels of real estate for sale
+under the tax foreclosure laws of this state, there is no bid equal to the
+full amount of all tax bills included in the judgment, interest, penalties,
+fees, and costs then due thereon made or received at such sale, the authority
+shall be deemed to have bid the full amount of all tax bills included in the
+judgment, interest, penalties, fees, and costs then due, and if no other earlier
+or later bid be then received by the sheriff as allowed by law in excess of
+the bid of the authority, then the bid of the authority shall be announced
+as accepted. The sheriff shall report any such bid or bids so made by the
+authority in the same way as his or her report of other bids is made.</para>
+<para>(b) The authority shall pay,
+if possible, any penalties, fees, or costs included in the judgment of foreclosure
+of such parcel of real estate when such parcel is sold or otherwise disposed
+of by such authority. Upon confirmation by the court of such bid at such sale
+by such authority, and upon notification by the sheriff, the county treasurer,
+or the city treasurer in the case of an authority created pursuant to subsection
+(3) of section 77-3201, shall mark the tax bills to the date of such confirmation
+as canceled by sale to the authority, and shall take credit for the full amount
+of such tax bills, including principal amount, interest, penalties, fees,
+and costs, on his or her books and his or her statements with any other taxing
+authorities.</para>
+<para>(2) Subsection
+(1) of this section shall not apply if the real estate offered for sale under
+the tax foreclosure laws of this state lies within a municipality that has
+created a land bank pursuant to the Nebraska Municipal Land Bank Act.</para>
+</amendatorysection></section><source><para>Laws 1973, LB 73, &#167; 11; </para><para>Laws 1982, LB 630, &#167; 2; </para><para>Laws 2009, LB360, &#167; 6; </para><para>Laws 2013, LB97, &#167; 27.</para><operativedate>October 1, 2013</operativedate></source><crossreference><para><emphasis>Nebraska Municipal Land Bank Act,</emphasis> see section 19-5201.</para></crossreference>  </law>
+</legaldoc>
