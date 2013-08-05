@@ -11,7 +11,7 @@ issued by the commission shall be as provided in this section and section
 <para>(3) Boat license ... $50</para>
 <para>(4) Manufacturer's license:</para>
 <para><table frame="none">
-<tgroup align="left" cols="2"><colspec colname="col1" colwidth="1.02" /><colspec colname="col2" colwidth="0.98" />
+<tgroup align="left" cols="2"><colspec colname="col1" colwidth="1.02*" /><colspec colname="col2" colwidth="0.98*" />
 <tbody>
 <row>
 <entry colsep="0" rowsep="0">Class</entry>
@@ -58,7 +58,7 @@ issued by the commission shall be as provided in this section and section
 </table></para>
 <para>(5) Nonbeverage user's license:</para>
 <para><table frame="none">
-<tgroup cols="2"><colspec colname="col1" colwidth="1.02" /><colspec colname="col2" colwidth="0.98" />
+<tgroup cols="2"><colspec colname="col1" colwidth="1.02*" /><colspec colname="col2" colwidth="0.98*" />
 <tbody>
 <row>
 <entry colsep="0" rowsep="0">Class</entry>
@@ -89,7 +89,7 @@ issued by the commission shall be as provided in this section and section
 </table></para>
 <para>(6) Operator's license:</para>
 <para><table frame="none">
-<tgroup cols="2"><colspec colname="col1" colwidth="1.02" /><colspec colname="col2" colwidth="0.98" />
+<tgroup cols="2"><colspec colname="col1" colwidth="1.02*" /><colspec colname="col2" colwidth="0.98*" />
 <tbody>
 <row>
 <entry colsep="0" rowsep="0">Class</entry>
@@ -114,7 +114,7 @@ issued by the commission shall be as provided in this section and section
 <para>(7) Railroad license ... $100</para>
 <para>(8) Retail license:</para>
 <para><table frame="none">
-<tgroup cols="2"><colspec colname="col1" colwidth="1.02" /><colspec colname="col2" colwidth="0.98" />
+<tgroup cols="2"><colspec colname="col1" colwidth="1.02*" /><colspec colname="col2" colwidth="0.98*" />
 <tbody>
 <row>
 <entry colsep="0" rowsep="0">Class</entry>
@@ -145,7 +145,7 @@ issued by the commission shall be as provided in this section and section
 </table></para>
 <para>(9) Shipping license:</para>
 <para><table frame="none">
-<tgroup cols="2"><colspec colname="col1" colwidth="1.02" /><colspec colname="col2" colwidth="0.98" />
+<tgroup cols="2"><colspec colname="col1" colwidth="1.02*" /><colspec colname="col2" colwidth="0.98*" />
 <tbody>
 <row>
 <entry colsep="0" rowsep="0">Class</entry>
@@ -173,7 +173,7 @@ direct sales </entry>
 </table></para>
 <para>(10) Wholesale license:</para>
 <para><table frame="none">
-<tgroup cols="2"><colspec colname="col1" colwidth="1.02" /><colspec colname="col2" colwidth="0.98" />
+<tgroup cols="2"><colspec colname="col1" colwidth="1.02*" /><colspec colname="col2" colwidth="0.98*" />
 <tbody>
 <row>
 <entry colsep="0" rowsep="0">Class</entry>
