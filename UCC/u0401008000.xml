@@ -1,27 +1,15 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<legaldoc>
-<law type="UCC">
-<section>
-<amendatorysection amended="yes" chaptername="Uniform Commercial Code" statutenumber="4A-108"><bookinfo>Uniform Commercial Code, Revised Statutes Supplement, 2013</bookinfo><statuteno>4A-108</statuteno><catchline>Relationship to Electronic Fund Transfer Act.</catchline><para>(a) Except as provided in subsection (b),
-this article does not apply to a funds transfer any part of which
-is governed by the Electronic Fund Transfer Act, 15 U.S.C. 1693
-et seq., as such act
-existed on January 1, 2013.</para>
-<para>(b) This article applies
-to a funds transfer that is a remittance transfer as defined in the Electronic
-Fund Transfer Act, 15 U.S.C. 1693o-1, as such section existed on January 1,
-2013, unless the remittance transfer is an electronic fund transfer as defined
-in the Electronic Fund Transfer Act, 15 U.S.C. 1693a, as such section existed
-on January 1, 2013.</para><para>(c)
-In a funds transfer to which this article applies, in the event of an inconsistency
-between an applicable provision of this article and an applicable provision
-of the Electronic Fund Transfer Act, the provision of the Electronic Fund
-Transfer Act governs to the extent of the inconsistency.</para>
-</amendatorysection></section><source>
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="ucc"><section><sectno></sectno><amendatorysection chaptername="Uniform Commercial Code" statutenumber="4-108">
+<bookinfo>Uniform Commercial Code, Reissue Revised Statutes of Nebraska</bookinfo>
+<statuteno>4-108</statuteno>
+<catchline>Time of receipt of items.</catchline>
+<para>(a) For the purpose of allowing time to process items, prove balances, and make the necessary entries on its books to determine its position for the day, a bank may fix an afternoon hour of 2 p.m. or later as a cutoff hour for the handling of money and items and the making of entries on its books.</para>
+<para>(b) An item or deposit of money received on any day after a cutoff hour so fixed or after the close of the banking day may be treated as being received at the opening of the next banking day.</para>
+</amendatorysection></section>
+<source>
 <para>Laws 1963, c. 544, Art. IV, &#167; 4-108, p. 1815; </para>
-<para>Laws 1991, LB 161, &#167; 79; </para>
-<para>Laws 2013, LB146, &#167; 1.</para><effectivedate>February 16, 2013</effectivedate></source><annotation>
+<para>Laws 1991, LB 161, &#167; 79.</para>
+</source>
+<annotation>
 <para><emphasis>COMMENT</emphasis></para>
 <para>1. Each of the huge volume of checks processed each day must go through a series of accounting procedures that consume time. Many banks have found it necessary to establish a cutoff hour to allow time for these procedures to be completed within the time limits imposed by article 4. Subsection (a) approves a cutoff hour of this type provided it is not earlier than 2 p.m. Subsection (b) provides that if such a cutoff hour is fixed, items received after the cutoff hour may be treated as being received at the opening of the next banking day. If the number of items received either through the mail or over the counter tends to taper off radically as the afternoon hours progress, a 2 p.m. cutoff hour does not involve a large portion of the items received but at the same time permits a bank using such a cutoff hour to leave its doors open later in the afternoon without forcing into the evening the completion of its settling and proving process.</para>
-<para>2. The provision in subsection (b) that items or deposits received after the close of the banking day may be treated as received at the opening of the next banking day is important in cases in which a bank closes at twelve or one o'clock, e.g., on a Saturday, but continues to receive some items by mail or over the counter if, for example, it opens Saturday evening for the limited purpose of receiving deposits and cashing checks.</para></annotation>  </law>
-</legaldoc>
+<para>2. The provision in subsection (b) that items or deposits received after the close of the banking day may be treated as received at the opening of the next banking day is important in cases in which a bank closes at twelve or one o'clock, e.g., on a Saturday, but continues to receive some items by mail or over the counter if, for example, it opens Saturday evening for the limited purpose of receiving deposits and cashing checks.</para></annotation></law></legaldoc>

@@ -1,111 +1,24 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<legaldoc>
-<law type="UCC">
-<section id="id27">
-<amendatorysection chaptername="Uniform Commercial Code" id="id29" publishedsource="AnnualSupplement" statutenumber="9-513A"><bookinfo>Uniform Commercial Code, Revised Statutes Supplement, 2013</bookinfo>
-<statuteno>9-513A</statuteno><catchline>Unauthorized financing statement filings;
-procedures; remedies.</catchline><para>(a) An individual personally, or as a representative of an organization,
-may file in the filing office a notarized affidavit, signed under penalty
-of perjury, that identifies a filed financing statement and states that:</para>
-<para>(1) the individual
-or organization is identified as a debtor in the financing statement;</para>
-<para>(2) the financing
-statement was not filed by a financial institution or a representative of
-a financial institution or by an agricultural input supplier or a representative
-of an agricultural input supplier; and</para><para>(3) the financing statement was filed by
-a person not entitled to do so under section 9-509, 9-708, or 9-808.</para>
-<para>(b) An affidavit filed under
-subsection (a) shall include any pertinent information that the office of
-the Secretary of State may reasonably require.</para><para>(c) An affidavit may not
-be filed under subsection (a) with respect to a financing statement filed
-by a financial institution or a representative of a financial institution
-or by an agricultural input supplier or a representative of an agricultural
-input supplier.</para><para>(d) If an affidavit is filed under subsection (a), the filing office
-may file a termination statement with respect to the financing statement identified
-in the affidavit. The termination statement must indicate that it was filed
-pursuant to this section. Except as provided in subsections (g) and (h), a
-termination statement filed under this subsection shall take effect thirty
-days after it is filed.</para><para>(e) On the same day that the filing office files a termination statement
-under subsection (d), it shall send to each secured party of record identified
-in the financing statement a notice advising the secured party of record that
-the termination statement has been filed. The notice shall be sent by certified
-mail, return receipt requested, to the mailing address provided for the secured
-party of record.</para><para>(f) A secured party of record identified in a financing statement
-as to which a termination statement has been filed under subsection (d) may
-bring an action within twenty business days after the termination statement
-is filed against the individual who filed the affidavit under subsection (a)
-seeking a determination as to whether the financing statement was filed by
-a person entitled to do so under section 9-509, 9-708, or 9-808. An action
-under this subsection shall have priority on the court's calendar and shall
-proceed by expedited hearing. The action shall be brought in the district
-court of the county where the filing office in which the financing statement
-was filed is located.</para><para>(g) In an action brought pursuant to subsection (f), a court may,
-in appropriate circumstances, order preliminary relief, including, but not
-limited to, an order precluding the termination statement from taking effect
-or directing a party to take action to prevent the termination statement from
-taking effect. If the court issues such an order and the filing office receives
-a certified copy of the order before the termination statement takes effect,
-the termination statement shall not take effect and the filing office shall
-promptly file an amendment to the financing statement that indicates that
-an order has prevented the termination statement from taking effect. If such
-an order ceases to be effective by reason of a subsequent order or a final
-judgment of the court or by an order issued by another court and the filing
-office receives a certified copy of the subsequent judgment or order, the
-termination statement shall become immediately effective upon receipt of the
-certified copy and the filing office shall promptly file an amendment to the
-financing statement indicating that the termination statement is effective.</para>
-<para>(h) If a court
-determines in an action brought pursuant to subsection (f) that the financing
-statement was filed by a person entitled to do so under section 9-509, 9-708,
-or 9-808 and the filing office receives a certified copy of the court's final
-judgment or order before the termination statement takes effect, the termination
-statement shall not take effect and the filing office shall remove the termination
-statement and any amendments filed under subsection (g) from the files. If
-the filing office receives the certified copy after the termination statement
-takes effect and within thirty days after the final judgment or order was
-entered, the filing office shall promptly file an amendment to the financing
-statement that indicates that the financing statement has been reinstated.</para>
-<para>(i) Except
-as provided in subsection (j), upon the filing of an amendment reinstating
-a financing statement under subsection (h) the effectiveness of the financing
-statement is retroactively reinstated and the financing statement shall be
-considered never to have been ineffective against all persons and for all
-purposes.</para><para>(j) A financing statement whose effectiveness was terminated under
-subsection (d) and has been reinstated under subsection (h) shall not be effective
-as against a person that purchased the collateral in good faith between the
-time the termination statement was filed and the time of the filing of the
-amendment reinstating the financing statement, to the extent that the person
-gave new value in reliance on the termination statement.</para>
-<para>(k) The filing
-office shall not charge a fee for the filing of an affidavit or a termination
-statement under this section. The filing office shall not return any fee paid
-for filing the financing statement identified in the affidavit, whether or
-not the financing statement is subsequently reinstated.</para>
-<para>(l) Neither
-the filing office nor any of its employees shall be subject to liability for
-the termination or amendment of a financing statement in the lawful performance
-of the duties of the filing office under this section.</para>
-<para>(m) The Secretary
-of State shall adopt and make available a form of affidavit for use under
-this section.</para><para>(n) For purposes of this section:</para><para>(1) Agricultural input supplier means a person regularly
-in the business of extending credit to agricultural producers; and</para>
-<para>(2) Financial institution
-means a person that is in the business of extending credit or servicing loans,
-including acquiring, purchasing, selling, brokering, or other extensions of
-credit and where applicable, holds whatever license, charter, or registration
-that is required to engage in such business. The term includes banks, savings
-associations, building and loan associations, consumer and commercial finance
-companies, industrial banks, industrial loan companies, insurance companies,
-investment companies, installment sellers, mortgage servicers, sales finance
-companies, and leasing companies.</para></amendatorysection></section><source>
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="ucc"><section><sectno></sectno><amendatorysection chaptername="Uniform Commercial Code" statutenumber="9-513">
+<bookinfo>Uniform Commercial Code, Reissue Revised Statutes of Nebraska</bookinfo>
+<statuteno>9-513</statuteno>
+<catchline>Termination statement.</catchline>
+<para>(a) Within twenty days after a secured party receives an authenticated demand from a debtor, the secured party shall cause the secured party of record for a financing statement to send to the debtor a termination statement for the financing statement or file the termination statement in the filing office if:</para>
+<para>(1) except in the case of a financing statement covering accounts or chattel paper that has been sold or goods that are the subject of a consignment, there is no obligation secured by the collateral covered by the financing statement and no commitment to make an advance, incur an obligation, or otherwise give value;</para>
+<para>(2) the financing statement covers accounts or chattel paper that has been sold but as to which the account debtor or other person obligated has discharged its obligation;</para>
+<para>(3) the financing statement covers goods that were the subject of a consignment to the debtor but are not in the debtor's possession; or</para>
+<para>(4) the debtor did not authorize the filing of the initial financing statement.</para>
+<para>(b) Except as otherwise provided in section 9-510, upon the filing of a termination statement with the filing office, the financing statement to which the termination statement relates ceases to be effective. Except as otherwise provided in section 9-510, for purposes of sections 9-519(g), 9-522(a), and 9-523(c), the filing with the filing office of a termination statement relating to a financing statement that indicates that the debtor is a transmitting utility also causes the effectiveness of the financing statement to lapse.</para>
+<para>(c) There is no fee for the filing of a termination statement.</para>
+</amendatorysection></section>
+<source>
 <para>Laws 1999, LB 550, &#167; 157; </para>
-<para>Laws 2000, LB 929, &#167; 40; </para>
-<para>Laws 2013, LB210, &#167; 4.</para><effectivedate>September 6, 2013</effectivedate></source><annotation>
+<para>Laws 2000, LB 929, &#167; 40.</para>
+</source>
+<annotation>
 <para><emphasis>COMMENT</emphasis></para>
 <para><emphasis>1. Source.</emphasis> Former section 9-404.</para>
 <para><emphasis>2. Duty to File or Send.</emphasis> This section specifies when a secured party must cause the secured party of record to file or send to the debtor a termination statement for a financing statement. Because most financing statements expire in five years unless a continuation statement is filed (section 9-515), no compulsion is placed on the secured party to file a termination statement unless demanded by the debtor, except in the case of consumer goods. Because many consumers will not realize the importance to them of clearing the public record, an affirmative duty is put on the secured party in that case. But many purchase-money security interests in consumer goods will not be filed, except for motor vehicles. See section 9-309(1). Under section 9-311(b), compliance with a certificate of title statute is "equivalent to the filing of a financing statement under this article". Thus, this section applies to a certificate of title unless the section is superseded by a certificate of title statute that contains a specific rule addressing a secured party's duty to cause a notation of a security interest to be removed from a certificate of title. In the context of a certificate of title, however, the secured party could comply with this section by causing the removal itself or providing the debtor with documentation sufficient to enable the debtor to effect the removal.</para>
 <para>Subsections (a) and (b) apply to a financing statement covering consumer goods. (Nebraska did not adopt the "consumer goods" language of subsections (a) and (b).) Subsection (c) applies to other financing statements. Subsections (a) and (c) each makes explicit what was implicit under former article 9: If the debtor did not authorize the filing of a financing statement in the first place, the secured party of record should file or send a termination statement. The liability imposed upon a secured party that fails to comply with subsection (a) or (c) is identical to that imposed for the filing of an unauthorized financing statement or amendment. See section 9-625(e).</para>
 <para><emphasis>3. "Bogus" Filings.</emphasis> A secured party's duty to send a termination statement arises when the secured party "receives" an authenticated demand from the debtor. In the case of an unauthorized financing statement, the person named as debtor in the financing statement may have no relationship with the named secured party and no reason to know the secured party's address. Inasmuch as the address in the financing statement is "held out by (the person named as secured party in the financing statement) as the place for receipt of such communications (i.e., communications relating to security interests)", the putative secured party is deemed to have "received" a notification delivered to that address. See section 1-202(e). If a termination statement is not forthcoming, the person named as debtor itself may authorize the filing of a termination statement, which will be effective if it indicates that the person authorized it to be filed. See sections 9-509(d)(2) and 9-510(c).</para>
 <para><emphasis>4. Buyers of Receivables.</emphasis> Applied literally, former section 9-404(1) would have required many buyers of receivables to file a termination statement immediately upon filing a financing statement because "there is no outstanding secured obligation and no commitment to make advances, incur obligations, or otherwise give value". Subsections (a)(1) and (2) remedy this problem. While the security interest of a buyer of accounts or chattel paper (B-1) is perfected, the debtor is not deemed to retain an interest in the sold receivables and thus could transfer no interest in them to another buyer (B-2) or to a lien creditor (LC). However, for purposes of determining the rights of the debtor's creditors and certain purchasers of accounts or chattel paper from the debtor, while B-1's security interest is unperfected, the debtor-seller is deemed to have rights in the sold receivables, and a competing security interest or judicial lien may attach to those rights. See section 9-109, comment 5, and section 9-318. Suppose that B-1's security interest in certain accounts and chattel paper is perfected by filing, but the effectiveness of the financing statement lapses. Both before and after lapse, B-1 collects some of the receivables. After lapse, LC acquires a lien on the accounts and chattel paper. B-1's unperfected security interest in the accounts and chattel paper is subordinate to LC's rights. See section 9-317(a)(2). But collections on accounts and chattel paper are not "accounts" or "chattel paper". Even if B-1's security interest in the accounts and chattel paper is or becomes unperfected, neither the debtor nor LC acquires rights to the collections that B-1 collects (and owns) before LC acquires a lien.</para>
-<para><emphasis>5. Effect of Filing.</emphasis> Subsection (b) states the effect of filing a termination statement: The related financing statement ceases to be effective. If one of several secured parties of record files a termination statement, subsection (b) applies only with respect to the rights of the person who authorized the filing of the termination statement. See section 9-510(b). The financing statement remains effective with respect to the rights of the others. However, even if a financing statement is terminated (and thus no longer is effective) with respect to all secured parties of record, the financing statement, including the termination statement, will remain of record until at least one year after it lapses with respect to all secured parties of record. See section 9-519(g).</para></annotation>  </law>
-</legaldoc>
+<para><emphasis>5. Effect of Filing.</emphasis> Subsection (b) states the effect of filing a termination statement: The related financing statement ceases to be effective. If one of several secured parties of record files a termination statement, subsection (b) applies only with respect to the rights of the person who authorized the filing of the termination statement. See section 9-510(b). The financing statement remains effective with respect to the rights of the others. However, even if a financing statement is terminated (and thus no longer is effective) with respect to all secured parties of record, the financing statement, including the termination statement, will remain of record until at least one year after it lapses with respect to all secured parties of record. See section 9-519(g).</para></annotation></law></legaldoc>
