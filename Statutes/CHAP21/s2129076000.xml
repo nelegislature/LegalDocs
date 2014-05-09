@@ -1,1 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Corporations and Other Companies" statutenumber="21-2976"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>21-2976</statuteno><catchline>Indemnification.</catchline><para>Indemnification of any individual who has incurred liability, is a party, or is threatened to be made a party because of the performance of duties to, or activity on behalf of, the limited cooperative association is governed by the Business Corporation Act.</para></amendatorysection></section><source><para>Laws 2007, LB368, &#167; 76.</para></source><crossreference><para><emphasis>Nebraska Model Business Corporation Act,</emphasis> see section 21-201.</para></crossreference></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Corporations and Other Companies" statutenumber="21-2976"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>21-2976</statuteno><catchline>Indemnification.</catchline><para>Indemnification
+of any individual who has incurred liability, is a party, or is threatened
+to be made a party because of the performance of duties to, or activity on
+behalf of, the limited cooperative association is governed by the Nebraska Model Business Corporation Act.</para>
+</amendatorysection></section><source><para>Laws 2007, LB368, &#167; 76; </para><para>Laws 2014, LB749, &#167; 276.</para><operativedate>January 1, 2016</operativedate></source><crossreference><para><emphasis>Nebraska Model Business Corporation Act,</emphasis> see section 21-201.</para></crossreference>  </law>
+</legaldoc>

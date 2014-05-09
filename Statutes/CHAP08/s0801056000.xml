@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Banks and Banking" statutenumber="8-156"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>8-156</statuteno><catchline>Forged, altered, or raised checks; payment on; notice; registered or certified mail.</catchline><para>The notice referred to in section 8-155 may be given by either registered or certified mail addressed to such depositor or his legal representative at his last-known address with postage prepaid.</para></amendatorysection></section><source><para>Laws 1919, c. 18, &#167; 2, p. 83; </para><para>C.S.1922, &#167; 8051; </para><para>C.S.1929, &#167; 8-168; </para><para>R.S.1943, &#167; 8-171; </para><para>Laws 1957, c. 242, &#167; 3, p. 818; </para><para>R.R.S.1943, &#167; 8-171; </para><para>Laws 1963, c. 29, &#167; 56, p. 158.</para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<amendatorysection chaptername="" statutenumber="8-156">
+				<statuteno>8-156</statuteno>
+				<catchline>Repealed. Laws 2014, LB 714, &#167; 1.</catchline>
+				
+			</amendatorysection>
+		</section>
+	</law>
+</legaldoc>

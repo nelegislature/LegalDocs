@@ -1,1 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Insurance" statutenumber="44-3312"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>44-3312</statuteno><catchline>Legal service insurance corporation; articles of incorporation; contents.</catchline><para>(1) Two or more persons may organize a legal service insurance corporation under this section.</para><para>(2) The articles of incorporation of a not-for-profit corporation shall conform to the requirements applicable to not-for-profit corporations under the Nebraska Nonprofit Corporation Act and the articles of incorporation of a corporation for profit shall conform to the requirements applicable to corporations for profit under the Business Corporation Act, except that:</para><para>(a) The name of the corporation shall indicate that legal services or indemnity for legal services is to be provided;</para><para>(b) The purposes of the corporation shall be limited to providing legal services or indemnity for legal expenses and business reasonably related thereto;</para><para>(c) The articles shall state whether members or other providers of services may be required to share operating deficits, either through assessments or through reductions in the compensation for services rendered. They shall also state the general conditions and procedures for deficit sharing and any limits on the amount of the deficit to be assumed by each individual member or provider;</para><para>(d) For corporations having members, the articles shall state the conditions and procedures for acquiring membership and that only members have the right to vote; and</para><para>(e) For corporations not having members, the articles shall state how the directors are to be selected.</para></amendatorysection></section><source><para>Laws 1979, LB 52, &#167; 12; </para><para>Laws 1995, LB 109, &#167; 225; </para><para>Laws 1996, LB 681, &#167; 195. </para></source><crossreference><para><emphasis>Nebraska Model Business Corporation Act,</emphasis> see section 21-201.</para><para><emphasis>Nebraska Nonprofit Corporation Act,</emphasis> see section 21-1901.</para></crossreference></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Insurance" statutenumber="44-3312"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>44-3312</statuteno><catchline>Legal service insurance corporation;
+articles of incorporation; contents.</catchline><para>(1) Two or more persons
+may organize a legal service insurance corporation under this section.</para>
+<para>(2) The articles of incorporation of a not-for-profit corporation shall
+conform to the requirements applicable to not-for-profit corporations under
+the Nebraska Nonprofit Corporation Act and the articles of incorporation of
+a corporation for profit shall conform to the requirements applicable to corporations
+for profit under the Nebraska
+Model Business Corporation Act, except that:</para>
+<para>(a) The name of the corporation shall indicate that legal services or
+indemnity for legal services is to be provided;</para>
+<para>(b) The purposes of the corporation shall be limited to providing legal
+services or indemnity for legal expenses and business reasonably related thereto;</para>
+<para>(c) The articles shall state whether members or other providers of services
+may be required to share operating deficits, either through assessments or
+through reductions in the compensation for services rendered. They shall also
+state the general conditions and procedures for deficit sharing and any limits
+on the amount of the deficit to be assumed by each individual member or provider;</para>
+<para>(d) For corporations having members, the articles shall state the conditions
+and procedures for acquiring membership and that only members have the right
+to vote; and</para>
+<para>(e) For corporations not having members, the articles shall state how
+the directors are to be selected.</para>
+</amendatorysection></section><source><para>Laws 1979, LB 52, &#167; 12; </para><para>Laws 1995, LB 109, &#167; 225; </para><para>Laws 1996, LB 681, &#167; 195; </para><para>Laws 2014, LB749, &#167; 291.</para><operativedate>January 1, 2016</operativedate></source><crossreference><para><emphasis>Nebraska Model Business Corporation Act,</emphasis> see section 21-201.</para><para><emphasis>Nebraska Nonprofit Corporation Act,</emphasis> see section 21-1901.</para></crossreference>  </law>
+</legaldoc>

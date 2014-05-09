@@ -1,98 +1,125 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id297">
-<amendatorysection amended="yes" chaptername="Infants and Juveniles" id="id299" statutenumber="43-286"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>43-286</statuteno><catchline id="id302">Juvenile violator
+<section id="id236">
+<amendatorysection amended="yes" chaptername="Infants and Juveniles" id="id238" statutenumber="43-286">
+<bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>43-286</statuteno><catchline id="id241">Juvenile violator
 or juvenile in need of special supervision; disposition; violation of probation,
-supervision, or court order; procedure.</catchline><para>(1) When
-any juvenile is adjudicated to be a juvenile described in subdivision (1),
-(2), or (4) of section 43-247:</para>
-<para>(a)(i) This subdivision applies until
-October 1, 2013. The court may continue the dispositional portion
-of the hearing, from time to time upon such terms and conditions as the court
-may prescribe, including an order of restitution of any property stolen or
-damaged or an order requiring the juvenile to participate in community service
-programs, if such order is in the interest of the juvenile's reformation or
-rehabilitation, and, subject to the further order of the court, may:</para>
-<para>(A) Place the juvenile on
-probation subject to the supervision of a probation officer;</para>
-<para>(B) Permit the juvenile to
-remain in his or her own home or be placed in a suitable family home, subject
-to the supervision of the probation officer; or</para>
-<para>(C) Cause the juvenile to
-be placed in a suitable family home or institution, subject to the supervision
-of the probation officer. If the court has committed the juvenile to the care
-and custody of the Department of Health and Human Services, the department
-shall pay the costs of the suitable family home or institution which are not
-otherwise paid by the juvenile's parents.</para>
-<para>Under subdivision (1)(a)(i) of this section,
-upon a determination by the court that there are no parental, private, or
-other public funds available for the care, custody, and maintenance of a juvenile,
-the court may order a reasonable sum for the care, custody, and maintenance
-of the juvenile to be paid out of a fund which shall be appropriated annually
-by the county where the petition is filed until a suitable provision may be
-made for the juvenile without such payment.</para>
-<para>(ii) This subdivision
-applies beginning October 1, 2013. The court may continue the dispositional
-portion of the hearing, from time to time upon such terms and conditions as
-the court may prescribe, including an order of restitution of any property
-stolen or damaged or an order requiring the juvenile to participate in community
-service programs, if such order is in the interest of the juvenile's reformation
-or rehabilitation, and, subject to the further order of the court, may:</para>
-<para>(A) Place the juvenile
-on probation subject to the supervision of a probation officer; or</para>
-<para>(B) Permit the juvenile
-to remain in his or her own home or be placed in a suitable family home or
-institution, subject to the supervision of the probation officer.</para>
-<para>If the court has placed
-a juvenile under the supervision of a probation officer, the Office of Probation
-Administration shall pay the costs of the suitable family home or institution
-which are not otherwise paid by the juvenile's parents.</para>
-<para>Under subdivision (1)(a)(ii)
-of this section, upon a determination by the court that there are no parental,
-private, or other public funds available for the care, custody, and maintenance
-of a juvenile, the court may order a reasonable sum for the care, custody,
-and maintenance of the juvenile to be paid out of a fund which shall be appropriated
-annually by the county where the petition is filed until a suitable provision
-may be made for the juvenile without such payment;</para><para>(b)(i) This subdivision
-applies to all juveniles committed to the Office of Juvenile Services prior
-to July 1, 2013. The court may commit such juvenile to the Office of Juvenile
-Services, but a juvenile under the age of fourteen years shall not be placed
-at the Youth Rehabilitation and Treatment Center-Geneva or the Youth Rehabilitation
+supervision, or court order; procedure;
+discharge; procedure; notice; hearing; individualized reentry plan.</catchline>
+<para>(1) When any juvenile is adjudicated to be a juvenile described
+in subdivision (1), (2), or (4) of section 43-247:</para>
+<para>(a)(i) This subdivision applies until October 1, 2013. The
+court may continue the dispositional portion of the hearing, from time to
+time upon such terms and conditions as the court may prescribe, including
+an order of restitution of any property stolen or damaged or an order requiring
+the juvenile to participate in community service programs, if such order is
+in the interest of the juvenile's reformation or rehabilitation, and, subject
+to the further order of the court, may:</para>
+<para>(A) Place the juvenile on probation subject to the supervision
+of a probation officer;</para>
+<para>(B) Permit the juvenile to remain in his or her own home
+or be placed in a suitable family home, subject to the supervision of the
+probation officer; or</para>
+<para>(C) Cause the juvenile to be placed in a suitable family
+home or institution, subject to the supervision of the probation officer.
+If the court has committed the juvenile to the care and custody of the Department
+of Health and Human Services, the department shall pay the costs of the suitable
+family home or institution which are not otherwise paid by the juvenile's
+parents.</para>
+<para>Under subdivision (1)(a)(i) of this section, upon a determination
+by the court that there are no parental, private, or other public funds available
+for the care, custody, and maintenance of a juvenile, the court may order
+a reasonable sum for the care, custody, and maintenance of the juvenile to
+be paid out of a fund which shall be appropriated annually by the county where
+the petition is filed until a suitable provision may be made for the juvenile
+without such payment.</para>
+<para>(ii) This subdivision applies beginning October 1, 2013.
+The court may continue the dispositional portion of the hearing, from time
+to time upon such terms and conditions as the court may prescribe, including
+an order of restitution of any property stolen or damaged or an order requiring
+the juvenile to participate in community service programs, if such order is
+in the interest of the juvenile's reformation or rehabilitation, and, subject
+to the further order of the court, may:</para>
+<para>(A) Place the juvenile on probation subject to the supervision
+of a probation officer; or</para>
+<para>(B) Permit the juvenile to remain in his or her own home
+or be placed in a suitable family home or institution, subject to the supervision
+of the probation officer;</para>
+<para>(b)(i) This subdivision applies
+to all juveniles committed to the Office of Juvenile Services prior to July
+1, 2013. The court may commit such juvenile to the Office of Juvenile Services,
+but a juvenile under the age of fourteen years shall not be placed at the
+Youth Rehabilitation and Treatment Center-Geneva or the Youth Rehabilitation
 and Treatment Center-Kearney unless he or she has violated the terms of probation
 or has committed an additional offense and the court finds that the interests
 of the juvenile and the welfare of the community demand his or her commitment.
 This minimum age provision shall not apply if the act in question is murder
-or manslaughter.</para><para>(ii)
-This subdivision applies to all juveniles committed to the Office of Juvenile
-Services for placement at a youth rehabilitation and treatment center on or
-after July 1, 2013. Unless prohibited by section 43-251.01, the court
-may commit such juvenile to the Office of Juvenile Services for placement at a youth rehabilitation and treatment center
-as a condition of an order of intensive supervised probation if all levels
-of probation supervision and options for community-based services have been
-exhausted and placement of such juvenile is a matter of immediate and urgent
-necessity for the protection of such juvenile or the person or property of
+or manslaughter.</para>
+<para>(ii) This subdivision applies to all juveniles committed
+to the Office of Juvenile Services for placement at a youth rehabilitation
+and treatment center on or after July 1, 2013.</para>
+<para>When it is
+alleged that the juvenile has exhausted all levels of probation supervision
+and options for community-based services and section 43-251.01 has been satisfied,
+a motion for commitment to a youth rehabilitation and treatment center may
+be filed and proceedings held as follows:</para><para>(A) The motion shall set forth specific
+factual allegations that support the motion and a copy of such motion shall
+be served on all persons required to be served by sections 43-262 to 43-267;
+and</para><para>(B) The juvenile shall be entitled to a hearing before the court
+to determine the validity of the allegations. At such hearing the burden is
+upon the state by a preponderance of the evidence to show that:</para>
+<para>(I) All levels
+of probation supervision have been exhausted;</para><para>(II) All options for
+community-based services have been exhausted; and</para><para>(III) Placement at a
+youth rehabilitation and treatment center is a matter of immediate and urgent
+necessity for the protection of the juvenile or the person or property of
 another or if it appears that such juvenile is likely to flee the jurisdiction
-of the court. Intensive supervised probation for purposes of this subdivision
-means that the Office of Juvenile Services shall be responsible for the care
-and custody of the juvenile until the Office of Juvenile Services discharges
-the juvenile. Upon discharge of the juvenile, the court shall hold a review
-hearing on the conditions of probation and enter any order allowed under subdivision
-(1)(a) of this section. The Office of Juvenile Services shall work in collaboration
-with the Office of Probation Administration in developing individualized reentry
-plans as created in section 43-425 and shall notify the committing court at
-least sixty days prior to discharge. The Office of Juvenile Services shall
-pay the cost of the care and custody of the juvenile from the time of commitment
-until discharge from the Office of Juvenile Services; or</para>
-<para>(c) Beginning
-July 1, 2013, and until October 1, 2013, the court may commit such juvenile
-to the Office of Juvenile Services for community supervision.</para>
+of the court.</para><para>After
+the hearing, the court may commit such juvenile to the Office
+of Juvenile Services for placement at a youth rehabilitation and treatment
+center as a condition of an order of intensive supervised probation. Upon commitment by the court to the Office of Juvenile Services,
+the court shall immediately notify the Office of Juvenile Services of the
+commitment. Intensive supervised probation for purposes of this
+subdivision means that the Office of Juvenile Services shall be responsible
+for the care and custody of the juvenile until the Office of Juvenile Services
+discharges the juvenile from
+commitment to the Office of Juvenile Services. Upon discharge
+of the juvenile, the court shall hold a review hearing on the conditions of
+probation and enter any order allowed under subdivision (1)(a) of this section.</para>
+<para>The Office of Juvenile Services shall
+notify those required to be served by sections 43-262 to 43-267, all interested
+parties, and the committing court of the pending discharge of a juvenile from
+the youth rehabilitation and treatment center sixty days prior to discharge
+and again in every case not less than thirty days prior to discharge. Upon
+notice of pending discharge by the Office of Juvenile Services, the court
+shall set a continued disposition hearing in anticipation of reentry. The
+Office of Juvenile Services shall work in collaboration with the Office of
+Probation Administration in developing an individualized
+reentry plan for the juvenile as provided in section 43-425. The
+Office of Juvenile Services shall provide a copy of the individualized reentry
+plan to the juvenile, the juvenile's attorney, and the county attorney or
+city attorney prior to the continued disposition hearing. At the continued
+disposition hearing, the court shall review and approve or modify the individualized
+reentry plan, place the juvenile under probation supervision, and enter any
+other order allowed by law. No hearing is required if all interested parties
+stipulate to the individualized reentry plan by signed motion. In such a case,
+the court shall approve the conditions of probation, approve the individualized
+reentry plan, and place the juvenile under probation supervision.</para>
+<para>The Office
+of Juvenile Services is responsible for transportation of the juvenile to
+and from the youth rehabilitation and treatment center. The Office of Juvenile
+Services may contract for such services. A plan for a juvenile's transport
+to return to the community shall be a part of the individualized reentry plan.
+The Office of Juvenile Services may approve family to provide such transport
+when specified in the individualized reentry plan; or</para><para>(c) Beginning July 1, 2013, and until October 1, 2013, the court
+may commit such juvenile to the Office of Juvenile Services for community
+supervision.</para>
 <para>(2) When any juvenile is found by the court to be a juvenile
 described in subdivision (3)(b) of section 43-247, the court may enter such
 order as it is empowered to enter under subdivision (1)(a) of this section
-or until October 1, 2013, enter
-an order committing or placing the juvenile to the care and custody of the
-Department of Health and Human Services.</para>
+or until October 1, 2013, enter an order committing or placing the juvenile
+to the care and custody of the Department of Health and Human Services.</para>
 <para>(3) When any juvenile is adjudicated to be a juvenile described
 in subdivision (1), (2), (3)(b), or (4) of section 43-247 because of a nonviolent
 act or acts and the juvenile has not previously been adjudicated to be such
@@ -155,5 +182,11 @@ the time the original order was entered; and</para>
 <para>(vi) In cases when the court revokes probation, supervision,
 or other court order, it shall enter a written statement as to the evidence
 relied on and the reasons for revocation.</para>
-</amendatorysection></section><source><para>Laws 1981, LB 346, &#167; 42; </para><para>Laws 1982, LB 787, &#167; 18; </para><para>Laws 1987, LB 638, &#167; 6; </para><para>Laws 1989, LB 182, &#167; 13; </para><para>Laws 1994, LB 988, &#167; 21; </para><para>Laws 1996, LB 1044, &#167; 134; </para><para>Laws 1998, LB 1073, &#167; 26; </para><para>Laws 2000, LB 1167, &#167; 21; </para><para>Laws 2011, LB463, &#167; 4; </para><para>Laws 2012, LB972, &#167; 3; </para><para>Laws 2013, LB561, &#167; 23.</para></source><crossreference><para><emphasis>Juvenile probation officers,</emphasis> appointment, see section 29-2253.</para><para><emphasis>Placements and commitments,</emphasis> restrictions, see section 43-251.01.</para></crossreference><annotation><para><emphasis>1. Probation</emphasis></para><para><emphasis>2. Restitution</emphasis></para><para><emphasis>3. Equal protection</emphasis></para><para><emphasis>4. Miscellaneous</emphasis></para><para><emphasis>1. Probation</emphasis></para><para>This section does not authorize the juvenile court to impose confinement as a part of an order of probation. In re Interest of Dustin S., 276 Neb. 635, 756 N.W.2d 277 (2008).</para><para>Juvenile court may not place a juvenile on probation or exercise any of its other options for disposition and at the same time continue the dispositional hearing. In re Interest of Markice M., 275 Neb. 908, 750 N.W.2d 345 (2008).</para><para>In the absence of an order revoking probation, a juvenile court has no obligation to comply with former subsection (4)(f) of this section. In re Interest of J.A., 244 Neb. 919, 510 N.W.2d 68 (1994).</para><para>This section does not allow the juvenile court to place a juvenile on probation or exercise any of its other options under the former subsections (1) and (2) and at the same time continue the dispositional hearing. Subsection (4) outlines the procedures which must be followed when a court revokes probation, revokes supervision, or otherwise changes the juvenile's disposition, and the former subsection (4)(f) describes more particularly the procedures which must be followed when a court revokes probation. In re Interest of Torrey B., 6 Neb. App. 658, 577 N.W.2d 310 (1998).</para><para>There is no provision in either this section or section 43-287 that grants the juvenile court the authority to place a juvenile on probation subject to the supervision of the Department of Social Services. In re Interest of Robin C., 3 Neb. App. 936, 535 N.W.2d 831 (1995).</para><para><emphasis>2. Restitution</emphasis></para><para>A juvenile court may use any rational method of fixing the amount of restitution, so long as the amount is rationally related to the proofs offered at the dispositional hearing, and the amount is consistent with the purposes of education, treatment, rehabilitation, and the juvenile's ability to pay. In re Interest of Laurance S., 274 Neb. 620, 742 N.W.2d 484 (2007).</para><para>When a juvenile court enters an order of restitution under subsection (1)(a) of this section, the court should consider, among other factors, the juvenile's earning ability, employment status, financial resources, and other obligations. In re Interest of Laurance S., 274 Neb. 620, 742 N.W.2d 484 (2007).</para><para><emphasis>3. Equal protection</emphasis></para><para>Since juvenile offenders and adult offenders are not similarly situated, there is no deprivation of equal protection when a juvenile adjudged to be a juvenile within the meaning of section 43-247(1), (2), or (4) is, pursuant to this section, confined for a longer period than an adult convicted of the same offense could be incarcerated. In re Interest of A.M.H., 233 Neb. 610, 447 N.W.2d 40 (1989).</para><para>The dispositional statutes (sections 43-283 to 43-2,101) do not violate the equal protection provisions of either the U.S. Constitution or the Constitution of the State of Nebraska, because they validly classify status offenders, who do not violate the state's criminal law, on the one hand, and juvenile criminal offenders, on the other, who violate the state's criminal law by their own volitional acts. In re Interest of C.G. and G.G.T., 221 Neb. 409, 377 N.W.2d 529 (1985).</para><para><emphasis>4. Miscellaneous</emphasis></para><para>As used in subsection (1)(a)(iii) of this section, the terms "supervision" and "custody" are not synonymous. In re Interest of Jeremy T., 257 Neb. 736, 600 N.W.2d 747 (1999).</para><para>A juvenile adjudged to be a juvenile within the meaning of section 43-247(3)(b), i.e., a status offender, may not be committed to the Department of Correctional Services. In re Interest of A.M.H., 233 Neb. 610, 447 N.W.2d 40 (1989).</para><para>A juvenile court has broad discretion as to the disposition of a child found to be delinquent. In re Interest of Jones, 230 Neb. 462, 432 N.W.2d 46 (1988).</para><para>Disposition of juveniles adjudged within section 43-247 is pursuant to sections 43-283 to 43-2,101. In re Interest of C.G. and G.G.T., 221 Neb. 409, 377 N.W.2d 529 (1985).</para><para>In exercising its jurisdiction, a juvenile court cannot modify a disposition order without, at least, a motion, appropriate notice, and a hearing satisfying the requirements of due process. In addition to lacking the authority to order the Department of Health and Human Services to supervise a juvenile's probation, the juvenile court also lacks the authority to order the Department of Health and Human Services to supervise a juvenile's house arrest or to oversee a juvenile's payment of restitution. In re Interest of Juan L., 6 Neb. App. 683, 577 N.W.2d 319 (1998).</para><para>A juvenile court does not have jurisdiction over the Office of Juvenile Services in placing, managing, or discharging a juvenile committed to a youth rehabilitation treatment center, even though the juvenile court retains jurisdiction of the juvenile. On a motion to revoke probation, the court must advise the juvenile and his or her parent or guardian of their right to retain counsel, inquire of the juvenile and his or her parent or guardian as to whether they desire to retain counsel, and inform the juvenile and his or her parent or guardian of the juvenile's right to counsel at county expense if none of them is able to afford counsel. In re Interest of David C., 6 Neb. App. 198, 572 N.W.2d 392 (1997).</para><para>The written statement requirement contained in former subsection (4)(f) of this section is satisfied if the judge's oral statements appearing in the bill of exceptions from the revocation hearing, as well as in the revocation order, when taken together, reveal the evidence relied upon and reasons for the revocation. In re Interest of Thomas W., 3 Neb. App. 704, 530 N.W.2d 291 (1995).</para></annotation>  </law>
+<para>(6) Costs
+incurred on behalf of a juvenile under this section shall be paid as provided
+in section 43-290.01.</para><para>(7) When any juvenile is adjudicated to be a juvenile described
+in subdivision (4) of section 43-247, the juvenile court shall within thirty
+days of adjudication transmit to the Director of Motor Vehicles an abstract
+of the court record of adjudication.</para></amendatorysection>
+</section><source><para>Laws 1981, LB 346, &#167; 42; </para><para>Laws 1982, LB 787, &#167; 18; </para><para>Laws 1987, LB 638, &#167; 6; </para><para>Laws 1989, LB 182, &#167; 13; </para><para>Laws 1994, LB 988, &#167; 21; </para><para>Laws 1996, LB 1044, &#167; 134; </para><para>Laws 1998, LB 1073, &#167; 26; </para><para>Laws 2000, LB 1167, &#167; 21; </para><para>Laws 2011, LB463, &#167; 4; </para><para>Laws 2012, LB972, &#167; 3; </para><para>Laws 2013, LB561, &#167; 23; </para><para>Laws 2014, LB464, &#167; 20.</para><operativedate>July 18, 2014</operativedate></source><crossreference><para><emphasis>Juvenile probation officers,</emphasis> appointment, see section 29-2253.</para><para><emphasis>Placements and commitments,</emphasis> restrictions, see section 43-251.01.</para></crossreference><annotation><para><emphasis>1. Probation</emphasis></para><para><emphasis>2. Restitution</emphasis></para><para><emphasis>3. Equal protection</emphasis></para><para><emphasis>4. Miscellaneous</emphasis></para><para><emphasis>1. Probation</emphasis></para><para>A juvenile court retains the authority to place a juvenile on probation under this section even if that juvenile has been previously placed with the Office of Juvenile Services. In re Interest of Charlicia H., 283 Neb. 362, 809 N.W.2d 274 (2012).</para><para>This section does not authorize the juvenile court to impose confinement as a part of an order of probation. In re Interest of Dustin S., 276 Neb. 635, 756 N.W.2d 277 (2008).</para><para>Juvenile court may not place a juvenile on probation or exercise any of its other options for disposition and at the same time continue the dispositional hearing. In re Interest of Markice M., 275 Neb. 908, 750 N.W.2d 345 (2008).</para><para>In the absence of an order revoking probation, a juvenile court has no obligation to comply with former subsection (4)(f) of this section. In re Interest of J.A., 244 Neb. 919, 510 N.W.2d 68 (1994).</para><para>This section does not allow the juvenile court to place a juvenile on probation or exercise any of its other options under the former subsections (1) and (2) and at the same time continue the dispositional hearing. Subsection (4) outlines the procedures which must be followed when a court revokes probation, revokes supervision, or otherwise changes the juvenile's disposition, and the former subsection (4)(f) describes more particularly the procedures which must be followed when a court revokes probation. In re Interest of Torrey B., 6 Neb. App. 658, 577 N.W.2d 310 (1998).</para><para>There is no provision in either this section or section 43-287 that grants the juvenile court the authority to place a juvenile on probation subject to the supervision of the Department of Social Services. In re Interest of Robin C., 3 Neb. App. 936, 535 N.W.2d 831 (1995).</para><para><emphasis>2. Restitution</emphasis></para><para>A juvenile court may use any rational method of fixing the amount of restitution, so long as the amount is rationally related to the proofs offered at the dispositional hearing, and the amount is consistent with the purposes of education, treatment, rehabilitation, and the juvenile's ability to pay. In re Interest of Laurance S., 274 Neb. 620, 742 N.W.2d 484 (2007).</para><para>When a juvenile court enters an order of restitution under subsection (1)(a) of this section, the court should consider, among other factors, the juvenile's earning ability, employment status, financial resources, and other obligations. In re Interest of Laurance S., 274 Neb. 620, 742 N.W.2d 484 (2007).</para><para><emphasis>3. Equal protection</emphasis></para><para>Since juvenile offenders and adult offenders are not similarly situated, there is no deprivation of equal protection when a juvenile adjudged to be a juvenile within the meaning of section 43-247(1), (2), or (4) is, pursuant to this section, confined for a longer period than an adult convicted of the same offense could be incarcerated. In re Interest of A.M.H., 233 Neb. 610, 447 N.W.2d 40 (1989).</para><para>The dispositional statutes (sections 43-283 to 43-2,101) do not violate the equal protection provisions of either the U.S. Constitution or the Constitution of the State of Nebraska, because they validly classify status offenders, who do not violate the state's criminal law, on the one hand, and juvenile criminal offenders, on the other, who violate the state's criminal law by their own volitional acts. In re Interest of C.G. and G.G.T., 221 Neb. 409, 377 N.W.2d 529 (1985).</para><para><emphasis>4. Miscellaneous</emphasis></para><para>As used in subsection (1)(a)(iii) of this section, the terms "supervision" and "custody" are not synonymous. In re Interest of Jeremy T., 257 Neb. 736, 600 N.W.2d 747 (1999).</para><para>A juvenile adjudged to be a juvenile within the meaning of section 43-247(3)(b), i.e., a status offender, may not be committed to the Department of Correctional Services. In re Interest of A.M.H., 233 Neb. 610, 447 N.W.2d 40 (1989).</para><para>A juvenile court has broad discretion as to the disposition of a child found to be delinquent. In re Interest of Jones, 230 Neb. 462, 432 N.W.2d 46 (1988).</para><para>Disposition of juveniles adjudged within section 43-247 is pursuant to sections 43-283 to 43-2,101. In re Interest of C.G. and G.G.T., 221 Neb. 409, 377 N.W.2d 529 (1985).</para><para>In exercising its jurisdiction, a juvenile court cannot modify a disposition order without, at least, a motion, appropriate notice, and a hearing satisfying the requirements of due process. In addition to lacking the authority to order the Department of Health and Human Services to supervise a juvenile's probation, the juvenile court also lacks the authority to order the Department of Health and Human Services to supervise a juvenile's house arrest or to oversee a juvenile's payment of restitution. In re Interest of Juan L., 6 Neb. App. 683, 577 N.W.2d 319 (1998).</para><para>A juvenile court does not have jurisdiction over the Office of Juvenile Services in placing, managing, or discharging a juvenile committed to a youth rehabilitation treatment center, even though the juvenile court retains jurisdiction of the juvenile. On a motion to revoke probation, the court must advise the juvenile and his or her parent or guardian of their right to retain counsel, inquire of the juvenile and his or her parent or guardian as to whether they desire to retain counsel, and inform the juvenile and his or her parent or guardian of the juvenile's right to counsel at county expense if none of them is able to afford counsel. In re Interest of David C., 6 Neb. App. 198, 572 N.W.2d 392 (1997).</para><para>The written statement requirement contained in former subsection (4)(f) of this section is satisfied if the judge's oral statements appearing in the bill of exceptions from the revocation hearing, as well as in the revocation order, when taken together, reveal the evidence relied upon and reasons for the revocation. In re Interest of Thomas W., 3 Neb. App. 704, 530 N.W.2d 291 (1995).</para></annotation>  </law>
 </legaldoc>

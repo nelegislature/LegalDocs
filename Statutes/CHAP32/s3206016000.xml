@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="Elections" statutenumber="32-616"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>32-616</statuteno><catchline>Nomination for general election; other
-methods.</catchline><para>(1) Any registered voter who was not a candidate
-in the primary election and
-who was not registered to vote with a party affiliation on or before March
-1 in the calendar year of the general election may
-have his or her name placed on the general election ballot for a partisan
-office by filing petitions as prescribed in sections 32-617 to 32-621 or by
-nomination by political party convention or committee pursuant to section 32-627 or 32-710.</para>
-<para>(2) Any candidate who was defeated in the primary election and any registered
-voter who was not a candidate in the primary election may have his or her
-name placed on the general election ballot if a vacancy exists on the ballot
-under subsection (2) of section 32-625 and the candidate files for the office
-by petition as prescribed in sections 32-617 and 32-618, files
-as a write-in candidate as prescribed in section 32-615, or is nominated by political party convention or committee
-pursuant to section 32-627 or 32-710.</para>
-</amendatorysection></section><source><para>Laws 1994, LB 76, &#167; 184; </para><para>Laws 1997, LB 764, &#167; 61; </para><para>Laws 2002, LB 251, &#167; 5; </para><para>Laws 2011, LB368, &#167; 1; </para><para>Laws 2011, LB449, &#167; 6.</para></source>  </law>
+<section id="id4">
+<amendatorysection amended="yes" chaptername="Elections" id="id6" statutenumber="32-616"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>32-616</statuteno><catchline id="id9">Nomination for general
+election; other methods.</catchline><para>(1) Any registered voter
+who was not a candidate in the primary election and who was not registered
+to vote with a party affiliation on or after March 1 and before the general election in the calendar
+year of the general election may have his or her name placed on the general
+election ballot for a partisan office by filing petitions as prescribed in
+sections 32-617 to 32-621 or by nomination by political party convention or
+committee pursuant to section 32-627 or 32-710.</para>
+<para>(2) Any candidate who was defeated in the primary election
+and any registered voter who was not a candidate in the primary election may
+have his or her name placed on the general election ballot if a vacancy exists
+on the ballot under subsection (2) of section 32-625 and the candidate files
+for the office by petition as prescribed in sections 32-617 and 32-618, files
+as a write-in candidate as prescribed in section 32-615, or is nominated by
+political party convention or committee pursuant to section 32-627 or 32-710.</para>
+</amendatorysection></section><source><para>Laws 1994, LB 76, &#167; 184; </para><para>Laws 1997, LB 764, &#167; 61; </para><para>Laws 2002, LB 251, &#167; 5; </para><para>Laws 2011, LB368, &#167; 1; </para><para>Laws 2011, LB449, &#167; 6; </para><para>Laws 2014, LB946, &#167; 13.</para><operativedate>January 1, 2015</operativedate></source>  </law>
 </legaldoc>

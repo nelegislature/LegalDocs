@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Oils, Fuels, and Energy" statutenumber="66-6,102"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>66-6,102</statuteno><catchline>Gallon equivalent, defined.</catchline><para>Gallon equivalent means the amount of any nonliquid compressed fuel that is deemed to be the equivalent of a gallon of gasoline according to the National Institute of Standards and Technology Handbook 130 entitled Method of Sale of Commodities Regulation, Paragraph 2.27.1.3.</para></amendatorysection></section><source><para>Laws 1995, LB 182, &#167; 6. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id18">
+<amendatorysection amended="yes" chaptername="Oils, Fuels, and Energy" id="id20" statutenumber="66-6,102">
+<bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>66-6,102</statuteno><catchline id="id23">Gallon equivalent,
+defined.</catchline><para>Gallon equivalent means:</para>
+<para>(1) For compressed natural gas, the amount
+of compressed
+natural gas that is deemed to be the energy equivalent of a gallon of gasoline according
+to the National Institute of Standards and Technology Handbook 130 entitled Uniform Regulation for the Method
+of Sale of Commodities, Paragraph 2.27.1.3; or</para>
+<para>(2) For liquefied
+natural gas, the amount of liquefied natural gas that is deemed to be the
+energy equivalent of a gallon of diesel fuel at diesel fuel's lower heating
+value of one hundred twenty-eight thousand seven hundred British thermal units,
+which amount shall be equal to six and six-hundredths pounds of liquefied
+natural gas.</para></amendatorysection></section><source><para>Laws 1995, LB 182, &#167; 6; </para><para>Laws 2014, LB867, &#167; 6.</para><operativedate>January 1, 2015</operativedate></source>  </law>
+</legaldoc>

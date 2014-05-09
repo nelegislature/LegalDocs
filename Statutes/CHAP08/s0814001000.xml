@@ -1,57 +1,64 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="Banks and Banking" statutenumber="8-1401"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>8-1401</statuteno><catchline>Disclosure of confidential records
-or information; court order; not applicable, when; immunity.</catchline><para>(1)
-No person organized under the Business Corporation Act, the Credit Union Act,
-the Nebraska Banking Act, the Nebraska Industrial Development Corporation
-Act, the Nebraska Nonprofit Corporation Act, the Nebraska Professional Corporation
-Act, the Nebraska Trust Company Act, or Chapter 8, article 3, or otherwise
-authorized to conduct business in Nebraska or organized under the laws of
-the United States, shall be required to disclose any records or information,
-financial or otherwise, that it deems confidential concerning its affairs
-or the affairs of any person with which it is doing business to any person,
-party, agency, or organization, unless:</para>
-<para>(a) The disclosure relates to a lawyers trust account and is required
-to be made to the Counsel for Discipline of the Nebraska Supreme Court pursuant
-to a rule adopted by the Nebraska Supreme Court;</para>
-<para>(b) The disclosure is governed by rules for discovery promulgated pursuant
-to section 25-1273.01;</para>
-<para>(c) The request for disclosure is made by a law enforcement agency regarding
-a crime, a fraud, or any other unlawful activity in which the person to whom
-the request for disclosure is made is or may be a victim of such crime, fraud,
-or unlawful activity;</para>
-<para>(d) The request for disclosure is made by a governmental agency which
-is a duly constituted supervisory regulatory agency of the person to whom
-the request for disclosure is made and the disclosure relates to examinations,
-audits, investigations, or inquiries of such persons;</para>
-<para>(e) The request for disclosure is made pursuant to subpoena issued under
-the laws of this state by a governmental agency exercising investigatory or
-adjudicative functions with respect to a matter within the agency's jurisdiction;</para>
-<para>(f) The production of records is pursuant to a written demand of the
-Tax Commissioner under section 77-375;</para>
-<para>(g) There is first presented to such person a subpoena, summons, or
-warrant issued by a court of competent jurisdiction;</para>
-<para>(h) A statute by its terms or rules and regulations adopted and promulgated
-thereunder requires the disclosure, other than by subpoena, summons, warrant,
-or court order;</para>
-<para>(i) There is presented to such person an order of a court of competent
-jurisdiction setting forth the exact nature and limits of such required disclosure
-and a showing that all persons to be affected by such order have had reasonable
-notice and an opportunity to be heard upon the merits of such order;</para>
-<para>(j) The request for disclosure
+<section id="id21">
+<amendatorysection amended="yes" chaptername="Banks and Banking" id="id23" statutenumber="8-1401"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>8-1401</statuteno><catchline id="id26">Disclosure of
+confidential records or information; court order; not applicable, when; immunity.</catchline>
+<para>(1) No person organized under the Credit Union
+Act, the Nebraska Banking Act, the Nebraska Industrial Development Corporation
+Act, the Nebraska Model Business
+Corporation Act, the Nebraska Nonprofit Corporation Act, the Nebraska
+Professional Corporation Act, the Nebraska Trust Company Act, or Chapter 8,
+article 3, or otherwise authorized to conduct business in Nebraska or organized
+under the laws of the United States, shall be required to disclose any records
+or information, financial or otherwise, that it deems confidential concerning
+its affairs or the affairs of any person with which it is doing business to
+any person, party, agency, or organization, unless:</para>
+<para>(a) The disclosure relates to a lawyers trust account and
+is required to be made to the Counsel for Discipline of the Nebraska Supreme
+Court pursuant to a rule adopted by the Nebraska Supreme Court;</para>
+<para>(b) The disclosure is governed by rules for discovery promulgated
+pursuant to section 25-1273.01;</para>
+<para>(c) The disclosure
+is made pursuant to section 8-1404;</para><para>(d) The request for disclosure is made by a
+law enforcement agency regarding a crime, a fraud, or any other unlawful activity
+in which the person to whom the request for disclosure is made is or may be
+a victim of such crime, fraud, or unlawful activity;</para>
+<para>(e) The request for disclosure
+is made by a governmental agency which is a duly constituted supervisory regulatory
+agency of the person to whom the request for disclosure is made and the disclosure
+relates to examinations, audits, investigations, or inquiries of such persons;</para>
+<para>(f) The request for disclosure
+is made pursuant to subpoena issued under the laws of this state by a governmental
+agency exercising investigatory or adjudicative functions with respect to
+a matter within the agency's jurisdiction;</para>
+<para>(g) The production of records
+is pursuant to a written demand of the Tax Commissioner under section 77-375;</para>
+<para>(h) There is first presented
+to such person a subpoena, summons, or warrant issued by a court of competent
+jurisdiction;</para>
+<para>(i) A statute by its terms
+or rules and regulations adopted and promulgated thereunder requires the disclosure,
+other than by subpoena, summons, warrant, or court order;</para>
+<para>(j) There is presented to
+such person an order of a court of competent jurisdiction setting forth the
+exact nature and limits of such required disclosure and a showing that all
+persons to be affected by such order have had reasonable notice and an opportunity
+to be heard upon the merits of such order;</para>
+<para>(k) The request for disclosure
 relates to information or records regarding the balance due, monthly payments
 due, payoff amounts, payment history, interest rates, due dates, or similar
 information for indebtedness owed by a deceased person when the request is
 made by a person having an ownership interest in real estate or personal property
 which secures such indebtedness owed to the person to whom the request for
-disclosure is made; or</para><para>(k) There
-is first presented to such person the written permission of the person about
-whom records or information is being sought authorizing the release of the
-requested records or information.</para>
-<para>(2) Any person who makes a disclosure of records or information as required
-by this section shall not be held civilly or criminally liable for such disclosure
-in the absence of malice, bad faith, intent to deceive, or gross negligence.</para>
-</amendatorysection></section><source><para>Laws 1977, LB 384, &#167; 1; </para><para>Laws 1979, LB 216, &#167; 1; </para><para>Laws 1986, LB 529, &#167; 1; </para><para>Laws 1995, LB 109, &#167; 193; </para><para>Laws 1996, LB 681, &#167; 178; </para><para>Laws 1996, LB 948, &#167; 121; </para><para>Laws 1998, LB 1104, &#167; 1; </para><para>Laws 2002, LB 857, &#167; 2; </para><para>Laws 2002, LB 957, &#167; 12; </para><para>Laws 2003, LB 131, &#167; 10; </para><para>Laws 2003, LB 156, &#167; 1; </para><para>Laws 2012, LB811, &#167; 1.</para></source><crossreference><para><emphasis>Credit Union Act,</emphasis> see section 21-1701.</para><para><emphasis>Nebraska Banking Act,</emphasis> see section 8-101.01.</para><para><emphasis>Nebraska Industrial Development Corporation Act,</emphasis> see section 21-2318.</para><para><emphasis>Nebraska Model Business Corporation Act,</emphasis> see section 21-201.</para><para><emphasis>Nebraska Nonprofit Corporation Act,</emphasis> see section 21-1901.</para><para><emphasis>Nebraska Professional Corporation Act,</emphasis> see section 21-2201.</para><para><emphasis>Nebraska Trust Company Act,</emphasis> see section 8-201.01.</para></crossreference>  </law>
+disclosure is made; or</para>
+<para>(l) There is first presented
+to such person the written permission of the person about whom records or
+information is being sought authorizing the release of the requested records
+or information.</para>
+<para>(2) Any person who makes a disclosure of records or information
+as required by this section shall not be held civilly or criminally liable
+for such disclosure in the absence of malice, bad faith, intent to deceive,
+or gross negligence.</para>
+</amendatorysection></section><source><para>Laws 1977, LB 384, &#167; 1; </para><para>Laws 1979, LB 216, &#167; 1; </para><para>Laws 1986, LB 529, &#167; 1; </para><para>Laws 1995, LB 109, &#167; 193; </para><para>Laws 1996, LB 681, &#167; 178; </para><para>Laws 1996, LB 948, &#167; 121; </para><para>Laws 1998, LB 1104, &#167; 1; </para><para>Laws 2002, LB 857, &#167; 2; </para><para>Laws 2002, LB 957, &#167; 12; </para><para>Laws 2003, LB 131, &#167; 10; </para><para>Laws 2003, LB 156, &#167; 1; </para><para>Laws 2012, LB811, &#167; 1; </para><para>Laws 2014, LB749, &#167; 233; </para><para>Laws 2014, LB788, &#167; 3.</para><note>The Revisor of Statutes has pursuant to section 49-769 correlated LB749, section 233, with LB788, section 3, to reflect all amendments.</note><note>Changes made by LB788 became effective July 18, 2014. Changes made by LB749 became operative January 1, 2016.</note></source><crossreference><para><emphasis>Credit Union Act,</emphasis> see section 21-1701.</para><para><emphasis>Nebraska Banking Act,</emphasis> see section 8-101.01.</para><para><emphasis>Nebraska Industrial Development Corporation Act,</emphasis> see section 21-2318.</para><para><emphasis>Nebraska Model Business Corporation Act,</emphasis> see section 21-201.</para><para><emphasis>Nebraska Nonprofit Corporation Act,</emphasis> see section 21-1901.</para><para><emphasis>Nebraska Professional Corporation Act,</emphasis> see section 21-2201.</para><para><emphasis>Nebraska Trust Company Act,</emphasis> see section 8-201.01.</para></crossreference>  </law>
 </legaldoc>

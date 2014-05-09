@@ -1,1 +1,147 @@
-<?xml version="1.0" encoding="utf-8"?><!--Arbortext, Inc., 1988-2004, v.4002--><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Criminal Procedure" statutenumber="29-4206" amended="yes" publishedsource="CumulativeSupplement"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>29-4206</statuteno><catchline>District court; accept written waiver of arraignment and plea of not guilty; form.</catchline><para>The district courts may accept a written waiver of arraignment and plea of not guilty from any defendant. The form shall contain the necessary consent and waiver of the right to a physical appearance, shall be signed by the defendant and his or her counsel of record, if any, and shall be filed with the clerk of the court.</para></amendatorysection></section><source><para>Laws 1999, LB 623, &#167; 6; </para><para>Laws 2006, LB 1115, &#167; 25. </para></source><annotation><para>This section does not authorize district courts to accept pleas of not guilty on a conditional basis or alter the requirement under section 29-1812 that a defendant must withdraw his or her plea to the general issue before filing a motion to quash. State v. Liston, 271 Neb. 468, 712 N.W.2d 264 (2006).</para></annotation></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id10">
+<amendatorysection amended="yes" chaptername="Criminal Procedure" id="id12" publishedsource="CumulativeSupplement" statutenumber="29-4206"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>29-4206</statuteno><catchline id="id15">County
+or district court; accept written waivers; when; form; use; effect.</catchline>
+<para>(1) The county courts and district
+courts may accept a written
+waiver of preliminary hearing and a written waiver of arraignment
+and plea of not guilty from any defendant. The
+written waivers shall only be accepted if the defendant is represented by
+counsel. The written waivers shall contain
+the necessary consent and waiver of the right to a physical appearance and comply with subsection (2) of this
+section, shall be signed by the defendant and his or her counsel
+of record, and
+shall be filed with the clerk of the court.</para>
+<para>(2) The written waivers
+authorized under subsection (1) of this section shall be in substantially
+the following form:</para><para><table frame="none">
+<tgroup cols="3">
+<?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
+<colspec colname="col1" colwidth="0.92" /><colspec colname="COLSPEC0" colwidth="0.99" />
+<colspec colname="col2" colwidth="1.09" />
+<tbody>
+<row>
+<entry colsep="0" rowsep="0">STATE
+OF NEBRASKA,</entry>
+<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0">PLEA
+OF NOT GUILTY/</entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0">Plaintiff,</entry>
+<entry colsep="0" rowsep="0">WAIVER
+OF APPEARANCE</entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0">-vs-</entry>
+<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0">Case
+No. ...........</entry>
+</row>
+<row>
+<?PubTbl row rht="0.28in"?>
+<entry colsep="0" rowsep="0">..............................,</entry>
+<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0">Arrest
+No. .........</entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0">(Print
+or Type)</entry>
+<entry colsep="0" rowsep="0">Defendant</entry>
+<entry colsep="0" rowsep="0" />
+</row>
+</tbody>
+</tgroup>
+</table></para>
+<para>I, the defendant in the
+above-entitled action, advise the court that I have retained .....................................
+to represent me in this matter. I understand that I have been charged with
+the following violation(s): ..................................................................
+.................................................................. Preliminary
+Hearing Date or Arraignment Date ....................... and in the event
+that the charges have been amended or new charges added I wish to waive a
+formal preliminary hearing or arraignment before the court and ask the court
+to enter plea(s) of not guilty on my behalf. My attorney has advised me of
+my rights: The right to trial and to a jury trial, if appropriate; my right
+to confront accusers; to subpoena witnesses; to remain silent; to counsel;
+to have this matter transferred to juvenile court, if appropriate; and my
+right to be presumed innocent until proven guilty beyond reasonable doubt.
+My attorney has also advised me of the possible penalties for the violations
+with which I am charged, and the possibility that I will be required to make
+restitution for damages, if appropriate.</para><para>I understand that my attorney will notify me of all
+appearance dates in this matter.</para><para><table frame="none">
+<tgroup align="center" cols="2">
+<?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
+<colspec colname="col1" colwidth="0.56" /><colspec colname="COLSPEC0" colwidth="1.44" />
+<tbody>
+<row rowsep="0" valign="top">
+<entry align="left" colsep="0">Date:
+........</entry>
+<entry align="left">Defendant's
+Signature: ...................</entry>
+</row>
+<row rowsep="0">
+<entry align="right" colsep="0" />
+<entry align="left">APPEARANCE
+OF COUNSEL</entry>
+</row>
+</tbody>
+</tgroup>
+</table></para>
+<para>I, ....................................,
+advise the court that I am the attorney of record for the above-named defendant.
+I have advised my client of all rights and the possible penalties for the
+charges filed against him or her. I understand that the court will expect
+me to represent the defendant in all hearings before the court in this matter.</para>
+<para><table frame="none">
+<tgroup cols="2">
+<?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
+<colspec colname="col1" colwidth="1.06" /><colspec colname="col2" colwidth="0.94" />
+<tbody>
+<row>
+<?PubTbl row rht="0.27in"?>
+<entry colsep="0" rowsep="0">(Please
+Print or Type)</entry>
+<entry colsep="0" rowsep="0" />
+</row>
+<row>
+<entry colsep="0" rowsep="0">............................</entry>
+<entry colsep="0" rowsep="0">Attorney's
+Name</entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0">............................</entry>
+<entry colsep="0" rowsep="0">Attorney's
+Address</entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0">............................</entry>
+<entry colsep="0" rowsep="0" />
+</row>
+<row>
+<entry colsep="0" rowsep="0">............................</entry>
+<entry colsep="0" rowsep="0">.............................</entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0">(Telephone
+Number)</entry>
+<entry colsep="0" rowsep="0">(Attorney
+Number)</entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0">Date:.......</entry>
+<entry colsep="0" rowsep="0">Attorney's
+Signature: .................</entry>
+</row>
+</tbody>
+</tgroup>
+</table></para>
+<para>(3) A defendant's use
+of written forms under this section shall not prevent his or her right to
+all other process, procedures, and defenses allowed by state and federal law.</para>
+</amendatorysection></section><source><para>Laws 1999, LB 623, &#167; 6; </para><para>Laws 2006, LB 1115, &#167; 25; </para><para>Laws 2014, LB828, &#167; 2.</para><effectivedate>July 18, 2014</effectivedate></source><annotation><para>This section does not authorize district courts to accept pleas of not guilty on a conditional basis or alter the requirement under section 29-1812 that a defendant must withdraw his or her plea to the general issue before filing a motion to quash. State v. Liston, 271 Neb. 468, 712 N.W.2d 264 (2006).</para></annotation>  </law>
+</legaldoc>

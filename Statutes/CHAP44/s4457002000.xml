@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Insurance" statutenumber="44-5702"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>44-5702</statuteno><catchline>Terms, defined.</catchline><para>For purposes of the Producer-Controlled Property and Casualty Insurer Act:</para><para>(1) Accredited state shall mean a state in which the insurance department or regulatory agency has qualified as meeting the minimum financial regulatory standards established and promulgated from time to time by the National Association of Insurance Commissioners;</para><para>(2) Captive insurers shall mean insurance companies owned by another organization the exclusive purpose of which is to insure risks of the parent organization and affiliated companies or, in the case of groups and associations, insurance organizations owned by the insureds the exclusive purpose of which is to insure risks to member organizations or group members and their affiliates;</para><para>(3) Control or controlled shall have the same meaning as in section 44-2121;</para><para>(4) Controlled insurer shall mean an insurer which is controlled, directly or indirectly, by a producer;</para><para>(5) Controlling producer shall mean a producer which, directly or indirectly, controls an insurer;</para><para>(6) Director shall mean the Director of Insurance;</para><para>(7) Insurer shall mean any person, firm, association, or corporation holding a certificate of authority to transact property and casualty insurance business in this state. Insurer shall not include:</para><para>(a) Risk retention groups as defined in the Superfund Amendments Reauthorization Act of 1986, Public Law 99-499, the Risk Retention Act, 15 U.S.C. 3901 et seq., and the Risk Retention Act;</para><para>(b) Residual market pools and joint underwriting authorities or associations; and</para><para>(c) Captive insurers; and</para><para>(8) Producer shall mean an insurance broker or any other person, firm, association, or corporation when, for any compensation, commission, or other thing of value, such person, firm, association, or corporation acts or aids in any manner in soliciting, negotiating, or procuring the making of any insurance contract on behalf of an insured other than the person, firm, association, or corporation.</para></amendatorysection></section><source><para>Laws 1992, LB 1006, &#167; 69. </para></source><crossreference><para><emphasis>Risk Retention Act,</emphasis> see section 44-4401.</para></crossreference></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id59">
+<amendatorysection amended="yes" chaptername="Insurance" id="id61" statutenumber="44-5702"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>44-5702</statuteno><catchline id="id64">Terms, defined.</catchline>
+<para>For purposes of the Producer-Controlled Property and Casualty
+Insurer Act:</para>
+<para>(1) Accredited state shall mean a state in which the insurance
+department or regulatory agency has qualified as meeting the minimum financial
+regulatory standards established and promulgated from time to time by the
+National Association of Insurance Commissioners;</para>
+<para>(2) Captive insurers shall mean insurance companies owned
+by another organization the exclusive purpose of which is to insure risks
+of the parent organization and affiliated companies or, in the case of groups
+and associations, insurance organizations owned by the insureds the exclusive
+purpose of which is to insure risks to member organizations or group members
+and their affiliates;</para>
+<para>(3) Control or controlled shall have the same meaning as in
+section 44-2121;</para>
+<para>(4) Controlled insurer shall mean an insurer which is controlled,
+directly or indirectly, by a producer;</para>
+<para>(5) Controlling producer shall mean a producer which, directly
+or indirectly, controls an insurer;</para>
+<para>(6) Director shall mean the Director of Insurance;</para>
+<para>(7) Insurer shall mean any person, firm, association, or corporation
+holding a certificate of authority to transact property and casualty insurance
+business in this state. Insurer shall not include:</para>
+<para>(a) Residual market pools
+and joint underwriting authorities or associations; and</para>
+<para>(b) Captive insurers other than risk retention groups as defined
+in 15 U.S.C. 3901 et seq. and 42 U.S.C. 9671, as such sections existed on
+January 1, 2014; and</para>
+<para>(8) Producer shall mean an insurance broker or any other person,
+firm, association, or corporation when, for any compensation, commission,
+or other thing of value, such person, firm, association, or corporation acts
+or aids in any manner in soliciting, negotiating, or procuring the making
+of any insurance contract on behalf of an insured other than the person, firm,
+association, or corporation.</para>
+</amendatorysection></section><source><para>Laws 1992, LB 1006, &#167; 69; </para><para>Laws 2014, LB700, &#167; 17.</para><operativedate>July 18, 2014</operativedate></source><crossreference><para><emphasis>Risk Retention Act,</emphasis> see section 44-4401.</para></crossreference>  </law>
+</legaldoc>

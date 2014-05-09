@@ -1,39 +1,51 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id7">
-<sectno id="id8" opdate="October 1, 2010">Sec. 2.</sectno><amendatorysection chaptername="Interest, Loans, and Debt" id="id9" publishedsource="CumulativeSupplement" statutenumber="45-1202"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>45-1202</statuteno><catchline>Terms, defined.</catchline><para>For purposes of the
-Nebraska Construction Prompt Pay Act:</para>
-<para>(1) Contractor
-includes individuals, firms, partnerships, limited liability companies, corporations,
-or other associations of persons engaged in the business of the construction,
-alteration, repairing, dismantling, or demolition of buildings, roads, bridges,
-viaducts, sewers, water and gas mains, streets, disposal plants, water filters,
-tanks and towers, airports, dams, levees and canals, water wells, pipelines,
-transmission and power lines, and every other type of structure, project,
-development, or improvement coming within the definition of real property
-and personal property, including such construction, repairing, or alteration
-of such property to be held either for sale or rental. Contractor also includes
-any subcontractor engaged in the business of such activities and any person
-who is providing or arranging for labor for such activities, either as an
-employee or as an independent contractor, for any contractor or person;</para>
-<para>(2) Owner means
-a person (a) who has an interest in any real property improved, (b) for whom
-an improvement is made, or (c) who contracted for an improvement to be made.
-Owner includes a person, an entity, or any political subdivision of this state.
-Owner does not include the State of Nebraska;</para><para>(3) Owner's representative
-means an architect, an engineer, or a construction manager in charge of a
-project for the owner or such other contract representative or officer as
-designated in the contract document as the party representing the owner's
-interest regarding administration and oversight of the project;</para>
-<para>(4) Real property
-means real estate that is improved, including private and public land, and
-leaseholds, tenements, and improvements placed on the real property;</para>
-<para>(5) Receipt
-means actual receipt of cash or funds by the contractor or subcontractor;
-and</para><para>(6) Subcontractor means a person or an entity that has contracted
+<section id="id11">
+<amendatorysection amended="yes" chaptername="Interest, Loans, and Debt" id="id13" publishedsource="CumulativeSupplement" statutenumber="45-1202"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>45-1202</statuteno><catchline id="id16">Terms, defined.</catchline>
+<para>For purposes of the Nebraska Construction Prompt Pay Act:</para>
+<para>(1) Contractor includes individuals, firms, partnerships,
+limited liability companies, corporations, or other associations of persons
+engaged in the business of the construction, alteration, repairing, dismantling,
+or demolition of buildings, roads, bridges, viaducts, sewers, water and gas
+mains, streets, disposal plants, water filters, tanks and towers, airports,
+dams, levees and canals, water wells, pipelines, transmission and power lines,
+and every other type of structure, project, development, or improvement coming
+within the definition of real property and personal property, including such
+construction, repairing, or alteration of such property to be held either
+for sale or rental. Contractor also includes any subcontractor engaged in
+the business of such activities and any person who is providing or arranging
+for labor for such activities, either as an employee or as an independent
+contractor, for any contractor or person.
+Contractor does not include an individual or an entity performing work on
+a contract for the State of Nebraska or performing work on a federal-aid or
+state-aid project of a political subdivision in which the state makes payments
+to the contractor on behalf of the political subdivision;</para>
+<para>(2) Owner means a person (a) who has an interest in any real
+property improved, (b) for whom an improvement is made, or (c) who contracted
+for an improvement to be made. Owner includes a person, an entity, or any
+political subdivision of this state. Owner does not include the State of Nebraska;</para>
+<para>(3) Owner's representative means an architect, an engineer,
+or a construction manager in charge of a project for the owner or such other
+contract representative or officer as designated in the contract document
+as the party representing the owner's interest regarding administration and
+oversight of the project;</para>
+<para>(4) Real property means real estate that is improved, including
+private and public land, and leaseholds, tenements, and improvements placed
+on the real property;</para>
+<para>(5) Receipt means actual receipt of cash or funds by the contractor
+or subcontractor;</para>
+<para>(6) Subcontractor means a person or an entity that has contracted
 to furnish labor or materials to, or performed labor or supplied materials
 for, a contractor or another subcontractor in connection with a contract to
-improve real property. Subcontractor includes materialmen and suppliers.</para>
-</amendatorysection></section><source><para>Laws 2010, LB552, &#167; 2.</para></source>  </law>
+improve real property. Subcontractor includes materialmen and suppliers. Subcontractor does not include an individual
+or an entity performing work as a subcontractor on a contract for the State
+of Nebraska or performing work on a federal-aid or state-aid project of a
+political subdivision in which the state makes payments to the contractor
+on behalf of the political subdivision; and</para>
+<para>(7) Substantially
+complete means the stage of a construction project when the project, or a
+designated portion thereof, is sufficiently complete in accordance with the
+contract so that the owner can occupy or utilize the project for its intended
+use.</para></amendatorysection></section><source><para>Laws 2010, LB552, &#167; 2; </para><para>Laws 2014, LB961, &#167; 5.</para><operativedate>July 18, 2014</operativedate></source>  </law>
 </legaldoc>

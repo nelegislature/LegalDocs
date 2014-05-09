@@ -1,1 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Revenue and Taxation" statutenumber="77-2701.11"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>77-2701.11</statuteno><catchline>Delivery charges, defined.</catchline><para>Delivery charges means charges by the seller of personal property or services for preparation and delivery to a location designated by the purchaser of personal property or services, including, but not limited to, transportation, shipping, postage, handling, crating, and packing.</para></amendatorysection></section><source><para>Laws 2003, LB 282, &#167; 15. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id60">
+<amendatorysection amended="yes" chaptername="Revenue and Taxation" id="id62" statutenumber="77-2701.11">
+<bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>77-2701.11</statuteno><catchline id="id65">Delivery charges,
+defined.</catchline><para>Delivery charges means charges by the
+seller of personal property or services for preparation and delivery to a
+location designated by the purchaser of personal property or services, including,
+but not limited to, transportation, shipping, postage, handling, crating,
+and packing. Delivery charges
+does not include United States postage charges on direct mail that are separately
+stated on the invoice, bill of sale, or similar document given to the purchaser.</para>
+</amendatorysection></section><source><para>Laws 2003, LB 282, &#167; 15; </para><para>Laws 2014, LB867, &#167; 10.</para><operativedate>April 1, 2014</operativedate></source>  </law>
+</legaldoc>

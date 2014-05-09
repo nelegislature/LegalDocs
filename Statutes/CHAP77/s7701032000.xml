@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Revenue and Taxation" statutenumber="77-132"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>77-132</statuteno><catchline>Parcel, defined.</catchline><para>Parcel means a contiguous tract of land determined by its boundaries, under the same ownership, and in the same tax district and section. Parcel also means an improvement on leased land. If all or several lots in the same block are owned by the same person and are contained in the same tax district, they may be included in one parcel.</para></amendatorysection></section><source><para>Laws 2005, LB 263, &#167; 3. </para></source><annotation><para>This section does not violate Neb. Const. art. VIII, sec. 1. Agena v. Lancaster Cty. Bd. of Equal., 276 Neb. 851, 758 N.W.2d 363 (2008).</para></annotation></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id4">
+<amendatorysection amended="yes" chaptername="Revenue and Taxation" id="id6" statutenumber="77-132"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>77-132</statuteno><catchline id="id9">Parcel, defined.</catchline>
+<para>(1) Parcel
+means a contiguous tract of land determined by its boundaries, under the same
+ownership, and in the same tax district and section. Parcel also means an
+improvement on leased land.</para>
+<para>(2) If all or several lots
+in the same block are owned by the same person and are contained in the same subdivision and the same tax
+district, they may be included in one parcel.</para>
+<para>(3) If two
+or more vacant or unimproved lots in the same subdivision and the same tax
+district are owned by the same person and are held for sale or resale, such
+lots shall be included in one parcel if elected to be treated as one parcel
+by the owner. Such election shall be made annually by filing an application
+with the county assessor by December 31.</para><para>(4) For purposes of this section, subdivision
+means the common overall plan or approved preliminary plat.</para>
+</amendatorysection></section><source><para>Laws 2005, LB 263, &#167; 3; </para><para>Laws 2014, LB191, &#167; 14.</para><effectivedate>July 18, 2014</effectivedate></source><annotation><para>This section does not violate Neb. Const. art. VIII, sec. 1. Agena v. Lancaster Cty. Bd. of Equal., 276 Neb. 851, 758 N.W.2d 363 (2008).</para></annotation>  </law>
+</legaldoc>

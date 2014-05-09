@@ -1,1 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Cities of the Metropolitan Class" statutenumber="14-2103"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>14-2103</statuteno><catchline>Board of directors; territory outside city; participation in election; filings; where made.</catchline><para>Whenever a metropolitan utilities district is extended to include sanitary and improvement districts, unincorporated area, towns, villages, or territory lying outside the corporate limits of cities of the metropolitan class or so extended as to include sanitary and improvement districts, unincorporated area, towns, or villages in an adjoining county or counties, then such sanitary and improvement districts, unincorporated area, towns, or villages shall have a right to participate in the nomination and in the election of members of the board of directors of the metropolitan utilities district. The election commissioner or county clerk of each of the counties in which ballots are cast pursuant to this section shall within seven days after the election transmit, by mail or otherwise, to the election commissioner of the county in which the city of the metropolitan class is located, a copy of the abstract of the votes cast for members of the board of directors. The election commissioner shall in due course deliver to the candidate receiving the highest number of votes a certificate of election as a member of the board of directors. Any and all filings for such office shall be made with the election commissioner notwithstanding that the person wishing to file lives in a county adjoining the one in which the city of the metropolitan class is located.</para></amendatorysection></section><source><para>Laws 1921, c. 109, &#167; 1, p. 385; </para><para>C.S.1922, &#167; 3748; </para><para>C.S.1929, &#167; 14-1004; </para><para>R.S.1943, &#167; 14-1004; </para><para>Laws 1961, c. 32, &#167; 2, p. 152; </para><para>R.S.1943, (1991), &#167; 14-1004; </para><para>Laws 1992, LB 746, &#167; 3; </para><para>Laws 1994, LB 76, &#167; 478.</para></source><annotation><para>Election commissioner of Douglas County receives abstract of votes from clerks of adjoining counties as to officers of Metropolitan Utilities District. Barton v. City of Omaha, 180 Neb. 752, 145 N.W.2d 444 (1966).</para></annotation></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id12">
+<amendatorysection amended="yes" chaptername="Cities of the Metropolitan Class" id="id14" statutenumber="14-2103"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>14-2103</statuteno><catchline id="id17">Board of directors;
+territory outside city; participation in election; filings; where made.</catchline>
+<para>Whenever a metropolitan utilities district is extended to
+include sanitary and improvement districts, unincorporated area, towns, villages,
+or territory lying outside the corporate limits of cities of the metropolitan
+class or so extended as to include sanitary and improvement districts, unincorporated
+area, towns, or villages in an adjoining county or counties, then such sanitary
+and improvement districts, unincorporated area, towns, or villages shall have
+a right to participate in the nomination and in the election of members of
+the board of directors of the metropolitan utilities district. The election
+commissioner or county clerk of each of the counties in which ballots are
+cast pursuant to this section shall within seven days after the election transmit,
+by mail or otherwise, to the election commissioner of the county in which
+the city of the metropolitan class is located, a copy of the abstract of the
+votes cast for members of the board of directors. The election commissioner
+shall in due course deliver to the candidate receiving the highest number
+of votes a certificate of election as a member of the board of directors.
+Any and all filings for such office shall be made with the election commissioner of the county in which the city of the
+metropolitan class is located notwithstanding that the person
+wishing to file lives in a county adjoining the one in which the city of the
+metropolitan class is located.</para>
+</amendatorysection></section><source><para>Laws 1921, c. 109, &#167; 1, p. 385; </para><para>C.S.1922, &#167; 3748; </para><para>C.S.1929, &#167; 14-1004; </para><para>R.S.1943, &#167; 14-1004; </para><para>Laws 1961, c. 32, &#167; 2, p. 152; </para><para>R.S.1943, (1991), &#167; 14-1004; </para><para>Laws 1992, LB 746, &#167; 3; </para><para>Laws 1994, LB 76, &#167; 478; </para><para>Laws 2014, LB1014, &#167; 2.</para><effectivedate>July 18, 2014</effectivedate></source><annotation><para>Election commissioner of Douglas County receives abstract of votes from clerks of adjoining counties as to officers of Metropolitan Utilities District. Barton v. City of Omaha, 180 Neb. 752, 145 N.W.2d 444 (1966).</para></annotation>  </law>
+</legaldoc>

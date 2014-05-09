@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Motor Vehicles" statutenumber="60-464"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>60-464</statuteno><catchline>Commercial driver's license, defined.</catchline><para>Commercial driver's license shall mean an operator's license issued in accordance with the requirements of the Motor Vehicle Operator's License Act to an individual which authorizes such individual to drive a class of commercial motor vehicle.</para></amendatorysection></section><source><para>Laws 1989, LB 285, &#167; 14. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Motor Vehicles" statutenumber="60-464"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>60-464</statuteno><catchline>Commercial driver's license, defined.</catchline>
+<para>Commercial driver's license means an
+operator's license issued in accordance with the requirements of the Motor
+Vehicle Operator's License Act to an individual which authorizes such individual
+to operate a class of commercial
+motor vehicle.</para>
+</amendatorysection></section><source><para>Laws 1989, LB 285, &#167; 14; </para><para>Laws 2014, LB983, &#167; 5.</para><operativedate>July 8, 2015</operativedate></source>  </law>
+</legaldoc>

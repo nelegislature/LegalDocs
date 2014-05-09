@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Motor Vehicles" statutenumber="60-4,162"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>60-4,162</statuteno><catchline>Employment as driver; employer; duties; violation; penalty.</catchline><para>(1) Each employer shall require prospective applicants for employment as a driver of a commercial motor vehicle to provide the information required by section 60-4,161.</para><para>(2) An employer shall not knowingly allow, permit, or authorize a person to operate a commercial motor vehicle in the United States during any period in which:</para><para>(a) The person's commercial driver's license is suspended, revoked, or canceled by any state;</para><para>(b) The person has lost the privilege to drive a commercial motor vehicle in any state;</para><para>(c) The person has been disqualified from driving a commercial motor vehicle; or</para><para>(d) The person has more than one operator's license.</para><para>(3) No employer may knowingly allow, permit, or authorize a person to operate a commercial motor vehicle in the United States in violation of a federal, state, or local law or regulation pertaining to highway-rail grade crossings.</para><para>(4) Any employer who violates this section shall, upon conviction, be guilty of a Class III misdemeanor.</para></amendatorysection></section><source><para>Laws 1989, LB 285, &#167; 112; </para><para>Laws 2002, LB 499, &#167; 2. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Motor Vehicles" statutenumber="60-4,162"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>60-4,162</statuteno><catchline>Employment as driver; employer;
+duties; violation; penalty.</catchline><para>(1) Each employer shall require
+prospective applicants for employment as a driver of a commercial motor vehicle
+to provide the information required by section 60-4,161.</para>
+<para>(2) No employer may knowingly
+allow, require, permit, or authorize a driver to operate a commercial motor
+vehicle in the United States in any of the following circumstances:</para>
+<para>(a) During any period
+in which the driver does not have a current commercial learner's permit or
+commercial driver's license or does not have a commercial learner's permit
+or commercial driver's license with the proper class or endorsements. An employer
+may not use a driver to operate a commercial motor vehicle who violates any
+restriction on the driver's commercial learner's permit or commercial driver's
+license;</para><para>(b)
+During any period in which the driver has a commercial learner's permit or
+commercial driver's license disqualified by a state, has lost the right to
+operate a commercial motor vehicle in a state, or has been disqualified from
+operating a commercial motor vehicle;</para><para>(c) During any period in which the driver has more
+than one commercial learner's permit or commercial driver's license;</para>
+<para>(d) During any period
+in which the driver, the commercial motor vehicle he or she is operating,
+or the motor carrier operation is subject to an out-of-service order; or</para>
+<para>(e) In violation of a
+federal, state, or local law or regulation pertaining to railroad-highway
+grade crossings.</para><para>(3) Any employer who violates
+this section shall, upon conviction, be guilty of a Class III misdemeanor.</para>
+</amendatorysection></section><source><para>Laws 1989, LB 285, &#167; 112; </para><para>Laws 2002, LB 499, &#167; 2; </para><para>Laws 2014, LB983, &#167; 47.</para><operativedate>July 8, 2015</operativedate></source>  </law>
+</legaldoc>

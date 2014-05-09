@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section>
-<amendatorysection chaptername="Public Health and Welfare" publishedsource="AnnualSupplement" statutenumber="71-2455"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>71-2455</statuteno><catchline>Prescription drug monitoring; Department
-of Health and Human Services; duties; powers.</catchline><para>The Department of Health and Human Services,
-in collaboration with the Nebraska Health Information Initiative or any successor
-public-private statewide health information exchange, shall enhance or establish
-technology for prescription drug monitoring to carry out the purposes of section
-71-2454. No state funding shall be used to implement or operate the prescription
-drug monitoring system provided for in this section. The department may adopt
-and promulgate rules and regulations to authorize use of electronic health
-information, if necessary to carry out the purposes of sections 71-2454 and 71-2455.</para>
-</amendatorysection></section><source><para>Laws 2011, LB237, &#167; 2.</para></source>  </law>
+<section id="id11">
+<amendatorysection amended="yes" chaptername="Public Health and Welfare" id="id13" publishedsource="AnnualSupplement" statutenumber="71-2455"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>71-2455</statuteno><catchline id="id16">Prescription
+drug monitoring; Department of Health and Human Services; duties; powers.</catchline>
+<para>The Department of Health and Human Services, in collaboration
+with the Nebraska Health Information Initiative or any successor public-private
+statewide health information exchange, shall enhance or establish technology
+for prescription drug monitoring to carry out the purposes of section 71-2454. The department may use state funds and
+accept grants, gifts, or other funds in order to implement and operate the
+technology. The department may adopt and promulgate rules and
+regulations to authorize use of electronic health information, if necessary
+to carry out the purposes of sections 71-2454 and 71-2455.</para>
+</amendatorysection></section><source><para>Laws 2011, LB237, &#167; 2; </para><para>Laws 2014, LB1072, &#167; 2.</para><effectivedate>July 18, 2014</effectivedate></source>  </law>
 </legaldoc>

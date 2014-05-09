@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-		<section>
-			<sectno />
-			<amendatorysection chaptername="" statutenumber="76-2211">
-				<statuteno>76-2211</statuteno>
-				<catchline>Repealed. Laws 2010, LB 931, &#167; 30.</catchline>
-				
-			</amendatorysection>
-		</section>
-	</law>
+<section id="id32">
+<amendatorysection chaptername="Real Property" id="id34" publishedsource="CumulativeSupplement" statutenumber="76-2211"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>76-2211</statuteno><catchline>Complex residential real property,
+defined.</catchline><para>Complex
+residential real property means residential property in which the property
+to be appraised, the form of ownership, or the market conditions are atypical.</para>
+</amendatorysection></section><source><para>Laws 2014, LB717, &#167; 6.</para><operativedate>April 10, 2014</operativedate></source>  </law>
 </legaldoc>

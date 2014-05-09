@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Public Health and Welfare" statutenumber="71-8508"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>71-8508</statuteno><catchline>Rules and regulations.</catchline><para>By July 1, 2000, the department shall adopt and promulgate rules and regulations to carry out the Nebraska Telehealth Act, including, but not limited to, rules and regulations to: (1) Ensure the provision of appropriate care to patients; (2) prevent fraud and abuse; and (3) establish methods and procedures necessary to safeguard against unnecessary utilization of telehealth consultations.</para></amendatorysection></section><source><para>Laws 1999, LB 559, &#167; 8. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id27">
+<amendatorysection amended="yes" chaptername="Public Health and Welfare" id="id29" statutenumber="71-8508"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>71-8508</statuteno><catchline id="id32">Rules and regulations.</catchline>
+<para>The department
+shall adopt and promulgate rules and regulations to carry out the Nebraska
+Telehealth Act, including, but not limited to, rules and regulations to: (1)
+Ensure the provision of appropriate care to patients; (2) prevent fraud and
+abuse; and (3) establish necessary methods
+and procedures. </para>
+</amendatorysection></section><source><para>Laws 1999, LB 559, &#167; 8; </para><para>Laws 2014, LB1076, &#167; 3.</para><effectivedate>July 18, 2014</effectivedate></source>  </law>
+</legaldoc>

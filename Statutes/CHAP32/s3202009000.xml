@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Elections" statutenumber="32-209"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>32-209</statuteno><catchline>Chief deputy election commissioner; qualifications; appointment; bond; duties.</catchline><para>(1) The election commissioner in counties having a population of more than one hundred thousand inhabitants shall appoint a chief deputy election commissioner in the manner provided in section 32-210. The chief deputy election commissioner shall be a member of a different political party than the election commissioner, shall be a registered voter in the county and of the party he or she is to represent, and shall be a resident of such county for at least one year.</para><para>(2) The chief deputy election commissioner shall hold office until the term of the election commissioner expires.</para><para>(3) The chief deputy election commissioner shall give bond to the State of Nebraska in the sum of five thousand dollars with security to be approved by the Governor conditioned on the faithful performance of the duties of such office.</para><para>(4) The chief deputy election commissioner shall perform duties assigned by the election commissioner. In the absence of the election commissioner, the chief deputy election commissioner shall perform all the duties of the election commissioner consistent with the policies and procedures established by the election commissioner. The chief deputy election commissioner shall also be responsible for carrying out any directions properly made and given by the election commissioner prior to his or her absence.</para></amendatorysection></section><source><para>Laws 1994, LB 76, &#167; 29; </para><para>Laws 2001, LB 226, &#167; 2. </para></source><annotation><para>Deputy election commissioner is required to be a member of a political party other than the one with which the election commissioner affiliates. State ex rel. Williams v. Moorhead, 96 Neb. 559, 148 N.W. 552 (1914), reversing 95 Neb. 80, 144 N.W. 1055 (1914).</para></annotation></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id33">
+<amendatorysection amended="yes" chaptername="Elections" id="id35" statutenumber="32-209"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>32-209</statuteno><catchline id="id38">Chief deputy election
+commissioner; qualifications; appointment; oath; bond;
+duties.</catchline><para>(1) The election commissioner in counties
+having a population of more than one hundred thousand inhabitants shall appoint
+a chief deputy election commissioner in the manner provided in section 32-210.
+The chief deputy election commissioner shall be a member of a different political
+party than the election commissioner, shall be a registered voter in the county
+and of the party he or she is to represent, and shall be a resident of such
+county for at least one year.</para>
+<para>(2) The chief deputy election commissioner shall hold office
+until the term of the election commissioner expires.</para>
+<para>(3) Before
+entering upon his or her duties, the chief deputy election commissioner shall
+take and subscribe an oath in the form provided in section 11-101.01.</para>
+<para>(4) The chief deputy election
+commissioner shall give bond to the State of Nebraska in the sum of five thousand
+dollars with security to be approved by the Governor conditioned on the faithful
+performance of the duties of such office.</para>
+<para>(5) The chief deputy election
+commissioner shall perform duties assigned by the election commissioner. In
+the absence of the election commissioner, the chief deputy election commissioner
+shall perform all the duties of the election commissioner consistent with
+the policies and procedures established by the election commissioner. The
+chief deputy election commissioner shall also be responsible for carrying
+out any directions properly made and given by the election commissioner prior
+to his or her absence.</para>
+</amendatorysection></section><source><para>Laws 1994, LB 76, &#167; 29; </para><para>Laws 2001, LB 226, &#167; 2; </para><para>Laws 2014, LB946, &#167; 4.</para><operativedate>January 1, 2015</operativedate></source><annotation><para>Deputy election commissioner is required to be a member of a political party other than the one with which the election commissioner affiliates. State ex rel. Williams v. Moorhead, 96 Neb. 559, 148 N.W. 552 (1914), reversing 95 Neb. 80, 144 N.W. 1055 (1914).</para></annotation>  </law>
+</legaldoc>

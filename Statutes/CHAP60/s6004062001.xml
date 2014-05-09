@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="iso-8859-1"?> <legaldoc> <law 
-type="statute"> <section> <amendatorysection amended="yes"
-chaptername="Motor Vehicles" id="id173"
-publishedsource="CumulativeSupplement" statutenumber="60-462.01"><bookinfo>Revised Statutes Supplement,
-2013</bookinfo><statuteno>60-462.01</statuteno><catchline
-id="id176">Federal regulations; adopted.</catchline><para>For purposes
-of the Motor Vehicle Operator's License Act, the following federal
-regulations are adopted as Nebraska law as they existed on January 1,
-2013:</para> <para>The parts, subparts, and sections of Title 49 of the
-Code of Federal Regulations, as referenced in the Motor Vehicle
-Operator's License Act.</para>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Motor Vehicles" id="id173" publishedsource="CumulativeSupplement" statutenumber="60-462.01">
+<bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>60-462.01</statuteno><catchline id="id176">Federal regulations;
+adopted.</catchline><para>For purposes of the Motor Vehicle Operator's License
+Act, the following federal regulations are adopted as Nebraska law as they
+existed on January 1, 2014:</para>
+<para>The parts, subparts, and sections of Title 49 of the Code of Federal
+Regulations, as referenced in the Motor Vehicle Operator's License Act.</para>
 </amendatorysection></section><source><para>Laws 2003, LB 562, &#167;
 20; </para><para>Laws 2004, LB 560, &#167; 36; </para><para>Laws 2005,
 LB 76, &#167; 3; </para><para>Laws 2006, LB 853, &#167; 7;
@@ -17,4 +17,5 @@ LB239, &#167; 4; </para><para>Laws 2008, LB756, &#167; 16;
 </para><para>Laws 2009, LB331, &#167; 7; </para><para>Laws 2010, LB805,
 &#167; 3; </para><para>Laws 2011, LB178, &#167; 3; </para><para>Laws
 2011, LB212, &#167; 5; </para><para>Laws 2012, LB751, &#167; 17;
-</para><para>Laws 2013, LB35, &#167; 3.</para></source>  </law> </legaldoc>
+</para><para>Laws 2013, LB35, &#167; 3; </para><para>Laws 2014, LB776, &#167; 4; </para><para>Laws 2014, LB983, &#167; 3.</para><note>The Revisor of Statutes has pursuant to section 49-769 correlated LB776, section 4, with LB983, section 3, to reflect all amendments.</note><note>Changes made by LB776 became effective March 29, 2014. Changes made by LB983 became operative March 29, 2014.</note></source>  </law>
+</legaldoc>

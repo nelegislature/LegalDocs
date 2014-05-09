@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Insurance" statutenumber="44-407.23"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>44-407.23</statuteno><catchline>Company; when subject to law.</catchline><para>(1) After August 24, 1979, any company may file with the Department of Insurance a written notice of its election to comply with the provisions of sections 44-403, 44-404, and 44-407.08 to 44-407.23 after a specified date before the second anniversary of August 24, 1979. After the filing of such notice, such specified date shall be the operative date of this act for such company. Annuity contracts thereafter issued by such company shall comply with such sections. If a company makes no such election, the operative date of this act for such company shall be the second anniversary of August 24, 1979.</para><para>(2) After July 16, 2004, a company may elect to apply sections 44-407.08 to 44-407.23 to annuity contracts on a contract-form-by-contract-form basis before the second anniversary of July 16, 2004. In all other instances, sections 44-407.08 to 44-407.23 shall become operative with respect to annuity contracts issued by the company after the second anniversary of July 16, 2004.</para><para>(3) The director may adopt and promulgate rules and regulations to carry out sections 44-407.10 to 44-407.23.</para></amendatorysection></section><source><para>Laws 1979, LB 354, &#167; 19; </para><para>Laws 2004, LB 1047, &#167; 7. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Insurance" statutenumber="44-407.23"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>44-407.23</statuteno><catchline>Company; when subject to law.</catchline>
+<para>(1) After August 24, 1979, any company may file with the Department
+of Insurance a written notice of its election to comply with the provisions
+of sections 44-403, 44-407.08
+to 44-407.23, and 44-8907 after
+a specified date before the second anniversary of August 24, 1979. After the
+filing of such notice, such specified date shall be the operative date of
+this act for such company. Annuity contracts thereafter issued by such company
+shall comply with such sections. If a company makes no such election, the
+operative date of this act for such company shall be the second anniversary
+of August 24, 1979.</para>
+<para>(2) After July 16, 2004, a company may elect to apply sections 44-407.08
+to 44-407.23 to annuity contracts on a contract-form-by-contract-form basis
+before the second anniversary of July 16, 2004. In all other instances, sections
+44-407.08 to 44-407.23 shall become operative with respect to annuity contracts
+issued by the company after the second anniversary of July 16, 2004.</para>
+<para>(3) The director may adopt and promulgate rules and regulations to carry
+out sections 44-407.10 to 44-407.23.</para>
+</amendatorysection></section><source><para>Laws 1979, LB 354, &#167; 19; </para><para>Laws 2004, LB 1047, &#167; 7; </para><para>Laws 2014, LB755, &#167; 14.</para><effectivedate>July 18, 2014</effectivedate></source>  </law>
+</legaldoc>

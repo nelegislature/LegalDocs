@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Insurance" statutenumber="44-32,115"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>44-32,115</statuteno><catchline>Establishment of health maintenance organization; certificate of authority required.</catchline><para>Any person may apply to the director for a certificate of authority to establish and operate a health maintenance organization in compliance with the Health Maintenance Organization Act. No person shall establish or operate a health maintenance organization in this state without obtaining a certificate of authority under the act. Operating a health maintenance organization without a certificate of authority shall be a violation of the Unauthorized Insurers Act. A foreign corporation may qualify under the Health Maintenance Organization Act if it registers to do business in this state as a foreign corporation under the Business Corporation Act and complies with the Health Maintenance Organization Act and other applicable state laws.</para></amendatorysection></section><source><para>Laws 1990, LB 1136, &#167; 24; </para><para>Laws 1993, LB 583, &#167; 88; </para><para>Laws 1995, LB 109, &#167; 224. </para></source><crossreference><para><emphasis>Nebraska Model Business Corporation Act,</emphasis> see section 21-201.</para><para><emphasis>Unauthorized Insurers Act,</emphasis> see section 44-2008.</para></crossreference></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Insurance" statutenumber="44-32,115"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>44-32,115</statuteno><catchline>Establishment of health maintenance
+organization; certificate of authority required.</catchline><para>Any person
+may apply to the director for a certificate of authority to establish and
+operate a health maintenance organization in compliance with the Health Maintenance
+Organization Act. No person shall establish or operate a health maintenance
+organization in this state without obtaining a certificate of authority under
+the act. Operating a health maintenance organization without a certificate
+of authority shall be a violation of the Unauthorized Insurers Act. A foreign
+corporation may qualify under the Health Maintenance Organization Act if it
+registers to do business in this state as a foreign corporation under the Nebraska Model Business Corporation Act and
+complies with the Health Maintenance Organization Act and other applicable
+state laws.</para>
+</amendatorysection></section><source><para>Laws 1990, LB 1136, &#167; 24; </para><para>Laws 1993, LB 583, &#167; 88; </para><para>Laws 1995, LB 109, &#167; 224; </para><para>Laws 2014, LB749, &#167; 290.</para><operativedate>January 1, 2016</operativedate></source><crossreference><para><emphasis>Nebraska Model Business Corporation Act,</emphasis> see section 21-201.</para><para><emphasis>Unauthorized Insurers Act,</emphasis> see section 44-2008.</para></crossreference>  </law>
+</legaldoc>

@@ -1,1 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Elections" statutenumber="32-714"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>32-714</statuteno><catchline>Presidential electors; vacancies; how filled; meeting; procedure.</catchline><para>The Governor shall provide each presidential elector with a list of all the electors. If any elector is absent or if there is a deficiency in the proper number of electors, those present shall elect from the citizens of the state so many persons as will supply the deficiency and immediately issue a certificate of election, signed by those present or a majority of them, to the person or persons so chosen. In case of failure to elect by 3 p.m. of such day, the Governor shall fill the vacancies by appointment. After all vacancies are filled, the college of electors shall proceed with the election of a President of the United States and a Vice President of the United States and certify their votes in conformity with the Constitution and laws of the United States. Each at-large presidential elector shall cast his or her ballot for the presidential and vice-presidential candidates who received the highest number of votes in the state. Each congressional district presidential elector shall cast his or her ballot for the presidential and vice-presidential candidates who received the highest number of votes in his or her congressional district.</para></amendatorysection></section><source><para>Laws 1994, LB 76, &#167; 214. </para></source><annotation><para>This section provides procedures for meeting of presidential electors. State ex rel. Beeson v. Marsh, 150 Neb. 233, 34 N.W.2d 279 (1948).</para></annotation></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id13">
+<amendatorysection amended="yes" chaptername="Elections" id="id15" statutenumber="32-714"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>32-714</statuteno><catchline id="id18">Presidential electors;
+vacancies; how filled; meeting; procedure;
+violation of pledge; effect.</catchline><para>(1) The Governor shall provide
+each presidential elector with a list of all the presidential electors. If any presidential elector is absent or if there is
+a deficiency in the proper number of presidential electors,
+those present shall elect from the citizens of the state so many persons as
+will supply the deficiency and immediately issue a certificate of election,
+signed by those present or a majority of them, to the person or persons so
+chosen. In case of failure to elect as
+required in this subsection by 3 p.m. of such day or in case of a vacancy created under subsection (4) of
+this section, the Governor shall fill the vacancies by appointment. Each appointee shall execute the pledge
+in section 32-713. After all vacancies are filled, the presidential electors shall proceed with the
+election of a President of the United States and a Vice President of the United
+States and certify their votes in conformity with the Constitution and laws
+of the United States.</para>
+<para>(2) The Secretary of State shall provide
+each presidential elector with a presidential and vice-presidential ballot. Each
+at-large presidential elector shall mark his or her ballot for
+the presidential and vice-presidential candidates who received the highest
+number of votes in the state and
+consistent with his or her pledge. Each congressional district
+presidential elector shall mark his or her ballot for
+the presidential and vice-presidential candidates who received the highest
+number of votes in his or her congressional district and consistent with his or her pledge.</para>
+<para>(3) Each presidential
+elector shall present the completed ballot to the Secretary of State. The
+Secretary of State shall examine each ballot and accept as cast each ballot
+marked by a presidential elector consistent with his or her pledge. The Secretary
+of State shall not accept and shall not count the ballot if the presidential
+elector has not marked the ballot or has marked the ballot in violation of
+his or her pledge.</para><para>(4) A presidential elector who refuses to present a ballot, who
+attempts to present an unmarked ballot, or who attempts to present a ballot
+marked in violation of his or her pledge vacates the office of presidential
+elector.</para></amendatorysection></section><source><para>Laws 1994, LB 76, &#167; 214; </para><para>Laws 2014, LB946, &#167; 15.</para><operativedate>January 1, 2015</operativedate></source><annotation><para>This section provides procedures for meeting of presidential electors. State ex rel. Beeson v. Marsh, 150 Neb. 233, 34 N.W.2d 279 (1948).</para></annotation>  </law>
+</legaldoc>

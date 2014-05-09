@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Crimes and Punishments" statutenumber="28-415"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>28-415</statuteno><catchline>Narcotic drugs; label; requirements.</catchline><para>(1) A manufacturer, distributor, or packager who sells or dispenses a narcotic drug or a wholesaler who sells or dispenses a narcotic drug in a package prepared by him or her shall securely affix a label to each package in which such drug is contained showing in legible English the name and address of the vendor and the quantity, kind, and form of narcotic drug contained therein. No person, except a pharmacy for the purpose of filling a medical order under the Uniform Controlled Substances Act, shall alter, deface, or remove any label so affixed.</para><para>(2) A pharmacy that sells or dispenses any narcotic drug on a prescription issued by a practitioner shall affix a label to the container in which such drug is sold or dispensed pursuant to subdivision (3)(g) of section 28-414. No person shall alter, deface, or remove any label so affixed.</para></amendatorysection></section><source><para>Laws 1977, LB 38, &#167; 75; </para><para>Laws 1988, LB 273, &#167; 6; </para><para>Laws 1995, LB 406, &#167; 8; </para><para>Laws 1999, LB 379, &#167; 3; </para><para>Laws 1999, LB 594, &#167; 5; </para><para>Laws 2001, LB 398, &#167; 13. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id138">
+<amendatorysection amended="yes" chaptername="Crimes and Punishments" id="id140" statutenumber="28-415"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>28-415</statuteno><catchline id="id143">Narcotic drugs;
+label; requirements.</catchline><para>(1) A manufacturer, distributor,
+or packager who sells or dispenses a narcotic drug or a wholesaler who sells
+or dispenses a narcotic drug in a package prepared by him or her shall securely
+affix a label to each package in which such drug is contained showing in legible
+English the name and address of the vendor and the quantity, kind, and form
+of narcotic drug contained therein. No person, except a pharmacy for the purpose
+of filling a medical order under the Uniform Controlled Substances Act, shall
+alter, deface, or remove any label so affixed.</para>
+<para>(2) A pharmacy that sells or dispenses any narcotic drug
+on a prescription issued by a practitioner shall affix a label to the container
+in which such drug is sold or dispensed pursuant to subsection (3) of section 28-414.03. No
+person shall alter, deface, or remove any label so affixed.</para>
+</amendatorysection></section><source><para>Laws 1977, LB 38, &#167; 75; </para><para>Laws 1988, LB 273, &#167; 6; </para><para>Laws 1995, LB 406, &#167; 8; </para><para>Laws 1999, LB 379, &#167; 3; </para><para>Laws 1999, LB 594, &#167; 5; </para><para>Laws 2001, LB 398, &#167; 13; </para><para>Laws 2014, LB811, &#167; 14.</para><effectivedate>July 18, 2014</effectivedate></source>  </law>
+</legaldoc>

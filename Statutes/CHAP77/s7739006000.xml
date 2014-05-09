@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id533">
-<amendatorysection amended="yes" chaptername="Revenue and Taxation" id="id535" statutenumber="77-3906"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>77-3906</statuteno><catchline id="id538">Distraint and
+<section id="id42">
+<amendatorysection amended="yes" chaptername="Revenue and Taxation" id="id44" statutenumber="77-3906"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>77-3906</statuteno><catchline id="id47">Distraint and
 sale of taxpayer's property; procedures; conditions; powers and duties.</catchline>
 <para>(1) In addition to all other remedies or actions provided
 by law under any tax program administered by the Tax Commissioner or Commissioner
@@ -19,13 +19,14 @@ Tax Commissioner, or his or her authorized employee, may levy or, by warrant
 issued under his or her own hand, authorize a sheriff or duly authorized employee
 of the Tax Commissioner to levy upon, seize, and sell such real and personal
 property belonging to the taxpayer, except exempt property, as is necessary
+to satisfy the liability for the payment of the amount due. The Tax Commissioner may also issue a levy to a financial
+institution pursuant to section 77-3910.</para>
+<para>(b) In case of failure to pay taxes or deficiencies, the Commissioner
+of Labor, or his or her authorized employee, may levy or, by warrant issued
+under his or her own hand, authorize a sheriff or duly authorized employee
+of the Department of Labor to levy upon, seize, and sell such real and personal
+property belonging to the taxpayer, except exempt property, as is necessary
 to satisfy the liability for the payment of the amount due.</para>
-<para>(b) In case of failure to pay taxes or deficiencies, the
-Commissioner of Labor, or his or her authorized employee, may levy or, by
-warrant issued under his or her own hand, authorize a sheriff or duly authorized
-employee of the Department of Labor to levy upon, seize, and sell such real
-and personal property belonging to the taxpayer, except exempt property, as
-is necessary to satisfy the liability for the payment of the amount due.</para>
 <para>(c) As used in this section, exempt property shall mean such
 property as is exempt from execution under the laws of this state.</para>
 <para>(3) When a warrant is issued or a levy is made by the Tax
@@ -38,20 +39,21 @@ or levy shall have the same force and effect of a levy and sale pursuant to
 a writ of execution. Such warrant or levy may be issued and sale made pursuant
 to it in the same manner and with the same force and effect of a levy and
 sale pursuant to a writ of execution. The Tax Commissioner or Commissioner
-of Labor shall pay the levying sheriff the same fees, commissions, and expenses
-pursuant to such warrant as are provided by law for similar services pursuant
-to a writ of execution, except that fees for publications in a newspaper shall
-be subject to approval by the Tax Commissioner or Commissioner of Labor. Such
-fees, commissions, and expenses shall be an obligation of the taxpayer and
-may be collected from the taxpayer by virtue of the warrant. Any such warrant
-shall show the name and last-known address of the taxpayer, the identity of
-the tax program, the year for which such tax and any interest, penalty, or
-addition to such tax is due and the amount thereof, the fact that the Tax
-Commissioner or Commissioner of Labor has complied with all provisions of
-the law for the applicable tax program which he or she administers in the
-determination of the amount required to be paid, and that the tax and any
-interest, penalty, or addition to such tax is due and payable according to
-law.</para>
+of Labor shall pay the financial
+institution in accordance with section 77-3910 or the levying
+sheriff the same fees, commissions, and expenses pursuant to such warrant
+as are provided by law for similar services pursuant to a writ of execution,
+except that fees for publications in a newspaper shall be subject to approval
+by the Tax Commissioner or Commissioner of Labor. Such fees, commissions,
+and expenses shall be an obligation of the taxpayer and may be collected from
+the taxpayer by virtue of the warrant. Any such warrant shall show the name
+and last-known address of the taxpayer, the identity of the tax program, the
+year for which such tax and any interest, penalty, or addition to such tax
+is due and the amount thereof, the fact that the Tax Commissioner or Commissioner
+of Labor has complied with all provisions of the law for the applicable tax
+program which he or she administers in the determination of the amount required
+to be paid, and that the tax and any interest, penalty, or addition to such
+tax is due and payable according to law.</para>
 <para>(4)(a) Any person upon whom a levy is served who fails or
 refuses to honor the levy without cause may be held liable for the amount
 of the levy up to the value of the assets of the taxpayer under his or her
@@ -65,8 +67,8 @@ satisfied.</para>
 shall be given, to the delinquent taxpayer and to any other person with an
 interest in the property who has filed for record with the appropriate filing
 officer on such property, in writing at least twenty days prior to the date
-of such sale in the following manner: The notice shall be mailed to the taxpayer and
-to any other person with such interest at his or her last-known residence
+of such sale in the following manner: The notice shall be mailed to the taxpayer
+and to any other person with such interest at his or her last-known residence
 or place of business in this state. The notice shall also be given by publication
 at least once each week for four weeks prior to the date of the sale in the
 newspaper of general circulation published in the county in which the property
@@ -91,14 +93,13 @@ seized shall remain in the custody and control of the Tax Commissioner or
 Commissioner of Labor, or his or her duly authorized representative, until
 offered for sale again in accordance with this section or redeemed by the
 taxpayer.</para>
-<para>(7) Whenever any property which is seized and sold under
-this section is not sufficient to satisfy the claim of the state for which
-distraint or seizure is made, the sheriff or duly authorized employee of the
-Tax Commissioner or Department of Labor may thereafter, and as often as the
-same may be necessary, proceed to seize and sell in like manner any other
-property liable to seizure of the taxpayer against whom such claim exists
-until the amount due from such taxpayer, together with all expenses, is fully
-paid.</para>
+<para>(7) Whenever any property which is seized and sold under this
+section is not sufficient to satisfy the claim of the state for which distraint
+or seizure is made, the sheriff or duly authorized employee of the Tax Commissioner
+or Department of Labor may thereafter, and as often as the same may be necessary,
+proceed to seize and sell in like manner any other property liable to seizure
+of the taxpayer against whom such claim exists until the amount due from such
+taxpayer, together with all expenses, is fully paid.</para>
 <para>(8) If after the sale the money received exceeds the total
 of all amounts due the state, including any interest, penalties, additions
 to tax, and costs, and if there is no other interest in or lien upon such
@@ -120,5 +121,5 @@ or Department of Labor about to distrain or having distrained any property
 or right to property, exhibit all books containing evidence or statements
 relating to the property or rights of property liable to distraint for the
 tax due.</para>
-</amendatorysection></section><source><para>Laws 1986, LB 1027, &#167; 219; </para><para>Laws 1990, LB 260, &#167; 17; </para><para>Laws 1993, LB 345, &#167; 77; </para><para>Laws 1995, LB 490, &#167; 182; </para><para>Laws 1999, LB 36, &#167; 33; </para><para>Laws 1999, LB 165, &#167; 7; </para><para>Laws 2007, LB334, &#167; 92; </para><para>Laws 2012, LB727, &#167; 48.</para></source>  </law>
+</amendatorysection></section><source><para>Laws 1986, LB 1027, &#167; 219; </para><para>Laws 1990, LB 260, &#167; 17; </para><para>Laws 1993, LB 345, &#167; 77; </para><para>Laws 1995, LB 490, &#167; 182; </para><para>Laws 1999, LB 36, &#167; 33; </para><para>Laws 1999, LB 165, &#167; 7; </para><para>Laws 2007, LB334, &#167; 92; </para><para>Laws 2012, LB727, &#167; 48; </para><para>Laws 2014, LB33, &#167; 4.</para><effectivedate>July 18, 2014</effectivedate></source>  </law>
 </legaldoc>

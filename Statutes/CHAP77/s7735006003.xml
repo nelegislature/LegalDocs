@@ -1,1 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Revenue and Taxation" statutenumber="77-3506.03"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>77-3506.03</statuteno><catchline>Exempt amount; reduction; when; homestead exemption; limitation.</catchline><para>For homesteads valued at or above the maximum value, the exempt amount shall be reduced by ten percent for each two thousand five hundred dollars of value by which the homestead exceeds the maximum value and any homestead which exceeds the maximum value by twenty thousand dollars or more is not eligible for any exemption under sections 77-3507 to 77-3509.</para></amendatorysection></section><source><para>Laws 1995, LB 483, &#167; 1. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id19">
+<amendatorysection amended="yes" chaptername="Revenue and Taxation" id="id21" statutenumber="77-3506.03">
+<bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>77-3506.03</statuteno><catchline id="id24">Exempt amount;
+reduction; when; homestead exemption; limitation.</catchline><para>For
+homesteads valued at or above the maximum value, the exempt amount for any exemption under section 77-3507,
+77-3508, or 77-3509 shall be reduced by ten percent for each two
+thousand five hundred dollars of value by which the homestead exceeds the
+maximum value and any homestead which exceeds the maximum value by twenty
+thousand dollars or more is not eligible for any exemption under section 77-3507, 77-3508, or 77-3509.
+This section shall not apply to any exemption under section 77-3506.</para>
+</amendatorysection></section><source><para>Laws 1995, LB 483, &#167; 1; </para><para>Laws 2014, LB1087, &#167; 4.</para><operativedate>January 1, 2015</operativedate></source>  </law>
+</legaldoc>

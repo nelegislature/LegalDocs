@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id28">
-<amendatorysection chaptername="State Administrative Department" id="id30" publishedsource="AnnualSupplement" statutenumber="81-12,156"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>81-12,156</statuteno><catchline>Funding; use.</catchline><para>At least forty
+<section>
+<amendatorysection amended="yes" chaptername="State Administrative Department" id="id30" publishedsource="AnnualSupplement" statutenumber="81-12,156"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>81-12,156</statuteno><catchline>Funding; use; preference.</catchline><para>At least forty
 percent of the funding for financial assistance programs in sections 81-12,157
 to 81-12,162 shall be used for projects that best alleviate chronic economic
-distress in distressed areas.</para>
-</amendatorysection></section><source><para>Laws 2011, LB387, &#167; 5.</para><terminationdate>October 1, 2016</terminationdate></source><crossreference><para><emphasis>Enterprise Zone Act,</emphasis> see section 13-2101.01.</para></crossreference>  </law>
+distress in distressed areas. When
+selecting projects for funding under this section, the department shall give
+a preference to projects located in whole or in part within an enterprise
+zone designated pursuant to the Enterprise Zone Act.</para>
+</amendatorysection></section><source><para>Laws 2011, LB387, &#167; 5; </para><terminationdate>October 1, 2016</terminationdate><para>Laws 2014, LB800, &#167; 8.</para><effectivedate>July 18, 2014</effectivedate></source><crossreference><para><emphasis>Enterprise Zone Act,</emphasis> see section 13-2101.01.</para></crossreference>  </law>
 </legaldoc>

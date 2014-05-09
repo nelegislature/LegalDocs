@@ -1,20 +1,32 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="Revenue and Taxation" id="id6" publishedsource="AnnualSupplement" statutenumber="77-6309"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>77-6309</statuteno><catchline>Department of Economic Development;
-report; contents.</catchline><para>By November 15 of each odd-numbered year,
-the Department of Economic Development shall submit a report to the Legislature
-and the Governor that includes:</para>
-<para>(1) The number and geographic location of qualified investors;</para>
-<para>(2) The number, geographic location, and amount of qualified investment
-made into each qualified small business;</para>
-<para>(3) A breakdown of the industry sectors in which qualified small businesses
-are involved;</para>
-<para>(4) The number of actual tax credits issued by project under the Angel
-Investment Tax Credit Act on an annual basis; and</para>
-<para>(5) The number of jobs created at each qualified small business.</para>
-<para>The report submitted
-to the Legislature shall be submitted electronically.</para></amendatorysection>
-</section><source><para>Laws 2011, LB389, &#167; 9; </para><para>Laws 2012, LB782, &#167; 147.</para></source>  </law>
+<section id="id80">
+<amendatorysection amended="yes" chaptername="Revenue and Taxation" id="id82" publishedsource="AnnualSupplement" statutenumber="77-6309"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>77-6309</statuteno><catchline id="id85">Department of
+Economic Development; report; contents; confidentiality of certain information.</catchline>
+<para>(1) By
+November 15 of each odd-numbered year, the Department of Economic Development
+shall submit a report to the Legislature and the Governor that includes:</para>
+<para>(a) The number and geographic
+location of qualified investors;</para>
+<para>(b) The number, geographic
+location, and amount of qualified investment made into each qualified small
+business;</para>
+<para>(c) A breakdown of the industry
+sectors in which qualified small businesses are involved;</para>
+<para>(d) The number of actual tax
+credits issued by project under the Angel Investment Tax Credit Act on an
+annual basis; and</para>
+<para>(e) The number of jobs created
+at each qualified small business.</para>
+<para>The report submitted to the Legislature shall be submitted
+electronically.</para>
+<para>(2) Information
+received, developed, created, or otherwise maintained by the Department of
+Economic Development and the Department of Revenue in administering and enforcing
+the Angel Investment Tax Credit Act, other than information required to be
+included in the report to be submitted by the Department of Economic Development
+pursuant to this section, may be deemed confidential by the respective departments
+and not subject to public disclosure.</para></amendatorysection>
+</section><source><para>Laws 2011, LB389, &#167; 9; </para><para>Laws 2012, LB782, &#167; 147; </para><para>Laws 2014, LB1067, &#167; 10.</para><operativedate>January 1, 2014</operativedate></source>  </law>
 </legaldoc>

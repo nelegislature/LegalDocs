@@ -1,1 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Elections" statutenumber="32-311"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>32-311</statuteno><catchline>Registration of elector; personal application; place or time.</catchline><para>Any elector may personally apply to register to vote at (1) the office of the election commissioner or county clerk, (2) a registration site at which a deputy registrar is in attendance, (3) a department listed in section 32-310 at the time of an application, review, or change of address as provided in such section, or (4) the office of the county treasurer or Department of Motor Vehicles while applying for a motor vehicle operator's license or state identification card as provided in section 32-308.</para></amendatorysection></section><source><para>Laws 1994, LB 76, &#167; 73. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id23">
+<amendatorysection amended="yes" chaptername="Elections" id="id25" statutenumber="32-311"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>32-311</statuteno><catchline id="id28">Registration of
+elector; personal application; place or time.</catchline><para>Any
+elector may personally apply to register to vote at (1) the office of the
+election commissioner or county clerk, (2) a registration site at which a
+deputy registrar is in attendance, (3) a department listed in section 32-310
+at the time of an application, review, or change of address as provided in
+such section, or (4) the Department of Motor Vehicles while
+applying for a motor vehicle operator's license or state identification card
+as provided in section 32-308.</para>
+</amendatorysection></section><source><para>Laws 1994, LB 76, &#167; 73; </para><para>Laws 2014, LB661, &#167; 6.</para><effectivedate>July 18, 2014</effectivedate></source>  </law>
+</legaldoc>

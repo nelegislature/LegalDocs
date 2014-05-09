@@ -1,1 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Elections" statutenumber="32-815"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>32-815</statuteno><catchline>General election ballot; partisan candidates; placement and rotation of names.</catchline><para>(1) The names of candidates for each partisan elective office shall be arranged on the ballot of the general election so that the political party polling the highest number of votes at the last general election for Governor will have the name of its nominee immediately beneath the name of the office for which the candidate was nominated, the political party polling the second highest number of votes will have the second place, the political party having the third highest number of votes will have the third place, and continuing with the political parties in descending order of number of votes, leaving those candidates whose names appear upon the ballot by petition to appear beneath all other candidates placed there by nomination. For each office for which there are more candidates than vacancies and there are two or more nominees of the same political party, the election commissioner or county clerk shall rotate the names of such candidates on the official ballot. In printing the ballots for the various election districts, the positions of the names shall be changed in each office division for each election district. In making the change of position, the printer shall take the line of type at the head of each division and place it at the bottom of that division, shoving up the column so that the name that was second shall be first after the change.</para><para>(2) The name of the person receiving the highest number of votes at a primary election as the candidate of a political party for an office shall be placed on the official ballot except as otherwise provided in the Election Act. No person shall be certified as a candidate of any political party for such office by the Secretary of State, election commissioner, or county clerk unless the person receives a number of votes at least equal to five percent of the total ballots cast at the primary election by registered voters affiliated with that political party in the district which the office serves and meets the requirements for the office.</para></amendatorysection></section><source><para>Laws 1994, LB 76, &#167; 236; </para><para>Laws 1997, LB 764, &#167; 78; </para><para>Laws 1999, LB 571, &#167; 6. </para></source><annotation><para>A write-in candidate, who receives the requisite number of votes cast by a political party at a primary election, is the nominee of that party. State ex rel. Driscoll v. Swanson, 127 Neb. 715, 256 N.W. 872 (1934).</para><para>Before a person can be the nominee of any political party, such person must receive the requisite number of votes cast by that party at the primary election. State ex rel. Dickinson v. Sheldon, 80 Neb. 4, 113 N.W. 802 (1907).</para></annotation></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id12">
+<amendatorysection amended="yes" chaptername="Elections" id="id14" statutenumber="32-815"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>32-815</statuteno><catchline id="id17">General election
+ballot; partisan candidates; placement and rotation of names.</catchline>
+<para>(1) The names of candidates for each partisan elective office
+shall be arranged on the ballot of the general election so that the political
+party polling the highest number of votes at the last general election for
+Governor will have the name of its nominee immediately beneath the name of
+the office for which the candidate was nominated, the political party polling
+the second highest number of votes will have the second place, the political
+party having the third highest number of votes will have the third place,
+and continuing with the political parties in descending order of number of
+votes, leaving those candidates whose names appear upon the ballot by petition
+to appear beneath all other candidates placed there by nomination. For each
+office for which there are more candidates than vacancies and there are two
+or more nominees of the same political party, the election commissioner or
+county clerk shall rotate the names of such candidates on the official ballot.
+In printing the ballots for the various election districts, the positions
+of the names shall be changed in each office division for each election district.
+In making the change of position, the printer shall take the line of type
+at the head of each division and place it at the bottom of that division,
+shoving up the column so that the name that was second shall be first after
+the change.</para>
+<para>(2) The name of the person receiving the highest number of
+votes at a primary election as the candidate of a political party for an office
+shall be placed on the official ballot except as otherwise provided in the
+Election Act. Except as provided in section 32-811 for
+automatically nominated candidates, no person shall be certified
+as a candidate of any political party for such office by the Secretary of
+State, election commissioner, or county clerk unless the person receives a
+number of votes at least equal to five percent of the total ballots cast at
+the primary election by registered voters affiliated with that political party
+in the district which the office serves and meets the requirements for the
+office.</para>
+</amendatorysection></section><source><para>Laws 1994, LB 76, &#167; 236; </para><para>Laws 1997, LB 764, &#167; 78; </para><para>Laws 1999, LB 571, &#167; 6; </para><para>Laws 2014, LB56, &#167; 3.</para><effectivedate>February 19, 2014</effectivedate></source><annotation><para>A write-in candidate, who receives the requisite number of votes cast by a political party at a primary election, is the nominee of that party. State ex rel. Driscoll v. Swanson, 127 Neb. 715, 256 N.W. 872 (1934).</para><para>Before a person can be the nominee of any political party, such person must receive the requisite number of votes cast by that party at the primary election. State ex rel. Dickinson v. Sheldon, 80 Neb. 4, 113 N.W. 802 (1907).</para></annotation>  </law>
+</legaldoc>

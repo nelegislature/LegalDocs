@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?><!--Arbortext, Inc., 1988-2004, v.4002--><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Elections" statutenumber="32-309"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>32-309</statuteno><catchline>Voter registration application; delivery; when; confidentiality.</catchline><para>Upon receipt of a completed voter registration application, a county treasurer, a license examiner of the Department of Motor Vehicles, and any other person who issues motor vehicle operators' licenses or state identification cards shall deliver the completed voter registration application to the election commissioner or county clerk of the county in which the county treasurer, license examiner, or other person is located not later than ten days after receipt by the county treasurer, license examiner, or other person, except that if the voter registration application is received within five days prior to the third Friday preceding any election, it shall be delivered not later than five days after its original filing date. The election commissioner or county clerk shall, if necessary, forward the voter registration application to the election commissioner or county clerk of the county in which the applicant resides within such prescribed time limits. Any information on whether an applicant registers or declines to register and the location of the office at which he or she registers shall be confidential and shall only be used for voter registration purposes.</para></amendatorysection></section><source><para>Laws 1994, LB 76, &#167; 71; </para><para>Laws 2005, LB 566, &#167; 8. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id16">
+<amendatorysection amended="yes" chaptername="Elections" id="id18" statutenumber="32-309"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>32-309</statuteno><catchline id="id21">Voter registration
+application; delivery; when; confidentiality.</catchline><para>Upon
+receipt of a completed voter registration application under subsection (2) of section 32-308, any person who issues motor vehicle operators'
+licenses or state identification cards shall,
+until the implementation date designated by the Director of Motor Vehicles
+pursuant to subsection (3) of section 32-308, deliver the completed
+voter registration application to the election commissioner or county clerk
+of the county in which the person is located not later
+than ten days after receipt by the person, except that if the
+voter registration application is received within five days prior to the third
+Friday preceding any election, it shall be delivered not later than five days
+after its original filing date. The election commissioner or county clerk
+shall, if necessary, forward the voter registration application to the election
+commissioner or county clerk of the county in which the applicant resides
+within such prescribed time limits. Any information on whether an applicant
+registers or declines to register and the location of the office at which
+he or she registers shall be confidential and shall only be used for voter
+registration purposes.</para>
+</amendatorysection></section><source><para>Laws 1994, LB 76, &#167; 71; </para><para>Laws 2005, LB 566, &#167; 8; </para><para>Laws 2014, LB661, &#167; 5.</para><effectivedate>July 18, 2014</effectivedate></source>  </law>
+</legaldoc>

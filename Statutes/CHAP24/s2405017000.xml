@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id48">
-<sectno id="id49" opdate="May 30, 2009">Sec. 5.</sectno><amendatorysection amended="yes" chaptername="Courts" id="id50" statutenumber="24-517"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno id="id52">24-517</statuteno><catchline id="id53">Jurisdiction.</catchline>
+<section id="id11">
+<amendatorysection amended="yes" chaptername="Courts" id="id13" statutenumber="24-517"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>24-517</statuteno><catchline id="id16">Jurisdiction.</catchline>
 <para>Each county court shall have the following jurisdiction:</para>
 <para>(1) Exclusive original jurisdiction of all matters relating
 to decedents' estates, including the probate of wills and the construction
@@ -46,9 +46,9 @@ for the five-year period preceding the adjustment date. The jurisdictional
 amount shall be rounded to the nearest one-thousand-dollar amount;</para>
 <para>(6) Concurrent original jurisdiction with the district court
 in any criminal matter classified as a misdemeanor or for any infraction.
-The district court shall have concurrent original jurisdiction
-in any criminal matter classified as a misdemeanor that arises from the same
-incident as a charged felony;</para>
+The district court shall have concurrent original jurisdiction in any criminal
+matter classified as a misdemeanor that arises from the same incident as a
+charged felony;</para>
 <para>(7) Concurrent original jurisdiction with the district court
 in domestic relations matters as defined in section 25-2740 and with the district
 court and separate juvenile court in paternity or custody determinations as
@@ -56,9 +56,12 @@ provided in section 25-2740;</para>
 <para>(8) Concurrent original jurisdiction with the district court
 in matters arising under the Nebraska Uniform Trust Code;</para>
 <para>(9) Exclusive original jurisdiction in any action based on
-violation of a city or village ordinance;</para>
-<para>(10) Exclusive original jurisdiction in juvenile matters in
-counties which have not established separate juvenile courts;</para>
+violation of a city or village ordinance,
+except with respect to violations committed by persons under eighteen years
+of age;</para>
+<para>(10) The jurisdiction of a juvenile court as provided in the
+Nebraska Juvenile Code when sitting as a juvenile court in counties
+which have not established separate juvenile courts;</para>
 <para>(11) Exclusive original jurisdiction in matters of adoption,
 except if a separate juvenile court already has jurisdiction over the child
 to be adopted, concurrent original jurisdiction with the separate juvenile
@@ -66,7 +69,7 @@ court; and</para>
 <para>(12) All other jurisdiction heretofore provided and not specifically
 repealed by Laws 1972, Legislative Bill 1032, and such other jurisdiction
 as hereafter provided by law.</para>
-</amendatorysection></section><source><para>Laws 1972, LB 1032, &#167; 17; </para><para>Laws 1973, LB 226, &#167; 6; </para><para>Laws 1977, LB 96, &#167; 1; </para><para>Laws 1979, LB 373, &#167; 1; </para><para>Laws 1983, LB 137, &#167; 1; </para><para>Laws 1984, LB 13, &#167; 12; </para><para>Laws 1986, LB 529, &#167; 7; </para><para>Laws 1986, LB 1229, &#167; 1; </para><para>Laws 1991, LB 422, &#167; 1; </para><para>Laws 1996, LB 1296, &#167; 2; </para><para>Laws 1997, LB 229, &#167; 1; </para><para>Laws 1998, LB 1041, &#167; 1; </para><para>Laws 2001, LB 269, &#167; 1; </para><para>Laws 2003, LB 130, &#167; 114; </para><para>Laws 2005, LB 361, &#167; 29; </para><para>Laws 2008, LB280, &#167; 1; </para><para>Laws 2008, LB1014, &#167; 4; </para><para>Laws 2009, LB35, &#167; 5.</para></source><crossreference><para><emphasis>Nebraska Uniform Trust Code,</emphasis> see section 30-3801.</para></crossreference><annotation>
+</amendatorysection></section><source><para>Laws 1972, LB 1032, &#167; 17; </para><para>Laws 1973, LB 226, &#167; 6; </para><para>Laws 1977, LB 96, &#167; 1; </para><para>Laws 1979, LB 373, &#167; 1; </para><para>Laws 1983, LB 137, &#167; 1; </para><para>Laws 1984, LB 13, &#167; 12; </para><para>Laws 1986, LB 529, &#167; 7; </para><para>Laws 1986, LB 1229, &#167; 1; </para><para>Laws 1991, LB 422, &#167; 1; </para><para>Laws 1996, LB 1296, &#167; 2; </para><para>Laws 1997, LB 229, &#167; 1; </para><para>Laws 1998, LB 1041, &#167; 1; </para><para>Laws 2001, LB 269, &#167; 1; </para><para>Laws 2003, LB 130, &#167; 114; </para><para>Laws 2005, LB 361, &#167; 29; </para><para>Laws 2008, LB280, &#167; 1; </para><para>Laws 2008, LB1014, &#167; 4; </para><para>Laws 2009, LB35, &#167; 5; </para><para>Laws 2014, LB464, &#167; 2.</para><operativedate>July 18, 2014</operativedate></source><crossreference><para><emphasis>Nebraska Juvenile Code,</emphasis> see section 43-2,129.</para><para><emphasis>Nebraska Uniform Trust Code,</emphasis> see section 30-3801.</para></crossreference><annotation>
 <para><emphasis>1. Jurisdiction</emphasis></para>
 <para><emphasis>2. Miscellaneous</emphasis></para>
 <para><emphasis>1. Jurisdiction</emphasis></para>

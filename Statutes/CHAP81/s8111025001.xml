@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="State Administrative Departments" statutenumber="81-1125.01"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>81-1125.01</statuteno><catchline>Director of Administrative Services;
-reports and statements required; to whom made.</catchline><para>It shall be
-the duty of the Director of Administrative Services to digest, prepare, and
-report to the Governor, the Tax Commissioner, and the Clerk of the Legislature,
-at least twenty days before the commencement of each regular session of the
-Legislature:</para>
-<para>(1) A full and detailed statement of the condition of the treasury,
+<section id="id19">
+<amendatorysection amended="yes" chaptername="State Administrative Departments" id="id21" statutenumber="81-1125.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>81-1125.01</statuteno><catchline id="id24">Director of
+Administrative Services; reports and statements required; to whom made.</catchline>
+<para>It shall be the duty of the Director of Administrative Services
+to digest, prepare, and report to the Governor, the Tax Commissioner, the Clerk of the Legislature, and the Legislative Fiscal Analyst, at
+least twenty days before the commencement of each regular session of the Legislature:</para>
+<para>(1) The
+Annual Budgetary Report showing the condition of the treasury,
 and the amount of the expenditures for the last fiscal year;</para>
-<para>(2) A full and detailed statement of the public debt, showing fully
-all liabilities and resources of the state; and</para>
-<para>(3) Such plans as he or she may deem expedient for (a) the support of
-public credit, (b) lessening the public expenses, (c) using the public money
-to the best advantage, (d) promoting frugality and economy in public offices,
-and generally for the better management and more perfect understanding of
-the fiscal affairs of the state, and (e) securing uniformity and efficiency
+<para>(2) The Comprehensive Annual Financial Report showing
+fully all liabilities and resources of the state; and</para>
+<para>(3) Such plans as he or she may deem expedient for (a) the
+support of public credit, (b) lessening the public expenses, (c) using the
+public money to the best advantage, (d) promoting frugality and economy in
+public offices, and generally for the better management and more perfect understanding
+of the fiscal affairs of the state, and (e) securing uniformity and efficiency
 in the levying and collecting of taxes, systematizing the work to be done
 by officers having duties to perform under the revenue law.</para>
-<para>The report submitted
-to the Clerk of the Legislature shall be submitted electronically. Each
-member of the Legislature shall receive an electronic copy of the
-report required by this section by making a request for it to the director.</para>
-</amendatorysection></section><source><para>R.S.1866, c. 4, &#167; 3, p. 19; </para><para>R.S.1913, &#167; 5545; </para><para>C.S.1922, &#167; 4847; </para><para>C.S.1929, &#167; 84-303; </para><para>R.S.1943, &#167; 84-303; </para><para>Laws 1965, c. 459, &#167; 24, p. 1464; </para><para>Laws 1979, LB 322, &#167; 51; </para><para>Laws 2012, LB782, &#167; 191.</para></source>  </law>
+<para>The reports submitted to the Legislature shall
+be submitted electronically. Each member of the Legislature shall receive
+an electronic copy of the reports required by this section
+by making a request for it to the director.</para>
+</amendatorysection></section><source><para>R.S.1866, c. 4, &#167; 3, p. 19; </para><para>R.S.1913, &#167; 5545; </para><para>C.S.1922, &#167; 4847; </para><para>C.S.1929, &#167; 84-303; </para><para>R.S.1943, &#167; 84-303; </para><para>Laws 1965, c. 459, &#167; 24, p. 1464; </para><para>Laws 1979, LB 322, &#167; 51; </para><para>Laws 2012, LB782, &#167; 191; </para><para>Laws 2014, LB974, &#167; 10.</para><effectivedate>April 3, 2014</effectivedate></source>  </law>
 </legaldoc>

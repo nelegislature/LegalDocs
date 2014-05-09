@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id110">
-<amendatorysection amended="yes" chaptername="Crimes and Punishments" id="id112" publishedsource="AnnualSupplement" statutenumber="28-1354"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>28-1354</statuteno><catchline id="id115">Terms, defined.</catchline><para>For purposes of the Public Protection Act:</para>
+<section id="id124">
+<amendatorysection amended="yes" chaptername="Crimes and Punishments" id="id126" publishedsource="AnnualSupplement" statutenumber="28-1354"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>28-1354</statuteno><catchline id="id129">Terms, defined.</catchline>
+<para>For purposes of the Public Protection Act:</para>
 <para>(1) Enterprise means any individual, sole proprietorship,
 partnership, corporation, trust, association, or any legal entity, union,
 or group of individuals associated in fact although not a legal entity, and
@@ -14,8 +15,8 @@ one of which occurred after August 30, 2009, and the last of which occurred
 within ten years, excluding any period of imprisonment, after the commission
 of a prior act of racketeering activity;</para>
 <para>(3) Person means any individual or entity, as defined in
-section 21-2014, holding or capable of holding a legal, equitable, or beneficial
-interest in property;</para>
+section 21-214, holding or capable
+of holding a legal, equitable, or beneficial interest in property;</para>
 <para>(4) Prosecutor includes the Attorney General of the State
 of Nebraska, the deputy attorney general, assistant attorneys general, a county
 attorney, a deputy county attorney, or any person so designated by the Attorney
@@ -82,11 +83,17 @@ acts under section 28-631;</para>
 Abuse of public records under section 28-911; perjury or subornation of perjury
 under section 28-915; bribery under section 28-917; bribery of a witness under
 section 28-918; tampering with a witness or informant or jury tampering under
-section 28-919; bribery of a juror under section 28-920; assault on an officer
-in the first degree under section 28-929; assault on an officer in the second
-degree under section 28-930; assault on an officer in the third degree under
-section 28-931; and assault on an officer using a motor vehicle under section
-28-931.01;</para>
+section 28-919; bribery of a juror under section 28-920; assault on an officer, an emergency responder, a state correctional
+employee, a Department of Health and Human Services employee, or a health
+care professional in the first degree under section 28-929; assault
+on an officer, an emergency
+responder, a state correctional employee, a Department of Health and Human
+Services employee, or a health care professional in the second
+degree under section 28-930; assault on an officer, an emergency responder, a state correctional employee,
+a Department of Health and Human Services employee, or a health care professional in
+the third degree under section 28-931; and assault on an officer, an emergency responder, a state correctional
+employee, a Department of Health and Human Services employee, or a health
+care professional using a motor vehicle under section 28-931.01;</para>
 <para>(f) Offenses involving gambling which include: Promoting
 gambling in the first degree under section 28-1102; possession of gambling
 records under section 28-1105; gambling debt collection under section 28-1105.01;
@@ -117,8 +124,8 @@ to section 8-1117;</para>
 to section 77-2713;</para>
 <para>(j) Offenses relating to public health and morals which include:
 Prostitution under section 28-801; pandering under section 28-802; keeping
-a place of prostitution under section 28-804; labor trafficking, sex trafficking, labor
-trafficking of a minor, or sex trafficking of a minor under section
+a place of prostitution under section 28-804; labor trafficking, sex trafficking,
+labor trafficking of a minor, or sex trafficking of a minor under section
 28-831; a violation of section 28-1005; and any act relating to the visual
 depiction of sexually explicit conduct prohibited in the Child Pornography
 Prevention Act; and</para>
@@ -135,5 +142,5 @@ because of the laws relating to usury; or</para>
 gambling in violation of federal law or the law of the state or the business
 of lending money or a thing of value at a rate usurious under state law if
 the usurious rate is at least twice the enforceable rate.</para>
-</amendatorysection></section><source><para>Laws 2009, LB155, &#167; 4; </para><para>Laws 2010, LB771, &#167; 13; </para><para>Laws 2013, LB255, &#167; 8.</para></source><crossreference><para><emphasis>Child Pornography Prevention Act,</emphasis> see section 28-1463.01.</para><para><emphasis>Computer Crimes Act,</emphasis> see section 28-1341.</para><para><emphasis>Nebraska Revenue Act of 1967,</emphasis> see section 77-2701.</para><para><emphasis>Securities Act of Nebraska,</emphasis> see section 8-1123.</para></crossreference>  </law>
+</amendatorysection></section><source><para>Laws 2009, LB155, &#167; 4; </para><para>Laws 2010, LB771, &#167; 13; </para><para>Laws 2013, LB255, &#167; 8; </para><para>Laws 2014, LB749, &#167; 277; </para><para>Laws 2014, LB811, &#167; 24.</para><note>The Revisor of Statutes has pursuant to section 49-769 correlated LB749, section 277, with LB811, section 24, to reflect all amendments.</note><note>Changes made by LB811 became effective July 18, 2014. Changes made by LB749 became operative January 1, 2016.</note></source><crossreference><para><emphasis>Child Pornography Prevention Act,</emphasis> see section 28-1463.01.</para><para><emphasis>Computer Crimes Act,</emphasis> see section 28-1341.</para><para><emphasis>Nebraska Revenue Act of 1967,</emphasis> see section 77-2701.</para><para><emphasis>Securities Act of Nebraska,</emphasis> see section 8-1123.</para></crossreference>  </law>
 </legaldoc>

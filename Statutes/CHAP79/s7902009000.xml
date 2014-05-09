@@ -1,81 +1,58 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id3">
-<amendatorysection amended="yes" chaptername="Schools" id="id5" statutenumber="79-209"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>79-209</statuteno><catchline id="id8">Compulsory attendance;
-nonattendance; school district; duties; remedial services; enforcement.</catchline>
-<para>(1) In
-all school districts in this state, any superintendent, principal, teacher,
-or member of the school board who knows of any violation of section 79-201
-on the part of any child of school age, his or her parent, the person in actual
-or legal control of such child, or any other person shall within three days
-report such violation to the attendance officer of the school, who shall investigate
-the case. When of his or her personal knowledge, by report or complaint from
-any resident of the district, or by report or complaint as provided in this
-section, the attendance officer believes that any child is unlawfully absent
-from school, the attendance officer shall immediately investigate.</para>
-<para>(2) All
-school districts shall have a written policy on excessive absenteeism developed
-in collaboration with the county attorney of the county in which the principal
-office of the school district is located. The policy shall include a provision
-indicating how the school district and the county attorney will handle cases
-in which excessive absences are due to documented illness that makes attendance
-impossible or impracticable, and the policy shall state the number of absences
-or the hourly equivalent upon the occurrence of which the school shall render
-all services in its power to compel such child to attend some public, private,
-denominational, or parochial school, which the person having control of the
-child shall designate, in an attempt to address the problem of excessive absenteeism.
-The number of absences in the policy shall not exceed five days per quarter
-or the hourly equivalent. School districts may use excused and unexcused absences
-for purposes of the policy. Such services shall include, but need not be limited
-to:</para>
-<para>(a) One or more meetings between
-a school attendance officer, school social worker or the school principal
-or a member of the school administrative staff designated by the school administration
-if such school does not have a school social worker, the child's parent or
-guardian, and the child, if necessary, to report and to attempt to solve the
-problem of excessive absenteeism;</para>
-<para>(b) Educational counseling
-to determine whether curriculum changes, including, but not limited to, enrolling
-the child in an alternative education program that meets the specific educational
-and behavioral needs of the child, would help solve the problem of excessive
-absenteeism;</para>
-<para>(c) Educational evaluation,
-which may include a psychological evaluation, to assist in determining the
-specific condition, if any, contributing to the problem of excessive absenteeism,
-supplemented by specific efforts by the school to help remedy any condition
-diagnosed; and</para>
-<para>(d) Investigation of the problem of excessive absenteeism
-by the school social worker, or if such school does not have a school social
-worker, by the school principal or a member of the school administrative staff
-designated by the school administration, to identify conditions which may
-be contributing to the problem. If services for the child and his or her family
-are determined to be needed, the school social worker or the school principal
-or a member of the school administrative staff performing the investigation
-shall meet with the parent or guardian and the child to discuss any referral
-to appropriate community agencies for economic services, family or individual
-counseling, or other services required to remedy the conditions that are contributing
-to the problem of
-excessive absenteeism.</para>
-<para>(3) If the child is absent
-more than twenty days per year or the hourly equivalent and all of the absences
-are due to documented illness that makes attendance impossible or impracticable
-or are otherwise excused by school authorities, the attendance officer may
-report such information to the county attorney of the county in which the
-person resides. If the child is absent more than twenty days per year or the
-hourly equivalent and any of such absences are not excused, the attendance
-officer shall file a report with the county attorney of the county in which
-the person resides on a form which includes the following two statements,
-one of which must be designated by the school representative signing the report:
-(a) The school representative requests additional time to work with the student
-prior to intervention by the county attorney; and (b) the school representative
-believes that the school has used all reasonable efforts to resolve the student's
-excessive absenteeism without success and recommends county attorney intervention.
-If further action is necessary to address the child's attendance, the initial
-meeting between the parent or guardian of the child, the school, and the county
-attorney or his or her designee shall be at a location determined by the school.</para>
-<para>(4) Nothing in this section
-shall preclude a county attorney from being involved at any stage in the process
-to address excessive absenteeism.</para>
-</amendatorysection></section><source><para>Laws 1901, c. 70, &#167; 2, p. 456; </para><para>Laws 1903, c. 95, &#167; 2, p. 552; </para><para>Laws 1905, c. 141, &#167; 1, p. 578; </para><para>Laws 1909, c. 130, &#167; 1, p. 474; </para><para>R.S.1913, &#167; 6925; </para><para>Laws 1919, c. 155, &#167; 9, p. 350; </para><para>Laws 1921, c. 53, &#167; 2, p. 231; </para><para>C.S.1922, &#167; 6509; </para><para>C.S.1929, &#167; 79-1914; </para><para>R.S.1943, &#167; 79-1922; </para><para>Laws 1949, c. 256, &#167; 17, p. 696; </para><para>Laws 1986, LB 528, &#167; 8; </para><para>Laws 1994, LB 1250, &#167; 5; </para><para>R.S.1943, (1994), &#167; 79-211; </para><para>Laws 1996, LB 900, &#167; 13; </para><para>Laws 1998, Spec. Sess., LB 1, &#167; 6; </para><para>Laws 1999, LB 272, &#167; 28; </para><para>Laws 2010, LB800, &#167; 35; </para><para>Laws 2011, LB463, &#167; 19; </para><para>Laws 2012, LB933, &#167; 1.</para></source>  </law>
+<section id="id4">
+<amendatorysection amended="yes" chaptername="Schools" id="id6" statutenumber="79-209"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>79-209</statuteno><catchline id="id9">Compulsory attendance;
+nonattendance; school district; duties; collaborative
+plan; considerations; referral to county attorney; notice.</catchline>
+<para>(1) In all school districts in this state, any superintendent,
+principal, teacher, or member of the school board who knows of any violation
+of subsection (2) of section
+79-201 shall within three days report
+such violation to the attendance officer of the school, who shall immediately investigate the
+case. When of his or her personal knowledge or by report or complaint
+from any resident of the district, the attendance
+officer believes that there is a violation of subsection (2) of section 79-201, the
+attendance officer shall immediately investigate such alleged violation.</para>
+<para>(2) All school boards shall have a written
+policy on attendance developed and annually reviewed in collaboration
+with the county attorney of the county in which the principal office of the
+school district is located. The policy shall include a provision indicating
+how the school district will handle cases in which excessive absences
+are due to illness. The policy shall also state the circumstances and number of
+absences or the hourly equivalent upon which the school shall render all services to address barriers to attendance. Such
+services shall include, but not
+be limited to:</para>
+<para>(a) Verbal
+or written communication by school officials with the person or persons who
+have legal or actual charge or control of any child; and</para>
+<para>(b) One or more meetings between, at a minimum, a school attendance
+officer, a school
+social worker, or a school
+administrator or his or her designee, the person who has legal or actual charge
+or control of the child, and the child, when appropriate, to attempt to address the barriers to attendance. The
+result of the meeting or meetings shall be to develop a collaborative plan
+to reduce barriers identified to improve regular attendance. The plan shall
+consider, but not be limited to:</para>
+<para>(i) Illness
+related to physical or behavioral health of the child;</para>
+<para>(ii) Educational
+counseling;</para><para>(iii) Educational evaluation;</para><para>(iv) Referral to community agencies for
+economic services;</para><para>(v) Family or individual counseling; and</para><para>(vi) Assisting the family
+in working with other community services.</para><para>(3) The school may report to the county
+attorney of the county in which the person resides when the school has documented
+the efforts it has made as required by subsection (2) of this section that
+the collaborative plan to reduce barriers identified to improve regular attendance
+has not been successful and that the child has been absent more than twenty
+days per year. The school shall notify the child's family in writing prior
+to referring the child to the county attorney. Failure by the school to document
+the efforts required by subsection (2) of this section is a defense to prosecution
+under section 79-201 and adjudication for educational neglect under subdivision
+(3)(a) of section 43-247 and habitual truancy under subdivision (3)(b) of
+section 43-247. Illness that makes attendance impossible or impracticable
+shall not be the basis for referral to the county attorney.</para>
+
+<para>(4) Nothing in this section shall preclude a county attorney
+from being involved at any stage in the process to address excessive absenteeism.</para>
+</amendatorysection></section><source><para>Laws 1901, c. 70, &#167; 2, p. 456; </para><para>Laws 1903, c. 95, &#167; 2, p. 552; </para><para>Laws 1905, c. 141, &#167; 1, p. 578; </para><para>Laws 1909, c. 130, &#167; 1, p. 474; </para><para>R.S.1913, &#167; 6925; </para><para>Laws 1919, c. 155, &#167; 9, p. 350; </para><para>Laws 1921, c. 53, &#167; 2, p. 231; </para><para>C.S.1922, &#167; 6509; </para><para>C.S.1929, &#167; 79-1914; </para><para>R.S.1943, &#167; 79-1922; </para><para>Laws 1949, c. 256, &#167; 17, p. 696; </para><para>Laws 1986, LB 528, &#167; 8; </para><para>Laws 1994, LB 1250, &#167; 5; </para><para>R.S.1943, (1994), &#167; 79-211; </para><para>Laws 1996, LB 900, &#167; 13; </para><para>Laws 1998, Spec. Sess., LB 1, &#167; 6; </para><para>Laws 1999, LB 272, &#167; 28; </para><para>Laws 2010, LB800, &#167; 35; </para><para>Laws 2011, LB463, &#167; 19; </para><para>Laws 2012, LB933, &#167; 1; </para><para>Laws 2014, LB464, &#167; 34.</para><operativedate>July 18, 2014</operativedate></source>  </law>
 </legaldoc>

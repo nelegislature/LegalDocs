@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="Motor Vehicles" id="id46" publishedsource="CumulativeSupplement" statutenumber="60-135.01"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>60-135.01</statuteno><catchline id="id49">Utility-type vehicle,
-defined.</catchline><para>(1) Utility-type vehicle means any motorized off-highway
-device which (a) is not less than forty-eight inches nor more than seventy-four
-inches in width, (b) is not more than one hundred eighty inches,
-including the bumper, in length, (c) has a dry weight of not less than nine
-hundred pounds nor more than two thousand pounds, (d) travels on four or more
-low-pressure tires, and (e) is equipped with a steering wheel and bench or
-bucket-type seating designed for at least two people to sit side-by-side.</para>
-<para>(2) Utility-type vehicle does not include golf car vehicles or low-speed
-vehicles.</para>
-</amendatorysection></section><source><para>Laws 2010, LB650, &#167; 7; </para><para>Laws 2012, LB1155, &#167; 6; </para><para>Laws 2013, LB223, &#167; 1.</para></source>  </law>
+<section id="id11">
+<amendatorysection amended="yes" chaptername="Motor Vehicles" id="id13" publishedsource="CumulativeSupplement" statutenumber="60-135.01"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>60-135.01</statuteno><catchline id="id16">Utility-type
+vehicle, defined.</catchline><para>(1) Utility-type vehicle means
+any motorized off-highway device which (a) is seventy-four
+inches in width or less,
+(b) is not more than one hundred eighty inches, including the bumper, in length,
+(c) has a dry weight of two thousand pounds or less, and (d) travels on four or more nonhighway tires.</para>
+<para>(2) Utility-type vehicle does not include all-terrain vehicles, golf car vehicles, or low-speed vehicles.</para>
+</amendatorysection></section><source><para>Laws 2010, LB650, &#167; 7; </para><para>Laws 2012, LB1155, &#167; 6; </para><para>Laws 2013, LB223, &#167; 1; </para><para>Laws 2014, LB814, &#167; 4.</para><operativedate>October 1, 2014</operativedate></source>  </law>
 </legaldoc>

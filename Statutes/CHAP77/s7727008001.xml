@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Revenue and Taxation" statutenumber="77-2708.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>77-2708.01</statuteno><catchline>Depreciable repairs or parts for agricultural machinery or equipment; refund of sales or use taxes; procedure.</catchline><para>(1) Any purchaser of depreciable repairs or parts for agricultural machinery or equipment used in commercial agriculture may apply for a refund of all of the Nebraska sales or use taxes and all of the local option sales or use taxes paid on the repairs or parts.</para><para>(2) The purchaser shall file a claim within three years after the date of purchase with the Tax Commissioner pursuant to section 77-2708. The information provided on a tax refund claim allowed under this section may be disclosed to any other tax official of this state.</para></amendatorysection></section><source><para>Laws 1992, LB 1063, &#167; 181; </para><para>Laws 1992, Second Spec. Sess., LB 1, &#167; 154; </para><para>Laws 1992, Fourth Spec. Sess., LB 1, &#167; 29; </para><para>Laws 1993, LB 345, &#167; 57; </para><para>Laws 2003, LB 282, &#167; 72. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id21">
+<amendatorysection amended="yes" chaptername="Revenue and Taxation" id="id23" statutenumber="77-2708.01">
+<bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>77-2708.01</statuteno><catchline id="id26">Depreciable
+repairs or parts for agricultural machinery or equipment; refund of sales
+or use taxes; procedure.</catchline><para>(1) Any purchaser of depreciable
+repairs or parts for agricultural machinery or equipment used in commercial
+agriculture may apply for a refund of all of the Nebraska sales or use taxes
+and all of the local option sales or use taxes paid prior to October 1, 2014, on the repairs or
+parts.</para>
+<para>(2) The purchaser shall file a claim within three years after
+the date of purchase with the Tax Commissioner pursuant to section 77-2708.
+The information provided on a tax refund claim allowed under this section
+may be disclosed to any other tax official of this state.</para>
+</amendatorysection></section><source><para>Laws 1992, LB 1063, &#167; 181; </para><para>Laws 1992, Second Spec. Sess., LB 1, &#167; 154; </para><para>Laws 1992, Fourth Spec. Sess., LB 1, &#167; 29; </para><para>Laws 1993, LB 345, &#167; 57; </para><para>Laws 2003, LB 282, &#167; 72; </para><para>Laws 2014, LB96, &#167; 4.</para><operativedate>October 1, 2014</operativedate></source>  </law>
+</legaldoc>

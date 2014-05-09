@@ -1,1 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Livestock" statutenumber="54-7,106" publishedsource="CumulativeSupplement"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>54-7,106</statuteno><catchline>Notification requirements.</catchline><para>An exotic animal auction or swap meet organizer shall notify the Bureau of Animal Industry at least thirty days prior to the date on which the exotic animal auction or swap meet is to be held. Notification shall include the location, time, and dates of the exotic animal auction or swap meet and the name and address of the exotic animal auction or swap meet organizer. Notification shall be made in writing or by facsimile transmission.</para></amendatorysection></section><source><para>Laws 2006, LB 856, &#167; 7.</para></source><crossreference><para><emphasis>Definitions,</emphasis> see section 54-701.03.</para><para><emphasis>Department of Agriculture,</emphasis> State Veterinarian, powers, see sections 54-703 to 54-705.</para><para><emphasis>Violations,</emphasis> penalties, see section 54-752.</para></crossreference></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id4">
+<amendatorysection amended="yes" chaptername="Livestock" id="id6" publishedsource="CumulativeSupplement" statutenumber="54-7,106">
+<bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>54-7,106</statuteno><catchline id="id9">Permit;
+notification requirements;
+application; denial; grounds; prohibited acts.</catchline><para>(1) Each exotic animal auction
+or exchange venue organizer shall apply for a permit and notify
+the department at least thirty
+days prior to the date on which the exotic animal auction or exchange
+venue is to be held. An
+applicant for a permit shall verify upon the application that the applicant
+has contracted the services of an accredited veterinarian to be present during
+the exotic animal auction or exchange venue as required under subsection (4)
+of section 54-7,108. Notification shall include the location,
+time, and dates of the exotic animal auction or exchange
+venue and the name and address of the exotic animal auction or exchange venue organizer. Notification shall
+be made in writing or by facsimile transmission. If a livestock auction market holds an exotic animal auction
+or exchange venue through its licensed livestock auction market, such livestock
+auction market shall comply with the Exotic Animal Auction or Exchange Venue
+Act for purposes of the exotic animal auction or exchange venue.</para>
+<para>(2) The department
+may deny an application for a permit if the application does not satisfy the
+requirements of subsection (1) of this section, for previous acts or omissions
+of the applicant in noncompliance with the Exotic Animal Auction or Exchange
+Venue Act, or upon a determination that the applicant is unable to fulfill
+the duties and responsibilities of a permittee under the act.</para>
+<para>(3) No person
+shall conduct an exotic animal auction or exchange venue without a permit
+issued pursuant to this section.</para><para>(4) No change of ownership of bovine, camelid,
+caprine, ovine, or porcine animals may occur at private treaty on the premises
+where the exotic animal auction or exchange venue is being held for the twenty-four-hour
+period prior to commencement of the exotic animal auction or exchange venue,
+nor for twenty-four hours following such event, unless such animals have a
+certificate of veterinary inspection at change of ownership.</para>
+</amendatorysection></section><source><para>Laws 2006, LB 856, &#167; 7; </para><para>Laws 2014, LB884, &#167; 15.</para><effectivedate>July 18, 2014</effectivedate></source><crossreference><para><emphasis>Definitions,</emphasis> see section 54-701.03.</para><para><emphasis>Department of Agriculture,</emphasis> State Veterinarian, powers, see sections 54-703 to 54-705.</para><para><emphasis>Violations,</emphasis> penalties, see section 54-752.</para></crossreference>  </law>
+</legaldoc>

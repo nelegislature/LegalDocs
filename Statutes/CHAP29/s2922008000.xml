@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Criminal Procedure" statutenumber="29-2208"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>29-2208</statuteno><catchline>Sentence to imprisonment in the county jail; hard labor; bread and water.</catchline><para>When any court or magistrate shall sentence any convict to imprisonment in the jail of the county as a punishment for the offense committed, the judgment and sentence shall require that the convict be imprisoned in the cell of the jail of the county, or that he be kept at hard labor in the jail; and when the imprisonment is to be without labor, the sentence may require the convict to be fed on bread and water only, the whole or any part of the term of imprisonment.</para></amendatorysection></section><source><para>G.S.1873, c. 58, &#167; 502, p. 833; </para><para>R.S.1913, &#167; 9144; </para><para>C.S.1922, &#167; 10169; </para><para>C.S.1929, &#167; 29-2209; </para><para>R.S.1943, &#167; 29-2208.</para></source><crossreference><para><emphasis>Employment of convicts in jails,</emphasis> see sections 29-2414 and 29-2415.</para></crossreference><annotation><para>If jail sentence is imposed, court may couple therewith punishment under this section. Drawbridge v. State, 115 Neb. 535, 213 N.W. 839 (1927).</para><para>Section is constitutional; word "convict" means one who has been proved guilty of a criminal offense in a court of competent jurisdiction. State ex rel. Nelson v. Smith, 114 Neb. 653, 209 N.W. 328 (1926).</para></annotation></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+		<section>
+			<amendatorysection chaptername="" statutenumber="29-2208">
+				<statuteno>29-2208</statuteno>
+				<catchline>Repealed. Laws 2014, LB 907, &#167; 22.</catchline>
+				
+			</amendatorysection>
+		</section>
+		<source><operativedate>July 18, 2014</operativedate></source>
+	</law>
+</legaldoc>

@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id181">
-<amendatorysection chaptername="Motor Vehicles" id="id183" publishedsource="AnnualSupplement" statutenumber="60-3,113.01"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>60-3,113.01</statuteno><catchline>Handicapped or disabled person;
-parking permits; electronic system; department; duties; designation of implementation
-date.</catchline><para>The
-department shall develop and implement an electronic system for accepting
-and processing applications for handicapped or disabled parking permits. The
-director shall designate an implementation date for such system, which date
-shall be on or before January 1, 2013.</para>
-</amendatorysection></section><source><para>Laws 2011, LB163, &#167; 23.</para></source>  </law>
+<section>
+<amendatorysection amended="yes" chaptername="Motor Vehicles" id="id183" publishedsource="AnnualSupplement" statutenumber="60-3,113.01">
+<bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>60-3,113.01</statuteno><catchline>Handicapped or disabled person;
+parking permits; electronic system; department; duties.</catchline><para>The department
+shall develop, implement, and maintain an electronic system for accepting
+and processing applications for handicapped or disabled parking permits.</para>
+</amendatorysection></section><source><para>Laws 2011, LB163, &#167; 23; </para><para>Laws 2014, LB657, &#167; 5.</para><effectivedate>July 18, 2014</effectivedate></source>  </law>
 </legaldoc>

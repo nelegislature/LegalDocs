@@ -1,1 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Insurance" statutenumber="44-224.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>44-224.01</statuteno><catchline>Reinsurance, merger, consolidation; terms, defined.</catchline><para>For purposes of sections 44-224.01 to 44-224.10, unless the context otherwise requires:</para><para>(1) Director shall mean the Director of Insurance or his or her authorized representative;</para><para>(2) Policyholders shall mean the members of mutual insurance companies, the members of assessment associations, and the subscribers to reciprocal insurance exchanges;</para><para>(3) Merger or contract of merger shall mean a merger or consolidation agreement between stock insurance companies as authorized by the Business Corporation Act;</para><para>(4) Consolidation or contract of consolidation shall mean a merger or consolidation agreement between companies operating on other than the stock plan of insurance; and</para><para>(5) Bulk reinsurance or contract of bulk reinsurance shall mean an agreement whereby one company cedes by an assumption reinsurance agreement fifty percent or more of its risks and business to another company.</para></amendatorysection></section><source><para>Laws 1957, c. 180, &#167; 1, p. 620; </para><para>Laws 1969, c. 359, &#167; 10, p. 1271; </para><para>Laws 1989, LB 92, &#167; 72; </para><para>Laws 1995, LB 109, &#167; 218. </para></source><crossreference><para><emphasis>Nebraska Model Business Corporation Act,</emphasis> see section 21-201.</para></crossreference></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Insurance" statutenumber="44-224.01"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>44-224.01</statuteno><catchline>Reinsurance, merger, consolidation;
+terms, defined.</catchline><para>For purposes of sections 44-224.01 to 44-224.10,
+unless the context otherwise requires:</para>
+<para>(1) Director shall mean the Director of Insurance or his or her authorized
+representative;</para>
+<para>(2) Policyholders shall mean the members of mutual insurance companies,
+the members of assessment associations, and the subscribers to reciprocal
+insurance exchanges;</para>
+<para>(3) Merger or contract of merger shall mean a merger or consolidation
+agreement between stock insurance companies as authorized by the Nebraska Model Business Corporation Act;</para>
+<para>(4) Consolidation or contract of consolidation shall mean a merger or
+consolidation agreement between companies operating on other than the stock
+plan of insurance; and</para>
+<para>(5) Bulk reinsurance or contract of bulk reinsurance shall mean an agreement
+whereby one company cedes by an assumption reinsurance agreement fifty percent
+or more of its risks and business to another company.</para>
+</amendatorysection></section><source><para>Laws 1957, c. 180, &#167; 1, p. 620; </para><para>Laws 1969, c. 359, &#167; 10, p. 1271; </para><para>Laws 1989, LB 92, &#167; 72; </para><para>Laws 1995, LB 109, &#167; 218; </para><para>Laws 2014, LB749, &#167; 284.</para><operativedate>January 1, 2016</operativedate></source><crossreference><para><emphasis>Nebraska Model Business Corporation Act,</emphasis> see section 21-201.</para></crossreference>  </law>
+</legaldoc>

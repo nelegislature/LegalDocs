@@ -1,1 +1,22 @@
-<?xml version="1.0" encoding="iso-8859-1"?> <legaldoc> <law type="statute"> <section> <sectno></sectno><amendatorysection amended="yes" chaptername="Revenue and Taxation" statutenumber="77-3509.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>77-3509.01</statuteno><catchline>Transfer of exemption to new homestead; procedure.</catchline><para>The owner of a homestead which has been granted an exemption provided in sections 77-3507 to 77-3509, who becomes the owner of another homestead prior to August 15 during the year for which the exemption was granted, may file an application with the county assessor of the county where the new homestead is located, on or before August 15 of such year, for a transfer of the exemption to the new homestead. The county assessor shall examine each application and determine whether or not the new homestead, except for the January 1 through August 15 ownership and occupancy requirement and the income requirements, is eligible for exemption under sections 77-3507 to 77-3509. If the application is approved by the county assessor, he or she shall make a deduction upon the assessment rolls using the same criteria as previously applied to the original homestead. The county assessor may allow the application for transfer to also be considered an application for a homestead exemption for the subsequent year.</para> </amendatorysection></section><source><para>Laws 1983, LB 494, &#167; 5; </para><para>Laws 1984, LB 809, &#167; 4; </para><para>Laws 1985, Second Spec. Sess., LB 6, &#167; 1; </para><para>Laws 1987, LB 376A, &#167; 6; </para><para>Laws 1988, LB 834, &#167; 1; </para><para>Laws 1996, LB 921, &#167; 1; </para><para>Laws 2009, LB302, &#167; 1.</para></source>  </law> </legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section><?Pub Caret1?>
+<amendatorysection amended="yes" chaptername="Revenue and Taxation" statutenumber="77-3509.01"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>77-3509.01</statuteno><catchline>Transfer of exemption to new homestead;
+procedure.</catchline><para>The owner of a homestead which has been granted
+an exemption provided in sections 77-3506
+and 77-3507 to 77-3509, who becomes the owner of another homestead
+prior to August 15 during the year for which the exemption was granted, may
+file an application with the county assessor of the county where the new homestead
+is located, on or before August 15 of such year, for a transfer of the exemption
+to the new homestead. The county assessor shall examine each application and
+determine whether or not the new homestead, except for the January 1 through
+August 15 ownership and occupancy requirement and the income requirements,
+is eligible for exemption under sections 77-3506
+and 77-3507 to 77-3509. If the application is approved by the
+county assessor, he or she shall make a deduction upon the assessment rolls
+using the same criteria as previously applied to the original homestead. The
+county assessor may allow the application for transfer to also be considered
+an application for a homestead exemption for the subsequent year.</para>
+</amendatorysection></section><source><para>Laws 1983, LB 494, &#167; 5; </para><para>Laws 1984, LB 809, &#167; 4; </para><para>Laws 1985, Second Spec. Sess., LB 6, &#167; 1; </para><para>Laws 1987, LB 376A, &#167; 6; </para><para>Laws 1988, LB 834, &#167; 1; </para><para>Laws 1996, LB 921, &#167; 1; </para><para>Laws 2009, LB302, &#167; 1; </para><para>Laws 2014, LB1087, &#167; 7.</para><operativedate>January 1, 2015</operativedate></source>  </law>
+</legaldoc>

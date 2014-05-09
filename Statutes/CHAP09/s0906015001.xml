@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Bingo and Other Gambling" statutenumber="9-615.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>9-615.01</statuteno><catchline>Lottery worker, defined.</catchline><para>Lottery worker shall mean any person who performs work directly related to the conduct of a lottery, including, but not limited to, ticket writing, winning number selection, winning number verification, prize payment to winners, record keeping, shift checkout and review of keno writer banks, and security.</para></amendatorysection></section><source><para>Laws 2002, LB 545, &#167; 49.</para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id27">
+<amendatorysection amended="yes" chaptername="Bingo and Other Gambling" id="id29" statutenumber="9-615.01"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>9-615.01</statuteno><catchline id="id32">Lottery worker,
+defined.</catchline><para>Lottery worker shall mean any person, other than a keno writer, who
+performs work directly related to the conduct of a lottery, including, but
+not limited to, winning
+number selection, winning number verification, record keeping, shift
+checkout and review of keno writer banks, and security.</para>
+</amendatorysection></section><source><para>Laws 2002, LB 545, &#167; 49; </para><para>Laws 2014, LB259, &#167; 4.</para><effectivedate>July 18, 2014</effectivedate></source>  </law>
+</legaldoc>

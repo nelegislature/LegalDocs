@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Revenue and Taxation" statutenumber="77-383"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>77-383</statuteno><catchline>Tax expenditure report; department; access to information.</catchline><para>The department may request from any state or local official or agency any information necessary to complete the report required under section 77-382. All state and local officials or agencies shall cooperate with the department with respect to any such request.</para></amendatorysection></section><source><para>Laws 1979, LB 17, &#167; 5; </para><para>R.S.Supp.,1979, &#167; 77-357; </para><para>Laws 1980, LB 834, &#167; 24. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id26">
+<amendatorysection amended="yes" chaptername="Revenue and Taxation" id="id28" statutenumber="77-383"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>77-383</statuteno><catchline id="id31">Tax expenditure reports; department; access to information.</catchline>
+<para>The department may request from any state or local official
+or agency any information necessary to complete the reports required
+under section 77-382 and subsection
+(2) of section 77-385. All state and local officials or agencies
+shall cooperate with the department with respect to any such request.</para>
+</amendatorysection></section><source><para>Laws 1979, LB 17, &#167; 5; </para><para>R.S.Supp.,1979, &#167; 77-357; </para><para>Laws 1980, LB 834, &#167; 24; </para><para>Laws 2014, LB989, &#167; 2.</para><effectivedate>July 18, 2014</effectivedate></source>  </law>
+</legaldoc>

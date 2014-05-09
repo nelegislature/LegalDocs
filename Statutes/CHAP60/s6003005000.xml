@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Motor Vehicles" statutenumber="60-305"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>60-305</statuteno><catchline>All-terrain vehicle, defined.</catchline><para>All-terrain vehicle means any motorized off-highway vehicle which (1) is fifty inches or less in width, (2) has a dry weight of nine hundred pounds or less, (3) travels on three or more low-pressure tires, (4) is designed for operator use only with no passengers or is specifically designed by the original manufacturer for the operator and one passenger, (5) has a seat or saddle designed to be straddled by the operator, and (6) has handlebars or any other steering assembly for steering control.</para></amendatorysection></section><source><para>Laws 2005, LB 274, &#167; 5. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id19">
+<amendatorysection amended="yes" chaptername="Motor Vehicles" id="id21" statutenumber="60-305">
+<bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>60-305</statuteno><catchline id="id24">All-terrain vehicle,
+defined.</catchline><para>All-terrain vehicle means any motorized
+off-highway vehicle which (1) is fifty inches or less in width, (2) has a
+dry weight of twelve hundred pounds or less,
+(3) travels on three or more nonhighway tires, and (4) is designed for operator
+use only with no passengers or is specifically designed by the original manufacturer
+for the operator and one passenger.
+All-terrain vehicles which have been modified or retrofitted with after-market
+parts to include additional equipment not required by sections 60-6,357 and
+60-6,358 shall not be registered under the Motor Vehicle Registration Act,
+nor shall such modified or retrofitted vehicles be eligible for registration
+in any other category of vehicle defined in the act.</para>
+</amendatorysection></section><source><para>Laws 2005, LB 274, &#167; 5; </para><para>Laws 2014, LB814, &#167; 5.</para><operativedate>October 1, 2014</operativedate></source>  </law>
+</legaldoc>

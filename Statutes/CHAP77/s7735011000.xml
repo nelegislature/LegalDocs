@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Revenue and Taxation" statutenumber="77-3511"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>77-3511</statuteno><catchline>Homestead; exemption; application; execution.</catchline><para>The application for homestead exemption or for transfer of homestead exemption shall be signed by the owner of the property who qualifies for exemption under sections 77-3501 to 77-3529 unless the owner is an incompetent or unable to make such application, in which case it shall be signed by the guardian. If an owner who in all respects qualifies for a homestead exemption under such sections dies after January 1 and before the last day for filing an application for a homestead exemption and before applying for a homestead exemption, his or her personal representative may file the application for exemption on or before the last day for filing an application for a homestead exemption of that year if the surviving spouse of such owner continues to occupy the homestead. Any exemption granted as a result of such application signed by a personal representative shall be in effect for only the year in which the owner died.</para></amendatorysection></section><source><para>Laws 1979, LB 65, &#167; 11; </para><para>Laws 1980, LB 647, &#167; 6; </para><para>Laws 1983, LB 195, &#167; 4; </para><para>Laws 1983, LB 494, &#167; 3; </para><para>Laws 1984, LB 809, &#167; 7; </para><para>Laws 1986, LB 1258, &#167; 5; </para><para>Laws 1987, LB 376A, &#167; 9; </para><para>Laws 1988, LB 1105, &#167; 4; </para><para>Laws 1989, LB 84, &#167; 11; </para><para>Laws 1994, LB 902, &#167; 37. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Revenue and Taxation" statutenumber="77-3511"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>77-3511</statuteno><catchline>Homestead; exemption; application;
+execution.</catchline><para>The application for homestead exemption or for
+transfer of homestead exemption shall be signed by the owner of the property
+who qualifies for exemption under sections 77-3501 to 77-3529 unless the owner
+is an incompetent or unable to make such application, in which case it shall
+be signed by the guardian. If an owner who in all respects qualifies for a
+homestead exemption under such sections dies after January 1 and before the
+last day for filing an application for a homestead exemption and before applying
+for a homestead exemption, his or her personal representative may file the
+application for exemption on or before the last day for filing an application
+for a homestead exemption of that year if the surviving spouse of such owner
+continues to occupy the homestead. Any exemption granted as a result of such
+application signed by a personal representative shall be in effect for only
+the year in which the owner died.</para>
+</amendatorysection></section><source><para>Laws 1979, LB 65, &#167; 11; </para><para>Laws 1980, LB 647, &#167; 6; </para><para>Laws 1983, LB 195, &#167; 4; </para><para>Laws 1983, LB 494, &#167; 3; </para><para>Laws 1984, LB 809, &#167; 7; </para><para>Laws 1986, LB 1258, &#167; 5; </para><para>Laws 1987, LB 376A, &#167; 9; </para><para>Laws 1988, LB 1105, &#167; 4; </para><para>Laws 1989, LB 84, &#167; 11; </para><para>Laws 1994, LB 902, &#167; 37; </para><para>Laws 2014, LB1087, &#167; 11.</para><operativedate>January 1, 2015</operativedate></source>  </law>
+</legaldoc>

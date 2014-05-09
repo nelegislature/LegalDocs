@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="State Administrative Departments" statutenumber="81-15,153"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>81-15,153</statuteno><catchline>Department; powers and duties.</catchline>
-<para>The department shall have the following powers and duties:</para>
+<section id="id78">
+<amendatorysection amended="yes" chaptername="State Administrative Departments" id="id80" statutenumber="81-15,153"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>81-15,153</statuteno><catchline id="id83">Department;
+powers and duties.</catchline><para>The department shall have the
+following powers and duties:</para>
 <para>(1) The power to establish a program to make loans to municipalities
 or to counties, individually or jointly, for construction or modification
 of publicly owned wastewater treatment works in accordance with the Wastewater
@@ -14,53 +15,68 @@ or to counties for construction, rehabilitation, operation, or maintenance
 of nonpoint source control systems in accordance with the Wastewater Treatment
 Facilities Construction Assistance Act and the rules and regulations of the
 council adopted and promulgated pursuant to such act;</para>
-<para>(3) The power, if so authorized by the council pursuant to section 81-15,152,
-to execute and deliver documents obligating the Wastewater Treatment Facilities
-Construction Loan Fund and the assets thereof to the extent permitted by section
-81-15,151 to repay, with interest, loans to or deposits into the fund and
-to execute and deliver documents pledging to the extent permitted by section
-81-15,151 all or part of the fund and its assets to secure, directly or indirectly,
-the loans or deposits;</para>
-<para>(4) The duty to prepare an annual report for the Governor and the Legislature
-containing information which shows the financial status of the program. The report submitted to the Legislature
-shall be submitted electronically;</para>
-<para>(5) The duty to establish fiscal controls and accounting procedures
-sufficient to assure proper accounting during appropriate accounting periods,
-including the following:</para>
-<para>(a) Accounting from the Nebraska Investment Finance Authority for the
-costs associated with the issuance of bonds pursuant to the act;</para>
+<para>(3) The power, if so authorized by the council pursuant to
+section 81-15,152, to execute and deliver documents obligating the Wastewater
+Treatment Facilities Construction Loan Fund and the assets thereof to the
+extent permitted by section 81-15,151 to repay, with interest, loans to or
+deposits into the fund and to execute and deliver documents pledging to the
+extent permitted by section 81-15,151 all or part of the fund and its assets
+to secure, directly or indirectly, the loans or deposits;</para>
+<para>(4) The power
+to establish the linked deposit program to promote loans for construction,
+rehabilitation, operation, or maintenance of nonpoint source control systems
+in accordance with the Wastewater Treatment Facilities Construction Assistance
+Act and the rules and regulations adopted and promulgated pursuant to such
+act;</para><para>(5) The duty to prepare an
+annual report for the Governor and the Legislature containing information
+which shows the financial status of the program. The report submitted to the
+Legislature shall be submitted electronically;</para>
+<para>(6) The duty to establish
+fiscal controls and accounting procedures sufficient to assure proper accounting
+during appropriate accounting periods, including the following:</para>
+<para>(a) Accounting from the Nebraska Investment Finance Authority
+for the costs associated with the issuance of bonds pursuant to the act;</para>
 <para>(b) Accounting for payments or deposits received by the fund;</para>
 <para>(c) Accounting for disbursements made by the fund; and</para>
-<para>(d) Balancing the fund at the beginning and end of the accounting period;</para>
-<para>(6) The duty to establish financial capability requirements that assure
-sufficient revenue to operate and maintain a facility for its useful life
-and to repay the loan for such facility;</para>
-<para>(7) The power to determine the rate of interest to be charged on a loan
-in accordance with the rules and regulations adopted and promulgated by the
-council;</para>
-<para>(8) The power to enter into required agreements with the United States
-Environmental Protection Agency pursuant to the Clean Water Act;</para>
-<para>(9) The power to enter into agreements to provide grants concurrent
-with loans to municipalities with populations of ten thousand inhabitants
-or less which demonstrate serious financial hardships. The department may
-authorize grants for up to one-half of the eligible project cost. Such grants
-shall contain a provision that payment of the amount allocated is conditional
-upon the availability of appropriated funds;</para>
-<para>(10) The power to authorize emergency grants to municipalities with
-wastewater treatment facilities which have been damaged or destroyed by natural
-disaster or other unanticipated actions or circumstances. Such grants shall
-not be used for routine repair or maintenance of facilities;</para>
-<para>(11) The power to provide financial assistance to municipalities with
-populations of ten thousand inhabitants or less for completion of engineering
-studies, research projects, investigating low-cost options for achieving compliance
-with the Clean Water Act, encouraging wastewater reuse, and conducting other
-studies for the purpose of enhancing the ability of communities to meet the
-requirements of the Clean Water Act. The department may authorize financial
-assistance for up to ninety percent of the eligible project cost. Such state
-allocation shall contain a provision that payment of the amount obligated
-is conditional upon the availability of appropriated funds; and</para>
-<para>(12) Such other powers as may be necessary and appropriate for the exercise
-of the duties created under the Wastewater Treatment Facilities Construction
-Assistance Act.</para>
-</amendatorysection></section><source><para>Laws 1988, LB 766, &#167; 7; </para><para>Laws 1989, LB 311, &#167; 11; </para><para>Laws 1993, LB 3, &#167; 69; </para><para>Laws 1994, LB 1139, &#167; 42; </para><para>Laws 1996, LB 1226, &#167; 26; </para><para>Laws 2000, LB 1234, &#167; 15; </para><para>Laws 2003, LB 164, &#167; 2; </para><para>Laws 2008, LB726, &#167; 2; </para><para>Laws 2012, LB782, &#167; 203.</para></source>  </law>
+<para>(d) Balancing the fund at the beginning and end of the accounting
+period;</para>
+<para>(7) The duty to establish
+financial capability requirements that assure sufficient revenue to operate
+and maintain a facility for its useful life and to repay the loan for such
+facility;</para>
+<para>(8) The power to determine
+the rate of interest to be charged on a loan in accordance with the rules
+and regulations adopted and promulgated by the council;</para>
+<para>(9) The power
+to refinance debt obligations of municipalities in accordance with the rules
+and regulations adopted and promulgated by the council;</para>
+<para>(10) The power to enter into
+required agreements with the United States Environmental Protection Agency
+pursuant to the Clean Water Act;</para>
+<para>(11) The power to enter into
+agreements to provide grants concurrent with loans to municipalities with
+populations of ten thousand inhabitants or less which demonstrate serious
+financial hardships. The department may authorize grants for up to one-half
+of the eligible project cost. Such grants shall contain a provision that payment
+of the amount allocated is conditional upon the availability of appropriated
+funds;</para>
+<para>(12) The power to authorize
+emergency grants to municipalities with wastewater treatment facilities which
+have been damaged or destroyed by natural disaster or other unanticipated
+actions or circumstances. Such grants shall not be used for routine repair
+or maintenance of facilities;</para>
+<para>(13) The power to provide
+financial assistance to municipalities with populations of ten thousand inhabitants
+or less for completion of engineering studies, research projects, investigating
+low-cost options for achieving compliance with the Clean Water Act, encouraging
+wastewater reuse, and conducting other studies for the purpose of enhancing
+the ability of communities to meet the requirements of the Clean Water Act.
+The department may authorize financial assistance for up to ninety percent
+of the eligible project cost. Such state allocation shall contain a provision
+that payment of the amount obligated is conditional upon the availability
+of appropriated funds; and</para>
+<para>(14) Such other powers as
+may be necessary and appropriate for the exercise of the duties created under
+the Wastewater Treatment Facilities Construction Assistance Act.</para>
+</amendatorysection></section><source><para>Laws 1988, LB 766, &#167; 7; </para><para>Laws 1989, LB 311, &#167; 11; </para><para>Laws 1993, LB 3, &#167; 69; </para><para>Laws 1994, LB 1139, &#167; 42; </para><para>Laws 1996, LB 1226, &#167; 26; </para><para>Laws 2000, LB 1234, &#167; 15; </para><para>Laws 2003, LB 164, &#167; 2; </para><para>Laws 2008, LB726, &#167; 2; </para><para>Laws 2012, LB782, &#167; 203; </para><para>Laws 2014, LB514, &#167; 7.</para><effectivedate>July 18, 2014</effectivedate></source>  </law>
 </legaldoc>

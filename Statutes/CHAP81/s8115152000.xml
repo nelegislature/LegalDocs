@@ -1,1 +1,49 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="State Administrative Departments" statutenumber="81-15,152"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>81-15,152</statuteno><catchline>Council; powers and duties.</catchline><para>The council shall have the following powers and duties:</para><para>(1) The power to adopt and promulgate rules and regulations to govern the application procedure and requirements for making loans under the Wastewater Treatment Facilities Construction Assistance Act;</para><para>(2) The power to adopt a system for the ranking of wastewater treatment construction projects with known needs or for which loan applications have been received by the department. In establishing the system the council shall consider, among other things, the severity of pollution, public health, water quality impact, population, financial capability, and eligibility of the construction project for federal or state funds. This priority system shall be reviewed annually by the council;</para><para>(3) The power to adopt and promulgate rules and regulations to govern types of nonpoint source control system projects which will be eligible for loans and to adopt a system for priority ranking of such projects;</para><para>(4) The power to adopt a system of establishing interest rates to be charged on loans. The system shall presume that the current market interest rate shall be charged unless a municipality or a county demonstrates a serious financial hardship. The system may allow discounted interest rates for short-term loans. The following factors shall be considered when making a determination of serious financial hardship: Income level of residents; amount of debt and debt service requirements; and level of user fees both in absolute terms and relative to income of residents;</para><para>(5) The power to create an administrative fee to be assessed on a loan for the purpose of administering the Wastewater Treatment Facilities Construction Assistance Act. Such fee shall be based on the availability of federal funding for such purpose and the projected administrative needs for carrying out the purposes of the act;</para><para>(6) The power to determine the maximum amount of any one loan or combination of loans for any single municipality or any single county;</para><para>(7) Except as limited by section 81-15,151, the power to obligate the Wastewater Treatment Facilities Construction Loan Fund and the assets thereof, in whole or in part, to repay with interest loans to or deposits into the fund, including bonds, the proceeds of which are deposited into the fund; and</para><para>(8) The power to adopt and promulgate rules and regulations to govern the application procedure and requirements, including any funding caps and cost-share requirements, for grants pursuant to subdivision (10) of section 81-15,153.</para></amendatorysection></section><source><para>Laws 1988, LB 766, &#167; 6; </para><para>Laws 1989, LB 623, &#167; 2; </para><para>Laws 1989, LB 311, &#167; 10; </para><para>Laws 1994, LB 1139, &#167; 41; </para><para>Laws 1996, LB 1226, &#167; 25; </para><para>Laws 2000, LB 1234, &#167; 14. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id61">
+<amendatorysection amended="yes" chaptername="State Administrative Departments" id="id63" statutenumber="81-15,152"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>81-15,152</statuteno><catchline id="id66">Council; powers
+and duties.</catchline><para>The council shall have the following
+powers and duties:</para>
+<para>(1) The power to adopt and promulgate rules and regulations
+to govern the application procedure and requirements for making loans under
+the Wastewater Treatment Facilities Construction Assistance Act;</para>
+<para>(2) The power to adopt a system for the ranking of wastewater
+treatment construction projects with known needs or for which loan applications
+have been received by the department. In establishing the system the council
+shall consider, among other things, the severity of pollution, public health,
+water quality impact, population, financial capability, and eligibility of
+the construction project for federal or state funds. This priority system
+shall be reviewed annually by the council;</para>
+<para>(3) The power to adopt and promulgate rules and regulations
+to govern types of nonpoint source control system projects which will be eligible
+for loans and to adopt a system for priority ranking of such projects;</para>
+<para>(4) The power to adopt a system of establishing interest rates
+to be charged on loans. The system shall presume that the current market interest
+rate shall be charged unless a municipality or a county demonstrates a serious
+financial hardship. The system may allow discounted interest rates for short-term
+loans. The following factors shall be considered when making a determination
+of serious financial hardship: Income level of residents; amount of debt and
+debt service requirements; and level of user fees both in absolute terms and
+relative to income of residents;</para>
+<para>(5) The power to create an administrative fee to be assessed
+on a loan for the purpose of administering the Wastewater Treatment Facilities
+Construction Assistance Act. Such fee shall be based on the availability of
+federal funding for such purpose and the projected administrative needs for
+carrying out the purposes of the act;</para>
+<para>(6) The power to determine the maximum amount of any one loan
+or combination of loans for any single municipality or any single county;</para>
+<para>(7) Except as limited by section 81-15,151, the power to obligate
+the Wastewater Treatment Facilities Construction Loan Fund and the assets
+thereof, in whole or in part, to repay with interest loans to or deposits
+into the fund, including bonds, the proceeds of which are deposited into the
+fund;</para>
+<para>(8) The power to adopt and promulgate rules and regulations
+to govern the application procedure and requirements, including any funding
+caps and cost-share requirements, for grants pursuant to subdivision (12) of section 81-15,153;</para>
+<para>(9) The power
+to adopt and promulgate rules and regulations to establish and administer
+the linked deposit program; and</para><para>(10) The power to adopt and promulgate rules
+and regulations for refinancing of debt obligations of municipalities in accordance
+with section 81-15,151.</para></amendatorysection></section><source><para>Laws 1988, LB 766, &#167; 6; </para><para>Laws 1989, LB 623, &#167; 2; </para><para>Laws 1989, LB 311, &#167; 10; </para><para>Laws 1994, LB 1139, &#167; 41; </para><para>Laws 1996, LB 1226, &#167; 25; </para><para>Laws 2000, LB 1234, &#167; 14; </para><para>Laws 2014, LB514, &#167; 6.</para><effectivedate>July 18, 2014</effectivedate></source>  </law>
+</legaldoc>

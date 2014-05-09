@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="County Government and Officers" statutenumber="23-277"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>23-277</statuteno><catchline>County supervisors; quorum.</catchline><para>Two-thirds of all the supervisors elected in any county shall constitute a quorum for the transaction of business, and all questions which shall arise at meetings shall be determined by the votes of a majority of the supervisors present, except in cases otherwise provided for.</para></amendatorysection></section><source><para>Laws 1879, &#167; 68, p. 373; </para><para>R.S.1913, &#167; 1069; </para><para>C.S.1922, &#167; 971; </para><para>C.S.1929, &#167; 26-285; </para><para>R.S.1943, &#167; 23-277.</para></source><annotation><para>A majority of members present at meeting may change township boundaries. Township of Inavale v. Bailey, 35 Neb. 453, 53 N.W. 465 (1892).</para><para>If two-thirds of board are present, impeachment proceedings may be heard. State ex rel. Castor v. Board of Supervisors of Saline County, 18 Neb. 422, 25 N.W. 587 (1885).</para></annotation></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="County Government and Officers" statutenumber="23-277"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>23-277</statuteno><catchline>County supervisors; quorum.</catchline>
+<para>A majority of all the supervisors
+elected in any county shall constitute a quorum for the transaction of business,
+and all questions which shall arise at meetings shall be determined by the
+votes of a majority of the supervisors present, except in cases otherwise
+provided for.</para>
+</amendatorysection></section><source><para>Laws 1879, &#167; 68, p. 373; </para><para>R.S.1913, &#167; 1069; </para><para>C.S.1922, &#167; 971; </para><para>C.S.1929, &#167; 26-285; </para><para>R.S.1943, &#167; 23-277; </para><para>Laws 2014, LB937, &#167; 1.</para><effectivedate>July 18, 2014</effectivedate></source><annotation><para>A majority of members present at meeting may change township boundaries. Township of Inavale v. Bailey, 35 Neb. 453, 53 N.W. 465 (1892).</para><para>If two-thirds of board are present, impeachment proceedings may be heard. State ex rel. Castor v. Board of Supervisors of Saline County, 18 Neb. 422, 25 N.W. 587 (1885).</para></annotation>  </law>
+</legaldoc>

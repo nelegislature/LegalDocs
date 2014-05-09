@@ -1,1 +1,58 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Labor" statutenumber="48-126.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>48-126.01</statuteno><catchline>Volunteer fire department; emergency management agency, organization, or team; military forces; law enforcement reserve force; volunteer emergency medical service; members; wages; basis of computation.</catchline><para>In determining the compensation to be paid any member of the military forces of this state, any member of a law enforcement reserve force, any member of a volunteer fire department in any rural or suburban fire protection district, city, village, or nonprofit corporation, any member of the Nebraska Emergency Management Agency, any city, village, county, or interjurisdictional emergency management organization, or any state emergency response team, or any member of a volunteer emergency medical service, which military forces, law enforcement reserve force, fire department, emergency management agency, organization, or team, or volunteer emergency medical service is organized under the laws of the State of Nebraska, or any person fulfilling conditions of probation, or community service as defined in section 29-2277, pursuant to any order of any court of this state who shall be working for a governmental body, or agency as defined in section 29-2277, pursuant to any condition of probation, or community service as defined in section 29-2277, for injuries resulting in disability or death received in the performance of his or her duties as a member of such military forces, reserve force, department, agency, organization, team, or service, or pursuant to an order of any court, the wages of such a member or person shall be taken to be those received by him or her from his or her regular employer, and he or she shall receive such proportion thereof as he or she is entitled to under the provisions of section 48-121.</para><para>If such member or person is not regularly employed by some other person, for the purpose of such determination, it shall be deemed and assumed that he or she is receiving income from his or her business or from other employment equivalent to wages in an amount one and one-half times the maximum compensation rate for total disability.</para><para>If the wages received for the performance of duties as a member of such military forces, reserve force, department, agency, organization, team, or service exceed the wages received from a regular employer, such member shall be entitled to a rate of compensation based upon wages received as a member of such military forces, reserve force, department, agency, organization, team, or service.</para></amendatorysection></section><source><para>Laws 1913, c. 198, &#167; 26, p. 592; </para><para>R.S.1913, &#167; 3667; </para><para>Laws 1917, c. 85, &#167; 10, p. 208; </para><para>C.S.1922, &#167; 3049; </para><para>Laws 1927, c. 39, &#167; 2, p. 171; </para><para>C.S.1929, &#167; 48-126; </para><para>Laws 1935, c. 57, &#167; 39, p. 208; </para><para>C.S.Supp.,1941, &#167; 48-126; </para><para>R.S.1943, &#167; 48-126; </para><para>Laws 1953, c. 163, &#167; 1(2), p. 513; </para><para>Laws 1955, c. 186, &#167; 3, p. 532; </para><para>Laws 1959, c. 224, &#167; 1, p. 790; </para><para>Laws 1961, c. 233, &#167; 2, p. 691; </para><para>Laws 1967, c. 289, &#167; 2, p. 790; </para><para>Laws 1969, c. 394, &#167; 1, p. 1384; </para><para>Laws 1973, LB 239, &#167; 3; </para><para>Laws 1973, LB 25, &#167; 2; </para><para>Laws 1976, LB 782, &#167; 15; </para><para>Laws 1986, LB 528, &#167; 7; </para><para>Laws 1996, LB 43, &#167; 9; </para><para>Laws 1997, LB 138, &#167; 39; </para><para>Laws 1999, LB 216, &#167; 7. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id39">
+<amendatorysection amended="yes" chaptername="Labor" id="id41" statutenumber="48-126.01"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>48-126.01</statuteno><catchline id="id44">Wages or compensation rate; basis
+of computation.</catchline><para>(1)(a) In
+determining the compensation to be paid any member of the military forces
+of this state, any member of a law enforcement reserve force, or any member of the Nebraska
+Emergency Management Agency, any city, village, county, or interjurisdictional
+emergency management organization, or any state emergency response team, which military forces, law enforcement reserve
+force, or emergency management agency,
+organization, or team is organized under the laws of the State
+of Nebraska, or any person fulfilling conditions of probation, or community
+service as defined in section 29-2277, pursuant to any order of any court
+of this state who shall be working for a governmental body, or agency as defined
+in section 29-2277, pursuant to any condition of probation, or community service
+as defined in section 29-2277, for injuries resulting in disability or death
+received in the performance of his or her duties as a member of such military
+forces, reserve force, agency,
+organization, or team, or pursuant to
+an order of any court, the wages of such a member or person shall be taken
+to be those received by him or her from his or her regular employer, and he
+or she shall receive such proportion thereof as he or she is entitled to under
+the provisions of section 48-121.</para>
+<para>(b) If a member or person under subdivision (1)(a) of this section is
+not regularly employed by some other person, for the purpose of such determination,
+it shall be deemed and assumed that he or she is receiving income from his
+or her business or from other employment equivalent to wages in an amount
+one and one-half times the maximum weekly
+income benefit specified in section 48-121.01.</para>
+<para>(c) If
+the wages received for the performance of duties as a member of such military
+forces, reserve force, agency,
+organization, or team exceed the wages
+received from a regular employer, such member shall be entitled to a rate
+of compensation based upon wages received as a member of such military forces,
+reserve force, agency,
+organization, or team.</para>
+<para>(2) In determining
+the compensation rate to be paid any member of a volunteer fire department
+in any rural or suburban fire protection district, city, village, or nonprofit
+corporation or any member of a volunteer emergency medical service, which
+fire department or emergency medical service is organized under the laws of
+the State of Nebraska, for injuries resulting in disability or death received
+in the performance of his or her duties as a member of such fire department
+or emergency medical service, it shall be deemed and assumed that his or her
+wages are in an amount one and one-half times the maximum weekly income benefit
+specified in section 48-121.01 or the wages received by such member from his
+or her regular employment, whichever is greater. Any member of such volunteer
+fire department or volunteer emergency medical service shall not lose his
+or her volunteer status under the Nebraska Workers' Compensation Act if such
+volunteer receives reimbursement for expenses, reasonable benefits, or a nominal
+fee, a nominal per call fee, a nominal per shift fee, or combination thereof.
+It shall be conclusively presumed that a fee is nominal if the fee does not
+exceed twenty percent of the amount that otherwise would be required to hire
+a permanent employee for the same services.</para></amendatorysection>
+</section><source><para>Laws 1913, c. 198, &#167; 26, p. 592; </para><para>R.S.1913, &#167; 3667; </para><para>Laws 1917, c. 85, &#167; 10, p. 208; </para><para>C.S.1922, &#167; 3049; </para><para>Laws 1927, c. 39, &#167; 2, p. 171; </para><para>C.S.1929, &#167; 48-126; </para><para>Laws 1935, c. 57, &#167; 39, p. 208; </para><para>C.S.Supp.,1941, &#167; 48-126; </para><para>R.S.1943, &#167; 48-126; </para><para>Laws 1953, c. 163, &#167; 1(2), p. 513; </para><para>Laws 1955, c. 186, &#167; 3, p. 532; </para><para>Laws 1959, c. 224, &#167; 1, p. 790; </para><para>Laws 1961, c. 233, &#167; 2, p. 691; </para><para>Laws 1967, c. 289, &#167; 2, p. 790; </para><para>Laws 1969, c. 394, &#167; 1, p. 1384; </para><para>Laws 1973, LB 239, &#167; 3; </para><para>Laws 1973, LB 25, &#167; 2; </para><para>Laws 1976, LB 782, &#167; 15; </para><para>Laws 1986, LB 528, &#167; 7; </para><para>Laws 1996, LB 43, &#167; 9; </para><para>Laws 1997, LB 138, &#167; 39; </para><para>Laws 1999, LB 216, &#167; 7; </para><para>Laws 2014, LB961, &#167; 10.</para><operativedate>July 18, 2014</operativedate></source>  </law>
+</legaldoc>

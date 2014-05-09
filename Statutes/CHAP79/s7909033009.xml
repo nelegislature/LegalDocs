@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Schools" statutenumber="79-933.09"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>79-933.09</statuteno><catchline>Retirement system; accept transfers; limitations; how treated.</catchline><para>The retirement system may accept as payment for purchases of service credit or withdrawn amounts made pursuant to the School Employees Retirement Act a direct trustee-to-trustee transfer from (1) an eligible tax-sheltered annuity plan as described in section 403(b) of the Internal Revenue Code or (2) an eligible deferred compensation plan as described in section 457(b) of the code on behalf of a member who is making payments for such credit or amounts. The amount transferred shall not exceed the amount of payment required for the service credit being purchased and the purchase of such service credit shall qualify as a purchase of permissive service credit by the member as defined in section 415 of the code.</para></amendatorysection></section><source><para>Laws 2002, LB 407, &#167; 31. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id54">
+<amendatorysection amended="yes" chaptername="Schools" id="id56" statutenumber="79-933.09"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>79-933.09</statuteno><catchline id="id59">Retirement
+system; accept transfers; limitations; how treated.</catchline><para>The
+retirement system may accept as payment for repurchase
+of relinquished creditable service under section 79-921 or purchases
+of service credit made pursuant to the School Employees Retirement Act a
+direct trustee-to-trustee transfer from (1) an eligible tax-sheltered annuity
+plan as described in section 403(b) of the Internal Revenue Code or (2) an
+eligible deferred compensation plan as described in section 457(b) of the
+code on behalf of a member who is making payments for such relinquished creditable service or service credit. The
+amount transferred shall not exceed the amount of payment required for the relinquished creditable service being
+repurchased or service credit being purchased, and the
+repurchase of such relinquished creditable service or the purchase
+of such service credit shall qualify as a purchase of permissive service credit
+by the member as defined in section 415 of the code.</para>
+</amendatorysection></section><source><para>Laws 2002, LB 407, &#167; 31; </para><para>Laws 2014, LB1042, &#167; 7.</para><effectivedate>April 17, 2014</effectivedate></source>  </law>
+</legaldoc>

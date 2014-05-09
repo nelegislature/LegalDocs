@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><!--Arbortext, Inc., 1988-2004, v.4002--><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Livestock" statutenumber="54-753" amended="yes" publishedsource="CumulativeSupplement"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>54-753</statuteno><catchline>Prevention of disease; writ of injunction available.</catchline><para>The penal provisions of section 54-752 shall not be exclusive, but the district courts of this state, in the exercise of their equity jurisdiction, may, by injunction, compel the observance of, and by that remedy enforce, the provisions of sections 54-701 to 54-753 and 54-7,105 to 54-7,108 and the rules and regulations established and promulgated by the Department of Agriculture.</para></amendatorysection></section><source><para>Laws 1927, c. 12, art. VIII, &#167; 14, p. 95; </para><para>C.S.1929, &#167; 54-951; </para><para>R.S.1943, &#167; 54-753; </para><para>Laws 2001, LB 438, &#167; 19; </para><para>Laws 2006, LB 856, &#167; 24. </para></source><crossreference><para><emphasis>Exoctic Animal Auction or Exchange Venue Act,</emphasis> see section 54-7,105.</para></crossreference></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id100">
+<amendatorysection amended="yes" chaptername="Livestock" id="id102" publishedsource="CumulativeSupplement" statutenumber="54-753">
+<bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>54-753</statuteno><catchline id="id105">Prevention of
+disease; writ of injunction available.</catchline><para>The penal
+provisions of section 54-752 shall not be exclusive, but the district courts
+of this state, in the exercise of their equity jurisdiction, may, by injunction,
+compel the observance of, and by that remedy enforce, the provisions of the Exotic Animal Auction or Exchange
+Venue Act and sections 54-701 to 54-753 and the rules and regulations
+established and promulgated by the Department of Agriculture.</para>
+</amendatorysection></section><source><para>Laws 1927, c. 12, art. VIII, &#167; 14, p. 95; </para><para>C.S.1929, &#167; 54-951; </para><para>R.S.1943, &#167; 54-753; </para><para>Laws 2001, LB 438, &#167; 19; </para><para>Laws 2006, LB 856, &#167; 24; </para><para>Laws 2014, LB884, &#167; 12.</para><effectivedate>July 18, 2014</effectivedate></source><crossreference><para><emphasis>Exoctic Animal Auction or Exchange Venue Act,</emphasis> see section 54-7,105.</para></crossreference>  </law>
+</legaldoc>

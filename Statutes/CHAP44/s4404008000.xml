@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Insurance" statutenumber="44-408"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>44-408</statuteno><catchline>Life insurance companies; ascertainment of condition; assets and liabilities; what considered.</catchline><para>In ascertaining the condition of any life insurance company, it shall be allowed as assets only such investments, cash, and accounts as are authorized by the laws of this state, or of the state or country in which it is organized at the date of examination. There shall be charged against it as liabilities in addition to the capital stock, all outstanding indebtedness of the company, and the premium reserve on policies and additions thereto in force, computed according to the tables of mortality and rate of interest prescribed in sections 44-402 to 44-407.09.</para></amendatorysection></section><source><para>Laws 1913, c. 154, &#167; 95, p. 439; </para><para>R.S.1913, &#167; 3232; </para><para>Laws 1919, c. 190, tit. V, art. VI, &#167; 3, p. 619; </para><para>C.S.1922, &#167; 7831; </para><para>C.S.1929, &#167; 44-503; </para><para>R.S.1943, &#167; 44-408; </para><para>Laws 1965, c. 262, &#167; 11, p. 742. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Insurance" statutenumber="44-408"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>44-408</statuteno><catchline>Life insurance companies; ascertainment
+of condition; assets and liabilities; what considered.</catchline><para>In
+ascertaining the condition of any life insurance company, it shall be allowed
+as assets only such investments, cash, and accounts as are authorized by the
+laws of this state or
+of the state or country in which it is organized at the date of examination.
+There shall be charged against it as liabilities in addition to the capital
+stock, all outstanding indebtedness of the company, and the premium reserve
+on policies and additions thereto in force, computed according to the tables
+of mortality and rate of interest prescribed in sections 44-402.01 to
+44-407.09.</para>
+</amendatorysection></section><source><para>Laws 1913, c. 154, &#167; 95, p. 439; </para><para>R.S.1913, &#167; 3232; </para><para>Laws 1919, c. 190, tit. V, art. VI, &#167; 3, p. 619; </para><para>C.S.1922, &#167; 7831; </para><para>C.S.1929, &#167; 44-503; </para><para>R.S.1943, &#167; 44-408; </para><para>Laws 1965, c. 262, &#167; 11, p. 742; </para><para>Laws 2014, LB755, &#167; 17.</para><effectivedate>July 18, 2014</effectivedate></source>  </law>
+</legaldoc>

@@ -1,1 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Insurance" statutenumber="44-3719"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>44-3719</statuteno><catchline>Director; duties; rules and regulations.</catchline><para>The director shall administer and enforce the provisions of sections 44-3701 to 44-3721 and shall publish, adopt, and promulgate rules and regulations in accordance with sections 44-3701 to 44-3721.</para></amendatorysection></section><source><para>Laws 1981, LB 113, &#167; 19. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id52">
+<amendatorysection amended="yes" chaptername="Insurance" id="id54" statutenumber="44-3719"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>44-3719</statuteno><catchline id="id57">Director; duties;
+rules and regulations.</catchline><para>The director shall administer
+and enforce the provisions of sections 44-3701 to 44-3721 and may adopt and
+promulgate rules and regulations in accordance with sections 44-3701 to 44-3721.</para>
+</amendatorysection></section><source><para>Laws 1981, LB 113, &#167; 19; </para><para>Laws 2014, LB700, &#167; 16.</para><operativedate>July 18, 2014</operativedate></source>  </law>
+</legaldoc>

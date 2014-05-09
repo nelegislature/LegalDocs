@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Corporations and Other Companies" statutenumber="21-329"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>21-329</statuteno><catchline>Paid-up capital stock, defined.</catchline><para>For purposes of Chapter 21, article 3, the term paid-up capital stock shall mean, at any particular time, the sum of the par value of all shares of capital stock of the corporation issued and outstanding.</para></amendatorysection></section><source><para>Laws 1984, LB 800, &#167; 1; </para><para>Laws 1995, LB 109, &#167; 202; </para><para>Laws 1999, LB 35, &#167; 1. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section>
+<amendatorysection amended="yes" chaptername="Corporations and Other Companies" statutenumber="21-329"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>21-329</statuteno><catchline>Paid-up capital stock, defined.</catchline>
+<para>For purposes of sections
+21-301 to 21-330, the term paid-up capital stock shall mean, at
+any particular time, the sum of the par value of all shares of capital stock
+of the corporation issued and outstanding.</para>
+</amendatorysection></section><source><para>Laws 1984, LB 800, &#167; 1; </para><para>Laws 1995, LB 109, &#167; 202; </para><para>Laws 1999, LB 35, &#167; 1; </para><para>Laws 2014, LB749, &#167; 260.</para><operativedate>January 1, 2016</operativedate></source>  </law>
+</legaldoc>

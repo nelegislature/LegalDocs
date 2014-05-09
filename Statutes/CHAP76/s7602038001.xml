@@ -1,1 +1,58 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Real Property" statutenumber="76-238.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>76-238.01</statuteno><catchline>Mortgages; interest in real estate included; debts that may be secured; priority of liens; future advances.</catchline><para>(1) Any interest in real property capable of being transferred may be mortgaged to secure existing debts or obligations, to secure debts or obligations created simultaneously with the execution of the mortgage, to secure future advances necessary to protect the security, and to secure any future advances to be made at the option of the parties. At no time shall the secured principal future advances, not including sums advanced to protect the security, exceed a total amount or percentage of a total amount stated in the mortgage. If the mortgage authorizes advances by a percentage of the mortgage amount, such advances shall not exceed that authorized percentage. All such debts, obligations, and future advances shall, from the time the mortgage is filed for record as provided by law, be secured by such mortgage equally with and have the same priority over the rights of all persons who subsequent to the recording of such mortgage acquire any rights in or liens upon the mortgaged real estate as the debts and obligations secured thereby at the time of the filing of the mortgage for record, except that (a) the mortgagor or his or her successor in title is hereby authorized to file for record, and the same shall be recorded, a notice limiting the amount of optional future advances secured by such mortgage to not less than the amount advanced actually at the time of such filing, and a copy of such filing shall be filed with the mortgagee, and (b) if any optional future advance shall be made by the mortgagee to the mortgagor or his or her successor in title after written notice of any mortgage, lien, or claim against such real property, or after written notice of labor commenced or material furnished or contracted to be commenced or furnished on such real property which is junior to such mortgage, then the amount of such advance shall be junior to such mortgage, lien, or claim, including a claim for materials delivered or labor performed which is ultimately filed as a construction lien and of which such written notice was given.</para><para>(2) The reduction to zero or elimination of the debt evidenced by the instruments authorized in this section shall not invalidate the operation of this section as to any future advances unless a notice or release to the contrary is filed for record as provided by law.</para></amendatorysection></section><source><para>Laws 1961, c. 368, &#167; 1, p. 1140; </para><para>Laws 1974, LB 913, &#167; 1; </para><para>Laws 1987, LB 136, &#167; 1. </para></source><annotation><para>The Legislature has fixed the priority of some optional advances at the time mortgage is recorded. Larson Cement Stone Co. v. Redlim Realty Co., 179 Neb. 134, 137 N.W.2d 241 (1965).</para></annotation></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id146">
+<amendatorysection amended="yes" chaptername="Real Property" id="id148" statutenumber="76-238.01"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>76-238.01</statuteno><catchline id="id151">Mortgages;
+interest in real estate included; debts that may be secured; future advances; optimal future advance; notice; filing;
+limitation.</catchline><para>(1) Any interest in real
+property capable of being transferred may be mortgaged to secure (a) existing debts or obligations, (b) debts or obligations created simultaneously
+with the execution of the mortgage, (c) future
+advances necessary to protect the security, even
+though such future advances cause the total indebtedness to exceed the maximum
+amount stated in the mortgage, or (d) any future advances to be
+made at the option of the parties in
+any amount unless, except as otherwise provided under subsection (2) or (3)
+of this section, a maximum amount of total indebtedness to be secured is stated
+in the mortgage. </para>
+<para>(2) Future
+advances necessary to protect the security shall include, but not be limited
+to, advances for payment of real property taxes, special assessments, prior
+liens, hazard insurance premiums, maintenance charges imposed under a condominium
+declaration or other covenant, and costs of repair, maintenance, or improvements.
+Future advances necessary to protect the security are secured by the mortgage
+and have the priority specified in subsection (3) of this section.</para>
+<para>(3)(a) Except
+as provided in subdivision (b) of this subsection, all items identified in
+subsection (1) of this section are equally secured by the mortgage from the
+time of filing the mortgage as provided by law and have the same priority
+as the mortgage over the rights of all other persons who acquire any rights
+in or liens upon the mortgaged real property subsequent to the time the mortgage
+was filed.</para><para>(b)(i) The mortgagor or his or her successor in title may limit
+the amount of optional future advances secured by the mortgage under subdivision
+(1)(d) of this section by filing a notice for record in the office of the
+register of deeds of each county in which the mortgaged real property or some
+part thereof is situated. A copy of such notice shall be sent by certified
+mail to the mortgagee at the address of the mortgagee set forth in the mortgage
+or, if the mortgage has been assigned, to the address of the most recent assignee
+reflected in a recorded assignment of the mortgage. The amount of such secured
+optional future advances shall be limited to not less than the amount actually
+advanced at the time of receipt of such notice by the mortgagee.</para>
+<para>(ii) If any
+optional future advance is made by the mortgagee to the mortgagor or his or
+her successor in title after receiving written notice of the filing for record
+of any trust deed, mortgage, lien, or claim against such mortgaged real property,
+then the amount of such optional future advance shall be junior to such trust
+deed, mortgage, lien, or claim. The notice under this subdivision shall be
+sent by certified mail to the mortgagee at the address of the mortgagee set
+forth in the mortgage or, if the mortgage has been assigned, to the address
+of the most recent assignee reflected in a recorded assignment of the mortgage.</para>
+<para>(iii) Subdivisions
+(b)(i) and (ii) of this subsection shall not limit or determine the priority
+of optional future advances as against construction liens governed by section
+52-139.</para><para>(4) The reduction to zero
+or elimination of the debt evidenced by the instruments authorized in this
+section shall not invalidate the operation of this section as to any future
+advances unless a notice or release to the contrary is filed for record as
+provided by law.</para>
+</amendatorysection></section><source><para>Laws 1961, c. 368, &#167; 1, p. 1140; </para><para>Laws 1974, LB 913, &#167; 1; </para><para>Laws 1987, LB 136, &#167; 1; </para><para>Laws 2014, LB788, &#167; 10.</para><effectivedate>July 18, 2014</effectivedate></source><annotation><para>The Legislature has fixed the priority of some optional advances at the time mortgage is recorded. Larson Cement Stone Co. v. Redlim Realty Co., 179 Neb. 134, 137 N.W.2d 241 (1965).</para></annotation>  </law>
+</legaldoc>

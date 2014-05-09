@@ -1,1 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Elections" statutenumber="32-713"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>32-713</statuteno><catchline>Presidential electors; notice of appointment; meeting.</catchline><para>The certificates of appointment for presidential electors shall be served by the Governor on each person appointed. The Governor shall notify the presidential electors to be at the State Capitol at noon on the first Monday after the second Wednesday in December after appointment and report to the Governor at his or her office in the capitol as being in attendance. The Governor shall serve the certificates of appointment by registered or certified mail. The presidential electors shall convene at 2 p.m. of such Monday at the Governor's office in the capitol.</para></amendatorysection></section><source><para>Laws 1994, LB 76, &#167; 213. </para></source><annotation><para>Governor appoints presidential electors in accordance with return of state canvassing board. State ex rel. Beeson v. Marsh, 150 Neb. 233, 34 N.W.2d 279 (1948).</para></annotation></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id3">
+<amendatorysection amended="yes" chaptername="Elections" id="id5" statutenumber="32-713"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>32-713</statuteno><catchline id="id8">Presidential electors;
+notice of appointment; meeting;
+pledge.</catchline><para>(1) The certificates of appointment for presidential
+electors shall be served by the Governor on each person appointed. The Governor
+shall notify the presidential electors to be at the State Capitol at noon
+on the first Monday after the second Wednesday in December after appointment
+and report to the Governor at his or her office in the capitol as being in
+attendance. The Governor shall serve the certificates of appointment by registered
+or certified mail. In submitting
+this state's certificate of ascertainment as required by 3 U.S.C. 6, the Governor
+shall certify this state's presidential electors and state in the certificate
+that:</para>
+<para>(a) The presidential electors will serve
+as presidential electors unless a vacancy occurs in the office of presidential
+elector before the end of the meeting at which the presidential electors cast
+their votes, in which case a substitute presidential elector will fill the
+vacancy; and</para>
+<para>(b) If a substitute presidential elector
+is appointed to fill a vacancy, the Governor will submit an amended certificate
+of ascertainment stating the names on the final list of this state's presidential
+electors.</para>
+<para>(2) The presidential electors
+shall convene at 2 p.m. of such Monday at the Governor's office in the capitol. Each presidential elector shall execute
+the following pledge: As a presidential elector duly selected (or appointed)
+for this position, I agree to serve and to mark my ballots for President and
+Vice President for the presidential and vice-presidential candidates who received
+the highest number of votes in the state if I am an at-large presidential
+elector or the highest number of votes in my congressional district if I am
+a congressional district presidential elector.</para>
+</amendatorysection></section><source><para>Laws 1994, LB 76, &#167; 213; </para><para>Laws 2014, LB946, &#167; 14.</para><operativedate>January 1, 2015</operativedate></source><annotation><para>Governor appoints presidential electors in accordance with return of state canvassing board. State ex rel. Beeson v. Marsh, 150 Neb. 233, 34 N.W.2d 279 (1948).</para></annotation>  </law>
+</legaldoc>

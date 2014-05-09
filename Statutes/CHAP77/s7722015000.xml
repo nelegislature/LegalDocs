@@ -1,1 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Revenue and Taxation" statutenumber="77-2215"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>77-2215</statuteno><catchline>Lost warrants; duplicate issued; conditions; stop-payment order.</catchline><para>(1) Whenever it shall be made to appear to the satisfaction of any officer, except the Director of Administrative Services, authorized by law to issue warrants, that any warrant issued by him or her has been lost or destroyed, such officer shall have authority to issue a duplicate thereof, numbered the same as the original, with the word duplicate written or printed in red ink across the face thereof. No duplicate warrant shall be issued until the party applying for the same shall make an affidavit that such party was the owner of the original warrant and shall also file with such officer an indemnity bond with good and sufficient security, conditioned to refund any money received by the party or his or her assigns on such duplicate in case of presentation and payment of the original by the treasurer upon whom the same is drawn, whether upon a genuine endorsement thereon or otherwise. The payee of any lost or destroyed warrant shall not be required to file an indemnity bond when the affidavit shows that such payee has not received such lost or destroyed warrant and cannot reasonably expect to receive it.</para><para>(2) Whenever it shall have come to the attention of the Director of Administrative Services that an outstanding warrant has not been presented for payment, the Director of Administrative Services shall immediately issue a stop-payment order and notify the State Treasurer, by letter, of the issuance of such order. After the expiration of seven working days from the issuance of such order, if in the meantime such outstanding warrant has not been presented for payment, the Director of Administrative Services shall have authority to issue a duplicate thereof, numbered the same as the original, with the word duplicate written or printed in red ink across the face thereof. In an emergency, the Director of Administrative Services may immediately issue such duplicate warrant.</para></amendatorysection></section><source><para>Laws 1875, &#167; 1, p. 176; </para><para>R.S.1913, &#167; 6654; </para><para>C.S.1922, &#167; 6185; </para><para>C.S.1929, &#167; 77-2413; </para><para>R.S.1943, &#167; 77-2215; </para><para>Laws 1951, c. 208, &#167; 1, p. 769; </para><para>Laws 1957, c. 338, &#167; 1, p. 1175; </para><para>Laws 1977, LB 137, &#167; 1; </para><para>Laws 1986, LB 930, &#167; 1. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id24">
+<amendatorysection amended="yes" chaptername="Revenue and Taxation" id="id26" statutenumber="77-2215"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>77-2215</statuteno><catchline id="id29">Lost warrants; replacement issued; conditions; stop-payment
+order.</catchline><para>(1) Whenever it shall be made to appear
+to the satisfaction of any officer, except the Director of Administrative
+Services, authorized by law to issue warrants, that any warrant issued by
+him or her has been lost or destroyed, such officer shall have authority to
+issue a replacement thereof. No replacement warrant shall be issued until the
+party applying for the same shall make an affidavit that such party was the
+owner of the original warrant and shall also file with such officer an indemnity
+bond with good and sufficient security, conditioned to refund any money received
+by the party or his or her assigns on such replacement in case of presentation
+and payment of the original by the treasurer upon whom the same is drawn,
+whether upon a genuine endorsement thereon or otherwise. The payee of any
+lost or destroyed warrant shall not be required to file an indemnity bond
+when the affidavit shows that such payee has not received such lost or destroyed
+warrant and cannot reasonably expect to receive it.</para>
+<para>(2) Whenever it shall have come to the attention of the Director
+of Administrative Services that an outstanding warrant has not been presented
+for payment, the Director of Administrative Services shall immediately issue
+a stop-payment order and notify the State Treasurer of the issuance of such order.
+After the expiration of seven working days from the issuance of such order,
+if in the meantime such outstanding warrant has not been presented for payment,
+the Director of Administrative Services shall have authority to issue a replacement thereof. In an emergency, the Director
+of Administrative Services may immediately issue such replacement warrant.</para>
+</amendatorysection></section><source><para>Laws 1875, &#167; 1, p. 176; </para><para>R.S.1913, &#167; 6654; </para><para>C.S.1922, &#167; 6185; </para><para>C.S.1929, &#167; 77-2413; </para><para>R.S.1943, &#167; 77-2215; </para><para>Laws 1951, c. 208, &#167; 1, p. 769; </para><para>Laws 1957, c. 338, &#167; 1, p. 1175; </para><para>Laws 1977, LB 137, &#167; 1; </para><para>Laws 1986, LB 930, &#167; 1; </para><para>Laws 2014, LB974, &#167; 2.</para><effectivedate>April 3, 2014</effectivedate></source>  </law>
+</legaldoc>

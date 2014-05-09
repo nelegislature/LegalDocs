@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id155">
-<amendatorysection chaptername="Motor Vehicles" id="id157" publishedsource="AnnualSupplement" statutenumber="60-331.01"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>60-331.01</statuteno><catchline>Handicapped or disabled parking
-permit, defined.</catchline><para>Handicapped or disabled parking permit means:</para>
-<para>(1) A permit
-issued under section 18-1738 or 18-1738.01 prior to the implementation date
-designated by the director under section 60-3,113.01; or</para>
-<para>(2) A permit
-issued under section 60-3,113.02 or 60-3,113.03 on or after the implementation
-date designated by the director under section 60-3,113.01.</para>
-</amendatorysection></section><source><para>Laws 2011, LB163, &#167; 19.</para></source>  </law>
+<section>
+<amendatorysection amended="yes" chaptername="Motor Vehicles" id="id157" publishedsource="AnnualSupplement" statutenumber="60-331.01"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>60-331.01</statuteno><catchline>Handicapped or disabled parking
+permit, defined.</catchline><para>Handicapped or disabled parking permit means a permit issued by the department that authorizes the use
+of parking spaces and access aisles that have been designated for the exclusive
+use of handicapped or disabled persons.</para>
+</amendatorysection>
+</section><source><para>Laws 2011, LB163, &#167; 19; </para><para>Laws 2014, LB657, &#167; 3.</para><effectivedate>July 18, 2014</effectivedate></source>  </law>
 </legaldoc>

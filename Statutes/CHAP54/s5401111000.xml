@@ -1,1 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Livestock" statutenumber="54-1,111"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>54-1,111</statuteno><catchline>Brand inspection area; sale or trade of cattle; requirements.</catchline><para>(1) Except as provided in subsection (2) of this section, no person shall sell or trade any cattle located within the brand inspection area, nor shall any person buy or purchase any such cattle unless the cattle have been inspected for brands and ownership and a certificate of inspection or brand clearance has been issued by the Nebraska Brand Committee. Any person selling such cattle shall present to the brand inspector a properly executed bill of sale, brand clearance, or other satisfactory evidence of ownership which shall be filed with the original certificate of inspection in the records of the brand committee. Any time a brand inspection is required by law, a brand investigator or brand inspector may transfer evidence of ownership of such cattle from a seller to a buyer by issuing a certificate of inspection.</para><para>(2) A brand inspection is not required:</para><para>(a) For cattle of a registered feedlot registered under sections 54-1,120 to 54-1,122 shipped for direct slaughter or sale on any terminal market;</para><para>(b) For cattle of a registered dairy registered under sections 54-1,122.01 and 54-1,122.02 shipped for direct slaughter or sale on any terminal market;</para><para>(c) For cattle that are transferred to a family corporation when all the shares of capital stock of the corporation are owned by the husband, wife, children, or grandchildren of the transferor and there is no consideration for the transfer other than the issuance of stock of the corporation to such family members;</para><para>(d) When the change of ownership of cattle is a change in form only and the surviving interests are in the exact proportion as the original interests of ownership. When there is a change of ownership described in subdivision (2)(c) or (d) of this section, an affidavit, on a form prescribed by the Nebraska Brand Committee, signed by the transferor and stating the nature of the transfer and the number of cattle involved and the brands presently on the cattle, shall be filed with the brand committee;</para><para>(e) For cattle sold or purchased for educational or exhibition purposes or other recognized youth activities if a properly executed bill of sale is exchanged and presented upon demand. Educational or exhibition purpose means cattle sold or purchased for the purpose of being fed, bred, managed, or tended in a program designed to demonstrate or instruct in the use of various feed rations, the selection of individuals of certain physical conformation or breeds, the measurement and recording of rate of gain in weight or fat content of meat or milk produced, or the preparation of cattle for the purpose of exhibition or for judging as to quality and conformation;</para><para>(f) For calves under the age of thirty days sold or purchased at private treaty if a bill of sale is exchanged and presented upon demand; and</para><para>(g) For purebred cattle raised by the seller and individually registered with an organized breed association if a properly executed bill of sale is exchanged and presented upon demand.</para></amendatorysection></section><source><para>Laws 1999, LB 778, &#167; 42; </para><para>Laws 2000, LB 213, &#167; 7. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id51">
+<amendatorysection amended="yes" chaptername="Livestock" id="id53" statutenumber="54-1,111">
+<bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>54-1,111</statuteno><catchline id="id56">Brand inspection
+area; sale or trade of cattle; requirements.</catchline><para>(1)
+Except as provided in subsection (2) of this section, no person shall sell
+or trade any cattle located within the brand inspection area, nor shall any
+person buy or purchase any such cattle unless the cattle have been inspected
+for brands and ownership and a certificate of inspection or brand clearance
+has been issued by the Nebraska Brand Committee. Any person selling such cattle
+shall present to the brand inspector a properly executed bill of sale, brand
+clearance, or other satisfactory evidence of ownership which shall be filed
+with the original certificate of inspection in the records of the brand committee.
+Any time a brand inspection is required by law, a brand investigator or brand
+inspector may transfer evidence of ownership of such cattle from a seller
+to a purchaser by issuing a certificate
+of inspection.</para>
+<para>(2) A brand inspection is not required:</para>
+<para>(a) For cattle of a registered feedlot registered under sections
+54-1,120 to 54-1,122 shipped for direct slaughter or sale on any terminal
+market;</para>
+<para>(b) For cattle of a registered dairy registered under sections
+54-1,122.01 and 54-1,122.02 shipped for direct slaughter or sale on any terminal
+market;</para>
+<para>(c) For cattle that are transferred to a family corporation
+when all the shares of capital stock of the corporation are owned by the husband,
+wife, children, or grandchildren of the transferor and there is no consideration
+for the transfer other than the issuance of stock of the corporation to such
+family members;</para>
+<para>(d) When the change of ownership of cattle is a change in
+form only and the surviving interests are in the exact proportion as the original
+interests of ownership. When there is a change of ownership described in subdivision
+(2)(c) or (d) of this section, an affidavit, on a form prescribed by the Nebraska
+Brand Committee, signed by the transferor and stating the nature of the transfer
+and the number of cattle involved and the brands presently on the cattle,
+shall be filed with the brand committee;</para>
+<para>(e) For cattle sold or purchased for educational or exhibition
+purposes or other recognized youth activities if a properly executed bill
+of sale is exchanged and presented upon demand. Educational or exhibition
+purpose means cattle sold or purchased for the purpose of being fed, bred,
+managed, or tended in a program designed to demonstrate or instruct in the
+use of various feed rations, the selection of individuals of certain physical
+conformation or breeds, the measurement and recording of rate of gain in weight
+or fat content of meat or milk produced, or the preparation of cattle for
+the purpose of exhibition or for judging as to quality and conformation;</para>
+<para>(f) For calves under the age of thirty days sold or purchased
+at private treaty if a bill of sale is exchanged and presented upon demand;
+and</para>
+<para>(g) For purebred cattle raised by the seller and individually
+registered with an organized breed association if a properly executed bill
+of sale is exchanged and presented upon demand.</para>
+</amendatorysection></section><source><para>Laws 1999, LB 778, &#167; 42; </para><para>Laws 2000, LB 213, &#167; 7; </para><para>Laws 2014, LB768, &#167; 7.</para><operativedate>July 18, 2014</operativedate></source>  </law>
+</legaldoc>

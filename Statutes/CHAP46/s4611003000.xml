@@ -1,1 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Irrigation and Regulation of Water" statutenumber="46-1103"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>46-1103</statuteno><catchline>Definitions, sections found.</catchline><para>For purposes of the Nebraska Chemigation Act, unless the context otherwise requires, the definitions found in sections 46-1104 to 46-1116 shall apply.</para></amendatorysection></section><source><para>Laws 1986, LB 284, &#167; 3. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id10">
+<amendatorysection amended="yes" chaptername="Irrigation and Regulation of Water" id="id12" statutenumber="46-1103"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>46-1103</statuteno><catchline id="id15">Definitions,
+sections found.</catchline><para>For purposes of the Nebraska Chemigation
+Act, unless the context otherwise requires, the definitions found in sections
+46-1104 to 46-1116.01 shall apply.</para>
+</amendatorysection></section><source><para>Laws 1986, LB 284, &#167; 3; </para><para>Laws 2014, LB272, &#167; 2.</para><effectivedate>July 18, 2014</effectivedate></source>  </law>
+</legaldoc>

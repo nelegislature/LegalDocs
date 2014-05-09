@@ -1,1 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Livestock" statutenumber="54-1159"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>54-1159</statuteno><catchline>Places exempt from act.</catchline><para>The Livestock Auction Market Act shall not be construed to include:</para><para>(1) Any place or operation where Future Farmers of America, 4-H groups, or private fairs conduct sales of livestock;</para><para>(2) Any place or operation conducted for a dispersal sale of the livestock of farmers, dairypersons, or livestock breeders or feeders, where no other livestock is sold or offered for sale; or</para><para>(3) Any place or operation where a breeder or an association of breeders of livestock assemble and offer for sale and sell under their own management any livestock, when such breeders assume all responsibility of such sale and the title of livestock sold. This shall apply to all purebred livestock association sales.</para></amendatorysection></section><source><para>Laws 1963, c. 319, &#167; 3, p. 962; </para><para>Laws 1999, LB 778, &#167; 64; </para><para>Laws 2001, LB 197, &#167; 8. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id207">
+<amendatorysection amended="yes" chaptername="Livestock" id="id209" statutenumber="54-1159"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>54-1159</statuteno><catchline id="id212">Exemptions from act.</catchline><para>(1) The Livestock Auction
+Market Act shall not be construed to include:</para>
+<para>(a) Any place or operation
+where Future Farmers of America, 4-H groups, or private fairs conduct sales
+of livestock;</para>
+<para>(b) An animal
+welfare organization as defined in section 54-2503;</para><para>(c) Any place or operation
+conducted for a dispersal sale of the livestock of farmers, dairypersons,
+or livestock breeders or feeders, where no other livestock is sold or offered
+for sale; or</para>
+<para>(d) Any place or operation
+where a breeder or an association of breeders of livestock assemble and offer
+for sale and sell under their own management any livestock, when such breeders
+assume all responsibility of such sale and the title of livestock sold. This
+shall apply to all purebred livestock association sales.</para>
+<para>(2) An exotic
+animal auction or exchange venue or an exotic animal auction or exchange venue
+organizer as defined in section 54-7,105.01 is not required to be licensed
+under the Livestock Auction Market Act if any bovine, camelid, caprine, ovine,
+or porcine allowed to be sold under the Exotic Animal Auction or Exchange
+Venue Act are accompanied by a certificate of veterinary inspection issued
+by an accredited veterinarian and the exotic animal auction or exchange venue
+organizer contracts for the services of an accredited veterinarian to issue
+such certificates onsite during the auction or exchange venue for bovine,
+camelid, caprine, ovine, or porcine present.</para></amendatorysection>
+</section><source><para>Laws 1963, c. 319, &#167; 3, p. 962; </para><para>Laws 1999, LB 778, &#167; 64; </para><para>Laws 2001, LB 197, &#167; 8; </para><para>Laws 2014, LB884, &#167; 22.</para><effectivedate>July 18, 2014</effectivedate></source>  </law>
+</legaldoc>

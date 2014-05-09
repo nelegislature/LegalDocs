@@ -1,19 +1,32 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id23">
-<amendatorysection amended="yes" chaptername="Elections" id="id25" statutenumber="32-942"><bookinfo>Revised Statutes Supplement, 2013</bookinfo><statuteno>32-942</statuteno><catchline id="id28">Registered voter
-anticipating absence on election day; right to vote; method; voter present
-in county; voting place.</catchline><para>Any registered voter of
-this state who anticipates being absent from the county of his or her residence
-on the day of any election may appear
-in person before the election commissioner or county clerk not more than thirty days prior to the day of election and
-obtain his or her ballot. The registered voter shall vote in the office of
-the election commissioner or county clerk or shall return the ballot to the
-office not later than the closing of the polls on the day of the election.
-A registered voter who is present in the county on the day of the election
-and who chooses to vote on the day of the election shall vote at the polling
-place assigned to the precinct in which he or she resides unless he or she
-is returning a ballot for early voting or voting pursuant to section 32-943.</para>
-</amendatorysection></section><source><para>Laws 1994, LB 76, &#167; 285; </para><para>Laws 2002, LB 935, &#167; 10; </para><para>Laws 2005, LB 98, &#167; 14; </para><para>Laws 2005, LB 566, &#167; 44; </para><para>Laws 2011, LB499, &#167; 6; </para><para>Laws 2013, LB271, &#167; 3.</para></source>  </law>
+<section>
+<amendatorysection amended="yes" chaptername="Elections" id="id25" statutenumber="32-942"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>32-942</statuteno><catchline id="id28">Registered voter anticipating
+absence on election day; right to vote; method; voter present in county; voting
+place; person registering to
+vote and requesting a ballot at same <?Pub Caret?>time; treatment of ballot.</catchline>
+<para>(1) Except as otherwise provided in subsection
+(2) of this section, a registered voter of this state who anticipates
+being absent from the county of his or her residence on the day of any election
+may appear in person before the election commissioner or county clerk not
+more than thirty days prior to the day of election and obtain his or her ballot.
+The registered voter shall vote in the office of the election commissioner
+or county clerk or shall return the ballot to the office not later than the
+closing of the polls on the day of the election. A registered voter who is
+present in the county on the day of the election and who chooses to vote on
+the day of the election shall vote at the polling place assigned to the precinct
+in which he or she resides unless he or she is returning a ballot for early
+voting or voting pursuant to section 32-943.</para>
+<para>(2) If a person registers
+to vote and requests a ballot at the same time, he or she shall vote a ballot
+which is placed in an envelope with the voter's name and address and other
+necessary identifying information and kept securely for counting as provided
+in this subsection. This subsection does not extend the deadline for voter
+registration specified in section 32-302. A ballot cast pursuant to this subsection
+shall be rejected and shall not be counted if the acknowledgment of registration
+sent to the registrant pursuant to section 32-322 is returned as undeliverable
+for a reason other than clerical error within ten days after it is mailed,
+otherwise after such ten-day period, the ballot shall be counted.</para>
+</amendatorysection></section><source><para>Laws 1994, LB 76, &#167; 285; </para><para>Laws 2002, LB 935, &#167; 10; </para><para>Laws 2005, LB 98, &#167; 14; </para><para>Laws 2005, LB 566, &#167; 44; </para><para>Laws 2011, LB499, &#167; 6; </para><para>Laws 2013, LB271, &#167; 3; </para><para>Laws 2014, LB565, &#167; 1.</para><effectivedate>July 18, 2014</effectivedate></source>  </law>
 </legaldoc>

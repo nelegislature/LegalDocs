@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"><legaldoc><law type="statute"><section><sectno></sectno><amendatorysection chaptername="Crimes and Punishments" statutenumber="28-722"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>28-722</statuteno><catchline>Central register; subject of report; access to information.</catchline><para>Upon request, a subject of the report of child abuse or neglect or, if such subject is a minor or otherwise legally incompetent, the guardian or guardian ad litem of the subject, shall be entitled to receive a copy of all information contained in the central register of child protection cases maintained pursuant to section 28-718 pertaining to his or her case. The department shall not release data that would be harmful or detrimental or that would identify or locate a person who, in good faith, made a report of child abuse or neglect or cooperated in a subsequent investigation unless ordered to do so by a court of competent jurisdiction.</para></amendatorysection></section><source><para>Laws 1979, LB 505, &#167; 10; </para><para>Laws 2005, LB 116, &#167; 14. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id128">
+<amendatorysection amended="yes" chaptername="Crimes and Punishments" id="id130" statutenumber="28-722"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>28-722</statuteno><catchline id="id133">Central registry; subject of report; access to information.</catchline>
+<para>Upon request, a subject of the report of child abuse or neglect
+or, if such subject is a minor or otherwise legally incompetent, the guardian
+or guardian ad litem of the subject, shall be entitled to receive a copy of
+all information contained in the central registry of child protection
+cases maintained pursuant to section 28-718 pertaining to his or her case.
+The department shall not release data that would be harmful or detrimental
+or that would identify or locate a person who, in good faith, made a report
+of child abuse or neglect or cooperated in a subsequent investigation unless
+ordered to do so by a court of competent jurisdiction.</para>
+</amendatorysection></section><source><para>Laws 1979, LB 505, &#167; 10; </para><para>Laws 2005, LB 116, &#167; 14; </para><para>Laws 2014, LB853, &#167; 12.</para><effectivedate>July 18, 2014</effectivedate></source>  </law>
+</legaldoc>

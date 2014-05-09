@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Real Property" statutenumber="76-2330"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>76-2330</statuteno><catchline>Center; duties.</catchline><para>The center shall:</para><para>(1) Maintain adequate records documenting compliance with the requirements of the One-Call Notification System Act, including records of all telephone calls and records of all location requests for the preceding five years which will be made available and printed upon request of an operator or excavator;</para><para>(2) Provide the notification service during normal working hours at a minimum; and</para><para>(3) Provide procedures for emergency notification for calls received at other than normal working hours.</para></amendatorysection></section><source><para>Laws 1994, LB 421, &#167; 30. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<legaldoc>
+<law type="statute">
+<section id="id4">
+<amendatorysection amended="yes" chaptername="Real Property" id="id6" statutenumber="76-2330"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>76-2330</statuteno><catchline id="id9">Center; duties.</catchline>
+<para>The center shall:</para>
+<para>(1) Maintain adequate records documenting compliance with
+the requirements of the One-Call Notification System Act, including records
+of all telephone calls and records of all locate requests for the preceding
+five years which will be made available and printed upon request of an operator
+or excavator;</para>
+<para>(2) Provide the notification service during normal working
+hours at a minimum; and</para>
+<para>(3) Provide procedures for emergency notification for calls
+received at other than normal working hours.</para>
+</amendatorysection></section><source><para>Laws 1994, LB 421, &#167; 30; </para><para>Laws 2014, LB736, &#167; 2.</para><effectivedate>July 18, 2014</effectivedate></source>  </law>
+</legaldoc>

@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
-<section id="id225">
-<amendatorysection chaptername="Motor Vehicles" id="id227" publishedsource="AnnualSupplement" statutenumber="60-3,113.08"><bookinfo>Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno>60-3,113.08</statuteno><catchline>Handicapped or disabled persons;
-parking permit; rules and regulations.</catchline><para>(1) This section applies beginning on the
-implementation date designated by the director under section 60-3,113.01.</para>
-<para>(2) The department
+<section>
+<amendatorysection amended="yes" chaptername="Motor Vehicles" id="id227" publishedsource="AnnualSupplement" statutenumber="60-3,113.08">
+<bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>60-3,113.08</statuteno><catchline>Handicapped or disabled persons;
+parking permit; rules and regulations.</catchline>
+<para>The department
 may adopt and promulgate rules and regulations necessary to fulfill any duties
 and obligations as provided in sections 60-3,113.01 to 60-3,113.08. All rules
-and regulations of the department adopted pursuant to section 18-1742 prior
-to the implementation date designated by the director under section 60-3,113.01
-shall continue to be effective until revised, amended, repealed, or nullified
-pursuant to law.</para></amendatorysection></section><source><para>Laws 2011, LB163, &#167; 30.</para></source>  </law>
+and regulations of the department relating
+to the issuance and use of handicapped or disabled parking permits adopted and promulgated prior to July 18, 2014, shall
+continue to be effective until revised, amended, repealed, or nullified pursuant
+to law.</para>
+</amendatorysection></section><source><para>Laws 2011, LB163, &#167; 30; </para><para>Laws 2014, LB657, &#167; 12.</para><effectivedate>July 18, 2014</effectivedate></source>  </law>
 </legaldoc>
