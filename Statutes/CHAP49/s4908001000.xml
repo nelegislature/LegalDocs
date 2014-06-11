@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
  
-<?APT Element gi="legaldoc"?>
-<?APT Element gi="law" attrs="type"?>
-<?APT Element gi="section" attrs="id"?>
-<?APT Element gi="sectno" attrs="id"?>
-<?APT Element gi="amendatorysection" attrs="amended chaptername id statutenumber"?>
-<?APT Element gi="bookinfo"?>
-<?APT Element gi="statuteno" attrs="id"?>
-<?APT Element gi="catchline" attrs="id"?>
-<?APT Element gi="para"?>
-<?APT Element gi="source"?>
-<?APT Element gi="effectivedate"?>
-<?APT Element gi="annotation"?>
+
+
+
+
+
+
+
+
+
+
+
+
 <legaldoc><law type="statute"><section id="id193"><sectno id="id194">Sec.
 12.</sectno><amendatorysection amended="yes" chaptername="Law" id="id195"
 statutenumber="49-801"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno
