@@ -769,7 +769,7 @@ do not omit, modify, or abbreviate any word in the Debtor's name)</para>
 </table></para>
 <para>7. CHANGED OR ADDED INFORMATION:
 Complete for Assignment or Party Information Change - provide only one name
-(7a or 7b) (use exact full name; do not omit, modify, or abbreviate any word
+(7a or 7b) (use exact, full name; do not omit, modify, or abbreviate any word
 in the Debtor's name)</para><para><table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
@@ -876,8 +876,7 @@ CODE</entry>
 <para>8. ____ COLLATERAL CHANGE:</para>
 <para>Also check one of these
 four boxes:</para><para>____
-ADD collateral ____ DELETE collateral ____ RESTATE covered collateral</para>
-<para>____ ASSIGN collateral</para>
+ADD collateral ____ DELETE collateral ____ RESTATE covered collateral ____ ASSIGN collateral</para>
 <para>Indicate collateral:</para>
 <para>9. NAME OF SECURED PARTY
 OF RECORD AUTHORIZING THIS AMENDMENT - provide only one name (9a or 9b) (name
@@ -1012,7 +1011,7 @@ THIS AMENDMENT (same as item 9 on Amendment form)</para><para><table frame="none
 <para>13. Name of DEBTOR on
 related financing statement (Name of a current Debtor of record required for
 indexing purposes only in some filing offices - see Instruction for item 13
-- insert only one Debtor name (13a or 13b) (use, exact, full name; do not
+- insert only one Debtor name (13a or 13b) (use exact, full name; do not
 omit, modify, or abbreviate any word in the Debtor's name)</para>
 <para><table frame="none">
 <tgroup cols="2">
@@ -1076,7 +1075,7 @@ omit, modify, or abbreviate any word in the Debtor's name)</para>
 <para>14. ADDITIONAL SPACE
 FOR ITEM 8 (Collateral)</para><para>________________________________</para>
 <para>15. This FINANCING STATEMENT
-AMENDMENT: ____ covers timber to be cut</para><para>____ covers as-extracted collateral ____ is filed
+AMENDMENT: ____ covers timber to be cut____ covers as-extracted collateral ____ is filed
 as a fixture filing</para><para>16.
 Name and address of a RECORD OWNER of real estate described in item 17 (if
 Debtor does not have a record interest):</para><para>________________________________</para>
