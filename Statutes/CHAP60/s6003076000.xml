@@ -1,16 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?APT Element gi="legaldoc"?>
-<?APT Element gi="law" attrs="type"?>
-<?APT Element gi="section" attrs="id"?>
-<?APT Element gi="sectno" attrs="id opdate"?>
-<?APT Element gi="amendatorysection" attrs="amended chaptername id statutenumber"?>
-<?APT Element gi="bookinfo"?>
-<?APT Element gi="statuteno" attrs="id"?>
-<?APT Element gi="catchline" attrs="id"?>
-<?APT Element gi="para"?>
-<?APT Element gi="source"?>
-<?APT Element gi="operativedate"?>
-<?APT Element gi="annotation"?>
 <legaldoc><law type="statute"><section id="id90"><sectno id="id91" opdate="July 18, 2008">Sec.
 12.</sectno><amendatorysection amended="yes" chaptername="Motor Vehicles"
 id="id92" statutenumber="60-376"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id94">60-376</statuteno><catchline id="id95">Operation
