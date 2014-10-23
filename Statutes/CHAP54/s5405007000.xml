@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
  
-<?APT Element gi="legaldoc"?>
-<?APT Element gi="law" attrs="type"?>
-<?APT Element gi="section" attrs="id"?>
-<?APT Element gi="sectno" attrs="id"?>
-<?APT Element gi="amendatorysection" attrs="amended chaptername id publishedsource statutenumber"?>
-<?APT Element gi="bookinfo"?>
-<?APT Element gi="statuteno"?>
-<?APT Element gi="catchline"?>
-<?APT Element gi="para"?>
-<?APT Element gi="source"?>
-<?APT Element gi="effectivedate"?>
-<?APT Element gi="crossreference"?>
-<?APT Element gi="emphasis"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <legaldoc><law type="statute"><section id="id48"><sectno id="id49">Sec. 7.</sectno><amendatorysection
 amended="no" chaptername="Livestock" id="id50" publishedsource="CumulativeSupplement"
 statutenumber="54-507"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>54-507</statuteno><catchline>Food

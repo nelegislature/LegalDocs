@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?APT Element gi="legaldoc"?>
-<?APT Element gi="law" attrs="type"?>
-<?APT Element gi="section" attrs="id"?>
-<?APT Element gi="sectno" attrs="id opdate"?>
-<?APT Element gi="amendatorysection" attrs="amended chaptername id statutenumber"?>
-<?APT Element gi="bookinfo"?>
-<?APT Element gi="statuteno" attrs="id"?>
-<?APT Element gi="catchline" attrs="id"?>
-<?APT Element gi="para"?>
-<?APT Element gi="table" attrs="frame"?>
-<?APT Element gi="tgroup" attrs="cols"?>
-<?APT Element gi="colspec" empty="yes" attrs="colname colsep colwidth align"?>
-<?APT Element gi="tbody"?>
-<?APT Element gi="row" attrs="valign"?>
-<?APT Element gi="entry" attrs="rowsep align colsep"?>
-<?APT Element gi="source"?>
-<?APT Element gi="operativedate"?>
-<?APT Element gi="crossreference"?>
-<?APT Element gi="emphasis"?>
-<?APT Element gi="annotation"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <legaldoc><law type="statute"><section id="id261"><sectno id="id262" opdate="July 18, 2008">Sec.
 26.</sectno><amendatorysection amended="yes" chaptername="Motor Vehicles"
 id="id263" statutenumber="60-6,294"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id265">60-6,294</statuteno><catchline

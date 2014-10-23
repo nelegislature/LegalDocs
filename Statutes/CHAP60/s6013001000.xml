@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?APT Element gi="legaldoc"?>
-<?APT Element gi="law" attrs="type"?>
-<?APT Element gi="section" attrs="id"?>
-<?APT Element gi="sectno" attrs="id opdate"?>
-<?APT Element gi="amendatorysection" attrs="amended chaptername id statutenumber"?>
-<?APT Element gi="bookinfo"?>
-<?APT Element gi="statuteno" attrs="id"?>
-<?APT Element gi="catchline" attrs="id"?>
-<?APT Element gi="para"?>
-<?APT Element gi="source"?>
-<?APT Element gi="operativedate"?>
+
+
+
+
+
+
+
+
+
+
+
 <legaldoc><law type="statute"><section id="id4"><sectno id="id5" opdate=" April  1, 2008">Sec.
 2.</sectno><amendatorysection amended="yes" chaptername="Motor Vehicles" id="id6"
 statutenumber="60-1301"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id8">60-1301</statuteno><catchline id="id9">Weighing

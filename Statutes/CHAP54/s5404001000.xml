@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
  
-<?APT Element gi="legaldoc"?>
-<?APT Element gi="law" attrs="type"?>
-<?APT Element gi="section"?>
-<?APT Element gi="sectno"?>
-<?APT Element gi="amendatorysection" attrs="amended chaptername statutenumber"?>
-<?APT Element gi="bookinfo"?>
-<?APT Element gi="statuteno"?>
-<?APT Element gi="catchline"?>
-<?APT Element gi="para"?>
-<?APT Element gi="source"?>
-<?APT Element gi="effectivedate"?>
-<?APT Element gi="annotation"?>
-<?APT Element gi="emphasis"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <legaldoc><law type="statute"><section><sectno></sectno><amendatorysection
 amended="yes" chaptername="Livestock" statutenumber="54-401"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>54-401</statuteno><catchline>Estrays,
 trespassing animals; damages; liability.</catchline><para>The owners of cattle,

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
  
-<?APT Element gi="legaldoc"?>
-<?APT Element gi="law" attrs="type"?>
-<?APT Element gi="section" attrs="id"?>
-<?APT Element gi="sectno" attrs="id"?>
-<?APT Element gi="amendatorysection" attrs="amended chaptername id statutenumber"?>
-<?APT Element gi="bookinfo"?>
-<?APT Element gi="statuteno" attrs="id"?>
-<?APT Element gi="catchline" attrs="id"?>
-<?APT Element gi="para"?>
-<?APT Element gi="source"?>
-<?APT Element gi="effectivedate"?>
+
+
+
+
+
+
+
+
+
+
+
 <legaldoc><law type="statute"><section id="id76"><sectno id="id77">Sec. 18.</sectno><amendatorysection
 amended="yes" chaptername="Livestock" id="id78" statutenumber="54-619"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id80">54-619</statuteno><catchline
 id="id81">Dangerous dogs; confinement required; warning signs.</catchline><para>(1)

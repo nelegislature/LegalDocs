@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
  
-<?APT Element gi="legaldoc"?>
-<?APT Element gi="law" attrs="type"?>
-<?APT Element gi="section" attrs="id"?>
-<?APT Element gi="sectno" attrs="id"?>
-<?APT Element gi="amendatorysection" attrs="amended chaptername id statutenumber"?>
-<?APT Element gi="bookinfo"?>
-<?APT Element gi="statuteno" attrs="id"?>
-<?APT Element gi="catchline" attrs="id"?>
-<?APT Element gi="para"?>
-<?APT Element gi="source"?>
-<?APT Element gi="effectivedate"?>
+
+
+
+
+
+
+
+
+
+
+
 <legaldoc><law type="statute"><section id="id3"><sectno id="id4">Sec. 9.</sectno><amendatorysection
 amended="yes" chaptername="Livestock" id="id5" statutenumber="54-608"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id7">54-608</statuteno><catchline
 id="id8">Dogs in counties having a population of 80,000 inhabitants or more;

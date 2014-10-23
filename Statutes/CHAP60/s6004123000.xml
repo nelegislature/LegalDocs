@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
  
-<?APT Element gi="legaldoc"?>
-<?APT Element gi="law" attrs="type"?>
-<?APT Element gi="section"?>
-<?APT Element gi="sectno"?>
-<?APT Element gi="amendatorysection" attrs="amended chaptername id statutenumber"?>
-<?APT Element gi="bookinfo"?>
-<?APT Element gi="statuteno" attrs="id"?>
-<?APT Element gi="catchline" attrs="id"?>
-<?APT Element gi="para"?>
-<?APT Element gi="source"?>
-<?APT Element gi="effectivedate"?>
+
+
+
+
+
+
+
+
+
+
+
 <legaldoc><law type="statute"><section><sectno></sectno><amendatorysection
 amended="yes" chaptername="Motor Vehicles" id="id51" statutenumber="60-4,123"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id53">60-4,123</statuteno><catchline
 id="id54">LPD-learner's permit; application; issuance; operation restrictions.</catchline><para>(1)

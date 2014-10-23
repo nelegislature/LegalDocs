@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?APT Element gi="legaldoc"?>
-<?APT Element gi="law" attrs="type"?>
-<?APT Element gi="section" attrs="id"?>
-<?APT Element gi="sectno" attrs="id"?>
-<?APT Element gi="amendatorysection" attrs="amended chaptername id publishedsource statutenumber"?>
-<?APT Element gi="bookinfo"?>
-<?APT Element gi="statuteno"?>
-<?APT Element gi="catchline"?>
-<?APT Element gi="para"?>
-<?APT Element gi="source"?>
-<?APT Element gi="effectivedate"?>
+
+
+
+
+
+
+
+
+
+
+
 <legaldoc><law type="statute"><section id="id26"><sectno id="id27">Sec. 5.</sectno><amendatorysection
 amended="no" chaptername="Motor Vehicles" id="id28" publishedsource="CumulativeSupplement"
 statutenumber="60-468.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>60-468.01</statuteno><catchline>Full legal name,

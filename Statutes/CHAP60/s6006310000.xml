@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?APT Element gi="legaldoc"?>
-<?APT Element gi="law" attrs="type"?>
-<?APT Element gi="section"?>
-<?APT Element gi="sectno" attrs="opdate"?>
-<?APT Element gi="amendatorysection" attrs="amended chaptername statutenumber"?>
-<?APT Element gi="bookinfo"?>
-<?APT Element gi="statuteno"?>
-<?APT Element gi="catchline"?>
-<?APT Element gi="para"?>
-<?APT Element gi="source"?>
-<?APT Element gi="operativedate"?>
+
+
+
+
+
+
+
+
+
+
+
 <legaldoc><law type="statute"><section><sectno opdate=" March 20, 2008">Sec.
 27.</sectno><amendatorysection amended="yes" chaptername="Motor Vehicles"
 statutenumber="60-6,310"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>60-6,310</statuteno><catchline>Moped; operation;

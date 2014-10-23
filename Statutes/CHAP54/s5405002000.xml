@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
  
-<?APT Element gi="legaldoc"?>
-<?APT Element gi="law" attrs="type"?>
-<?APT Element gi="section" attrs="id"?>
-<?APT Element gi="sectno" attrs="id"?>
-<?APT Element gi="amendatorysection" attrs="amended chaptername id publishedsource statutenumber"?>
-<?APT Element gi="bookinfo"?>
-<?APT Element gi="statuteno"?>
-<?APT Element gi="catchline"?>
-<?APT Element gi="para"?>
-<?APT Element gi="source"?>
-<?APT Element gi="effectivedate"?>
+
+
+
+
+
+
+
+
+
+
+
 <legaldoc><law type="statute"><section id="id7"><sectno id="id8">Sec. 2.</sectno><amendatorysection
 amended="no" chaptername="Livestock" id="id9" publishedsource="CumulativeSupplement"
 statutenumber="54-502"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>54-502</statuteno><catchline>Terms,

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?APT Element gi="legaldoc"?>
-<?APT Element gi="law" attrs="type"?>
-<?APT Element gi="section" attrs="id"?>
-<?APT Element gi="sectno" attrs="id"?>
-<?APT Element gi="amendatorysection" attrs="amended chaptername id publishedsource statutenumber"?>
-<?APT Element gi="bookinfo"?>
-<?APT Element gi="statuteno"?>
-<?APT Element gi="catchline"?>
-<?APT Element gi="para"?>
-<?APT Element gi="source"?>
-<?APT Element gi="effectivedate"?>
+
+
+
+
+
+
+
+
+
+
+
 <legaldoc><law type="statute"><section id="id22"><sectno id="id23">Sec. 4.</sectno><amendatorysection
 amended="no" chaptername="Motor Vehicles" id="id24" publishedsource="CumulativeSupplement"
 statutenumber="60-465.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>60-465.01</statuteno><catchline>Department, defined.</catchline><para>Department

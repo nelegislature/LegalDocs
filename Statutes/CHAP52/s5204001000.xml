@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?APT Element gi="legaldoc"?>
-<?APT Element gi="law" attrs="type"?>
-<?APT Element gi="section" attrs="id"?>
-<?APT Element gi="sectno" attrs="id"?>
-<?APT Element gi="amendatorysection" attrs="amended chaptername id statutenumber"?>
-<?APT Element gi="bookinfo"?>
-<?APT Element gi="statuteno" attrs="id"?>
-<?APT Element gi="catchline" attrs="id"?>
-<?APT Element gi="para"?>
-<?APT Element gi="source"?>
-<?APT Element gi="effectivedate"?>
-<?APT Element gi="crossreference"?>
-<?APT Element gi="emphasis"?>
-<?APT Element gi="annotation"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <legaldoc><law type="statute"><section id="id3"><sectno id="id4">Section 1.</sectno><amendatorysection
 amended="yes" chaptername="Liens" id="id5" statutenumber="52-401"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id7">52-401</statuteno><catchline
 id="id8">Lien; scope and operation; exception; reduction, when; claim of lien;

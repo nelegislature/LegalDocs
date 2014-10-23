@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
  
-<?APT Element gi="legaldoc"?>
-<?APT Element gi="law" attrs="type"?>
-<?APT Element gi="section"?>
-<?APT Element gi="sectno"?>
-<?APT Element gi="amendatorysection" attrs="amended chaptername statutenumber"?>
-<?APT Element gi="bookinfo"?>
-<?APT Element gi="statuteno"?>
-<?APT Element gi="catchline"?>
-<?APT Element gi="para"?>
-<?APT Element gi="source"?>
-<?APT Element gi="effectivedate"?>
-<?APT Element gi="crossreference"?>
-<?APT Element gi="emphasis"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <legaldoc><law type="statute"><section><sectno></sectno><amendatorysection
 amended="yes" chaptername="Monopolies And Unlawful Combinations" statutenumber="59-1502"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>59-1502</statuteno><catchline>Terms,
 defined.</catchline><para>As used in the Unfair Cigarette Sales Act, unless

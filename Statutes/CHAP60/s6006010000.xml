@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
  
-<?APT Element gi="legaldoc"?>
-<?APT Element gi="law" attrs="type"?>
-<?APT Element gi="section" attrs="id"?>
-<?APT Element gi="sectno" attrs="id"?>
-<?APT Element gi="amendatorysection" attrs="amended chaptername id statutenumber"?>
-<?APT Element gi="bookinfo"?>
-<?APT Element gi="statuteno" attrs="id"?>
-<?APT Element gi="catchline" attrs="id"?>
-<?APT Element gi="para"?>
-<?APT Element gi="source"?>
-<?APT Element gi="effectivedate"?>
+
+
+
+
+
+
+
+
+
+
+
 <legaldoc><law type="statute"><section id="id15"><sectno id="id16">Sec. 2.</sectno><amendatorysection
 amended="yes" chaptername="Motor Vehicles" id="id17" statutenumber="60-610"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id19">60-610</statuteno><catchline
 id="id20">Authorized emergency vehicle, defined.</catchline><para>Authorized
