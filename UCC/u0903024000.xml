@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?APT Element gi="legaldoc"?>
-<?APT Element gi="law" attrs="type"?>
-<?APT Element gi="section" attrs="id"?>
-<?APT Element gi="sectno" attrs="id opdate"?>
-<?APT Element gi="amendatorysection" attrs="amended chaptername id statutenumber"?>
-<?APT Element gi="bookinfo"?>
-<?APT Element gi="statuteno" attrs="id"?>
-<?APT Element gi="catchline"?>
-<?APT Element gi="para"?>
-<?APT Element gi="source"?>
-<?APT Element gi="operativedate"?>
-<?APT Element gi="crossreference"?>
-<?APT Element gi="emphasis"?>
 <legaldoc><law type="ucc"><section id="id4"><sectno id="id5" opdate=" March 20, 2008">Sec.
 27.</sectno><amendatorysection amended="yes" chaptername="Uniform Commercial Code"
-id="id6" statutenumber="9-324"><bookinfo>Uniform Commercial Code, Revised Statutes Cumulative Supplement, 2012</bookinfo><statuteno id="id8">9-324</statuteno><catchline>Priority
+id="id6" statutenumber="9-324"><bookinfo>Uniform Commercial Code, Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno id="id8">9-324</statuteno><catchline>Priority
 of purchase-money security  interests.</catchline><para>(a) Except as otherwise
 provided in subsection (g), a perfected purchase-money security interest in
 goods other than inventory or livestock has priority over a conflicting security
