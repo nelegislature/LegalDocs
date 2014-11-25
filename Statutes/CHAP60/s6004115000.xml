@@ -14,23 +14,27 @@ collected shall be remitted to the State Treasurer for credit to the appropriate
 fund.</para>
 <para>(2) The fees provided in this subsection in the following dollar amounts
 apply for operators' licenses and state identification cards.</para>
-<para><table frame="none">
+<para>
+<table frame="none">
 <tgroup cols="5">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt" rth="0.00pt"?>
 <?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec colname="col1" colwidth="2.49" /><colspec colname="col2" colwidth="0.51" />
-<colspec colname="col3" colwidth="0.60" /><colspec align="center" colname="col4" colwidth="0.82" /><colspec colname="col5" colwidth="0.59" />
+<colspec colname="col1" colwidth="4.1*"/>
+<colspec colname="col2" colwidth="1.4*"/>
+<colspec colname="col3" colwidth="1.4*"/>
+<colspec align="center" colname="col4" colwidth="1.8*"/>
+<colspec colname="col5" colwidth="1.1*"/>
 <tbody>
 <row>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 <entry colsep="0" rowsep="0">Department</entry>
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 <entry align="center" colsep="0" rowsep="0">County </entry>
 <entry colsep="0" rowsep="0">of Motor</entry>
 <entry align="center" colsep="0" rowsep="0">State</entry>
@@ -43,7 +47,7 @@ apply for operators' licenses and state identification cards.</para>
 <entry align="center" colsep="0" rowsep="0">General</entry>
 </row>
 <row>
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
 <entry align="center" colsep="0" rowsep="0">Fee</entry>
 <entry align="center" colsep="0" rowsep="0">Fund</entry>
 <entry colsep="0" rowsep="0">Cash Fund</entry>
@@ -51,20 +55,25 @@ apply for operators' licenses and state identification cards.</para>
 </row>
 </tbody>
 </tgroup>
-</table></para>
-<para><table frame="none">
+</table>
+</para>
+<para>
+<table frame="none">
 <tgroup cols="5">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt" rth="0.00pt"?>
 <?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec colname="col1" colwidth="3.00" /><colspec align="right" colname="col2" colwidth="0.52" /><colspec align="right" colname="col3" colwidth="0.50" />
-<colspec align="right" colname="col4" colwidth="0.52" /><colspec align="right" colname="col5" colwidth="0.51" />
+<colspec colname="col1" colwidth="2.85*"/>
+<colspec align="right" colname="col2" colwidth="1*"/>
+<colspec align="right" colname="col3" colwidth="1*"/>
+<colspec align="right" colname="col4" colwidth="1*"/>
+<colspec align="right" colname="col5" colwidth="1*"/>
 <tbody>
 <row>
 <entry colsep="0" rowsep="0">State identification card:</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Valid for 1 year or less</entry>
@@ -75,10 +84,10 @@ apply for operators' licenses and state identification cards.</para>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Valid for more than 1 year</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">but not more than 2 years</entry>
@@ -89,10 +98,10 @@ apply for operators' licenses and state identification cards.</para>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Valid for more than 2 years</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">but not more than 3 years</entry>
@@ -103,10 +112,10 @@ apply for operators' licenses and state identification cards.</para>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Valid for more than 3 years</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">but not more than 4 years</entry>
@@ -117,10 +126,10 @@ apply for operators' licenses and state identification cards.</para>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Valid for more than 4 years</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">for person under 21</entry>
@@ -145,10 +154,10 @@ apply for operators' licenses and state identification cards.</para>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Class O or M operator's license:</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Valid for 1 year or less</entry>
@@ -159,10 +168,10 @@ apply for operators' licenses and state identification cards.</para>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Valid for more than 1 year</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">but not more than 2 years</entry>
@@ -173,10 +182,10 @@ apply for operators' licenses and state identification cards.</para>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Valid for more than 2 years</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">but not more than 3 years</entry>
@@ -187,10 +196,10 @@ apply for operators' licenses and state identification cards.</para>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Valid for more than 3 years</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">but not more than 4 years</entry>
@@ -207,11 +216,11 @@ apply for operators' licenses and state identification cards.</para>
 <entry colsep="0" rowsep="0">10.25</entry>
 </row>
 <row>
-<entry colsep="0" rowsep="0">Bioptic or telescopic lens restriction:</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0">Bioptic or telescopic lens	restriction:</entry>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Valid for 1 year or less</entry>
@@ -222,10 +231,10 @@ apply for operators' licenses and state identification cards.</para>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Valid for more than 1 year</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">but not more than 2 years</entry>
@@ -243,10 +252,10 @@ apply for operators' licenses and state identification cards.</para>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Add, change, or remove class,</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">endorsement, or restriction</entry>
@@ -257,10 +266,10 @@ apply for operators' licenses and state identification cards.</para>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Provisional operator's permit:</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Original</entry>
@@ -271,10 +280,10 @@ apply for operators' licenses and state identification cards.</para>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Bioptic or telescopic lens restriction:</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Valid for 1 year or less</entry>
@@ -285,10 +294,10 @@ apply for operators' licenses and state identification cards.</para>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Valid for more than 1 year</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">but not more than 2 years</entry>
@@ -306,10 +315,10 @@ apply for operators' licenses and state identification cards.</para>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Add, change, or remove class,</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">endorsement, or restriction</entry>
@@ -320,10 +329,10 @@ apply for operators' licenses and state identification cards.</para>
 </row>
 <row>
 <entry colsep="0" rowsep="0">LPD-learner's permit:</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Original</entry>
@@ -341,10 +350,10 @@ apply for operators' licenses and state identification cards.</para>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Add, change, or remove class,</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">endorsement, or restriction</entry>
@@ -355,10 +364,10 @@ apply for operators' licenses and state identification cards.</para>
 </row>
 <row>
 <entry colsep="0" rowsep="0">LPE-learner's permit:</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Original</entry>
@@ -376,10 +385,10 @@ apply for operators' licenses and state identification cards.</para>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Add, change, or remove class,</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">endorsement, or restriction</entry>
@@ -390,10 +399,10 @@ apply for operators' licenses and state identification cards.</para>
 </row>
 <row>
 <entry colsep="0" rowsep="0">School permit:</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Original</entry>
@@ -411,10 +420,10 @@ apply for operators' licenses and state identification cards.</para>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Add, change, or remove class,</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">endorsement, or restriction</entry>
@@ -425,10 +434,10 @@ apply for operators' licenses and state identification cards.</para>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Farm permit:</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Original or renewal</entry>
@@ -453,10 +462,10 @@ apply for operators' licenses and state identification cards.</para>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Add, change, or remove class,</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">endorsement, or restriction</entry>
@@ -467,10 +476,10 @@ apply for operators' licenses and state identification cards.</para>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Driving permits:</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Employment</entry>
@@ -495,10 +504,10 @@ apply for operators' licenses and state identification cards.</para>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Add, change, or remove class,</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">endorsement, or restriction</entry>
@@ -509,10 +518,10 @@ apply for operators' licenses and state identification cards.</para>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Commercial driver's license:</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Valid for 1 year or less</entry>
@@ -523,10 +532,10 @@ apply for operators' licenses and state identification cards.</para>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Valid for more than 1 year</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">but not more than 2 years</entry>
@@ -537,10 +546,10 @@ apply for operators' licenses and state identification cards.</para>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Valid for more than 2 years</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">but not more than 3 years</entry>
@@ -551,10 +560,10 @@ apply for operators' licenses and state identification cards.</para>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Valid for more than 3 years</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">but not more than 4 years</entry>
@@ -572,10 +581,10 @@ apply for operators' licenses and state identification cards.</para>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Bioptic or telescopic lens restriction:</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Valid for one year or less</entry>
@@ -586,10 +595,10 @@ apply for operators' licenses and state identification cards.</para>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Valid for more than 1 year</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">but not more than 2 years</entry>
@@ -607,10 +616,10 @@ apply for operators' licenses and state identification cards.</para>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Add, change, or remove class,</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">endorsement, or restriction</entry>
@@ -620,12 +629,11 @@ apply for operators' licenses and state identification cards.</para>
 <entry colsep="0" rowsep="0">3.25</entry>
 </row>
 <row>
-<entry colsep="0" rowsep="0">CLP-commercial
-learner's permit:</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0">CLP-commercial learner's permit:</entry>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Original or renewal</entry>
@@ -643,10 +651,10 @@ learner's permit:</entry>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Add, change, or remove class,</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">endorsement, or restriction</entry>
@@ -657,10 +665,10 @@ learner's permit:</entry>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Seasonal permit:</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Original or renewal</entry>
@@ -678,10 +686,10 @@ learner's permit:</entry>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Add, change, or remove class,</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">endorsement, or restriction</entry>
@@ -692,10 +700,10 @@ learner's permit:</entry>
 </row>
 <row>
 <entry colsep="0" rowsep="0">School bus permit:</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Original or renewal</entry>
@@ -713,10 +721,10 @@ learner's permit:</entry>
 </row>
 <row>
 <entry colsep="0" rowsep="0">Add, change, or remove class,</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">endorsement, or restriction</entry>
@@ -727,7 +735,8 @@ learner's permit:</entry>
 </row>
 </tbody>
 </tgroup>
-</table></para>
+</table>
+</para>
 <para>(3) If the department issues an operator's license or a state identification
 card, the department shall remit the county portion of the fees to the State
 Treasurer for credit to the Department of Motor Vehicles Cash Fund.</para>
