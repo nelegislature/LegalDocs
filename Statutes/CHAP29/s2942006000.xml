@@ -16,52 +16,48 @@ of record, and
 shall be filed with the clerk of the court.</para>
 <para>(2) The written waivers
 authorized under subsection (1) of this section shall be in substantially
-the following form:</para><para><table frame="none">
+the following form:</para>
+<para>
+<table frame="none">
 <tgroup cols="3">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec colname="col1" colwidth="0.92" /><colspec colname="COLSPEC0" colwidth="0.99" />
-<colspec colname="col2" colwidth="1.09" />
+<colspec colname="col1" colwidth="1.03*"/>
+<colspec colname="COLSPEC0" colwidth="1*"/>
+<colspec colname="col2" colwidth="1.18*" align="left"/>
 <tbody>
 <row>
-<entry colsep="0" rowsep="0">STATE
-OF NEBRASKA,</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0">PLEA
-OF NOT GUILTY/</entry>
+<entry colsep="0" rowsep="0">STATE OF NEBRASKA,</entry>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0" align="center">PLEA OF NOT GUILTY/</entry>
 </row>
 <row>
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
 <entry colsep="0" rowsep="0">Plaintiff,</entry>
-<entry colsep="0" rowsep="0">WAIVER
-OF APPEARANCE</entry>
+<entry colsep="0" rowsep="0" align="center">WAIVER OF APPEARANCE</entry>
 </row>
 <row>
 <entry colsep="0" rowsep="0">-vs-</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0">Case
-No. ...........</entry>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0" rowsep="0">Case No. ...........</entry>
 </row>
 <row>
 <?PubTbl row rht="0.28in"?>
-<entry colsep="0" rowsep="0">..............................,</entry>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0">Arrest
-No. .........</entry>
+<entry colsep="0" rowsep="0" namest="col1" nameend="COLSPEC0">................................,</entry>
+<entry colsep="0" rowsep="0">Arrest No. .........</entry>
 </row>
 <row>
-<entry colsep="0" rowsep="0">(Print
-or Type)</entry>
+<entry colsep="0" rowsep="0">(Print or Type)</entry>
 <entry colsep="0" rowsep="0">Defendant</entry>
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
 </row>
 </tbody>
 </tgroup>
-</table></para>
+</table>
+</para>
 <para>I, the defendant in the
 above-entitled action, advise the court that I have retained .....................................
 to represent me in this matter. I understand that I have been charged with
-the following violation(s): ..................................................................
-.................................................................. Preliminary
+the following violation(s): .................................................................................................................................... Preliminary
 Hearing Date or Arraignment Date ....................... and in the event
 that the charges have been amended or new charges added I wish to waive a
 formal preliminary hearing or arraignment before the court and ask the court
@@ -73,73 +69,72 @@ right to be presumed innocent until proven guilty beyond reasonable doubt.
 My attorney has also advised me of the possible penalties for the violations
 with which I am charged, and the possibility that I will be required to make
 restitution for damages, if appropriate.</para><para>I understand that my attorney will notify me of all
-appearance dates in this matter.</para><para><table frame="none">
+appearance dates in this matter.</para>
+<para>
+<table frame="none">
 <tgroup align="center" cols="2">
 <?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec colname="col1" colwidth="0.56" /><colspec colname="COLSPEC0" colwidth="1.44" />
+<colspec colname="col1" align="left" colwidth="1*"/>
+<colspec colname="COLSPEC0" align="left" colwidth="1.94*"/>
 <tbody>
 <row rowsep="0" valign="top">
-<entry align="left" colsep="0">Date:
-........</entry>
-<entry align="left">Defendant's
-Signature: ...................</entry>
+<entry align="left" colsep="0">Date: ........</entry>
+<entry align="left">Defendant's Signature:
+.........................</entry>
 </row>
 <row rowsep="0">
-<entry align="right" colsep="0" />
-<entry align="left">APPEARANCE
-OF COUNSEL</entry>
+<entry align="center" colsep="0" namest="col1"
+nameend="COLSPEC0">APPEARANCE OF COUNSEL</entry>
 </row>
 </tbody>
 </tgroup>
-</table></para>
+</table>
+</para>
 <para>I, ....................................,
 advise the court that I am the attorney of record for the above-named defendant.
 I have advised my client of all rights and the possible penalties for the
 charges filed against him or her. I understand that the court will expect
 me to represent the defendant in all hearings before the court in this matter.</para>
-<para><table frame="none">
+<para>
+<table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec colname="col1" colwidth="1.06" /><colspec colname="col2" colwidth="0.94" />
+<colspec colname="col1" colwidth="1*" align="left"/>
+<colspec colname="col2" colwidth="1.12*" align="left"/>
 <tbody>
 <row>
 <?PubTbl row rht="0.27in"?>
-<entry colsep="0" rowsep="0">(Please
-Print or Type)</entry>
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0">(Please Print or Type)</entry>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">............................</entry>
-<entry colsep="0" rowsep="0">Attorney's
-Name</entry>
+<entry colsep="0" rowsep="0">Attorney's Name</entry>
 </row>
 <row>
 <entry colsep="0" rowsep="0">............................</entry>
-<entry colsep="0" rowsep="0">Attorney's
-Address</entry>
+<entry colsep="0" rowsep="0">Attorney's Address</entry>
 </row>
 <row>
 <entry colsep="0" rowsep="0">............................</entry>
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">............................</entry>
-<entry colsep="0" rowsep="0">.............................</entry>
+<entry colsep="0" rowsep="0">...................................</entry>
 </row>
 <row>
-<entry colsep="0" rowsep="0">(Telephone
-Number)</entry>
-<entry colsep="0" rowsep="0">(Attorney
-Number)</entry>
+<entry colsep="0" rowsep="0">(Telephone Number)</entry>
+<entry colsep="0" rowsep="0">(Attorney Number)</entry>
 </row>
 <row>
-<entry colsep="0" rowsep="0">Date:.......</entry>
-<entry colsep="0" rowsep="0">Attorney's
-Signature: .................</entry>
+<entry colsep="0" rowsep="0">Date:..........</entry>
+<entry colsep="0" rowsep="0">Attorney's Signature:.............</entry>
 </row>
 </tbody>
 </tgroup>
-</table></para>
+</table>
+</para>
 <para>(3) A defendant's use
 of written forms under this section shall not prevent his or her right to
 all other process, procedures, and defenses allowed by state and federal law.</para>
