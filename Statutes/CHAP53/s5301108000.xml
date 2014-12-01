@@ -1,21 +1,79 @@
-<?xml version="1.0" encoding="utf-8"?>   <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Liquors" statutenumber="53-1,108"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>53-1,108</statuteno><catchline>Search warrants issued on complaint; form.</catchline><para>Whenever complaint is made in writing, verified by affidavit, to any judge of any court having cognizance of criminal offenses, that complainant has just and reasonable grounds to believe and does believe that alcoholic liquor is manufactured, possessed, kept for sale, used, or transported in violation of the Nebraska Liquor Control Act, or any mash, still, or other property designed for the manufacture of alcoholic liquor is possessed in any premises which are not licensed under the act, particularly describing and designating such property in such complaint, the judge may issue a search warrant. No search warrant shall be necessary for the inspection or search of any premises licensed under the act. The property seized on any such warrant shall not be taken from the officer seizing the same on any writ of replevin or other like process. Each complaint shall be substantially in the following form:</para><para><table frame="none">
+<?xml version="1.0" encoding="utf-8"?>   <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Liquors" statutenumber="53-1,108"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>53-1,108</statuteno><catchline>Search warrants issued on complaint; form.</catchline><para>Whenever complaint is made in writing, verified by affidavit, to any judge of any court having cognizance of criminal offenses, that complainant has just and reasonable grounds to believe and does believe that alcoholic liquor is manufactured, possessed, kept for sale, used, or transported in violation of the Nebraska Liquor Control Act, or any mash, still, or other property designed for the manufacture of alcoholic liquor is possessed in any premises which are not licensed under the act, particularly describing and designating such property in such complaint, the judge may issue a search warrant. No search warrant shall be necessary for the inspection or search of any premises licensed under the act. The property seized on any such warrant shall not be taken from the officer seizing the same on any writ of replevin or other like process. Each complaint shall be substantially in the following form:</para>
+<para>
+<table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt"?>
-<colspec align="right" colname="col1" colwidth="0.84*"/><colspec colname="col2"
-colwidth="1.16*"/>
+<colspec align="right" colname="col1" colwidth="1*"/>
+<colspec colname="col2" colwidth="2.73*"/>
 <tbody>
 <row>
 <entry colsep="0" rowsep="0">STATE OF NEBRASKA,)</entry>
-<entry colsep="0" rowsep="0"></entry>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">)</entry>
 <entry colsep="0" rowsep="0">ss.</entry>
 </row>
 <row>
-<entry colsep="0" rowsep="0">COUNTY OF .........)</entry>
-<entry colsep="0" rowsep="0"></entry>
+<entry colsep="0" rowsep="0">COUNTY OF ........)</entry>
+<entry colsep="0" rowsep="0"/>
 </row>
 </tbody>
 </tgroup>
-</table></para><para>COMPLAINT FOR SEARCH WARRANT</para><para>The complaint and affidavit of ...................... (name of complainant), of ...................... (his or her residence), made before ................ (name of officer) one of the .............. (official title of officer), in and for .................. (county, city, or village, as the case may be), on this ............ day of ................ 20...., being first duly sworn, upon oath says: That he or she has just and reasonable grounds to believe, and does believe, that alcoholic liquor is now unlawfully (manufactured, possessed, used, disposed of, or kept for sale, or any mash, still, or other property designed for the illegal manufacture of alcoholic liquor is possessed therein, as the case may be), to wit: At and within a certain ................ (here describe the house, building, premises, boat, vehicle, receptacle, or other place to be searched, with particulars as to the location sufficiently to identify it, stating the name of the person occupying the same, if known), in the ................ (county, city, or village, as the case may be, of) .............. in the county and state aforesaid; that the following are the reasons for his or her belief, to wit: ...................... (here insert the facts upon which such belief is based).</para><para>WHEREFORE he or she prays that a search warrant may issue according to law.</para><para>.........................................</para><para>.........................................</para><para>(Signature of complainant)</para><para>Subscribed and sworn to before me this ................. day of ................. 20.... .</para><para>................................(Name of officer)</para><para>................................(Official title of officer)</para></amendatorysection></section><source><para>Laws 1935, c. 116, &#167; 78, p. 414; </para><para>C.S.Supp.,1941, &#167; 53-378; </para><para>R.S.1943, &#167; 53-1,108; </para><para>Laws 1994, LB 859, &#167; 15; </para><para>Laws 2004, LB 813, &#167; 24. </para></source><crossreference><para><emphasis>Search warrants,</emphasis> in general, see sections 29-812 to 29-821.</para></crossreference></law></legaldoc> 
+</table>
+</para>
+<para>
+<table frame="none">
+<tgroup align="center" cols="1">
+<colspec colname="col1" align="center" colwidth="4*"/>
+<tbody>
+<row>
+<entry>COMPLAINT FOR SEARCH WARRANT</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</para>
+<para>The complaint and affidavit of ...................... (name of complainant), of ...................... (his or her residence), made before ................ (name of officer) one of the .............. (official title of officer), in and for .................. (county, city, or village, as the case may be), on this ............ day of ................ 20...., being first duly sworn, upon oath says: That he or she has just and reasonable grounds to believe, and does believe, that alcoholic liquor is now unlawfully (manufactured, possessed, used, disposed of, or kept for sale, or any mash, still, or other property designed for the illegal manufacture of alcoholic liquor is possessed therein, as the case may be), to wit: At and within a certain ................ (here describe the house, building, premises, boat, vehicle, receptacle, or other place to be searched, with particulars as to the location sufficiently to identify it, stating the name of the person occupying the same, if known), in the ................ (county, city, or village, as the case may be, of) .............. in the county and state aforesaid; that the following are the reasons for his or her belief, to wit: ...................... (here insert the facts upon which such belief is based).</para>
+<para>WHEREFORE he or she prays that a search warrant may issue according to law.</para>
+<para>
+<table frame="none">
+<tgroup align="center" cols="1">
+<colspec colname="col1" align="right" colwidth="3*"/>
+<tbody>
+<row>
+<entry>................................</entry>
+</row>
+<row>
+<entry>................................</entry>
+</row>
+<row>
+<entry>(Signature of complainant)</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</para>
+<para>Subscribed and sworn to before me this ................. day of ................. 20.... .</para>
+<para>
+<table frame="none">
+<tgroup align="center" cols="1">
+<colspec colname="col1" align="right" colwidth="3.0*"/>
+<tbody>
+<row>
+<entry>................................</entry>
+</row>
+<row>
+<entry align="right">(Name of officer)</entry>
+</row>
+<row>
+<entry>................................</entry>
+</row>
+<row>
+<entry align="right">(Official title of officer)</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</para>
+</amendatorysection></section><source><para>Laws 1935, c. 116, &#167; 78, p. 414; </para><para>C.S.Supp.,1941, &#167; 53-378; </para><para>R.S.1943, &#167; 53-1,108; </para><para>Laws 1994, LB 859, &#167; 15; </para><para>Laws 2004, LB 813, &#167; 24. </para></source><crossreference><para><emphasis>Search warrants,</emphasis> in general, see sections 29-812 to 29-821.</para></crossreference></law></legaldoc> 
