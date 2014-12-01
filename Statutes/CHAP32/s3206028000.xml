@@ -19,7 +19,7 @@ the signatures, the statements contained in this subsection, except that a
 petition for recall of an elected official shall also have the additional
 information specified in subsection (2) of section 32-1304. The statements
 shall be printed in boldface type in substantially the following form:</para>
-<para>WARNING TO PETITION SIGNERS&#8212;€”VIOLATION OF ANY OF THE FOLLOWING PROVISIONS
+<para>WARNING TO PETITION SIGNERS&#8212;VIOLATION OF ANY OF THE FOLLOWING PROVISIONS
 OF LAW MAY RESULT IN THE FILING OF CRIMINAL CHARGES: Any person who signs
 any name other than his or her own to any petition or who is not qualified
 to sign the petition shall be guilty of a Class I misdemeanor. Any person
@@ -32,28 +32,29 @@ it, below the signatures, an affidavit as provided in this subsection, except
 that the affidavit for a petition for recall of an elected official shall
 also include the additional language specified in subsection (3) of section
 32-1304. The affidavit shall be in substantially the following form:</para>
-<para><table
-frame="none">
+<para>
+<table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt"?>
-<colspec align="right" colname="col1" colwidth="0.84*"/><colspec colname="col2"
-colwidth="1.16*"/>
+<colspec align="right" colname="col1" colwidth="1*"/>
+<colspec colname="col2" colwidth="2.77*"/>
 <tbody>
 <row>
-<entry colsep="0" rowsep="0">STATE OF NEBRASKA)</entry>
-<entry colsep="0" rowsep="0"></entry>
+<entry colsep="0" rowsep="0">STATE OF NEBRASKA )</entry>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">)</entry>
 <entry colsep="0" rowsep="0">ss.</entry>
 </row>
 <row>
-<entry colsep="0" rowsep="0">COUNTY OF .........)</entry>
-<entry colsep="0" rowsep="0"></entry>
+<entry colsep="0" rowsep="0">COUNTY OF ....... )</entry>
+<entry colsep="0" rowsep="0"/>
 </row>
 </tbody>
 </tgroup>
-</table></para>
+</table>
+</para>
 <para>..........................., (name of circulator) being first duly sworn,
 deposes and says that he or she is the circulator of this petition containing
 .......... signatures, that he or she is at least eighteen years of age, that each person
