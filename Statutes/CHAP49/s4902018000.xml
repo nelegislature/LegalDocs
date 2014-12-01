@@ -1,23 +1,92 @@
-<?xml version="1.0" encoding="utf-8"?>   <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Law" statutenumber="49-218"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>49-218</statuteno><catchline>Constitutional convention; candidates; petition; form.</catchline><para>Nominating petitions shall comply with section 32-628 and shall be in substantially the following form:</para><para>I, ..................., do hereby announce myself as a candidate for member of the constitutional convention to be convened December ......, 20...., I reside at ...................... in the ......... legislative district, and I will qualify as a member of the constitutional convention if elected.</para><para>.............................</para><para>To the Secretary of State</para><para>We, the undersigned electors of the ........ legislative district of Nebraska, do hereby petition that ................... be named as a member of the constitutional convention to be convened December .........., 20...., from the ....... legislative district, and we do each hereby separately recommend his or her election as such.</para><para><table frame="none"><tgroup cols="2"><colspec colname="col1" align="center"/><colspec colname="col2" align="center"/><tbody><row><entry colsep="0" rowsep="0">Name</entry><entry colsep="0" rowsep="0">Address</entry></row><row><entry colsep="0" rowsep="0">..............................</entry><entry colsep="0" rowsep="0">......................</entry></row><row><entry colsep="0" rowsep="0">..............................</entry><entry colsep="0" rowsep="0">......................</entry></row><row><entry colsep="0" rowsep="0">..............................</entry><entry colsep="0" rowsep="0">......................</entry></row></tbody></tgroup></table></para>
-<para><table frame="none">
+<?xml version="1.0" encoding="utf-8"?>   <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Law" statutenumber="49-218"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>49-218</statuteno><catchline>Constitutional convention; candidates; petition; form.</catchline><para>Nominating petitions shall comply with section 32-628 and shall be in substantially the following form:</para><para>I, ..................., do hereby announce myself as a candidate for member of the constitutional convention to be convened December ......, 20...., I reside at ...................... in the ......... legislative district, and I will qualify as a member of the constitutional convention if elected.</para><para>.............................</para><para>To the Secretary of State</para><para>We, the undersigned electors of the ........ legislative district of Nebraska, do hereby petition that ................... be named as a member of the constitutional convention to be convened December .........., 20...., from the ....... legislative district, and we do each hereby separately recommend his or her election as such.</para>
+<para>
+<table frame="none" pgwide="yes">
+<tgroup cols="2">
+<colspec colname="col1" align="center" colwidth="1.06*"/>
+<colspec colname="col2" align="center" colwidth="1*"/>
+<tbody>
+<row>
+<entry colsep="0" rowsep="0" align="center">Name</entry>
+<entry colsep="0" rowsep="0" align="center">Address</entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0" align="left">..............................</entry>
+<entry colsep="0" rowsep="0" align="right">..................................</entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0" align="left">..............................</entry>
+<entry colsep="0" rowsep="0" align="right">..................................</entry>
+</row>
+<row>
+<entry colsep="0" rowsep="0" align="left">..............................</entry>
+<entry colsep="0" rowsep="0" align="right">..................................</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</para>
+<para>
+<table frame="none">
 <tgroup cols="2">
 <?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt"?>
-<colspec align="right" colname="col1" colwidth="0.84*"/><colspec colname="col2"
-colwidth="1.16*"/>
+<colspec align="right" colname="col1" colwidth="1*"/>
+<colspec colname="col2" colwidth="2.91*"/>
 <tbody>
 <row>
 <entry colsep="0" rowsep="0">State of Nebraska)</entry>
-<entry colsep="0" rowsep="0"></entry>
+<entry colsep="0" rowsep="0"/>
 </row>
 <row>
 <entry colsep="0" rowsep="0">)</entry>
 <entry colsep="0" rowsep="0">ss.</entry>
 </row>
 <row>
-<entry colsep="0" rowsep="0">......... County)</entry>
-<entry colsep="0" rowsep="0"></entry>
+<entry colsep="0" rowsep="0">.......... County)</entry>
+<entry colsep="0" rowsep="0"/>
 </row>
 </tbody>
 </tgroup>
-</table></para>
-<para>The undersigned having signed the foregoing petition and being first duly sworn on oath state that the foregoing petition is bona fide in every respect to the best of our knowledge and belief.</para><para>......................</para><para>......................</para><para>......................</para><para>......................</para><para>......................</para><para>Subscribed and sworn to before me this ...... day of ............. 20.... .</para><para>.................</para><para>Notary Public</para><para>The Secretary of State shall prepare and have printed suitable blank forms. Supplies thereof shall be mailed to the several county clerks.</para></amendatorysection></section><source><para>Laws 1953, c. 173, &#167; 7, p. 550; </para><para>Laws 1994, LB 76, &#167; 564; </para><para>Laws 2004, LB 813, &#167; 20. </para></source></law></legaldoc> 
+</table>
+</para>
+<para>The undersigned having signed the foregoing petition and being first duly sworn on oath state that the foregoing petition is bona fide in every respect to the best of our knowledge and belief.</para>
+<para>
+<table frame="none">
+<tgroup align="center" cols="1">
+<colspec colname="col1" align="right" colwidth="3*"/>
+<tbody>
+<row>
+<entry>......................</entry>
+</row>
+<row>
+<entry>......................</entry>
+</row>
+<row>
+<entry>......................</entry>
+</row>
+<row>
+<entry>......................</entry>
+</row>
+<row>
+<entry>......................</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</para>
+<para>Subscribed and sworn to before me this ...... day of ............. 20.... .</para>
+<para>
+<table frame="none">
+<tgroup align="right" cols="1">
+<colspec colname="col1" align="right" colwidth="3*"/>
+<tbody>
+<row>
+<entry>......................</entry>
+</row>
+<row>
+<entry align="right">Notary Public</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</para>
+<para>The Secretary of State shall prepare and have printed suitable blank forms. Supplies thereof shall be mailed to the several county clerks.</para></amendatorysection></section><source><para>Laws 1953, c. 173, &#167; 7, p. 550; </para><para>Laws 1994, LB 76, &#167; 564; </para><para>Laws 2004, LB 813, &#167; 20. </para></source></law></legaldoc> 
