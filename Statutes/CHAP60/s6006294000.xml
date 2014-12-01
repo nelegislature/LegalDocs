@@ -22,23 +22,25 @@ group, measured longitudinally to the nearest foot, except that the maximum
 load carried on any group of two or more axles shall not exceed eighty thousand
 pounds on the National System of Interstate and Defense Highways unless the
 Director-State Engineer pursuant to section 60-6,295 authorizes a greater
-weight.</para><para><table frame="none"><tgroup cols="2"><colspec colname="col1"
+weight.</para>
+
+<para><table frame="none"><tgroup cols="2"><colspec colname="col1"
 colsep="0" colwidth="0.60*"/><colspec align="center" colname="col2" colsep="0"
 colwidth="1.40*"/><tbody><row valign="top"><entry rowsep="0">Distance in feet </entry><entry
 rowsep="0">Maximum load in pounds carried  </entry></row><row><entry rowsep="0">between
 the </entry><entry rowsep="0">on any group of two or more</entry></row><row><entry
 rowsep="0">extremes of </entry><entry rowsep="0">consecutive axles</entry></row><row><entry
 rowsep="0">any group of </entry><entry rowsep="0"></entry></row><row><entry
-rowsep="0">two or more </entry><entry rowsep="0"></entry></row></tbody></tgroup></table></para><para><table
-frame="none"><tgroup cols="7"><colspec colname="col1" colwidth="1.43*"/><colspec
+rowsep="0">two or more </entry><entry rowsep="0"></entry></row></tbody></tgroup></table></para>
+<para><table frame="none"><tgroup cols="7"><colspec colname="col1" colwidth="1.43*"/><colspec
 colname="col2" colwidth="1.07*"/><colspec colname="col3" colwidth="1.07*"/><colspec
 colname="col4" colwidth="1.05*"/><colspec colname="col5" colwidth="1.07*"/><colspec
 colname="col6" colwidth="1.07*"/><colspec colname="col7" colwidth="1.13*"/><tbody><row
-valign="middle"><entry align="center" colsep="0" rowsep="0">consecutive</entry><entry
-colsep="0" rowsep="0">Two</entry><entry colsep="0" rowsep="0">Three</entry><entry
-colsep="0" rowsep="0">Four</entry><entry colsep="0" rowsep="0">Five</entry><entry
+valign="middle"><entry align="left" colsep="0" rowsep="0">consecutive</entry>
+<entry colsep="0" rowsep="0">Two</entry><entry colsep="0" rowsep="0">Three</entry>
+<entry colsep="0" rowsep="0">Four</entry><entry colsep="0" rowsep="0">Five</entry><entry
 colsep="0" rowsep="0">Six</entry><entry colsep="0" rowsep="0">Seven</entry></row><row
-valign="middle"><entry align="center" colsep="0" rowsep="0">axles</entry><entry
+valign="middle"><entry align="left" colsep="0" rowsep="0">axles</entry><entry
 colsep="0" rowsep="0">Axles</entry><entry colsep="0" rowsep="0">Axles</entry><entry
 colsep="0" rowsep="0">Axles</entry><entry colsep="0" rowsep="0">Axles</entry><entry
 colsep="0" rowsep="0">Axles</entry><entry colsep="0" rowsep="0">Axles</entry></row><row
