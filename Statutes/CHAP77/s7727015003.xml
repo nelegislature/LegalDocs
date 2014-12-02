@@ -7,21 +7,24 @@ and rates; Tax Commissioner; duties; tax tables; other taxes; tax rate.</catchli
 <para>(1) For taxable years beginning or deemed to begin on or after January
 1, 2013, and before January 1, 2014, the following brackets and rates are
 hereby established for the Nebraska individual income tax:</para>
-<para><table frame="none">
+<para>
+<table frame="none" pgwide="yes">
 <tgroup cols="7">
-<?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt" rth="0.00pt"?>
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt" rth="1.00pt" dispwid="1375.00px"?>
-<colspec colname="col1" colwidth="12.82" /><colspec colname="col2" colwidth="17.25" />
-<colspec colname="col3" colwidth="14.34" /><colspec colname="col4" colwidth="15.60" />
-<colspec colname="col5" colwidth="14.75" /><colspec colname="col6" colwidth="14.25" />
-<colspec colname="col7" colwidth="11.03" />
+<colspec colname="col1" colwidth="1.5*" align="right"/>
+<colspec colname="col2" colwidth="2.0*" align="left"/>
+<colspec colname="col3" colwidth="1.7*" align="left"/>
+<colspec colname="col4" colwidth="1.9*" align="left"/>
+<colspec colname="col5" colwidth="1.9*" align="left"/>
+<colspec colname="col6" colwidth="1.8*" align="left"/>
+<colspec colname="col7" colwidth="1.2*" align="left"/>
 <tbody>
 <row>
 <entry align="center" colsep="0" nameend="col7" namest="col1" rowsep="0" valign="middle">Individual
 Income Tax Brackets and Rates</entry>
 </row>
 <row>
-<entry colsep="0" rowsep="0">Bracket</entry>
+<entry colsep="0" rowsep="0" align="left">Bracket</entry>
 <entry colsep="0" rowsep="0">Single</entry>
 <entry colsep="0" rowsep="0">Married,</entry>
 <entry colsep="0" rowsep="0">Head of</entry>
@@ -30,7 +33,7 @@ Income Tax Brackets and Rates</entry>
 <entry colsep="0" rowsep="0">Tax</entry>
 </row>
 <row>
-<entry colsep="0" rowsep="0">Number</entry>
+<entry colsep="0" rowsep="0" align="left">Number</entry>
 <entry colsep="0" rowsep="0">Individuals</entry>
 <entry colsep="0" rowsep="0">Filing</entry>
 <entry colsep="0" rowsep="0">Household</entry>
@@ -116,21 +119,24 @@ Income Tax Brackets and Rates</entry>
 <para>(2) For taxable years beginning or deemed to begin on or after January
 1, 2014, the following brackets and rates are hereby established for the Nebraska
 individual income tax:</para>
-<para><table frame="none">
+<para>
+<table frame="none">
 <tgroup cols="7">
-<?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt" rth="0.00pt"?>
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt" rth="1.00pt" dispwid="1375.00px"?>
-<colspec colname="col1" colwidth="12.76" /><colspec colname="col2" colwidth="17.20" />
-<colspec colname="col3" colwidth="14.95" /><colspec colname="col4" colwidth="15.47" />
-<colspec colname="col5" colwidth="15.42" /><colspec colname="col6" colwidth="12.87" />
-<colspec colname="col7" colwidth="11.49" />
+<colspec colname="col1" colwidth="1.5*" align="right"/>
+<colspec colname="col2" colwidth="2.0*" align="left"/>
+<colspec colname="col3" colwidth="1.7*" align="left"/>
+<colspec colname="col4" colwidth="1.9*" align="left"/>
+<colspec colname="col5" colwidth="1.9*" align="left"/>
+<colspec colname="col6" colwidth="1.8*" align="left"/>
+<colspec colname="col7" colwidth="1.2*" align="left"/>
 <tbody>
 <row>
 <entry align="center" colsep="0" nameend="col7" namest="col1" rowsep="0" valign="middle">Individual
 Income Tax Brackets and Rates</entry>
 </row>
 <row>
-<entry colsep="0" rowsep="0">Bracket</entry>
+<entry colsep="0" rowsep="0" align="left">Bracket</entry>
 <entry colsep="0" rowsep="0">Single</entry>
 <entry colsep="0" rowsep="0">Married,</entry>
 <entry colsep="0" rowsep="0">Head of</entry>
@@ -139,7 +145,7 @@ Income Tax Brackets and Rates</entry>
 <entry colsep="0" rowsep="0">Tax</entry>
 </row>
 <row>
-<entry colsep="0" rowsep="0">Number</entry>
+<entry colsep="0" rowsep="0" align="left">Number</entry>
 <entry colsep="0" rowsep="0">Individuals</entry>
 <entry colsep="0" rowsep="0">Filing</entry>
 <entry colsep="0" rowsep="0">Household</entry>
