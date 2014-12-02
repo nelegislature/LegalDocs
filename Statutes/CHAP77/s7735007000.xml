@@ -15,10 +15,12 @@ or closely related claimant, the percentage of the exempt amount for which
 the claimant shall be eligible shall be the percentage in Column B which corresponds
 with the claimant's household income in Column A in the table found in this
 subsection.</para>
-<para><table frame="none">
+<para>
+<table frame="none" pgwide="yes">
 <tgroup align="center" cols="2">
 <?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="4.00pt"?>
-<colspec colname="col1" colwidth="1.14" /><colspec colname="col2" colwidth="0.86" />
+<colspec colname="col1" align="center" colwidth="1.06*"/>
+<colspec colname="col2" align="center" colwidth="1*"/>
 <tbody>
 <row>
 <entry colsep="0" rowsep="0">Column
@@ -99,10 +101,12 @@ and over</entry>
 claimant, the percentage of the exempt amount for which the claimant shall
 be eligible shall be the percentage in Column B which corresponds with the
 claimant's household income in Column A in the table found in this subsection.</para>
-<para><table frame="none">
+<para>
+<table frame="none" pgwide="yes">
 <tgroup align="center" cols="2">
 <?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="4.00pt"?>
-<colspec colname="col1" colwidth="1.15" /><colspec colname="col2" colwidth="0.85" />
+<colspec colname="col1" colwidth="1.11*" align="center"/>
+<colspec colname="col2" colwidth="1*" align="center"/>
 <tbody>
 <row>
 <entry colsep="0" rowsep="0">Column
