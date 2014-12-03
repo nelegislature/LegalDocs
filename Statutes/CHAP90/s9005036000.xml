@@ -5,98 +5,60 @@
 <amendatorysection amended="yes" chaptername="Special Acts" id="id16" publishedsource="CumulativeSupplement" statutenumber="90-536"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>90-536</statuteno><catchline>Department of Correctional Services;
 Operations.</catchline><para>AGENCY NO. 46 &#8212; DEPARTMENT OF CORRECTIONAL SERVICES</para>
 <para>Program No. 200 - Operations</para>
-<para><table frame="none">
+<para>
+<table frame="none">
 <tgroup cols="3">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt" rth="0.00pt"?>
-<colspec colname="col1" colwidth="1.14" /><colspec align="right" colname="col2" colwidth="0.93" /><colspec align="right" colname="col3" colwidth="0.93" />
+<colspec colname="col1" align="left" colwidth="1.05*"/>
+<colspec align="right" colname="col2" colwidth="1.01*"/>
+<colspec align="right" colname="col3" colwidth="1*"/>
 <tbody>
 <row>
 <?PubTbl row rht="0.31in"?>
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
 <entry colsep="0" rowsep="0">FY2011-12</entry>
 <entry colsep="0" rowsep="0">FY2012-13</entry>
 </row>
 <row>
 <?PubTbl row rht="0.31in"?>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-</row>
-<row>
-<?PubTbl row rht="0.31in"?>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-</row>
-<row>
-<?PubTbl row rht="0.31in"?>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-</row>
-<row>
-<?PubTbl row rht="0.31in"?>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-</row>
-<row>
-<?PubTbl row rht="0.31in"?>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-</row>
-<row>
-<?PubTbl row rht="0.31in"?>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-</row>
-<row>
-<?PubTbl row rht="0.31in"?>
-<entry colsep="0" rowsep="0">GENERAL
-FUND</entry>
+<entry colsep="0" rowsep="0">GENERAL FUND</entry>
 <entry colsep="0" rowsep="0">156,031,016</entry>
 <entry colsep="0" rowsep="0">159,445,668</entry>
 </row>
 <row>
 <?PubTbl row rht="0.31in"?>
-<entry colsep="0" rowsep="0">CASH
-FUND</entry>
+<entry colsep="0" rowsep="0">CASH FUND</entry>
 <entry colsep="0" rowsep="0">1,741,500</entry>
 <entry colsep="0" rowsep="0">1,741,500</entry>
 </row>
 <row>
 <?PubTbl row rht="0.31in"?>
-<entry colsep="0" rowsep="0">FEDERAL
-FUND est.</entry>
+<entry colsep="0" rowsep="0">FEDERAL FUND est.</entry>
 <entry colsep="0" rowsep="0">1,732,408</entry>
 <entry colsep="0" rowsep="0">1,719,187</entry>
 </row>
 <row>
 <?PubTbl row rht="0.31in"?>
-<entry colsep="0" rowsep="0">REVOLVING
-FUND est.</entry>
+<entry colsep="0" rowsep="0">REVOLVING FUND est.</entry>
 <entry colsep="0" rowsep="0">18,229,738</entry>
 <entry colsep="0" rowsep="0">18,192,892</entry>
 </row>
 <row>
 <?PubTbl row rht="0.31in"?>
-<entry colsep="0" rowsep="0">PROGRAM
-TOTAL</entry>
+<entry colsep="0" rowsep="0">PROGRAM TOTAL</entry>
 <entry colsep="0" rowsep="0">177,734,662</entry>
 <entry colsep="0" rowsep="0">181,099,247</entry>
 </row>
 <row>
 <?PubTbl row rht="0.31in"?>
-<entry colsep="0" rowsep="0">SALARY
-LIMIT</entry>
+<entry colsep="0" rowsep="0">SALARY LIMIT</entry>
 <entry colsep="0" rowsep="0">89,564,114</entry>
 <entry colsep="0" rowsep="0">91,383,014</entry>
 </row>
 </tbody>
 </tgroup>
-</table></para>
+</table>
+</para>
 <para>The unexpended General Fund and Cash Fund appropriation balances existing
 on June 30, 2011, are hereby reappropriated.</para>
 <para>Included in the salary limitations provided by this section is $3,441,193
