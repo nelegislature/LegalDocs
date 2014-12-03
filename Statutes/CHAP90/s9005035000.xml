@@ -6,72 +6,48 @@
 Public Assistance.</catchline><para>AGENCY NO. 25 &#8212; DEPARTMENT
 OF HEALTH AND HUMAN SERVICES</para>
 <para>Program No. 347 - Public Assistance</para>
-<para><table frame="none">
+<para>
+<table frame="none">
 <tgroup cols="3">
 <?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec colname="col1" colwidth="1.14*" /><colspec align="right" colname="col2" colwidth="0.93*" /><colspec align="right" colname="col3" colwidth="0.93*" />
+<colspec colname="col1" colwidth="1.24*" align="left"/>
+<colspec align="right" colname="col2" colwidth="1*"/>
+<colspec align="right" colname="col3" colwidth="1.06*"/>
 <tbody>
 <row>
 <?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0" />
+<entry colsep="0" rowsep="0"/>
 <entry colsep="0" rowsep="0">FY2011-12</entry>
 <entry colsep="0" rowsep="0">FY2012-13</entry>
 </row>
 <row>
 <?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-</row>
-<row>
-<?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0">GENERAL
-FUND</entry>
+<entry colsep="0" rowsep="0">GENERAL FUND</entry>
 <entry colsep="0" rowsep="0">266,818,578</entry>
 <entry colsep="0" rowsep="0">108,524,785</entry>
 </row>
 <row>
 <?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-</row>
-<row>
-<?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0">CASH
-FUND</entry>
+<entry colsep="0" rowsep="0">CASH FUND</entry>
 <entry colsep="0" rowsep="0">6,044,444</entry>
 <entry colsep="0" rowsep="0">3,310,000</entry>
 </row>
 <row>
 <?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-</row>
-<row>
-<?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0">FEDERAL
-FUND est.</entry>
+<entry colsep="0" rowsep="0">FEDERAL FUND est.</entry>
 <entry colsep="0" rowsep="0">141,003,570</entry>
 <entry colsep="0" rowsep="0">103,663,429</entry>
 </row>
 <row>
 <?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-<entry colsep="0" rowsep="0" />
-</row>
-<row>
-<?PubTbl row rht="0.33in"?>
-<entry colsep="0" rowsep="0">PROGRAM
-TOTAL</entry>
+<entry colsep="0" rowsep="0">PROGRAM TOTAL</entry>
 <entry colsep="0" rowsep="0">413,866,592</entry>
 <entry colsep="0" rowsep="0">215,498,214</entry>
 </row>
 </tbody>
 </tgroup>
-</table></para>
+</table>
+</para>
 <para>There is included in the appropriation to this program for
 FY2011-12 $266,818,578 General Funds,
 $6,044,444 Cash Funds, and $141,003,570 Federal Funds estimate for state aid,
