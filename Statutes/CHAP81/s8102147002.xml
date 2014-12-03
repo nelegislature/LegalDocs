@@ -76,8 +76,11 @@ stated if desired. Also, for each of the following named grasses when extreme
 dormancy is encountered, the result of a tetrazolium (TZ) test may be shown
 in lieu of the percentage of germination to indicate the potential viability
 of the seed:</para>
-<para><table frame="none">
-<tgroup cols="2"><colspec colname="COLSPEC2" colwidth="0.47" /><colspec align="right" colname="col2" colwidth="1.11" />
+<para>
+<table frame="none">
+<tgroup cols="2">
+<colspec colname="COLSPEC2" colwidth="1*"/>
+<colspec align="right" colname="col2" colwidth="1.04*"/>
 <tbody>
 <row>
 <entry colsep="0" rowsep="0">Bluestem:</entry>
