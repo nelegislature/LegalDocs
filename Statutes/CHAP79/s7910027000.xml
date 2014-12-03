@@ -8,10 +8,12 @@ of depreciation funds, necessary employee benefit fund cash reserves, and
 necessary general fund cash reserves, exceeding the applicable allowable reserve
 percentages of total general fund budget of expenditures as specified in the
 schedule set forth in this section.</para>
-<para><table frame="none">
+<para>
+<table frame="none" pgwide="yes">
 <tgroup cols="2">
 <?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
-<colspec colname="COLSPEC4" colwidth="50.00" /><colspec align="center" colname="col2" colwidth="50.00" />
+<colspec colname="COLSPEC4" align="center" colwidth="1.04*"/>
+<colspec align="center" colname="col2" colwidth="1*"/>
 <tbody>
 <row>
 <entry align="center" colsep="0" rowsep="0">Average daily</entry>
