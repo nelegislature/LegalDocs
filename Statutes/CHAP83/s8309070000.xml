@@ -1,18 +1,4 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
-<law type="statute">
-<section id="id102">
-<sectno id="id103">Sec. 15.</sectno><amendatorysection amended="yes" chaptername="State Institutions" id="id104" statutenumber="83-970"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id106">83-970</statuteno><catchline id="id107">Execution; persons permitted.</catchline><para>Besides
-the Director
-of Correctional Services and those persons required to be present under the
-execution protocol, the following persons, and no others, except
-as provided in section 83-971, may be present at
-the execution: (1) The member of the clergy in attendance upon the convicted person; (2) no more than three persons selected
-by the convicted person; (3) no more than three persons representing the victim
-or victims of the crime; and (4) such
-other persons, not exceeding six in number, as the director may
-designate. At least two persons
-designated by the director shall be professional members of the Nebraska news
-media.</para>
-</amendatorysection></section><source><para>Laws 1973, LB 268, &#167; 19; </para><para>R.S.1943, (2008), &#167; 29-2534; </para><para>Laws 2009, LB36, &#167; 15.</para></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="STATE INSTITUTIONS" statutenumber="83-970"><bookinfo>Revised Statutes Annual Supplement, 2015</bookinfo><statuteno>83-970</statuteno><catchline>Repealed. Laws 2015, LB 268, &#167; 35.</catchline></amendatorysection></section></law>
 </legaldoc>

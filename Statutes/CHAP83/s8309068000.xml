@@ -1,13 +1,4 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
-<law type="statute">
-<section id="id91">
-<sectno id="id92">Sec. 13.</sectno><amendatorysection chaptername="State Institutions" id="id93" publishedsource="AnnualSupplement" statutenumber="83-968"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>83-968</statuteno><catchline>Method of execution declared unconstitutional;
-effect on sentence.</catchline><para>No death sentence shall be voided or reduced as a result
-of a determination that a method of execution was declared unconstitutional
-under the Constitution of Nebraska or the Constitution of the United States.
-In any case in which an execution method is declared unconstitutional, the
-death sentence shall remain in force until the sentence can be lawfully executed
-by any valid method of execution.</para>
-</amendatorysection></section><source><para>Laws 2009, LB36, &#167;  13.</para></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="STATE INSTITUTIONS" statutenumber="83-968"><bookinfo>Revised Statutes Annual Supplement, 2015</bookinfo><statuteno>83-968</statuteno><catchline>Repealed. Laws 2015, LB 268, &#167; 35.</catchline></amendatorysection></section></law>
 </legaldoc>

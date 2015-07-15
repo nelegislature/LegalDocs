@@ -1,13 +1,4 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
-<law type="statute">
-<section id="id109">
-<sectno id="id110">Sec. 16.</sectno><amendatorysection amended="yes" chaptername="State Institutions" id="id111" statutenumber="83-971"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id113">83-971</statuteno><catchline id="id114">Director of Correctional Services;
-military force necessary to carry out punishment; inform Governor.</catchline>
-<para>Whenever the Director of Correctional Services shall
-deem the presence of a military force necessary to carry into effect the provisions
-of sections 83-964 and 83-969, he or she shall make the fact
-known to the Governor of the state, who is hereby authorized to call out so
-much of the military force of the state as in his or her judgment may be necessary for the purpose.</para>
-</amendatorysection></section><source><para>Laws 1973, LB 268, &#167; 20; </para><para>R.S.1943, (2008), &#167; 29-2535; </para><para>Laws 2009, LB36, &#167; 16.</para></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="STATE INSTITUTIONS" statutenumber="83-971"><bookinfo>Revised Statutes Annual Supplement, 2015</bookinfo><statuteno>83-971</statuteno><catchline>Repealed. Laws 2015, LB 268, &#167; 35.</catchline></amendatorysection></section></law>
 </legaldoc>

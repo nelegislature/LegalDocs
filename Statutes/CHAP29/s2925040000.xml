@@ -1,12 +1,4 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
-<law type="statute">
-<section id="id26">
-<sectno id="id27">Sec. 4.</sectno><amendatorysection amended="yes" chaptername="Criminal Procedure" id="id28" statutenumber="29-2540"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno id="id30">29-2540</statuteno><catchline id="id31">Female convicted person; pregnant; notice
-to judge; procedures.</catchline><para>If a female convicted person under sentence of death shall
-appear to be pregnant, the Director
-of Correctional Services shall in like manner notify the judge
-of the district court of the county in which she was sentenced, who shall
-in all things proceed as in the case of an incompetent convicted person.</para>
-</amendatorysection></section><source><para>Laws 1973, LB 268, &#167; 25; </para><para>Laws 1986, LB 1177, &#167; 9; </para><para>Laws 2009, LB36, &#167; 4.</para></source><crossreference><para><emphasis>Mentally incompetent convicts,</emphasis> see sections 29-2537 to 29-2539.</para></crossreference>  </law>
+<law type="statute"><section><amendatorysection chaptername="CRIMINAL PROCEDURE" statutenumber="29-2540"><bookinfo>Revised Statutes Annual Supplement, 2015</bookinfo><statuteno>29-2540</statuteno><catchline>Repealed. Laws 2015, LB 268, &#167; 35.</catchline></amendatorysection></section></law>
 </legaldoc>

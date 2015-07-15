@@ -1,41 +1,4 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
-<law type="statute">
-<section id="id70">
-<sectno id="id71">Sec. 8.</sectno><amendatorysection chaptername="Crimes And Punishments" id="id72" publishedsource="AnnualSupplement" statutenumber="28-636"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>28-636</statuteno><catchline>Criminal impersonation; identity theft;
-identity fraud; terms, defined.</catchline><para>For purposes of sections 28-636 to 28-640:</para>
-<para>(1) Personal
-identification document means a birth certificate, motor vehicle operator's
-license, state identification card, public, government, or private employment
-identification card, social security card, visa work permit, firearm owner's
-identification card, certificate issued under section 69-2404, or passport
-or any document made or altered in a manner that it purports to have been
-made on behalf of or issued to another person or by the authority of a person
-who did not give that authority. Personal identification document does not
-include a financial transaction device as defined in section 28-618;</para>
-<para>(2) Personal
-identifying information means any name or number that may be used, alone or
-in conjunction with any other information, to identify a specific person including
-a person's: (a) Name; (b) date of birth; (c) address; (d) motor vehicle operator's
-license number or state identification card number as assigned by the State
-of Nebraska or another state; (e) social security number or visa work permit
-number; (f) public, private, or government employer, place of employment,
-or employment identification number; (g) maiden name of a person's mother;
-(h) number assigned to a person's credit card, charge card, or debit card,
-whether issued by a financial institution, corporation, or other business
-entity; (i) number assigned to a person's depository account, savings account,
-or brokerage account; (j) personal identification number as defined in section
-8-157.01; (k) electronic identification number, address, or routing code used
-to access financial information; (l) digital signature; (m) telecommunications
-identifying information or access device; (n) unique biometric data, such
-as fingerprint, voice print, retina or iris image, or other unique physical
-representation; and (o) other number or information which can be used to access
-a person's financial resources; and</para><para>(3) Telecommunications identifying information
-or access device means a card, plate, code, account number, mobile identification
-number, or other telecommunications service, equipment, or instrument identifier
-or means of account access that alone or in conjunction with other telecommunications
-identifying information or another telecommunications access device may be
-used to: (a) Obtain money, goods, services, or any other thing of value; or
-(b) initiate a transfer of funds other than a transfer originated solely by
-a paper instrument.</para></amendatorysection></section><source><para>Laws 2009, LB155, &#167; 8.</para></source>  </law>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Crimes And Punishments" id="id72" publishedsource="AnnualSupplement" statutenumber="28-636"><bookinfo>Revised Statutes Annual Supplement, 2015</bookinfo><statuteno>28-636</statuteno><catchline>Criminal impersonation; identity theft; identity fraud; terms, defined.</catchline><para>For purposes of sections 28-636 to 28-640:</para><para>(1) Personal identification document means a birth certificate, motor vehicle operator's license, state identification card, public, government, or private employment identification card, social security card, visa work permit, firearm owner's identification card, certificate issued under section 69-2404, or passport or any document made or altered in a manner that it purports to have been made on behalf of or issued to another person or by the authority of a person who did not give that authority. Personal identification document does not include a financial transaction device as defined in section 28-618;</para><para>(2) Personal identification number means a combination of numerals or letters selected for a customer of a financial institution, a merchant, or any other third party which is used in conjunction with an access device to initiate an electronic funds transfer transaction;</para><para>(3) Personal identifying information means any name or number that may be used, alone or in conjunction with any other information, to identify a specific person including a person's: (a) Name; (b) date of birth; (c) address; (d) motor vehicle operator's license number or state identification card number as assigned by the State of Nebraska or another state; (e) social security number or visa work permit number; (f) public, private, or government employer, place of employment, or employment identification number; (g) maiden name of a person's mother; (h) number assigned to a person's credit card, charge card, or debit card, whether issued by a financial institution, corporation, or other business entity; (i) number assigned to a person's depository account, savings account, or brokerage account; (j) personal identification number; (k) electronic identification number, address, or routing code used to access financial information; (l) digital signature; (m) telecommunications identifying information or access device; (n) unique biometric data, such as fingerprint, voice print, retina or iris image, or other unique physical representation; and (o) other number or information which can be used to access a person's financial resources; and</para><para>(4) Telecommunications identifying information or access device means a card, plate, code, account number, mobile identification number, or other telecommunications service, equipment, or instrument identifier or means of account access that alone or in conjunction with other telecommunications identifying information or another telecommunications access device may be used to: (a) Obtain money, goods, services, or any other thing of value; or (b) initiate a transfer of funds other than a transfer originated solely by a paper instrument.</para></amendatorysection></section><source><para>Laws 2009, LB155, &#167; 8; </para><para>Laws 2015, LB348, &#167; 3. </para><effectivedate>May 14, 2015</effectivedate></source></law>
 </legaldoc>

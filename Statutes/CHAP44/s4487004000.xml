@@ -1,17 +1,4 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
-<law type="statute">
-<section id="id35">
-<amendatorysection chaptername="Insurance" id="id37" publishedsource="New" statutenumber="44-8704"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>44-8704</statuteno><catchline>Nebraska Exchange Stakeholder Commission;
-officers; meetings; quorum; expenses.</catchline><para>(1) The Nebraska Exchange Stakeholder Commission
-shall organize by selecting a chairperson and a vice-chairperson who shall
-hold office at the pleasure of the commission. The vice-chairperson shall
-act as chairperson in the absence of the chairperson or in the event of a
-vacancy in that position.</para>
-<para>(2) The commission
-shall hold at least four meetings annually, at times and places fixed by the
-chairperson.</para><para>(3) A majority of the members of the commission shall constitute
-a quorum.</para><para>(4) Members of the commission shall be reimbursed for their actual
-and necessary expenses as provided in sections 81-1174 to 81-1177.</para>
-</amendatorysection></section><source><para>Laws 2013, LB384, &#167; 4.</para><terminationdate>July 1, 2017</terminationdate></source>  </law>
+    <law type="statute"><section><amendatorysection chaptername="Insurance" id="id37" publishedsource="New" statutenumber="44-8704" amended="yes"><bookinfo>Revised Statutes Annual Supplement, 2015</bookinfo><statuteno>44-8704</statuteno><catchline>Nebraska Exchange Stakeholder Commission; officers; meetings; quorum; expenses.</catchline><para>(1) The Nebraska Exchange Stakeholder Commission shall organize by selecting a chairperson and a vice-chairperson who shall hold office at the pleasure of the commission. The vice-chairperson shall act as chairperson in the absence of the chairperson or in the event of a vacancy in that position.</para><para>(2) The commission shall hold at least three meetings annually, at times and places fixed by the chairperson.</para><para>(3) A majority of the members of the commission shall constitute a quorum.</para><para>(4) Members of the commission shall be reimbursed for their actual and necessary expenses as provided in sections 81-1174 to 81-1177.</para></amendatorysection></section><source><para>Laws 2013, LB384, &#167; 4; </para><para>Laws 2015, LB456, &#167; 1. </para><effectivedate>May 27, 2015</effectivedate><terminationdate>July 1, 2017</terminationdate></source></law>
 </legaldoc>

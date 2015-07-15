@@ -1,14 +1,4 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
-<law type="statute">
-<section id="id55">
-<amendatorysection chaptername="Infants And Juveniles" id="id57" publishedsource="CumulativeSupplement" statutenumber="43-4207"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>43-4207</statuteno><catchline>Nebraska Children's Commission; reports.</catchline>
-<para>The Nebraska
-Children's Commission shall provide a written report to the Health and Human
-Services Committee of the Legislature on the status of its activities on or
-before August 1, 2012, September 15, 2012, and November 1, 2012. The commission
-shall complete the statewide strategic plan required pursuant to section 43-4204
-and provide a written report to the Health and Human Services Committee of
-the Legislature and the Governor on or before December 15, 2012.</para>
-</amendatorysection></section><source><para>Laws 2012, LB821, &#167; 7.</para></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="Infants And Juveniles" id="id57" publishedsource="CumulativeSupplement" statutenumber="43-4207" amended="yes"><bookinfo>Revised Statutes Annual Supplement, 2015</bookinfo><statuteno>43-4207</statuteno><catchline>Nebraska Children's Commission; reports.</catchline><para>The Nebraska Children's Commission shall provide a written report to the Governor and an electronic report to the Health and Human Services Committee of the Legislature of its activities during the previous year on or before December 1, 2015. If the commission is continued by the Legislature as provided in section 43-4202, the commission shall provide such report on or before December 1 of each year the commission is continued.</para></amendatorysection></section><source><para>Laws 2012, LB821, &#167; 7; </para><para>Laws 2015, LB87, &#167; 2. </para><effectivedate>August 30, 2015</effectivedate></source></law>
 </legaldoc>

@@ -1,9 +1,4 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
-<law type="statute">
-<section id="id3">
-<sectno id="id4">Section 1.</sectno><amendatorysection chaptername="Labor" id="id5" publishedsource="CumulativeSupplement" statutenumber="48-2801"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>48-2801</statuteno><catchline>Act, how cited.</catchline><para>Sections 48-2801
-to 48-2805 shall be known and may be cited as the Nebraska Innovation and
-High Wage Employment Act.</para>
-</amendatorysection></section><source><para>Laws 2010, LB1109, &#167; 1.</para><terminationdate>January 1, 2011</terminationdate></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="LABOR" statutenumber="48-2801"><bookinfo>Revised Statutes Annual Supplement, 2015</bookinfo><statuteno>48-2801</statuteno><catchline>Repealed. Laws 2015, LB 5, &#167; 1.</catchline></amendatorysection></section></law>
 </legaldoc>

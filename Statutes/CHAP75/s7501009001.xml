@@ -1,42 +1,4 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
-<law type="statute">
-<section id="id106">
-<amendatorysection amended="yes" chaptername="Public Service Commission" id="id108" publishedsource="CumulativeSupplement" statutenumber="75-109.01"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>75-109.01</statuteno><catchline id="id111">Jurisdiction.</catchline>
-<para>Except as otherwise specifically provided by law, the Public
-Service Commission shall have jurisdiction, as prescribed, over the following
-subjects:</para>
-<para>(1) Common carriers, generally, pursuant to sections 75-101
-to 75-158;</para>
-<para>(2) Grain pursuant to the Grain Dealer Act and the Grain
-Warehouse Act and sections 89-1,104 to 89-1,108;</para>
-<para>(3) Manufactured homes and recreational vehicles pursuant
-to the Uniform Standard Code for Manufactured Homes and Recreational Vehicles;</para>
-<para>(4) Modular housing units pursuant to the Nebraska Uniform
-Standards for Modular Housing Units Act;</para>
-<para>(5) Motor carrier registration and safety pursuant to sections
-75-301 to 75-322, 75-369.03, 75-370, and 75-371;</para>
-<para>(6) Pipeline carriers and rights-of-way pursuant to the Major Oil Pipeline Siting Act, the
-State Natural Gas Regulation Act, and
-sections 75-501 to 75-503.
-If the provisions of Chapter 75 are inconsistent with the provisions of the
-Major Oil Pipeline Siting Act, the provisions of the Major Oil Pipeline Siting
-Act control;</para>
-<para>(7) Railroad carrier safety pursuant to sections 74-918,
-74-919, 74-1323, and 75-401 to 75-430;</para>
-<para>(8) Telecommunications carriers pursuant to the Automatic
-Dialing-Announcing Devices Act, the Emergency Telephone Communications Systems
-Act, the Enhanced Wireless 911 Services Act, the Intrastate Pay-Per-Call Regulation
-Act, the Nebraska Telecommunications Regulation Act, the Nebraska Telecommunications
-Universal Service Fund Act, the Telecommunications Relay System Act, the Telephone
-Consumer Slamming Prevention Act, and sections 86-574 to 86-580;</para>
-<para>(9) Transmission lines and rights-of-way pursuant to sections
-70-301 and 75-702 to 75-724;</para>
-<para>(10) Water service pursuant to the Water Service Regulation
-Act; and</para>
-<para>(11) Jurisdictional utilities governed by the State Natural
-Gas Regulation Act. If the provisions of Chapter 75 are inconsistent with
-the provisions of the State Natural Gas Regulation Act, the provisions of
-the State Natural Gas Regulation Act control.</para>
-</amendatorysection></section><source><para>Laws 2002, LB 1105, &#167; 482; </para><para>Laws 2003, LB 790, &#167; 63; </para><para>Laws 2006, LB 1069, &#167; 1; </para><para>Laws 2006, LB 1249, &#167; 12; </para><para>Laws 2011, First Spec. Sess., LB1, &#167; 14.</para></source><crossreference><para><emphasis>Automatic Dialing-Announcing Devices Act,</emphasis> see section 86-236.</para><para><emphasis>Emergency Telephone Communications Systems Act,</emphasis> see section 86-420.</para><para><emphasis>Enhanced Wireless 911 Services Act,</emphasis> see section 86-442.</para><para><emphasis>Grain Dealer Act,</emphasis> see section 75-901.</para><para><emphasis>Grain Warehouse Act,</emphasis> see section 88-525.</para><para><emphasis>Intrastate Pay-Per-Call Regulation Act,</emphasis> see section 86-258.</para><para><emphasis>Major Oil Pipeline Siting Act,</emphasis> see section 57-1401.</para><para><emphasis>Nebraska Telecommunications Regulation Act,</emphasis> see section 86-101.</para><para><emphasis>Nebraska Telecommunications Universal Service Fund Act,</emphasis> see section 86-316.</para><para><emphasis>Nebraska Uniform Standards for Modular Housing Units Act,</emphasis> see section 71-1555.</para><para><emphasis>State Natural Gas Regulation Act,</emphasis> see section 66-1801.</para><para><emphasis>Telecommunications Relay System Act,</emphasis> see section 86-301.</para><para><emphasis>Telephone Consumer Slamming Prevention Act,</emphasis> see section 86-201.</para><para><emphasis>Uniform Standard Code for Manufactured Homes and Recreational Vehicles,</emphasis> see section 71-4601.</para><para><emphasis>Water Service Regulation Act,</emphasis> see section 75-1001.</para></crossreference>  </law>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Public Service Commission" id="id108" publishedsource="CumulativeSupplement" statutenumber="75-109.01"><bookinfo>Revised Statutes Annual Supplement, 2015</bookinfo><statuteno>75-109.01</statuteno><catchline id="id111">Jurisdiction.</catchline><para>Except as otherwise specifically provided by law, the Public Service Commission shall have jurisdiction, as prescribed, over the following subjects:</para><para>(1) Common carriers, generally, pursuant to sections 75-101 to 75-158;</para><para>(2) Grain pursuant to the Grain Dealer Act and the Grain Warehouse Act and sections 89-1,104 to 89-1,108;</para><para>(3) Manufactured homes and recreational vehicles pursuant to the Uniform Standard Code for Manufactured Homes and Recreational Vehicles;</para><para>(4) Modular housing units pursuant to the Nebraska Uniform Standards for Modular Housing Units Act;</para><para>(5) Motor carrier registration and safety pursuant to sections 75-301 to 75-343, 75-369.03, 75-370, and 75-371;</para><para>(6) Pipeline carriers and rights-of-way pursuant to the Major Oil Pipeline Siting Act, the State Natural Gas Regulation Act, and sections 75-501 to 75-503. If the provisions of Chapter 75 are inconsistent with the provisions of the Major Oil Pipeline Siting Act, the provisions of the Major Oil Pipeline Siting Act control;</para><para>(7) Railroad carrier safety pursuant to sections 74-918, 74-919, 74-1323, and 75-401 to 75-430;</para><para>(8) Telecommunications carriers pursuant to the Automatic Dialing-Announcing Devices Act, the Emergency Telephone Communications Systems Act, the Enhanced Wireless 911 Services Act, the Intrastate Pay-Per-Call Regulation Act, the Nebraska Telecommunications Regulation Act, the Nebraska Telecommunications Universal Service Fund Act, the Telecommunications Relay System Act, the Telephone Consumer Slamming Prevention Act, and sections 86-574 to 86-580;</para><para>(9) Transmission lines and rights-of-way pursuant to sections 70-301 and 75-702 to 75-724;</para><para>(10) Water service pursuant to the Water Service Regulation Act; and</para><para>(11) Jurisdictional utilities governed by the State Natural Gas Regulation Act. If the provisions of Chapter 75 are inconsistent with the provisions of the State Natural Gas Regulation Act, the provisions of the State Natural Gas Regulation Act control.</para></amendatorysection></section><source><para>Laws 2002, LB 1105, &#167; 482; </para><para>Laws 2003, LB 790, &#167; 63; </para><para>Laws 2006, LB 1069, &#167; 1; </para><para>Laws 2006, LB 1249, &#167; 12; </para><para>Laws 2011, First Spec. Sess., LB1, &#167; 14; </para><para>Laws 2015, LB629, &#167; 1. </para><effectivedate>May 28, 2015</effectivedate></source><crossreference><para><emphasis>Automatic Dialing-Announcing Devices Act,</emphasis> see section 86-236.</para><para><emphasis>Emergency Telephone Communications Systems Act,</emphasis> see section 86-420.</para><para><emphasis>Enhanced Wireless 911 Services Act,</emphasis> see section 86-442.</para><para><emphasis>Grain Dealer Act,</emphasis> see section 75-901.</para><para><emphasis>Grain Warehouse Act,</emphasis> see section 88-525.</para><para><emphasis>Intrastate Pay-Per-Call Regulation Act,</emphasis> see section 86-258.</para><para><emphasis>Major Oil Pipeline Siting Act,</emphasis> see section 57-1401.</para><para><emphasis>Nebraska Telecommunications Regulation Act,</emphasis> see section 86-101.</para><para><emphasis>Nebraska Telecommunications Universal Service Fund Act,</emphasis> see section 86-316.</para><para><emphasis>Nebraska Uniform Standards for Modular Housing Units Act,</emphasis> see section 71-1555.</para><para><emphasis>State Natural Gas Regulation Act,</emphasis> see section 66-1801.</para><para><emphasis>Telecommunications Relay System Act,</emphasis> see section 86-301.</para><para><emphasis>Telephone Consumer Slamming Prevention Act,</emphasis> see section 86-201.</para><para><emphasis>Uniform Standard Code for Manufactured Homes and Recreational Vehicles,</emphasis> see section 71-4601.</para><para><emphasis>Water Service Regulation Act,</emphasis> see section 75-1001.</para></crossreference></law>
 </legaldoc>

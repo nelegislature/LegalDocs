@@ -1,19 +1,4 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
-<law type="statute">
-<section id="id11">
-<sectno id="id12">Sec. 3.</sectno><amendatorysection chaptername="Labor" id="id13" publishedsource="CumulativeSupplement" statutenumber="48-2803"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>48-2803</statuteno><catchline>Statewide strategic plan; development;
-nonprofit organization.</catchline><para>The Innovation and Entrepreneurship Task Force, in consultation
-with the Executive Board of the Legislative Council, shall commission a nonprofit
-organization to provide research, analysis, and recommendations for the development
-of the statewide strategic plan. The nonprofit organization shall be incorporated
-pursuant to the Nebraska Nonprofit Corporation Act, shall be organized exclusively
-for nonprofit purposes within the meaning of section 501(c)(3) of the Internal
-Revenue Code, shall be engaged in activities to facilitate and promote the
-growth of potential high-growth businesses within the state, and shall be
-dedicated to the development and growth of the entrepreneurial economy. It
-is the intent of the Legislature that forty-eight thousand dollars of General
-Funds be appropriated to the Legislative Council to provide funding for the
-Nebraska Innovation and High Wage Employment Act.</para>
-</amendatorysection></section><source><para>Laws 2010, LB1109, &#167; 3.</para><terminationdate>January 1, 2011</terminationdate></source><crossreference><para><emphasis>Nebraska Nonprofit Corporation Act,</emphasis> see section 21-1901.</para></crossreference>  </law>
+<law type="statute"><section><amendatorysection chaptername="LABOR" statutenumber="48-2803"><bookinfo>Revised Statutes Annual Supplement, 2015</bookinfo><statuteno>48-2803</statuteno><catchline>Repealed. Laws 2015, LB 5, &#167; 1.</catchline></amendatorysection></section></law>
 </legaldoc>
