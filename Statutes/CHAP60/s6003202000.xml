@@ -1,40 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF8"?>
 <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="Motor Vehicles" statutenumber="60-3,202"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>60-3,202</statuteno><catchline>Registration fees; collection and
-distribution; procedure; Motor Vehicle Tax Fund; created; use; investment.</catchline>
-<para>(1) As registration fees are received by the Division of Motor Carrier
-Services of the department pursuant to section 60-3,198, the division shall
-remit the fees to the State Treasurer, less a collection fee of three percent
-of thirty percent of the registration fees collected. The collection fee shall
-be credited to the Department of Revenue Property Assessment Division Cash
-Fund. The State Treasurer shall credit the remainder of the thirty percent
-of the fees collected to the Motor Vehicle Tax Fund and the remaining seventy
-percent of the fees collected to the Highway Trust Fund.</para>
-<para>(2) On or before the last day of each quarter of the calendar year,
-the State Treasurer shall distribute all funds in the Motor Vehicle Tax Fund
-to the county treasurer of each county in the same proportion
-as the number of original apportionable vehicle registrations in each county
-bears to the total of all original registrations within the state in the registration
-year immediately preceding.</para>
-<para>(3) Upon receipt of motor vehicle tax funds from the State Treasurer,
-the county treasurer shall distribute such funds to taxing agencies
-within the county in the same proportion that the levy of each such taxing
-agency bears to the total of such levies of all taxing agencies in the county.</para>
-<para>(4) In the event any taxing district has been annexed, merged, dissolved,
-or in any way absorbed into another taxing district, any apportionment of
-motor vehicle tax funds to which such taxing district would have been entitled
-shall be apportioned to the successor taxing district which has assumed the
-functions of the annexed, merged, dissolved, or absorbed taxing district.</para>
-<para>(5) On or before March 1 of each year, the department shall furnish
-to the State Treasurer a tabulation showing the total number of original apportionable
-vehicle registrations in each county for the immediately preceding calendar
-year, which shall be the basis for computing the distribution of motor vehicle
-tax funds as provided in subsection (2) of this section.</para>
-<para>(6) The Motor Vehicle Tax Fund is created. Any money in the fund available
-for investment shall be invested by the state investment officer pursuant
-to the Nebraska Capital Expansion Act and the Nebraska State Funds Investment
-Act.</para>
-</amendatorysection></section><source><para>Laws 2005, LB 274, &#167; 202; </para><para>Laws 2007, LB334, &#167; 11; </para><para>Laws 2012, LB801, &#167; 92.</para></source><crossreference><para><emphasis>Nebraska Capital Expansion Act,</emphasis> see section 72-1269.</para><para><emphasis>Nebraska State Funds Investment Act,</emphasis> see section 72-1260.</para></crossreference>  </law>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Motor Vehicles" statutenumber="60-3,202"><bookinfo>Revised Statutes Cumulative Supplement, 2016</bookinfo><statuteno>60-3,202</statuteno><catchline>Registration fees; collection and distribution; procedure; Motor Vehicle Tax Fund; created; use; investment.</catchline><para>(1) As registration fees are received by the Division of Motor Carrier Services of the department pursuant to section 60-3,198, the division shall remit the fees to the State Treasurer, less a collection fee of three percent of thirty percent of the registration fees collected. The collection fee shall be credited to the Department of Revenue Property Assessment Division Cash Fund. The State Treasurer shall credit the remainder of the thirty percent of the fees collected to the Motor Vehicle Tax Fund and the remaining seventy percent of the fees collected to the Highway Trust Fund.</para><para>(2) On or before the last day of each quarter of the calendar year, the State Treasurer shall distribute all funds in the Motor Vehicle Tax Fund to the county treasurer of each county in the same proportion as the number of original motor vehicle registrations in each county bears to the total of all original registrations within the state in the registration year immediately preceding.</para><para>(3) Upon receipt of motor vehicle tax funds from the State Treasurer, the county treasurer shall distribute such funds to taxing agencies within the county in the same proportion that the levy of each such taxing agency bears to the total of such levies of all taxing agencies in the county.</para><para>(4) In the event any taxing district has been annexed, merged, dissolved, or in any way absorbed into another taxing district, any apportionment of motor vehicle tax funds to which such taxing district would have been entitled shall be apportioned to the successor taxing district which has assumed the functions of the annexed, merged, dissolved, or absorbed taxing district.</para><para>(5) On or before March 1 of each year, the department shall furnish to the State Treasurer a tabulation showing the total number of original motor vehicle registrations in each county for the immediately preceding calendar year, which shall be the basis for computing the distribution of motor vehicle tax funds as provided in subsection (2) of this section.</para><para>(6) The Motor Vehicle Tax Fund is created. Any money in the fund available for investment shall be invested by the state investment officer pursuant to the Nebraska Capital Expansion Act and the Nebraska State Funds Investment Act.</para></amendatorysection></section><source><para>Laws 2005, LB 274, &#167; 202; </para><para>Laws 2007, LB334, &#167; 11; </para><para>Laws 2012, LB801, &#167; 92; </para><para>Laws 2016, LB977, &#167; 12. </para><operativedate>July 21, 2016</operativedate></source><crossreference><para><emphasis>Nebraska Capital Expansion Act,</emphasis> see section 72-1269.</para><para><emphasis>Nebraska State Funds Investment Act,</emphasis> see section 72-1260.</para></crossreference></law>
 </legaldoc>

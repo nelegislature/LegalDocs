@@ -1,42 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF8"?>
 <legaldoc>
-<law type="statute">
-<section id="id737">
-<sectno id="id738" opdate=" ">Sec. 50.</sectno><amendatorysection amended="yes" chaptername="Health Occupations And Professions" id="id739" statutenumber="38-2871"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno id="id741">38-2871</statuteno><catchline id="id742">Prescription
-information; transfer; requirements.</catchline><para>Original
-prescription information for any controlled substances listed in Schedule
-III, IV, or V of section 28-405 and other prescription drugs or devices not
-listed in section 28-405 may be transferred between pharmacies for the purpose
-of refill dispensing on a one-time basis, except that pharmacies electronically
-accessing a real-time, online data base may transfer up to the maximum refills
-permitted by law and as authorized by the prescribing practitioner on the prescription.
-Transfers are subject to the following:</para>
-<para>(1) The transfer is communicated directly between two pharmacists
-or pharmacist interns except when the pharmacies can use a real-time, online
-data base;</para>
-<para>(2) The transferring pharmacist or pharmacist intern indicates
-void on the record of the prescription;</para>
-<para>(3) The transferring pharmacist or pharmacist intern indicates
-on the record of the prescription the name, the address, and, if a controlled
-substance, the Drug Enforcement Administration number of the pharmacy to which
-the information was transferred, the name of the pharmacist or pharmacist
-intern receiving the information, the date of transfer, and the name of the
-transferring pharmacist or pharmacist intern;</para>
-<para>(4) The receiving pharmacist or pharmacist intern indicates
-on the record of the transferred prescription that the prescription is transferred;</para>
-<para>(5) The transferred prescription includes the following information:</para>
-<para>(a) The date of issuance of the original prescription;</para>
-<para>(b) The original number of refills authorized;</para>
-<para>(c) The date of original dispensing;</para>
-<para>(d) The number of valid refills remaining;</para>
-<para>(e) The date and location of last refill; and</para>
-<para>(f) The name, the address, and, if a controlled substance,
-the Drug Enforcement Administration number of the pharmacy from which the
-transfer was made, the name of the pharmacist or pharmacist intern transferring
-the information, the original prescription number, and the date of transfer;
-and</para>
-<para>(6) Both the original and transferred prescriptions must
-be maintained by the transferring and receiving pharmacy for a period of five
-years from the date of transfer.</para>
-</amendatorysection></section><source><para>Laws 2001, LB 398, &#167; 36; </para><para>R.S.1943, (2003), &#167; 71-1,146.02; </para><para>Laws 2007, LB463, &#167; 967; </para><para>Laws 2009, LB195, &#167; 50.</para></source>  </law>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Health Occupations And Professions" id="id739" statutenumber="38-2871"><bookinfo>Revised Statutes Cumulative Supplement, 2016</bookinfo><statuteno>38-2871</statuteno><catchline id="id742">Prescription information; transfer; requirements.</catchline><para>(1) Original prescription information for any controlled substances listed in Schedule III, IV, or V of section 28-405 and other prescription drugs or devices not listed in section 28-405 may be transferred between pharmacies for the purpose of refill dispensing on a one-time basis, except that pharmacies electronically sharing a real-time, online data base may transfer up to the maximum refills permitted by law and as authorized by the prescribing practitioner on the prescription. Transfers are subject to the following:</para><para>(a) The transfer is communicated directly between two pharmacists or pharmacist interns except when the pharmacies can use a real-time, online data base;</para><para>(b) The transferring pharmacist or pharmacist intern indicates void on the record of the prescription;</para><para>(c) The transferring pharmacist or pharmacist intern indicates on the record of the prescription the name, the address, and, if a controlled substance, the Drug Enforcement Administration number of the pharmacy to which the information was transferred, the name of the pharmacist or pharmacist intern receiving the information, the date of transfer, and the name of the transferring pharmacist or pharmacist intern;</para><para>(d) The receiving pharmacist or pharmacist intern indicates on the record of the transferred prescription that the prescription is transferred;</para><para>(e) The transferred prescription includes the following information:</para><para>(i) The date of issuance of the original prescription;</para><para>(ii) The original number of refills authorized;</para><para>(iii) The date of original dispensing;</para><para>(iv) The number of valid refills remaining;</para><para>(v) The date and location of last refill; and</para><para>(vi) The name, the address, and, if a controlled substance, the Drug Enforcement Administration number of the pharmacy from which the transfer was made, the name of the pharmacist or pharmacist intern transferring the information, the original prescription number, and the date of transfer; and</para><para>(f) Both the original and transferred prescriptions must be maintained by the transferring and receiving pharmacy for a period of five years from the date of transfer.</para><para>(2) Nothing in this section shall prevent a pharmacist from forwarding an original prescription for a noncontrolled substance to another pharmacy at the request of the patient or the patient’s caregiver. An original prescription for a controlled substance shall not be forwarded to another pharmacy unless permitted under 21 C.F.R. 1306.25.</para></amendatorysection></section><source><para>Laws 2001, LB 398, &#167; 36; </para><para>R.S.1943, (2003), &#167; 71-1,146.02; </para><para>Laws 2007, LB463, &#167; 967; </para><para>Laws 2009, LB195, &#167; 50; </para><para>Laws 2016, LB567, &#167; 1. </para><effectivedate>July 21, 2016</effectivedate></source></law>
 </legaldoc>

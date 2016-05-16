@@ -1,32 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF8"?>
 <legaldoc>
-<law type="statute">
-<section id="id190">
-<amendatorysection amended="yes" chaptername="Schools" id="id192" publishedsource="CumulativeSupplement" statutenumber="79-1008.02"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>79-1008.02</statuteno><catchline id="id195">Minimum
-levy adjustment; calculation; effect.</catchline><para>A minimum
-levy adjustment shall be calculated and applied to any local system that has
-a general fund common levy for the fiscal year during which aid is certified
-that is less than the maximum levy, for such fiscal year for such local system,
-allowed pursuant to subdivision (2)(a) or (b) of section 77-3442 without a
-vote pursuant to section 77-3444 less five cents for learning communities
-and less ten cents for all other local systems. To calculate the minimum levy
-adjustment, the department shall subtract the local system general fund common
-levy for such fiscal year for such local system from the maximum levy allowed
-pursuant to subdivision (2)(a) or (b) of section 77-3442 without a vote pursuant
-to section 77-3444 less five cents for learning communities and less ten cents
-for all other local systems and multiply the result by the local system's
-adjusted valuation divided by one hundred. The minimum levy adjustment shall
-be added to the formula resources of the local system for the determination
-of equalization aid pursuant to section 79-1008.01. If the minimum levy adjustment
-is greater than or equal to the allocated income tax funds calculated pursuant
-to section 79-1005.01, the local system
-shall not receive allocated income tax funds. If the minimum levy adjustment
-is less than the allocated income tax funds calculated pursuant to section
-79-1005.01, the local system
-shall receive allocated income tax funds in the amount of the difference between
-the allocated income tax funds calculated pursuant to section 79-1005.01 and the minimum
-levy adjustment. This section does not apply to the calculation of aid for
-a local system containing a learning community for the first school fiscal
-year for which aid is calculated for such local system.</para>
-</amendatorysection></section><source><para>Laws 1997, LB 806, &#167; 39; </para><para>Laws 1998, Spec. Sess., LB 1, &#167; 20; </para><para>Laws 2001, LB 797, &#167; 21; </para><para>Laws 2002, LB 898, &#167; 9; </para><para>Laws 2006, LB 1024, &#167; 85; </para><para>Laws 2007, LB641, &#167; 26; </para><para>Laws 2008, LB988, &#167; 34; </para><para>Laws 2011, LB235, &#167; 13.</para></source>  </law>
+    <law type="statute"><section><amendatorysection amended="yes" chaptername="Schools" id="id192" publishedsource="CumulativeSupplement" statutenumber="79-1008.02"><bookinfo>Revised Statutes Cumulative Supplement, 2016</bookinfo><statuteno>79-1008.02</statuteno><catchline id="id195">Minimum levy adjustment; calculation; effect.</catchline><para>For school fiscal years prior to school fiscal year 2017-18, a minimum levy adjustment shall be calculated and applied to any local system that has a general fund common levy for the fiscal year during which aid is certified that is less than the maximum levy, for such fiscal year for such local system, allowed pursuant to subdivision (2)(a) or (b) of section 77-3442 without a vote pursuant to section 77-3444 less five cents for learning communities for the calculation of aid for school fiscal years prior to school fiscal year 2018-19 and less ten cents for all other local systems. To calculate the minimum levy adjustment, the department shall subtract the local system general fund common levy for such fiscal year for such local system from the maximum levy allowed pursuant to subdivision (2)(a) or (b) of section 77-3442 without a vote pursuant to section 77-3444 less five cents for learning communities for the calculation of aid for school fiscal years prior to school fiscal year 2018-19 and less ten cents for all other local systems and multiply the result by the local system's adjusted valuation divided by one hundred. The minimum levy adjustment shall be added to the formula resources of the local system for the determination of equalization aid pursuant to section 79-1008.01. If the minimum levy adjustment is greater than or equal to the allocated income tax funds calculated pursuant to section 79-1005.01, the local system shall not receive allocated income tax funds. If the minimum levy adjustment is less than the allocated income tax funds calculated pursuant to section 79-1005.01, the local system shall receive allocated income tax funds in the amount of the difference between the allocated income tax funds calculated pursuant to section 79-1005.01 and the minimum levy adjustment.</para></amendatorysection></section><source><para>Laws 1997, LB 806, &#167; 39; </para><para>Laws 1998, Spec. Sess., LB 1, &#167; 20; </para><para>Laws 2001, LB 797, &#167; 21; </para><para>Laws 2002, LB 898, &#167; 9; </para><para>Laws 2006, LB 1024, &#167; 85; </para><para>Laws 2007, LB641, &#167; 26; </para><para>Laws 2008, LB988, &#167; 34; </para><para>Laws 2011, LB235, &#167; 13; </para><para>Laws 2016, LB959, &#167; 6; </para><para>Laws 2016, LB1067, &#167; 38. </para><note>The Revisor of Statutes has pursuant to section 49-769 correlated LB959, section 6, with LB1067, section 38, to reflect all amendments.</note><note>Changes made by LB959 became effective April 19, 2016. Changes made by LB1067 became effective July 21, 2016.</note></source></law>
 </legaldoc>

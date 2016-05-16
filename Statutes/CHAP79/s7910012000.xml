@@ -1,15 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF8"?>
 <legaldoc>
-<law type="statute">
-<section id="id218">
-<amendatorysection amended="yes" chaptername="Schools" id="id220" statutenumber="79-1012"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>79-1012</statuteno><catchline id="id223">School District
-Reorganization Fund; created; use; investment.</catchline><para>The
-School District Reorganization Fund is created. The fund shall be administered
-by the department. The fund shall consist of money transferred from the Education
-Innovation Fund and shall be used to provide support
-grants to reorganized school districts pursuant to section 79-1011. Any money in the
-School District Reorganization Fund available for investment shall be invested
-by the state investment officer pursuant to the Nebraska Capital Expansion
-Act and the Nebraska State Funds Investment Act.</para>
-</amendatorysection></section><source><para>Laws 2004, LB 1091, &#167; 10; </para><para>Laws 2007, LB603, &#167; 4; </para><para>Laws 2009, LB545, &#167; 13; </para><para>Laws 2011, LB333, &#167; 10; </para><para>Laws 2014, LB967, &#167; 16.</para></source><crossreference><para><emphasis>Nebraska Capital Expansion Act,</emphasis> see section 72-1269.</para><para><emphasis>Nebraska State Funds Investment Act,</emphasis> see section 72-1260.</para></crossreference>  </law>
+<law type="statute"><section><amendatorysection chaptername="SCHOOLS" statutenumber="79-1012"><bookinfo>Revised Statutes Cumulative Supplement, 2016</bookinfo><statuteno>79-1012</statuteno><catchline>Repealed. Laws 2016, LB1066, &#167; 25.</catchline></amendatorysection></section></law>
 </legaldoc>

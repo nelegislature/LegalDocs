@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF8"?>
 <legaldoc>
-<law type="statute">
-<section id="id505"><?Pub Caret1?>
-<amendatorysection amended="yes" chaptername="State Administrative Departments" id="id507" statutenumber="81-2014.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>81-2014.01</statuteno><catchline id="id510">Act, how
-cited.</catchline><para>Sections 81-2014 to 81-2041 shall be known
-and may be cited as the Nebraska State Patrol Retirement Act.</para>
-</amendatorysection></section><source><para>Laws 1996, LB 847, &#167; 33; </para><para>Laws 1997, LB 624, &#167; 28; </para><para>Laws 1998, LB 532, &#167; 9; </para><para>Laws 1998, LB 1191, &#167; 64; </para><para>Laws 2001, LB 408, &#167; 20; </para><para>Laws 2002, LB 407, &#167; 48; </para><para>Laws 2007, LB324, &#167; 2; </para><para>Laws 2011, LB509, &#167; 40.</para></source>  </law>
+<law type="statute"><section><?Pub Caret1?><amendatorysection amended="yes" chaptername="State Administrative Departments" id="id507" statutenumber="81-2014.01"><bookinfo>Revised Statutes Cumulative Supplement, 2016</bookinfo><statuteno>81-2014.01</statuteno><catchline id="id510">Act, how cited.</catchline><para>Sections 81-2014 to 81-2041 shall be known and may be cited as the Nebraska State Patrol Retirement Act.</para></amendatorysection></section><source><para>Laws 1996, LB 847, &#167; 33; </para><para>Laws 1997, LB 624, &#167; 28; </para><para>Laws 1998, LB 532, &#167; 9; </para><para>Laws 1998, LB 1191, &#167; 64; </para><para>Laws 2001, LB 408, &#167; 20; </para><para>Laws 2002, LB 407, &#167; 48; </para><para>Laws 2007, LB324, &#167; 2; </para><para>Laws 2011, LB509, &#167; 40; </para><para>Laws 2016, LB467, &#167; 2. </para><effectivedate>April 19, 2016</effectivedate></source></law>
 </legaldoc>

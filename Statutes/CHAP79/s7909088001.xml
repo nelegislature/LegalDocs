@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF8"?>
 <legaldoc>
-<law type="statute">
-<section id="id39">
-<amendatorysection amended="yes" chaptername="Schools" id="id41" statutenumber="79-988.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>79-988.01</statuteno><catchline id="id44">Transfer of
-funds by the state.</catchline><para>Through
-the 2013-14 fiscal year, in addition to the transfers pursuant
-to section 79-916, the state shall transfer to the funds of each retirement
-system provided for in the Class V School Employees Retirement Act an amount
-equal to 14.11604 percent of six million eight hundred ninety-five thousand
-dollars.</para>
-</amendatorysection></section><source><para>Laws 1996, LB 700, &#167; 4; </para><para>Laws 1998, LB 497, &#167; 14; </para><para>Laws 2011, LB382, &#167; 3.</para></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="SCHOOLS" statutenumber="79-988.01"><bookinfo>Revised Statutes Cumulative Supplement, 2016</bookinfo><statuteno>79-988.01</statuteno><catchline>Repealed. Laws 2016, LB447, &#167; 54.</catchline></amendatorysection></section><source><operativedate>March 31, 2016</operativedate></source></law>
 </legaldoc>

@@ -1,16 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF8"?>
 <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="Game And Parks" id="id35" publishedsource="AnnualSupplement" statutenumber="37-919"><bookinfo>Revised Statutes Cumulative Supplement, 2014</bookinfo><statuteno>37-919</statuteno><catchline>Nebraska Youth Conservation Program;
-report; contents.</catchline><para>On or before December 1, 2012, the commission
-shall report to the Legislature on the Nebraska Youth Conservation Program.
-The report shall be submitted
-electronically and shall include, at a minimum, the number and
-ages of the participants, the areas in which they reside, the rate of compensation
-of participants, the number and type of projects in which participants engaged,
-the significance of those projects to the environment and the economy of the
-state, and any other matters the commission deems significant for inclusion
-in the report.</para>
-</amendatorysection></section><source><para>Laws 2011, LB549, &#167; 5; </para><para>Laws 2012, LB782, &#167; 37.</para></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="GAME AND PARKS" statutenumber="37-919"><bookinfo>Revised Statutes Cumulative Supplement, 2016</bookinfo><statuteno>37-919</statuteno><catchline>Repealed. Laws 2016, LB957, &#167; 24.</catchline></amendatorysection></section></law>
 </legaldoc>

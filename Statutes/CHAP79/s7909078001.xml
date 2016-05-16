@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF8"?>
 <legaldoc>
-<law type="statute">
-<section id="id377">
-<amendatorysection amended="yes" chaptername="Schools" id="id379" statutenumber="79-978.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>79-978.01</statuteno><catchline id="id382">Act, how
-cited.</catchline><para>Sections 79-978 to 79-9,118 shall
-be known and may be cited as the Class V School Employees Retirement Act.</para>
-</amendatorysection></section><source><para>Laws 1998, LB 497, &#167; 7; </para><para>Laws 2011, LB509, &#167; 33.</para></source>  </law>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Schools" id="id379" statutenumber="79-978.01"><bookinfo>Revised Statutes Cumulative Supplement, 2016</bookinfo><statuteno>79-978.01</statuteno><catchline id="id382">Act, how cited.</catchline><para>Sections 79-978 to 79-9,118 shall be known and may be cited as the Class V School Employees Retirement Act.</para></amendatorysection></section><source><para>Laws 1998, LB 497, &#167; 7; </para><para>Laws 2011, LB509, &#167; 33; </para><para>Laws 2016, LB447, &#167; 15. </para><operativedate>March 31, 2016</operativedate></source></law>
 </legaldoc>

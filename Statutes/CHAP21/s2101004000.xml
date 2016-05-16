@@ -1,14 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF8"?>
 <legaldoc>
-<law type="statute">
-<section>
-<sectno opdate="January 1, 2011">Sec. 4.</sectno><amendatorysection chaptername="Corporations And Other Companies" publishedsource="CumulativeSupplement" statutenumber="21-104"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>21-104</statuteno><catchline>Nature, purpose and duration of limited
-liability company; classification for tax purposes.</catchline><para>(ULLCA 104) (a) A limited liability company
-is an entity distinct from its members.</para>
-<para>(b) A limited liability
-company may have any lawful purpose.</para><para>(c) A limited liability company has perpetual duration.</para>
-<para>(d) A limited liability
-company shall be classified for state income tax purposes in the same manner
-as it is classified for federal income tax purposes.</para></amendatorysection>
-</section><source><para>Laws 2010, LB888, &#167; 4.</para></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="Corporations And Other Companies" publishedsource="CumulativeSupplement" statutenumber="21-104" amended="yes"><bookinfo>Revised Statutes Cumulative Supplement, 2016</bookinfo><statuteno>21-104</statuteno><catchline>Nature, purpose and duration of limited liability company; classification for tax purposes.</catchline><para>(ULLCA 104) (a) A limited liability company is an entity distinct from its members.</para><para>(b) A limited liability company may have any lawful purpose, except that a limited liability company may not operate as an insurer as defined in section 44-103.</para><para>(c) A limited liability company has perpetual duration.</para><para>(d) A limited liability company shall be classified for state income tax purposes in the same manner as it is classified for federal income tax purposes.</para></amendatorysection></section><source><para>Laws 2010, LB888, &#167; 4; </para><para>Laws 2016, LB758, &#167; 1. </para><effectivedate>July 21, 2016</effectivedate></source></law>
 </legaldoc>
