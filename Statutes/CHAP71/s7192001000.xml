@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection chaptername="Public Health And Welfare" publishedsource="CumulativeSupplement" statutenumber="71-9201"><bookinfo>Revised Statutes Cumulative Supplement, 2016</bookinfo><statuteno>71-9201</statuteno><catchline>Act, how cited.</catchline><para>Sections 71-9201 to 71-9204<?Pub Caret?>
-shall be known and may be cited as the Health Care Transparency Act.</para>
-</amendatorysection></section><source><para>Laws 2014, LB76, &#167; 1.</para></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="Public Health and Welfare" statutenumber="71-9201"><bookinfo>Revised Statutes Supplement, 2017</bookinfo><statuteno>71-9201</statuteno><catchline>Repealed. Laws 2017, LB644, &#167; 21.</catchline></amendatorysection></section></law>
 </legaldoc>

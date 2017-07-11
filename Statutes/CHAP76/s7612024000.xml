@@ -1,1 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd"> <legaldoc><law type="statute"><section><sectno/><amendatorysection chaptername="Real Property" statutenumber="76-1224"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>76-1224</statuteno><catchline>Lead agency, defined.</catchline><para>Lead agency shall mean the Nebraska Department of Roads.</para></amendatorysection></section><source><para>Laws 1989, LB 254, &#167; 11. </para></source></law></legaldoc> 
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="statute"><section><amendatorysection chaptername="Real Property" statutenumber="76-1224" amended="yes" id="id00"><bookinfo>Revised Statutes Supplement, 2017</bookinfo><statuteno>76-1224</statuteno><catchline id="id00">Lead agency, defined.</catchline><para id="id00">Lead agency shall mean the Nebraska Department of Transportation.</para></amendatorysection></section><source><para>Laws 1989, LB 254, &#167; 11; </para><para>Laws 2017, LB339, &#167; 268. </para><operativedate>July 1, 2017</operativedate></source></law>
+</legaldoc>

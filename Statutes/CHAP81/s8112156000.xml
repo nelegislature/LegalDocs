@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="State Administrative Departments" id="id30" publishedsource="AnnualSupplement" statutenumber="81-12,156"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>81-12,156</statuteno><catchline>Funding; use; preference.</catchline><para>At least forty
-percent of the funding for financial assistance programs in sections 81-12,157
-to 81-12,162 shall be used for projects that best alleviate chronic economic
-distress in distressed areas. When
-selecting projects for funding under this section, the department shall give
-a preference to projects located in whole or in part within an enterprise
-zone designated pursuant to the Enterprise Zone Act.</para>
-</amendatorysection></section><source><para>Laws 2011, LB387, &#167; 5; </para><para>Laws 2014, LB800, &#167; 8.</para><terminationdate>December 1, 2021</terminationdate></source><crossreference><para><emphasis>Enterprise Zone Act,</emphasis> see section 13-2101.01.</para></crossreference>  </law>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="State Administrative Departments" id="id30" publishedsource="AnnualSupplement" statutenumber="81-12,156"><bookinfo>Revised Statutes Supplement, 2017</bookinfo><statuteno>81-12,156</statuteno><catchline>Funding; preference.</catchline><para>When selecting projects for funding under the Business Innovation Act, the department shall give a preference to projects located in whole or in part within an enterprise zone designated pursuant to the Enterprise Zone Act.</para></amendatorysection></section><source><para>Laws 2011, LB387, &#167; 5; </para><para>Laws 2014, LB800, &#167; 8; </para><para>Laws 2017, LB217, &#167; 35. </para><operativedate>August 24, 2017</operativedate><terminationdate>December 1, 2021</terminationdate></source><crossreference><para><emphasis>Enterprise Zone Act,</emphasis> see section 13-2101.01.</para></crossreference></law>
 </legaldoc>

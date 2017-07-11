@@ -1,10 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="Oils, Fuels, And Energy" id="id5" publishedsource="CumulativeSupplement" statutenumber="66-1012"><bookinfo>Revised Statutes Cumulative Supplement, 2016</bookinfo><statuteno>66-1012</statuteno><catchline>Act, how cited.</catchline><para>Sections
-66-1012 to 66-1019.01 shall be known
-and may be cited as the Low-Income Home Energy Conservation Act.</para>
-</amendatorysection></section><source><para>Laws 2008, LB1001, &#167; 1; </para><para>Laws 2011, LB385, &#167; 1.</para>
-<terminationdate>July 1, 2019</terminationdate></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="Oils Fuels and Energy" statutenumber="66-1012"><bookinfo>Revised Statutes Supplement, 2017</bookinfo><statuteno>66-1012</statuteno><catchline>Repealed. Laws 2017, LB217, &#167; 40.</catchline></amendatorysection></section><source><operativedate>August 24, 2017</operativedate></source></law>
 </legaldoc>

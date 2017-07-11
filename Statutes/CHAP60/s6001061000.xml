@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="Motor Vehicles" statutenumber="60-161"><bookinfo>Revised Statutes Cumulative Supplement, 2016</bookinfo><statuteno>60-161</statuteno><catchline>County treasurer; remit funds; when.</catchline><para>The
-county treasurer shall
-remit all funds due the State Treasurer under sections 60-154 to 60-160 monthly
-and not later than the fifteenth day of the month following collection. The county
-treasurer shall
-credit the fees not due the
-State Treasurer to the county general fund.</para>
-</amendatorysection></section><source><para>Laws 2005, LB 276, &#167; 61; </para><para>Laws 2011, LB135, &#167; 2; </para><para>Laws 2012, LB801, &#167; 37.</para></source>  </law>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Motor Vehicles" statutenumber="60-161"><bookinfo>Revised Statutes Supplement, 2017</bookinfo><statuteno>60-161</statuteno><catchline>County treasurer; remit funds; when.</catchline><para>The county treasurer shall remit all funds due the State Treasurer under sections 60-154 to 60-160 monthly and not later than the twentieth day of the month following collection. The county treasurer shall credit the fees not due the State Treasurer to the county general fund.</para></amendatorysection></section><source><para>Laws 2005, LB 276, &#167; 61; </para><para>Laws 2011, LB135, &#167; 2; </para><para>Laws 2012, LB801, &#167; 37; </para><para>Laws 2017, LB263, &#167; 17. </para><operativedate>January 1, 2019</operativedate></source></law>
 </legaldoc>

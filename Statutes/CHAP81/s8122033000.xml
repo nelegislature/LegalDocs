@@ -1,10 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="State Administrative Departments" statutenumber="81-2233"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>81-2233</statuteno><catchline>Department; report.</catchline><para>The
-Department of Health and Human Services shall submit an annual report on care
-management units to the Governor and the Legislature. The report submitted to the Legislature shall be submitted
-electronically.</para>
-</amendatorysection></section><source><para>Laws 1987, LB 42, &#167; 5; </para><para>Laws 1996, LB 1044, &#167; 879; </para><para>Laws 2012, LB782, &#167; 214.</para></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="State Administrative Departments" statutenumber="81-2233"><bookinfo>Revised Statutes Supplement, 2017</bookinfo><statuteno>81-2233</statuteno><catchline>Repealed. Laws 2017, LB417, &#167; 25.</catchline></amendatorysection></section></law>
 </legaldoc>

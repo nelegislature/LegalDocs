@@ -1,20 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id255">
-<amendatorysection chaptername="Motor Vehicles" id="id257" publishedsource="AnnualSupplement" statutenumber="60-6,380"><bookinfo>Revised Statutes Cumulative Supplement, 2016</bookinfo><statuteno>60-6,380</statuteno><catchline>Low-speed vehicle; restrictions
-on use.</catchline><para>A
-low-speed vehicle may be operated on any highway on which the speed limit
-is not more than thirty-five miles per hour. A low-speed vehicle may cross
-a highway on which the speed limit is more than thirty-five miles per hour.
-Nothing in this section shall prevent a county, city, or village from adopting
-more stringent ordinances governing low-speed vehicle operation if the governing
-body of the county, city, or village determines that such ordinances are necessary
-in the interest of public safety. Any person operating a low-speed vehicle
-as authorized under this section shall have a valid Class O operator's license
-and shall have liability insurance coverage for the low-speed vehicle. The
-Department of Roads may prohibit the operation of low-speed vehicles on any
-highway under its jurisdiction if it determines that the prohibition is necessary
-in the interest of public safety.</para>
-</amendatorysection></section><source><para>Laws 2011, LB289, &#167; 32.</para></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="Motor Vehicles" id="id257" publishedsource="AnnualSupplement" statutenumber="60-6,380" amended="yes"><bookinfo>Revised Statutes Supplement, 2017</bookinfo><statuteno>60-6,380</statuteno><catchline>Low-speed vehicle; restrictions on use.</catchline><para>A low-speed vehicle may be operated on any highway on which the speed limit is not more than thirty-five miles per hour. A low-speed vehicle may cross a highway on which the speed limit is more than thirty-five miles per hour. Nothing in this section shall prevent a county, city, or village from adopting more stringent ordinances governing low-speed vehicle operation if the governing body of the county, city, or village determines that such ordinances are necessary in the interest of public safety. Any person operating a low-speed vehicle as authorized under this section shall have a valid Class O operator's license and shall have liability insurance coverage for the low-speed vehicle. The Department of Transportation may prohibit the operation of low-speed vehicles on any highway under its jurisdiction if it determines that the prohibition is necessary in the interest of public safety.</para></amendatorysection></section><source><para>Laws 2011, LB289, &#167; 32; </para><para>Laws 2017, LB339, &#167; 232. </para><operativedate>July 1, 2017</operativedate></source></law>
 </legaldoc>
