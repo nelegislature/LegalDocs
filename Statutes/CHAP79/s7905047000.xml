@@ -1,16 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id377">
-<amendatorysection amended="yes" chaptername="Schools" id="id379" statutenumber="79-547"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>79-547</statuteno><catchline id="id382">Class II or
-Class III school district; school board; board of education; members; number.</catchline>
-<para>(1) Except as otherwise provided in section
-79-550, the school board or board of education shall consist of
-the following members:</para>
-<para>(a) In a Class II district, six members; and</para>
-<para>(b) In a Class III district, six members.</para>
-<para>(2) In addition to the members specified in subsection (1)
-of this section, such school boards or boards of education may include one
-or more student members selected pursuant to section 79-559.</para>
-</amendatorysection></section><source><para>Laws 1969, c. 257, &#167; 37, p. 951; </para><para>Laws 1982, LB 440, &#167; 2; </para><para>R.S.1943, (1994), &#167; 79-516.04; </para><para>Laws 1996, LB 900, &#167; 300; </para><para>Laws 2014, LB946, &#167; 40.</para></source>  </law>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Schools" id="id379" statutenumber="79-547"><bookinfo>Revised Statutes Cumulative Supplement, 2018</bookinfo><statuteno>79-547</statuteno><catchline id="id382">Class III school district; school board; board of education; members; number.</catchline><para>(1) Except as otherwise provided in section 79-550, the school board or board of education of a Class III school district shall consist of six members.</para><para>(2) In addition to the members specified in subsection (1) of this section, such school boards or boards of education may include one or more student members selected pursuant to section 79-559.</para></amendatorysection></section><source><para>Laws 1969, c. 257, &#167; 37, p. 951; </para><para>Laws 1982, LB 440, &#167; 2; </para><para>R.S.1943, (1994), &#167; 79-516.04; </para><para>Laws 1996, LB 900, &#167; 300; </para><para>Laws 2014, LB946, &#167; 40; </para><para>Laws 2018, LB377, &#167; 37. </para><operativedate>January 1, 2019</operativedate></source></law>
 </legaldoc>

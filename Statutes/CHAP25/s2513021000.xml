@@ -1,17 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id17">
-<amendatorysection amended="yes" chaptername="Courts; Civil Procedure" id="id19" statutenumber="25-1321"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>25-1321</statuteno><catchline id="id22">Complete record;
-contents.</catchline><para>The complete record shall include the
-complaint, the process, the return, the pleadings subsequent thereto, reports,
-verdicts, orders, judgments, and all material acts and proceedings of the
-court maintained in the state's
-electronic case management system and either in paper form or on microfilm.
-All journal entries and all such filings as are required to be entered in
-full in the register of actions shall,
-by reference, be made a part of the complete record for all purposes, including
-the taxing of fees and costs. Evidence introduced at any proceeding
-is not part of the complete record of the cause.</para>
-</amendatorysection></section><source><para>R.S.1867, Code &#167; 446, p. 467; </para><para>R.S.1913, &#167; 8014; </para><para>C.S.1922, &#167; 8955; </para><para>C.S.1929, &#167; 20-1321; </para><para>Laws 1941, c. 33, &#167; 1, p. 143; </para><para>C.S.Supp.,1941, &#167; 20-1321; </para><para>R.S.1943, &#167; 25-1321; </para><para>Laws 2002, LB 876, &#167; 25; </para><para>Laws 2011, LB17, &#167; 3.</para></source><annotation><para>A bill of exceptions is no part of complete record in district court. Behrends v. Beyschlag, 50 Neb. 304, 69 N.W. 835 (1897).</para><para>Answer, demurrer thereto, and ruling are proper parts of record. Mills v. Miller, 2 Neb. 299 (1873).</para><para>Signature of judge is not essential to validity of decree or record. Gallentine v. Cummings, 4 Neb. Unof. 690, 96 N.W. 178 (1903).</para></annotation>  </law>
+<law type="statute"><section><amendatorysection chaptername="Courts; Civil Procedure" statutenumber="25-1321"><bookinfo>Revised Statutes Cumulative Supplement, 2018</bookinfo><statuteno>25-1321</statuteno><catchline>Repealed. Laws 2018, LB193, &#167; 97.</catchline></amendatorysection></section><source><operativedate>July 19, 2018</operativedate></source></law>
 </legaldoc>

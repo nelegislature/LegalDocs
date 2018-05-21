@@ -1,20 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id59">
-<amendatorysection amended="yes" chaptername="Schools" id="id61" statutenumber="79-559"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>79-559</statuteno><catchline id="id64">Class II, III,
-IV, or VI school
-district; school board or board of education; student member; term; qualifications.</catchline><para>(1) The school board or board of education of any Class II,
-III, IV, or
-VI school district may include at least one nonvoting member who is a public
-high school student from the district. If the board elects to include such
-a nonvoting student member, the student member shall serve for a term of one
-year, beginning on September 1, and shall be the student body or student council
-president, the senior class representative, or a representative elected from
-and by the entire student body, as designated by the voting members of the
-board.</para>
-<para>(2) Any nonvoting student member of the board has the privilege
-of attending all open meetings of the board but shall be excluded from executive
-sessions.</para>
-</amendatorysection></section><source><para>Laws 1982, LB 440, &#167; 1; </para><para>R.S.1943, (1994), &#167; 79-547.02; </para><para>Laws 1996, LB 900, &#167; 312; </para><para>Laws 2013, LB125, &#167; 7.</para></source>  </law>
+    <law type="statute"><section><amendatorysection amended="yes" chaptername="Schools" id="id61" statutenumber="79-559"><bookinfo>Revised Statutes Cumulative Supplement, 2018</bookinfo><statuteno>79-559</statuteno><catchline id="id64">Class III or IV school district; school board or board of education; student member; term; qualifications.</catchline><para>(1) The school board or board of education of any Class III or IV school district may include at least one nonvoting member who is a public high school student from the district. If the board elects to include such a nonvoting student member, the student member shall serve for a term of one year, beginning on September 1, and shall be the student body or student council president, the senior class representative, or a representative elected from and by the entire student body, as designated by the voting members of the board.</para><para>(2) Any nonvoting student member of the board has the privilege of attending all open meetings of the board but shall be excluded from executive sessions.</para></amendatorysection></section><source><para>Laws 1982, LB 440, &#167; 1; </para><para>R.S.1943, (1994), &#167; 79-547.02; </para><para>Laws 1996, LB 900, &#167; 312; </para><para>Laws 2013, LB125, &#167; 7; </para><para>Laws 2018, LB377, &#167; 40. </para><operativedate>January 1, 2019</operativedate></source></law>
 </legaldoc>

@@ -1,16 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id3">
-<amendatorysection chaptername="Schools" id="id5" publishedsource="CumulativeSupplement" statutenumber="79-1189"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>79-1189</statuteno><catchline>Legislative findings.</catchline>
-<para>The Legislature
-finds that:</para>
-<para>(1) Nebraska
-faces a skills gap of educated workers to serve key roles in high-demand industries;</para>
-<para>(2) Nebraska
-must develop innovative education and training solutions in order to fill
-these roles and compete in a global economy; and</para><para>(3) Bridge programs,
-in which adult learners earn postsecondary educational credentials in an expedited
-manner, are a proven solution to this problem.</para></amendatorysection>
-</section><source><para>Laws 2012, LB1079, &#167; 1.</para><terminationdate>June 30, 2015</terminationdate></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="Schools" statutenumber="79-1189"><bookinfo>Revised Statutes Cumulative Supplement, 2018</bookinfo><statuteno>79-1189</statuteno><catchline>Repealed. Laws 2018, LB669, &#167; 1.</catchline></amendatorysection></section></law>
 </legaldoc>

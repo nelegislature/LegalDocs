@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection chaptername="Schools" publishedsource="CumulativeSupplement" statutenumber="79-1196"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>79-1196</statuteno><catchline>Sections; termination.</catchline>
-<para>Sections 79-1189 to 79-1195
-terminate on June 30, 2015.</para>
-</amendatorysection></section><source><para>Laws 2012, LB1079, &#167; 8.</para></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="Schools" statutenumber="79-1196"><bookinfo>Revised Statutes Cumulative Supplement, 2018</bookinfo><statuteno>79-1196</statuteno><catchline>Repealed. Laws 2018, LB669, &#167; 1.</catchline></amendatorysection></section></law>
 </legaldoc>

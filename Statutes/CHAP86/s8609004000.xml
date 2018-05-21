@@ -1,30 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection chaptername="Telecommunications And Technology" publishedsource="CumulativeSupplement" statutenumber="86-904"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>86-904</statuteno><catchline>Sellers; remittance; deduction authorized;
-audit and appeal provisions applicable; Department of Revenue; duties; deduction.</catchline>
-<para>(1) Sellers shall remit
-collected prepaid wireless surcharges to the Department of Revenue at the
-times and in the manner provided in the Nebraska Revenue Act of 1967 with
-respect to sales tax. The department shall establish registration and payment
-procedures that substantially coincide with the registration and payment procedures
-that apply to sales tax.</para>
-<para>(2) A seller shall be
-permitted to deduct and retain three percent of prepaid wireless surcharges
-that are collected by the seller from consumers.</para><para>(3) The audit and appeal procedures
-applicable to sales tax under the Nebraska Revenue Act of 1967 shall apply
-to prepaid wireless surcharges.</para><para>(4) The Department of Revenue shall establish procedures
-by which a seller of prepaid wireless telecommunications service may document
-that a sale is not a retail transaction, which procedures shall substantially
-coincide with the procedures for documenting sale for resale transactions
-for sales tax purposes.</para><para>(5)
-After deducting an amount, not to exceed two percent of charges, to be retained
-by the department to reimburse its direct costs of administering the collection
-and remittance of prepaid wireless surcharges, the department shall remit
-all collected prepaid wireless surcharges to the State Treasurer for credit
-to the Enhanced Wireless 911 Fund and the Nebraska Telecommunications Relay
-System Fund in the proportions that the respective corresponding components
-of the prepaid wireless surcharge under subsection (2) of section 86-903 bear
-to the total prepaid wireless surcharge.</para></amendatorysection></section><source><para>Laws 2012, LB1091, &#167; 4.</para></source><crossreference><para><emphasis>Nebraska Revenue Act of 1967,</emphasis> see section 77-2701.</para></crossreference>  </law>
+    <law type="statute"><section><amendatorysection chaptername="Telecommunications And Technology" publishedsource="CumulativeSupplement" statutenumber="86-904" amended="yes"><bookinfo>Revised Statutes Cumulative Supplement, 2018</bookinfo><statuteno>86-904</statuteno><catchline>Sellers; remittance; deduction authorized; audit and appeal provisions applicable; Department of Revenue; duties; deduction.</catchline><para>(1) Sellers shall remit collected prepaid wireless surcharges to the Department of Revenue in the manner provided in the Nebraska Revenue Act of 1967 with respect to sales tax. Sellers shall remit the prepaid wireless surcharges to the department on a monthly basis, except that if a seller collected less than one thousand dollars of prepaid wireless surcharges in the prior year, the seller may remit on an annual basis. The department shall establish registration and payment procedures that substantially coincide with the registration and payment procedures that apply to sales tax.</para><para>(2) A seller shall be permitted to deduct and retain three percent of prepaid wireless surcharges that are collected by the seller from consumers.</para><para>(3) The audit and appeal procedures applicable to sales tax under the Nebraska Revenue Act of 1967 shall apply to prepaid wireless surcharges.</para><para>(4) The Department of Revenue shall establish procedures by which a seller of prepaid wireless telecommunications service may document that a sale is not a retail transaction, which procedures shall substantially coincide with the procedures for documenting sale for resale transactions for sales tax purposes.</para><para>(5) After deducting an amount, not to exceed one-half of one percent of charges, to be retained by the department to reimburse its direct costs of administering the collection and remittance of prepaid wireless surcharges, the department shall remit all collected prepaid wireless surcharges to the State Treasurer for credit to the 911 Service System Fund, the Nebraska Telecommunications Relay System Fund, and the Nebraska Telecommunications Universal Service Fund in the proportions that the respective corresponding components of the prepaid wireless surcharge under subsection (2) of section 86-903 bear to the total prepaid wireless surcharge.</para></amendatorysection></section><source><para>Laws 2012, LB1091, &#167; 4; </para><para>Laws 2018, LB157, &#167; 7; </para><para>Laws 2018, LB993, &#167; 7.</para><note>The Revisor of Statutes has pursuant to section 49-769 correlated LB157, section 7, with LB993, section 7, to reflect all amendments.</note><note>Changes made by LB993 became effective April 5, 2018. Changes made by LB157 became effective July 19, 2018.</note></source><crossreference><para><emphasis>Nebraska Revenue Act of 1967,</emphasis> see section 77-2701.</para></crossreference></law>
 </legaldoc>

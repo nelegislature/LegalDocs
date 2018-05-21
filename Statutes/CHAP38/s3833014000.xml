@@ -1,10 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id33">
-<sectno id="id34">Sec. 6.</sectno><amendatorysection amended="yes" chaptername="Health Occupations And Professions" id="id35" statutenumber="38-3314"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id37">38-3314</statuteno><catchline id="id38">Unlicensed assistant,
-defined.</catchline><para>Unlicensed assistant means an individual
-who is not a licensed veterinarian, a licensed veterinary technician, or a licensed animal therapist and who
-is working in veterinary medicine.</para>
-</amendatorysection></section><source><para>Laws 2007, LB463, &#167; 1096; </para><para>Laws 2009, LB463, &#167; 6.</para></source>  </law>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Health Occupations And Professions" id="id35" statutenumber="38-3314"><bookinfo>Revised Statutes Cumulative Supplement, 2018</bookinfo><statuteno>38-3314</statuteno><catchline id="id38">Unlicensed assistant, defined.</catchline><para>Unlicensed assistant means an individual who is not a licensed veterinarian, a licensed veterinary technician, or a licensed animal therapist and who is working in veterinary medicine. Unlicensed assistant does not include a person engaged in equine, cat, and dog massage practice.</para></amendatorysection></section><source><para>Laws 2007, LB463, &#167; 1096; </para><para>Laws 2009, LB463, &#167; 6; </para><para>Laws 2018, LB596, &#167; 4. </para><effectivedate>July 19, 2018</effectivedate></source></law>
 </legaldoc>

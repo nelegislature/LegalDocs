@@ -1,18 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id548">
-<amendatorysection amended="yes" chaptername="State Officers" id="id550" publishedsource="AnnualSupplement" statutenumber="84-910"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>84-910</statuteno><catchline id="id553">Agency; notification to Legislative Performance Audit
-Committee; contents; format.</catchline><para>On or before July
-1 of each year, each agency shall notify the
-Legislative Performance Audit Committee of the status of all
-rules and regulations pending before the agency which have not been adopted
-and promulgated. If an additional appropriation was made with respect to legislation
-enacted to provide funding for or additional staff to implement a program
-for which rules and regulations are required to be adopted, the notification shall include what the funding
-has been used for and what functions the staff have been performing while
-such rules and regulations are pending. The format of the notification shall
-be established by the committee no later than June 1, 2011, and shall be updated
-thereafter.</para>
-</amendatorysection></section><source><para>Laws 2011, LB617, &#167; 4; </para><para>Laws 2012, LB782, &#167; 229; </para><para>Laws 2013, LB222, &#167; 44.</para></source>  </law>
+    <law type="statute"><section><amendatorysection amended="yes" chaptername="State Officers" id="id550" publishedsource="AnnualSupplement" statutenumber="84-910"><bookinfo>Revised Statutes Cumulative Supplement, 2018</bookinfo><statuteno>84-910</statuteno><catchline id="id553">Agency; notification to Legislative Performance Audit Committee; contents; format; notice to Executive Board of the Legislative Council.</catchline><para>(1) On or before July 1 of each year, each agency shall notify the Legislative Performance Audit Committee of the status of all rules and regulations pending before the agency which are required by law and which have not been adopted and promulgated. If such rules and regulations have not been adopted and promulgated within the time required pursuant to section 84-901.01, the agency shall provide an explanation to the committee stating why the agency has not adopted and promulgated such rules and regulations. If an additional appropriation was made with respect to legislation enacted to provide funding for or additional staff to implement a program for which rules and regulations are required to be adopted, the notification shall include what the funding has been used for and what functions the staff have been performing while such rules and regulations are pending. The format of the notification shall be established by the committee and shall be updated periodically.</para><para>(2) On or before July 1 of each year, each agency shall, for purposes of the Occupational Board Reform Act, notify the Executive Board of the Legislative Council of the status of all rules and regulations pending before the agency which have not been adopted and promulgated. The executive board shall forward any notification received pursuant to this subsection to the standing committee of the Legislature with jurisdiction over the rules and regulations.</para></amendatorysection></section><source><para>Laws 2011, LB617, &#167; 4; </para><para>Laws 2012, LB782, &#167; 229; </para><para>Laws 2013, LB222, &#167; 44; </para><para>Laws 2018, LB299, &#167; 19; </para><para>Laws 2018, LB751, &#167; 2. </para><note>The Revisor of Statutes has pursuant to section 49-769 correlated LB299, section 19, with LB751, section 2, to reflect all amendments.</note><note>Changes made by LB751 became effective July 19, 2018. Changes made by LB299 became operative July 1, 2019.</note></source><crossreference><para><emphasis>Occupational Board Reform Act,</emphasis> see section 84-933.</para></crossreference></law>
 </legaldoc>

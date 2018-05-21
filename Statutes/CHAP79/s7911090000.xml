@@ -1,15 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id10">
-<amendatorysection chaptername="Schools" id="id12" publishedsource="CumulativeSupplement" statutenumber="79-1190"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>79-1190</statuteno><catchline>Terms, defined.</catchline><para>For purposes
-of sections 79-1189 to 79-1195:</para>
-<para>(1)
-Bridge program means a structured career pathway program, developed in partnership
-among a provider of basic skills education and training, the provider of the
-Adult Education Program established pursuant to section 79-11,133, and a nonprofit
-social services organization, which assists students in obtaining academic,
-employability, and technical skills needed to enter and succeed in postsecondary
-education and training and the labor market; and</para><para>(2) Department
-means the State Department of Education.</para></amendatorysection></section><source><para>Laws 2012, LB1079, &#167; 2.</para><terminationdate>June 30, 2015</terminationdate></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="Schools" statutenumber="79-1190"><bookinfo>Revised Statutes Cumulative Supplement, 2018</bookinfo><statuteno>79-1190</statuteno><catchline>Repealed. Laws 2018, LB669, &#167; 1.</catchline></amendatorysection></section></law>
 </legaldoc>

@@ -1,10 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id3">
-<amendatorysection amended="yes" chaptername="Courts; Civil Procedure" id="id5" statutenumber="25-1319"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>25-1319</statuteno><catchline id="id8">Complete record;
-duty of clerk.</catchline>
-<para>The clerk shall make a complete record of every civil, criminal, and appeal case filed in the court as
-soon as it is finally determined.</para>
-</amendatorysection></section><source><para>R.S.1867, Code &#167; 444, p. 467; </para><para>R.S.1913, &#167; 8012; </para><para>C.S.1922, &#167; 8953; </para><para>C.S.1929, &#167; 20-1319; </para><para>R.S.1943, &#167; 25-1319; </para><para>Laws 2011, LB17, &#167; 1.</para></source><annotation><para>Duty devolves on each successive incumbent. Boettcher v. Lancaster County, 74 Neb. 148, 103 N.W. 1075 (1905).</para><para>Complete record of mortgage foreclosure must be made unless waived by all parties to suit. Johnson v. Rawls, 39 Neb. 351, 58 N.W. 132 (1894).</para><para>Provisions as to time of making and signing are directory. Colony v. Billingsley, 2 Neb. Unof. 670, 89 N.W. 744 (1902).</para></annotation>  </law>
+<law type="statute"><section><amendatorysection chaptername="Courts; Civil Procedure" statutenumber="25-1319"><bookinfo>Revised Statutes Cumulative Supplement, 2018</bookinfo><statuteno>25-1319</statuteno><catchline>Repealed. Laws 2018, LB193, &#167; 97.</catchline></amendatorysection></section><source><operativedate>July 19, 2018</operativedate></source></law>
 </legaldoc>
