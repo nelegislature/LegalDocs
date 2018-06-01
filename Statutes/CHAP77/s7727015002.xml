@@ -1,8 +1,8 @@
-
+<?xml version="1.0" encoding="iso-8859-1"?>
 <legaldoc>
 <law type="statute">
 <section id="id35">
-<amendatorysection amended="yes" chaptername="Revenue And Taxation" id="id37" publishedsource="CumulativeSupplement" statutenumber="77-2715.02"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>77-2715.02</statuteno><catchline id="id40">Rate schedules;
+<amendatorysection amended="yes" chaptername="Revenue And Taxation" id="id37" publishedsource="CumulativeSupplement" statutenumber="77-2715.02"><bookinfo>Revised Statutes Cumulative Supplement, 2016</bookinfo><statuteno>77-2715.02</statuteno><catchline id="id40">Rate schedules;
 established; other taxes; tax rate.</catchline>
 <para>(1) The following rate schedules
 are hereby established for the Nebraska individual income tax and shall be
@@ -52,13 +52,13 @@ filing status.</para>
 shall use the format set forth in this subsection.</para>
 <para><table frame="none">
 <tgroup align="center" cols="5">
-
+<?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt" rth="1.00pt" dispwid="1363.00px"?>
 <colspec colname="col1" colwidth="23.25*" /><colspec colname="col2" colwidth="18.92*" />
 <colspec colname="col3" colwidth="18.41*" /><colspec colname="col4" colwidth="18.21*" />
 <colspec colname="col5" colwidth="21.22*" />
 <tbody>
 <row>
-
+<?PubTbl row rht="0.32in"?>
 <entry colsep="0" rowsep="0">A</entry>
 <entry colsep="0" rowsep="0">B</entry>
 <entry colsep="0" rowsep="0">C</entry>
@@ -66,7 +66,7 @@ shall use the format set forth in this subsection.</para>
 <entry colsep="0" rowsep="0">E</entry>
 </row>
 <row>
-
+<?PubTbl row rht="0.33in"?>
 <entry colsep="0" rowsep="0">Taxable income</entry>
 <entry colsep="0" rowsep="0">but not</entry>
 <entry colsep="0" rowsep="0">pay</entry>
@@ -74,7 +74,7 @@ shall use the format set forth in this subsection.</para>
 <entry colsep="0" rowsep="0">of the</entry>
 </row>
 <row>
-
+<?PubTbl row rht="0.33in"?>
 <entry colsep="0" rowsep="0">over</entry>
 <entry colsep="0" rowsep="0">over</entry>
 <entry colsep="0" rowsep="0" />
