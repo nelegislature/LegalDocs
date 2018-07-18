@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <legaldoc>
 <law type="statute">
 <section id="id10">
-<sectno id="id11"></sectno><amendatorysection amended="yes" chaptername="Public Assistance" id="id12" publishedsource="CumulativeSupplement" statutenumber="68-907"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id14">68-907</statuteno><catchline id="id15">Terms, defined.</catchline><para>For purposes of the Medical Assistance Act:</para>
+<amendatorysection amended="yes" chaptername="Public Assistance" id="id12"  statutenumber="68-907"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id14">68-907</statuteno><catchline id="id15">Terms, defined.</catchline><para>For purposes of the Medical Assistance Act:</para>
 <para>(1) Committee means the Health and Human Services Committee
 of the Legislature;</para>
 <para>(2) Department means the Department of Health and Human Services;</para>

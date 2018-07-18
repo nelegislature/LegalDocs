@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <legaldoc>
-    <law type="statute"><section id="id842"><amendatorysection chaptername="Public Service Commission" publishedsource="AnnualSupplement" statutenumber="75-330"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>75-330</statuteno><catchline>Noncompete provision.</catchline><para>A transportation network company shall not require a participating driver to sign an agreement not to compete with the company in order to be matched with passengers through the company's online-enabled application or platform.</para></amendatorysection></section><source><para>Laws 2015, LB629, &#167; 9. </para></source></law>
+    <law type="statute"><section id="id842"><amendatorysection chaptername="Public Service Commission"  statutenumber="75-330"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>75-330</statuteno><catchline>Noncompete provision.</catchline><para>A transportation network company shall not require a participating driver to sign an agreement not to compete with the company in order to be matched with passengers through the company's online-enabled application or platform.</para></amendatorysection></section><source><para>Laws 2015, LB629, &#167; 9. </para></source></law>
 </legaldoc>

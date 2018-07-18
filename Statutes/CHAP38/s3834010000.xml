@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <legaldoc>
 <law type="statute">
 <section>
-<amendatorysection chaptername="Health Occupations And Professions" publishedsource="CumulativeSupplement" statutenumber="38-3410"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>38-3410</statuteno><catchline>Physician, defined.</catchline><para>Physician means an individual licensed under
+<amendatorysection chaptername="Health Occupations And Professions"  statutenumber="38-3410"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>38-3410</statuteno><catchline>Physician, defined.</catchline><para>Physician means an individual licensed under
 the Medicine and Surgery Practice Act to practice medicine and surgery or
 osteopathic medicine and surgery.</para>
 </amendatorysection></section><source><para>Laws 2012, LB831, &#167; 10.</para></source> <crossreference><para><emphasis>Medicine and Surgery Practice Act,</emphasis> see section 38-2001.</para></crossreference> </law>

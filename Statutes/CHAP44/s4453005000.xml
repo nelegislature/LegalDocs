@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <legaldoc>
 <law type="statute">
 <section id="id22">
-<sectno id="id23">Sec. 3.</sectno><amendatorysection amended="yes" chaptername="Insurance" id="id24" publishedsource="CumulativeSupplement" statutenumber="44-5305"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id26">44-5305</statuteno><catchline id="id27">Policy or contract;
+<amendatorysection amended="yes" chaptername="Insurance" id="id24"  statutenumber="44-5305"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id26">44-5305</statuteno><catchline id="id27">Policy or contract;
 eligibility.</catchline><para>(1) An uninsured access coverage policy
 or contract shall limit eligibility to individuals or families who are not eligible for medicare or any other medical assistance program, including, but not limited to, the program established
 pursuant to the Medical Assistance Act.</para>

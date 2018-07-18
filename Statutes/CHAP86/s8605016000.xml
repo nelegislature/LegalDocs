@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <legaldoc>
 <law type="statute">
 <section>
-<amendatorysection amended="yes" chaptername="Telecommunications And Technology" id="id174" publishedsource="CumulativeSupplement" statutenumber="86-516"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>86-516</statuteno><catchline id="id177">Commission;
+<amendatorysection amended="yes" chaptername="Telecommunications And Technology" id="id174"  statutenumber="86-516"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>86-516</statuteno><catchline id="id177">Commission;
 duties.</catchline><para>The commission shall:</para>
 <para>(1) Annually by July 1, adopt policies and procedures used to develop,
 review, and annually update a statewide technology plan;</para>
