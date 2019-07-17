@@ -1,15 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id16">
-<amendatorysection chaptername="Power Districts And Corporations" id="id18" statutenumber="70-1032"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>70-1032</statuteno><catchline>Working group; members.</catchline>
-<para>The scope of the
-study provided for under sections 70-1029 to 70-1033 shall receive input from
-a working group that may include, but not be limited to, members of the Legislature,
-the State Energy Office, the Department of Economic Development, public power
-districts and other Nebraska electric providers, renewable energy development
-companies, municipalities, the Southwest Power Pool, the Western Area Power
-Administration, other transmission system owners, transmission operators,
-transmission developers, environmental interests, and other interested parties.</para>
-</amendatorysection></section><source><para>Laws 2014, LB1115, &#167; 4.</para></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="Power Districts And Corporations" id="id18" statutenumber="70-1032" amended="yes"><bookinfo>Revised Statutes Supplement, 2019</bookinfo><statuteno>70-1032</statuteno><catchline>Working group; members.</catchline><para>The scope of the study provided for under sections 70-1029 to 70-1033 shall receive input from a working group that may include, but not be limited to, members of the Legislature, the Department of Economic Development, the Department of Environment and Energy, public power districts and other Nebraska electric providers, renewable energy development companies, municipalities, the Southwest Power Pool, the Western Area Power Administration, other transmission system owners, transmission operators, transmission developers, environmental interests, and other interested parties.</para></amendatorysection></section><source><para>Laws 2014, LB1115, &#167; 4; </para><para>Laws 2019, LB302, &#167; 87. </para><operativedate>July 1, 2019</operativedate></source></law>
 </legaldoc>

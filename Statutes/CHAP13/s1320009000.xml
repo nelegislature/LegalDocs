@@ -1,1 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="statute"><section><amendatorysection chaptername="Cities, Counties, And Other Political Subdivisions" statutenumber="13-2009"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>13-2009</statuteno><catchline>Director, defined.</catchline><para>Director shall mean the Director of Environmental Quality.</para></amendatorysection></section><source><para>Laws 1992, LB 1257, &#167; 9.</para></source></law></legaldoc>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="statute"><section><amendatorysection chaptername="Cities, Counties, And Other Political Subdivisions" statutenumber="13-2009" amended="yes"><bookinfo>Revised Statutes Supplement, 2019</bookinfo><statuteno>13-2009</statuteno><catchline>Director, defined.</catchline><para>Director shall mean the Director of Environment and Energy.</para></amendatorysection></section><source><para>Laws 1992, LB 1257, &#167; 9; </para><para>Laws 2019, LB302, &#167; 17. </para><operativedate>July 1, 2019</operativedate></source></law>
+</legaldoc>

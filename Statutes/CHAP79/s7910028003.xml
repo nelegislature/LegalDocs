@@ -1,16 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id271">
-<amendatorysection chaptername="Schools" id="id273"  statutenumber="79-1028.03"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>79-1028.03</statuteno><catchline>Retirement aid; calculation.</catchline>
-<para>For school
-fiscal years 2009-10 through 2013-14, an amount calculated by the department
-shall be paid to each school district as retirement aid equal to the product
-of fifteen million dollars multiplied by the school district's salary percentage.
-The school district's salary percentage shall equal the total salary reported
-by the school district on the annual financial report for the most recently
-available complete data year divided by the total salary reported by all school
-districts in the state on the annual financial report for the most recently
-available complete data year.</para>
-</amendatorysection></section><source><para>Laws 2009, LB545, &#167; 21.</para></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="Schools" statutenumber="79-1028.03"><bookinfo>Revised Statutes Supplement, 2019</bookinfo><statuteno>79-1028.03</statuteno><catchline>Repealed. Laws 2019, LB675, &#167; 57.</catchline></amendatorysection></section></law>
 </legaldoc>

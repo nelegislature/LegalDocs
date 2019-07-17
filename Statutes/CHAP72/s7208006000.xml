@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="Public Lands, Buildings, And Funds" statutenumber="72-806"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>72-806</statuteno><catchline>Enforcement.</catchline><para>The
-enforcement provisions of Chapter 1 of the 2009 International Energy
-Conservation Code shall not apply to buildings subject to section 72-804.</para>
-</amendatorysection></section><source><para>Laws 1999, LB 755, &#167; 3; </para><para>Laws 2003, LB 643, &#167; 4; </para><para>Laws 2004, LB 888, &#167; 3; </para><para>Laws 2011, LB329, &#167; 3.</para></source>  </law>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Public Lands, Buildings, And Funds" statutenumber="72-806"><bookinfo>Revised Statutes Supplement, 2019</bookinfo><statuteno>72-806</statuteno><catchline>Enforcement.</catchline><para>The enforcement provisions of Chapter 1 of the 2018 International Energy Conservation Code, published by the International Code Council, shall not apply to buildings subject to section 72-804.</para></amendatorysection></section><source><para>Laws 1999, LB 755, &#167; 3; </para><para>Laws 2003, LB 643, &#167; 4; </para><para>Laws 2004, LB 888, &#167; 3; </para><para>Laws 2011, LB329, &#167; 3; </para><para>Laws 2019, LB405, &#167; 5. </para><operativedate>July 1, 2020</operativedate></source></law>
 </legaldoc>

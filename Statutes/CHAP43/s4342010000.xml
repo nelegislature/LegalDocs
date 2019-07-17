@@ -1,12 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id26">
-<amendatorysection chaptername="Infants And Juveniles" id="id28"  statutenumber="43-4210"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>43-4210</statuteno><catchline>Demonstration project; Department
-of Health and Human Services; apply for waiver.</catchline><para>On or before September 30, 2013, the Department
-of Health and Human Services shall apply to the United States Secretary of
-Health and Human Services for approval of a demonstration project pursuant
-to 42 U.S.C. 1320a-9 to obtain a waiver as provided in 42 U.S.C. 1320a-9(b),
-as such section existed on January 1, 2012.</para>
-</amendatorysection></section><source><para>Laws 2012, LB820, &#167; 3.</para></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="Infants and Juveniles" statutenumber="43-4210"><bookinfo>Revised Statutes Supplement, 2019</bookinfo><statuteno>43-4210</statuteno><catchline>Repealed. Laws 2019, LB600, &#167; 23.</catchline></amendatorysection></section><source><operativedate>July 1, 2019</operativedate></source></law>
 </legaldoc>

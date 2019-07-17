@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection chaptername="Liquors"  statutenumber="53-103.13"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>53-103.13</statuteno><catchline>Farm winery, defined.</catchline><para>Farm winery means any
-enterprise which produces and sells wines produced from grapes, other fruit,
-or other suitable agricultural products of which at least seventy-five percent
-of the finished product is grown in this state or which meets the requirements
-of section 53-123.13.</para>
-</amendatorysection></section><source><para>Laws 2010, LB861, &#167; 21.</para></source>  </law>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Liquors" statutenumber="53-103.13"><bookinfo>Revised Statutes Supplement, 2019</bookinfo><statuteno>53-103.13</statuteno><catchline>Farm winery, defined.</catchline><para>Farm winery means any enterprise which produces and sells wines produced from grapes, other fruit, or other suitable agricultural products of which at least sixty percent of the finished product is grown in this state or which meets the requirements of section 53-123.13.</para></amendatorysection></section><source><para>Laws 2010, LB861, &#167; 21; </para><para>Laws 2019, LB592, &#167; 1. </para><effectivedate>September 1, 2019</effectivedate></source></law>
 </legaldoc>
