@@ -1,22 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id480">
-<amendatorysection amended="yes" chaptername="Infants And Juveniles" id="id482" statutenumber="43-416"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>43-416</statuteno><catchline id="id485">Office of Juvenile
-Services; parole powers; notice to committing court.</catchline><para>This section applies to all juveniles
-committed to the Office of Juvenile Services for placement at a youth rehabilitation
-and treatment center prior to July 1, 2013. This section shall not apply after
-June 30, 2014. The Office of Juvenile Services shall have administrative
-authority over the parole function for juveniles committed to a youth rehabilitation
-and treatment center and may (1) determine the time of release on parole of
-committed juveniles eligible for such release, (2) fix the conditions of parole,
-revoke parole, issue or authorize the issuance of detainers for the apprehension
-and detention of parole violators, and impose other sanctions short of revocation
-for violation of conditions of parole, and (3) determine the time of discharge
-from parole. The office shall provide the committing court with written notification
-of the juvenile's discharge from parole within thirty days of a juvenile being
-discharged from the supervision of the office.</para>
-</amendatorysection></section><source><para>Laws 1998, LB 1073, &#167; 48; </para><para>Laws 2011, LB463, &#167; 13; </para><para>Laws 2013, LB561, &#167; 36.</para></source> 
-<annotation><para>Only the Office of Juvenile Services has the authority to revoke a juvenile's parole. In re Interest of Sylvester L., 17 Neb. App. 791, 770 N.W.2d 669 (2009).</para></annotation>
- </law>
+<law type="statute"><section><amendatorysection chaptername="Infants and Juveniles" statutenumber="43-416"><bookinfo>Revised Statutes Cumulative Supplement, 2020</bookinfo><statuteno>43-416</statuteno><catchline>Repealed. Laws 2020, LB1188, &#167; 21.</catchline></amendatorysection></section></law>
 </legaldoc>

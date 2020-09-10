@@ -1,14 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id14">
-<amendatorysection chaptername="Labor" id="id16" statutenumber="48-3102"><bookinfo>Revised Statutes Cumulative Supplement, 2018</bookinfo><statuteno>48-3102</statuteno><catchline>Terms, defined.</catchline><para>For purposes of sections
-48-3101 to 48-3107:</para>
-<para>(1) Aid to dependent
-children program means the program described in section 43-512; and</para>
-<para>(2) Participant
-means an individual who qualifies for the aid to dependent children program
-services with a family income equal to or less than two hundred percent of
-the Office of Management and Budget income poverty guideline.</para>
-</amendatorysection></section><source><para>Laws 2013, LB368, &#167; 2.</para></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="Labor" statutenumber="48-3102"><bookinfo>Revised Statutes Cumulative Supplement, 2020</bookinfo><statuteno>48-3102</statuteno><catchline>Repealed. Laws 2020, LB741, &#167; 1.</catchline></amendatorysection></section></law>
 </legaldoc>

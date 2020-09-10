@@ -1,12 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection chaptername="Livestock"  statutenumber="54-772"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>54-772</statuteno><catchline>Testing, vaccination, and treatment
-of affected herd; prohibited acts.</catchline><para>It is unlawful for any person to prevent the testing, vaccination,
-and treatment of an affected herd. The owner or custodian of a herd ordered
-to be tested, vaccinated, or treated shall confine such herd in a suitable
-place determined by the department and shall furnish the necessary assistance
-and facilities for restraining the livestock as requested by the State Veterinarian.</para>
-</amendatorysection></section><source><para>Laws 2009, LB99, &#167; 9.</para></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="Livestock" statutenumber="54-772"><bookinfo>Revised Statutes Cumulative Supplement, 2020</bookinfo><statuteno>54-772</statuteno><catchline>Repealed. Laws 2020, LB344, &#167; 82.</catchline></amendatorysection></section></law>
 </legaldoc>

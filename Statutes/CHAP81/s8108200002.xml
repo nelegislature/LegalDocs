@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="State Administrative Departments" statutenumber="81-8,200.02"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>81-8,200.02</statuteno><catchline>Professional development programs;
-rules and regulations.</catchline><para>The board shall
-adopt and promulgate rules and regulations as are necessary for the
-effective delivery and licensure of all programs
-of professional development required in section 81-8,200.01.</para>
-</amendatorysection></section><source><para>Laws 1984, LB 477, &#167; 13; </para><para>Laws 2012, LB1140, &#167; 18.</para></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="State Administrative Departments" statutenumber="81-8,200.02"><bookinfo>Revised Statutes Cumulative Supplement, 2020</bookinfo><statuteno>81-8,200.02</statuteno><catchline>Repealed. Laws 2020, LB30, &#167; 21.</catchline></amendatorysection></section></law>
 </legaldoc>

@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="State Administrative Departments" statutenumber="81-8,203"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>81-8,203</statuteno><catchline>Warrants for payment of expenses
-and compensation; issuance.</catchline><para>Warrants for the payment of expenses
-and compensation provided by the Professional Landscape Architects
-Act shall be issued by the Director of Administrative Services
-upon presentation of vouchers drawn by the chairperson, but at no time
-shall the total amount of warrants exceed the total amount of fees collected
-as provided by the act.</para>
-</amendatorysection></section><source><para>Laws 1967, c. 565, &#167; 20, p. 1866; </para><para>Laws 1967, c. 574, &#167; 1, p. 1897; </para><para>Laws 2012, LB1140, &#167; 21.</para></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="State Administrative Departments" statutenumber="81-8,203"><bookinfo>Revised Statutes Cumulative Supplement, 2020</bookinfo><statuteno>81-8,203</statuteno><catchline>Repealed. Laws 2020, LB30, &#167; 21.</catchline></amendatorysection></section></law>
 </legaldoc>

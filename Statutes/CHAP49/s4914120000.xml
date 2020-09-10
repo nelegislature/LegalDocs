@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="Law" statutenumber="49-14,120"><bookinfo>Revised Statutes Cumulative Supplement, 2018</bookinfo><statuteno>49-14,120</statuteno><catchline>Commission; members; expenses.</catchline><para>All members of the commission shall
-be reimbursed for actual and necessary expenses as provided in sections 81-1174
-to 81-1177.</para>
-</amendatorysection></section><source><para>Laws 1976, LB 987, &#167; 120; </para><para>Laws 1981, LB 204, &#167; 88; </para><para>Laws 2005, LB 242, &#167; 55; </para><para>Laws 2011, LB292, &#167; 1.</para></source>  </law>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Law" statutenumber="49-14,120"><bookinfo>Revised Statutes Cumulative Supplement, 2020</bookinfo><statuteno>49-14,120</statuteno><catchline>Commission; members; expenses.</catchline><para>All members of the commission shall be reimbursed for expenses as provided in sections 81-1174 to 81-1177.</para></amendatorysection></section><source><para>Laws 1976, LB 987, &#167; 120; </para><para>Laws 1981, LB 204, &#167; 88; </para><para>Laws 2005, LB 242, &#167; 55; </para><para>Laws 2011, LB292, &#167; 1; </para><para>Laws 2020, LB381, &#167; 41. </para><operativedate>January 1, 2021</operativedate></source></law>
 </legaldoc>

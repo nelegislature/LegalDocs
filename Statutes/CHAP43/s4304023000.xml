@@ -1,28 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id541">
-<amendatorysection amended="yes" chaptername="Infants And Juveniles" id="id543" statutenumber="43-423"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>43-423</statuteno><catchline id="id546">Parole violation
-hearing; requirements; appeal.</catchline><para>This section applies to all juveniles committed to the Office
-of Juvenile Services for placement at a youth rehabilitation and treatment
-center prior to July 1, 2013. At the parole violation hearing,
-the hearing officer shall again advise the juvenile of his or her rights and
-ensure that the juvenile has received the notice of allegations and the possible
-consequences. Strict rules of evidence shall not be applied. The hearing officer
-shall determine whether the detention of the juvenile or other restrictions
-are necessary for the safety of the juvenile or for the public safety and
-shall indicate to what extent the juvenile will continue to be detained or
-restricted pending a final decision and administrative appeal. The hearing
-officer shall issue a written recommended disposition to the Administrator
-of the Office of Juvenile Services or his or her designee who shall promptly
-affirm, modify, or reverse the recommended disposition. The final decision
-of the administrator or his or her designee may be appealed pursuant to the
-Administrative Procedure Act. The Department of Health and Human Services
-shall be deemed to have acted within its jurisdiction if its action is in
-the best interests of the juvenile with due consideration being given to public
-safety. The appeal shall in all other respects be governed by the Administrative
-Procedure Act.</para>
-</amendatorysection></section><source><para>Laws 1998, LB 1073, &#167; 55; </para><para>Laws 2013, LB561, &#167; 43.</para></source><crossreference><para><emphasis>Administrative Procedure Act,</emphasis> see section 84-920.</para></crossreference>  
-<annotation><para>If a juvenile court revokes a juvenile's parole, rather than the Office of Juvenile Services, a juvenile is not granted all of the rights to which he or she was entitled. In re Interest of Sylvester L., 17 Neb. App. 791, 770 N.W.2d 669 (2009).</para></annotation>
-</law>
+<law type="statute"><section><amendatorysection chaptername="Infants and Juveniles" statutenumber="43-423"><bookinfo>Revised Statutes Cumulative Supplement, 2020</bookinfo><statuteno>43-423</statuteno><catchline>Repealed. Laws 2020, LB1188, &#167; 21.</catchline></amendatorysection></section></law>
 </legaldoc>

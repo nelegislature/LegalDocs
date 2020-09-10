@@ -1,14 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id37">
-<amendatorysection chaptername="Labor" id="id39" statutenumber="48-3104"><bookinfo>Revised Statutes Cumulative Supplement, 2018</bookinfo><statuteno>48-3104</statuteno><catchline>Subsidies.</catchline><para>Subsidies under the Subsidized Employment
-Pilot Program created pursuant to section 48-3103 shall be capped at the prevailing
-wage and shall be provided for no more than forty hours per week for not more
-than six months, on the following scale:</para>
-<para>(1) One hundred
-percent in months one and two;</para><para>(2) Seventy-five percent in month three;</para>
-<para>(3) Fifty percent
-in months four and five; and</para><para>(4) Twenty-five percent in month six.</para></amendatorysection>
-</section><source><para>Laws 2013, LB368, &#167; 4.</para></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="Labor" statutenumber="48-3104"><bookinfo>Revised Statutes Cumulative Supplement, 2020</bookinfo><statuteno>48-3104</statuteno><catchline>Repealed. Laws 2020, LB741, &#167; 1.</catchline></amendatorysection></section></law>
 </legaldoc>

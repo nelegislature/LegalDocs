@@ -1,12 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection chaptername="Livestock"  statutenumber="54-768"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>54-768</statuteno><catchline>Anthrax; report of cases required.</catchline>
-<para>Any person who discovers,
-suspects, or has reason to believe that an animal belonging to him, her, or
-another person or which he or she has in his or her possession or custody
-is exhibiting signs consistent with anthrax shall immediately report such
-fact, belief, or suspicion to the State Veterinarian.</para>
-</amendatorysection></section><source><para>Laws 2009, LB99, &#167; 5.</para></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="Livestock" statutenumber="54-768"><bookinfo>Revised Statutes Cumulative Supplement, 2020</bookinfo><statuteno>54-768</statuteno><catchline>Repealed. Laws 2020, LB344, &#167; 82.</catchline></amendatorysection></section></law>
 </legaldoc>

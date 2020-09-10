@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id60">
-<amendatorysection chaptername="Labor" id="id62" statutenumber="48-3107"><bookinfo>Revised Statutes Cumulative Supplement, 2018</bookinfo><statuteno>48-3107</statuteno><catchline>Rules and regulations.</catchline><para>The Department
-of Health and Human Services may adopt and promulgate rules and regulations
-to carry out sections 48-3101 to 48-3106.</para>
-</amendatorysection></section><source><para>Laws 2013, LB368, &#167; 7.</para></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="Labor" statutenumber="48-3107"><bookinfo>Revised Statutes Cumulative Supplement, 2020</bookinfo><statuteno>48-3107</statuteno><catchline>Repealed. Laws 2020, LB741, &#167; 1.</catchline></amendatorysection></section></law>
 </legaldoc>

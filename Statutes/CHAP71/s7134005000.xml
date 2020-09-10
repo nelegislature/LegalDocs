@@ -1,40 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id4">
-<amendatorysection amended="yes" chaptername="Public Health And Welfare" id="id6" statutenumber="71-3405"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>71-3405</statuteno><catchline id="id9">Terms, defined.</catchline>
-<para>For purposes of the Child and Maternal Death Review Act:</para>
-<para>(1) Child means a person from birth to eighteen years of age;</para>
-<para>(2) Investigation of child death means a review of existing
-records and other information regarding the child from relevant agencies,
-professionals, and providers of medical, dental, prenatal, and mental health
-care. The records to be reviewed may include, but not be limited to, medical
-records, coroner's reports, autopsy reports, social services records, records of alternative response cases
-under alternative response demonstration projects implemented in accordance
-with sections 28-710.01, 28-712, and 28-712.01, educational records, emergency
-and paramedic records, and law enforcement reports;</para>
-<para>(3) Investigation of maternal death means a review of existing
-records and other information regarding the woman from relevant agencies,
-professionals, and providers of medical, dental, prenatal, and mental health
-care. The records to be reviewed may include, but not be limited to, medical
-records, coroner's reports, autopsy reports, social services records, educational
-records, emergency and paramedic records, and law enforcement reports;</para>
-<para>(4) Maternal death means the death of a woman during pregnancy
-or the death of a postpartum woman;</para>
-<para>(5) Postpartum woman means a woman during the period of time
-beginning when the woman ceases to be pregnant and ending one year after the
-woman ceases to be pregnant;</para>
-<para>(6) Preventable child or maternal death means the death of
-any child or pregnant or postpartum woman which reasonable medical, social,
-legal, psychological, or educational intervention may have prevented. Preventable
-child or maternal death includes, but is not limited to, the death of a child
-or pregnant or postpartum woman from (a) intentional and unintentional injuries,
-(b) medical misadventures, including untoward results, malpractice, and foreseeable
-complications, (c) lack of access to medical care, (d) neglect and reckless
-conduct, including failure to supervise and failure to seek medical care for
-various reasons, and (e) preventable premature birth;</para>
-<para>(7) Reasonable means taking into consideration the condition,
-circumstances, and resources available; and</para>
-<para>(8) Team means the State Child and Maternal Death Review Team.</para>
-</amendatorysection></section><source><para>Laws 1993, LB 431, &#167; 2; </para><para>Laws 2013, LB361, &#167; 2; </para><para>Laws 2014, LB853, &#167; 46.</para></source>  </law>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Public Health And Welfare" id="id6" statutenumber="71-3405"><bookinfo>Revised Statutes Cumulative Supplement, 2020</bookinfo><statuteno>71-3405</statuteno><catchline id="id9">Terms, defined.</catchline><para>For purposes of the Child and Maternal Death Review Act:</para><para>(1) Child means a person from birth to eighteen years of age;</para><para>(2) Investigation of child death means a review of existing records and other information regarding the child from relevant agencies, professionals, and providers of medical, dental, prenatal, and mental health care. The records to be reviewed may include, but not be limited to, medical records, coroner's reports, autopsy reports, social services records, records of alternative response cases under alternative response implemented in accordance with sections 28-710.01, 28-712, and 28-712.01, educational records, emergency and paramedic records, and law enforcement reports;</para><para>(3) Investigation of maternal death means a review of existing records and other information regarding the woman from relevant agencies, professionals, and providers of medical, dental, prenatal, and mental health care. The records to be reviewed may include, but not be limited to, medical records, coroner's reports, autopsy reports, social services records, educational records, emergency and paramedic records, and law enforcement reports;</para><para>(4) Maternal death means the death of a woman during pregnancy or the death of a postpartum woman;</para><para>(5) Postpartum woman means a woman during the period of time beginning when the woman ceases to be pregnant and ending one year after the woman ceases to be pregnant;</para><para>(6) Preventable child or maternal death means the death of any child or pregnant or postpartum woman which reasonable medical, social, legal, psychological, or educational intervention may have prevented. Preventable child or maternal death includes, but is not limited to, the death of a child or pregnant or postpartum woman from (a) intentional and unintentional injuries, (b) medical misadventures, including untoward results, malpractice, and foreseeable complications, (c) lack of access to medical care, (d) neglect and reckless conduct, including failure to supervise and failure to seek medical care for various reasons, and (e) preventable premature birth;</para><para>(7) Reasonable means taking into consideration the condition, circumstances, and resources available; and</para><para>(8) Team means the State Child and Maternal Death Review Team.</para></amendatorysection></section><source><para>Laws 1993, LB 431, &#167; 2; </para><para>Laws 2013, LB361, &#167; 2; </para><para>Laws 2014, LB853, &#167; 46; </para><para>Laws 2020, LB1061, &#167; 10. </para><effectivedate>November 14, 2020</effectivedate></source></law>
 </legaldoc>

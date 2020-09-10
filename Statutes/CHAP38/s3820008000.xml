@@ -1,12 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id550">
-<amendatorysection amended="yes" chaptername="Health Occupations And Professions" id="id552" statutenumber="38-2008"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id554">38-2008</statuteno><catchline id="id555">Approved program,
-defined.</catchline><para>Approved program means a program for
-the education of physician assistants which
-is approved by the Accreditation Review Commission on Education for the Physician
-Assistant or its predecessor or successor agency and which the
-board formally approves.</para>
-</amendatorysection></section><source><para>Laws 2007, LB463, &#167; 666; </para><para>Laws 2009, LB195, &#167; 37.</para></source>  </law>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Health Occupations And Professions" id="id552" statutenumber="38-2008"><bookinfo>Revised Statutes Cumulative Supplement, 2020</bookinfo><statuteno>38-2008</statuteno><catchline id="id555">Approved program, defined.</catchline><para>Approved program means a program for the education of physician assistants which is accredited by the Accreditation Review Commission on Education for the Physician Assistant or its predecessor or successor agency and which the board formally approves.</para></amendatorysection></section><source><para>Laws 2007, LB463, &#167; 666; </para><para>Laws 2009, LB195, &#167; 37; </para><para>Laws 2020, LB755, &#167; 5. </para><effectivedate>November 14, 2020</effectivedate></source></law>
 </legaldoc>

@@ -1,14 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection chaptername="Livestock"  statutenumber="54-771"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>54-771</statuteno><catchline>Herd plan; contents; prohibited acts;
-penalty.</catchline><para>The
-herd owner or custodian, in cooperation with the department, shall develop
-a herd plan which may include (a) the vaccination, treatment, and testing
-of an infected herd, (b) cleaning and disinfection of premises of an infected
-herd, and (c) carcass disposal. A herd owner or custodian of an infected herd
-who fails to develop a herd plan or who fails to follow the herd plan is guilty
-of a Class I misdemeanor.</para>
-</amendatorysection></section><source><para>Laws 2009, LB99, &#167; 8.</para></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="Livestock" statutenumber="54-771"><bookinfo>Revised Statutes Cumulative Supplement, 2020</bookinfo><statuteno>54-771</statuteno><catchline>Repealed. Laws 2020, LB344, &#167; 82.</catchline></amendatorysection></section></law>
 </legaldoc>

@@ -1,14 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id10">
-<amendatorysection chaptername="Game And Parks" id="id12"  statutenumber="37-1402"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>37-1402</statuteno><catchline>Invasive species, defined.</catchline>
-<para>For purposes
-of sections 37-1401 to 37-1406, invasive species means aquatic or terrestrial
-organisms not native to the region that cause economic or biological harm
-and are capable of spreading to new areas, and invasive species does not include
-livestock as defined in sections 54-1368 and 54-1902, honey bees, domestic
-pets, intentionally planted agronomic crops, or nonnative organisms that do
-not cause economic or biological harm.</para>
-</amendatorysection></section><source><para>Laws 2012, LB391, &#167; 12.</para></source>  </law>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Game And Parks" id="id12" statutenumber="37-1402"><bookinfo>Revised Statutes Cumulative Supplement, 2020</bookinfo><statuteno>37-1402</statuteno><catchline>Invasive species, defined.</catchline><para>For purposes of sections 37-1401 to 37-1406, invasive species means aquatic or terrestrial organisms not native to the region that cause economic or biological harm and are capable of spreading to new areas, and invasive species does not include livestock as defined in sections 54-1902 and 54-2921, honey bees, domestic pets, intentionally planted agronomic crops, or nonnative organisms that do not cause economic or biological harm.</para></amendatorysection></section><source><para>Laws 2012, LB391, &#167; 12; </para><para>Laws 2020, LB344, &#167; 63. </para><effectivedate>November 14, 2020</effectivedate></source></law>
 </legaldoc>
