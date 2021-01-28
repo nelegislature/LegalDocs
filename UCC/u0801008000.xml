@@ -37,25 +37,4 @@
 <source>
 <para>Laws 1995, LB 97, &#167; 12.</para>
 </source>
-<annotation>
-<para><emphasis>COMMENT</emphasis></para>
-<para>1. Subsections (a), (b), and (c) deal with warranties by security transferors to purchasers. Subsections (d) and (e) deal with warranties by security transferors to issuers. Subsection (f) deals with presentment warranties.</para>
-<para>2. Subsection (a) specifies the warranties made by a person who transfers a certificated security to a purchaser for value. Paragraphs (3), (4), and (5) make explicit several key points that are implicit in the general warranty of paragraph (6) that the transfer is effective and rightful. Subsection (b) sets forth the warranties made to a purchaser for value by one who originates an instruction. These warranties are quite similar to those made by one transferring a certificated security, subsection (a), the principal difference being the absolute warranty of validity. If upon receipt of the instruction the issuer should dispute the validity of the security, the burden of proving validity is upon the transferor. Subsection (c) provides for the limited circumstances in which an uncertificated security could be transferred without an instruction, see section 8-301(b)(2). Subsections (d) and (e) give the issuer the benefit of the warranties of an indorser or originator on those matters not within the issuer's knowledge.</para>
-<para>3. Subsection (f) limits the warranties made by a purchaser for value without notice whose presentation of a security certificate is defective in some way but to whom the issuer does register transfer. The effect is to deny the issuer a remedy against such a person unless at the time of presentment the person had knowledge of an unauthorized signature in a necessary indorsement. The issuer can protect itself by refusing to make the transfer or, if it registers the transfer before it discovers the defect, by pursuing its remedy against a signature guarantor.</para>
-<para>4. Subsection (g) eliminates all substantive warranties in the relatively unusual case of a delivery of certificated security by an agent of a disclosed principal where the agent delivers the exact certificate that it received from or for the principal. Subsection (h) limits the warranties given by a secured party who redelivers a certificate. Subsection (i) specifies the warranties of brokers in the more common scenarios.</para>
-<para>5. Under section 1-102(3) the warranty provisions apply "unless otherwise agreed" and the parties may enter into express agreements to allocate the risks of possible defects. Usual estoppel principles apply with respect to transfers of both certificated and uncertificated securities whenever the purchaser has knowledge of the defect, and these warranties will not be breached in such a case.</para>
-<para><emphasis>Definitional Cross References:</emphasis></para>
-<para>"Adverse claim". Section 8-102(a)(1).</para>
-<para>"Appropriate person". Section 8-107.</para>
-<para>"Broker". Section 8-102(a)(3).</para>
-<para>"Certificated security". Section 8-102(a)(4).</para>
-<para>"Indorsement". Section 8-102(a)(11).</para>
-<para>"Instruction". Section 8-102(a)(12).</para>
-<para>"Issuer". Section 8-201.</para>
-<para>"Person". Section 1-201(30).</para>
-<para>"Purchaser". Sections 1-201(33), 8-116.</para>
-<para>"Secured party". Section 9-102(a)(72).</para>
-<para>"Security". Section 8-102(a)(15).</para>
-<para>"Security certificate". Section 8-102(a)(16).</para>
-<para>"Uncertificated security". Section 8-102(a)(18).</para>
-<para>"Value". Sections 1-201(44), 8-116.</para></annotation></law></legaldoc>
+</law></legaldoc>
