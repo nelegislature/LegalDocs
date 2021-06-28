@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+
 <legaldoc>
 <law type="statute">
 <section id="id3">
-<amendatorysection amended="yes" chaptername="Insurance" id="id5" statutenumber="44-4805"><bookinfo>Revised Statutes Cumulative Supplement, 2020</bookinfo><statuteno>44-4805</statuteno><catchline id="id8">Injunctions and
+<amendatorysection amended="yes" chaptername="Insurance" id="id5" statutenumber="44-4805"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>44-4805</statuteno><catchline id="id8">Injunctions and
 orders.</catchline><para>(1) Except as provided in subsection (3) of
 this section, any receiver appointed in a proceeding under the
 Nebraska Insurers Supervision, Rehabilitation, and Liquidation Act may at
@@ -10,7 +10,7 @@ any time apply for, and the court may grant, such restraining orders, preliminar
 and permanent injunctions, and other orders as may be deemed necessary and
 proper to prevent:</para>
 <para>(a) The transaction of further business;</para>
-<para>(b) The transfer of property;</para><?Pub Caret?>
+<para>(b) The transfer of property;</para>
 <para>(c) Interference with the receiver or with a proceeding under
 the act;</para>
 <para>(d) Waste of the insurer's assets;</para>
