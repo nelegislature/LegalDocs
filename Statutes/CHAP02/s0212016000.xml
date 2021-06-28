@@ -1,17 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="Agriculture" statutenumber="2-1216"><bookinfo>Revised Statutes Cumulative Supplement, 2020</bookinfo><statuteno>2-1216</statuteno><catchline>Parimutuel wagering legalized; fees
-paid, how construed.</catchline><para>The parimutuel system of wagering on
-the results of horseraces, when conducted within the racetrack enclosure at
-licensed horserace meetings, shall
-not under any circumstances be held or construed to be unlawful, any other
-statutes of the State of Nebraska to the contrary notwithstanding. The money
-inuring to the State Racing Commission under sections 2-1201 to 2-1218 from
-permit fees or from other sources shall never be considered as license money.
-It is the intention of the Legislature that the funds arising under such sections
-be construed as general revenue to be appropriated and allocated exclusively
-for the specific purposes set forth in such sections.</para>
-</amendatorysection></section><source><para>Laws 1935, c. 173, &#167; 20, p. 637; </para><para>C.S.Supp.,1941, &#167; 2-1516; </para><para>R.S.1943, &#167; 2-1216; </para><para>Laws 1992, LB 718, &#167; 5; </para><para>Laws 2014, LB656, &#167; 5.</para></source>  </law>
+    <law type="statute"><section><amendatorysection amended="yes" chaptername="Agriculture" statutenumber="2-1216"><bookinfo>Revised Statutes Supplement, 2021</bookinfo><statuteno>2-1216</statuteno><catchline>Parimutuel wagering legalized; fees paid, how construed.</catchline><para>The parimutuel system of wagering on the results of horseraces, when conducted within the racetrack enclosure at licensed horserace meetings, shall not under any circumstances be held or construed to be unlawful, any other statutes of the State of Nebraska to the contrary notwithstanding. The money inuring to the commission under sections 2-1201 to 2-1218 relating to horseracing from permit fees or from other sources shall never be considered as license money. It is the intention of the Legislature that the funds arising under such sections be construed as general revenue to be appropriated and allocated exclusively for the specific purposes set forth in such sections.</para></amendatorysection></section><source><para>Laws 1935, c. 173, &#167; 20, p. 637; </para><para>C.S.Supp.,1941, &#167; 2-1516; </para><para>R.S.1943, &#167; 2-1216; </para><para>Laws 1992, LB 718, &#167; 5; </para><para>Laws 2014, LB656, &#167; 5; </para><para>Laws 2021, LB561, &#167; 17. </para><effectivedate>May 26, 2021</effectivedate></source></law>
 </legaldoc>

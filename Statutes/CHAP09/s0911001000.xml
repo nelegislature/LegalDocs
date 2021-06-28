@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id57">
-    <amendatorysection chaptername="Bingo And Other Gambling" id="id59"  statutenumber="9-1101"><bookinfo>Revised Statutes Supplement, 2021</bookinfo><statuteno>9-1101</statuteno><catchline>Act, how cited.</catchline><para>Sections 9-1101 to 9-1106 shall be known and may be cited as the Nebraska Racetrack Gaming Act.</para>
-</amendatorysection></section><source><para>Initiative Law 2020, No. 430, &#167; 1.</para></source>  </law>
+    <law type="statute"><section><amendatorysection amended="yes" chaptername="Bingo And Other Gambling" id="id59" statutenumber="9-1101"><bookinfo>Revised Statutes Supplement, 2021</bookinfo><statuteno>9-1101</statuteno><catchline>Act, how cited.</catchline><para>Sections 9-1101 to 9-1116 shall be known and may be cited as the Nebraska Racetrack Gaming Act.</para></amendatorysection></section><source><para>Initiative Law 2020, No. 430, &#167; 1; </para><para>Laws 2021, LB561, &#167; 27. </para><effectivedate>May 26, 2021</effectivedate></source></law>
 </legaldoc>

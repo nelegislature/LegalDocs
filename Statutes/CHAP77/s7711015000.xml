@@ -1,14 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection chaptername="Revenue And Taxation"  statutenumber="77-1115"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>77-1115</statuteno><catchline>Tax Commissioner; limit tax credit
-utilization.</catchline><para>The
-Tax Commissioner shall limit the monetary amount of qualified equity investments
-permitted under the New Markets Job Growth Investment Act to a level necessary
-to limit tax credit utilization in any fiscal year at no more than fifteen
-million dollars of new tax credits. Such limitation on qualified equity investments
-shall be based on the anticipated utilization of credits without regard to
-the potential for taxpayers to carry forward tax credits to later tax years.</para>
-</amendatorysection></section><source><para>Laws 2012, LB1128, &#167; 15.</para></source>  </law>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Revenue And Taxation" statutenumber="77-1115"><bookinfo>Revised Statutes Supplement, 2021</bookinfo><statuteno>77-1115</statuteno><catchline>Tax Commissioner; limit tax credit utilization.</catchline><para>The Tax Commissioner shall limit the monetary amount of qualified equity investments permitted under the New Markets Job Growth Investment Act to a level necessary to limit tax credit utilization in any fiscal year at no more than fifteen million dollars of new tax credits, exclusive of tax credits acquired with respect to qualified equity investments issued under the 2021 allocation. Such limitation on qualified equity investments shall be based on the anticipated utilization of credits without regard to the potential for taxpayers to carry forward tax credits to later tax years.</para></amendatorysection></section><source><para>Laws 2012, LB1128, &#167; 15; </para><para>Laws 2021, LB682, &#167; 7. </para><effectivedate>May 26, 2021</effectivedate></source></law>
 </legaldoc>

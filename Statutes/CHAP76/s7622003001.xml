@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id24">
-<amendatorysection chaptername="Real Property" id="id26"  statutenumber="76-2203.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>76-2203.01</statuteno><catchline>Accredited degree-awarding community
-college, college, or university, defined.</catchline><para>Accredited degree-awarding community college,
-college, or university means an institution that is approved or accredited
-by a regional or national accreditation association or an agency recognized
-by the United States Secretary of Education.</para>
-</amendatorysection></section><source><para>Laws 2014, LB717, &#167; 4.</para></source>  </law>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Real Property" id="id26" statutenumber="76-2203.01"><bookinfo>Revised Statutes Supplement, 2021</bookinfo><statuteno>76-2203.01</statuteno><catchline>Accredited degree-awarding community college, college, or university, defined.</catchline><para>Accredited degree-awarding community college, college, or university means an institution that is approved or accredited by an accreditation association or agency recognized by the United States Secretary of Education.</para></amendatorysection></section><source><para>Laws 2014, LB717, &#167; 4; </para><para>Laws 2021, LB528, &#167; 17. </para><operativedate>August 28, 2021</operativedate></source></law>
 </legaldoc>

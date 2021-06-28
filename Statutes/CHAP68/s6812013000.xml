@@ -1,14 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id18">
-<amendatorysection chaptername="Public Assistance" id="id20"  statutenumber="68-1213"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>68-1213</statuteno><catchline>Pilot project; evaluation by Legislature.</catchline>
-<para>If the pilot project
-described in section 68-1212 is extended by the Department of Health and Human
-Services, an evaluation of the pilot project shall be completed by the Legislature
-prior to December 31, 2014. The Legislature shall utilize all necessary resources,
-including the hiring of a consultant if deemed necessary. The department and
-any child welfare entity which has contracted with the department shall provide
-all data and information to the Legislature to assist in the evaluation.</para>
-</amendatorysection></section><source><para>Laws 2014, LB660, &#167; 2.</para></source>  </law>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Public Assistance" id="id20" statutenumber="68-1213"><bookinfo>Revised Statutes Supplement, 2021</bookinfo><statuteno>68-1213</statuteno><catchline>Pilot project; evaluation by Legislature.</catchline><para>If the pilot project described in section 68-1212 is extended by the Department of Health and Human Services, an evaluation of the pilot project shall be completed by the Legislature prior to December 31, 2021. The Legislature shall utilize all necessary resources, including the hiring of a consultant if deemed necessary. The department and any child welfare entity which has contracted with the department shall provide all data and information to the Legislature to assist in the evaluation.</para></amendatorysection></section><source><para>Laws 2014, LB660, &#167; 2; </para><para>Laws 2021, LB428, &#167; 2. </para><operativedate>May 26, 2021</operativedate></source></law>
 </legaldoc>

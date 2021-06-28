@@ -1,14 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="Motor Vehicles" statutenumber="60-6,197.05"><bookinfo>Revised Statutes Cumulative Supplement, 2020</bookinfo><statuteno>60-6,197.05</statuteno><catchline>Driving under influence of alcoholic
-liquor or drugs; implied consent to chemical test; revocation; effect.</catchline>
-<para>Any period of revocation imposed by
-the court for a violation of section 60-6,196 or 60-6,197 shall
-be reduced by any period of
-revocation imposed under sections
-60-498.01 to 60-498.04, including any period during which a person has a valid
-ignition interlock permit, arising from the same incident.</para>
-</amendatorysection></section><source><para>Laws 2004, LB 208, &#167; 15; </para><para>Laws 2009, LB497, &#167; 8; </para><para>Laws 2011, LB667, &#167; 36.</para></source>  </law>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Motor Vehicles" statutenumber="60-6,197.05"><bookinfo>Revised Statutes Supplement, 2021</bookinfo><statuteno>60-6,197.05</statuteno><catchline>Driving under influence of alcoholic liquor or drugs; implied consent to chemical test; revocation; effect.</catchline><para>Any period of revocation imposed by the court for a violation of section 60-6,196 or 60-6,197 shall be reduced by any period of revocation imposed under sections 60-498.01 to 60-498.04, including any period during which a person has a valid ignition interlock permit or 24/7 sobriety program permit, arising from the same incident.</para></amendatorysection></section><source><para>Laws 2004, LB 208, &#167; 15; </para><para>Laws 2009, LB497, &#167; 8; </para><para>Laws 2011, LB667, &#167; 36; </para><para>Laws 2021, LB271, &#167; 11. </para><operativedate>July 1, 2022</operativedate></source></law>
 </legaldoc>

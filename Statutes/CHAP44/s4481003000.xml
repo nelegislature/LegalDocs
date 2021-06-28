@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="Insurance"  statutenumber="44-8103"><bookinfo>Revised Statutes Cumulative Supplement, 2020</bookinfo><statuteno>44-8103</statuteno><catchline>Applicability of act.</catchline>
-<para>The Nebraska Protection in Annuity Transactions Act applies to any recommendation
-to purchase, exchange, or replace an annuity made to a consumer by
-an insurance producer, or an insurer if an insurance producer is not involved,
-that results in the recommended purchase, exchange, or replacement.</para>
-</amendatorysection></section><source><para>Laws 2006, LB 875, &#167; 15; </para><para>Laws 2007, LB117, &#167; 28; </para><para>Laws 2012, LB887, &#167; 23.</para></source>  </law>
+    <law type="statute"><section><amendatorysection amended="yes" chaptername="Insurance" statutenumber="44-8103"><bookinfo>Revised Statutes Supplement, 2021</bookinfo><statuteno>44-8103</statuteno><catchline>Applicability of act; rules and regulations.</catchline><para>(1) The Nebraska Protection in Annuity Transactions Act applies to any recommendation or sale of an annuity.</para><para>(2) The Director of Insurance may adopt and promulgate rules and regulations to carry out the Nebraska Protection in Annuity Transactions Act.</para></amendatorysection></section><source><para>Laws 2006, LB 875, &#167; 15; </para><para>Laws 2007, LB117, &#167; 28; </para><para>Laws 2012, LB887, &#167; 23; </para><para>Laws 2021, LB22, &#167; 2. </para><effectivedate>April 8, 2021</effectivedate></source></law>
 </legaldoc>

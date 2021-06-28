@@ -1,24 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id10">
-<amendatorysection amended="yes" chaptername="Cities And Villages; Laws Applicable To All" id="id12" statutenumber="18-1915"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>18-1915</statuteno><catchline id="id15">Permit fees;
-inspection; provisions applicable.</catchline><para>The State of
-Nebraska shall permit cities and villages to collect permit fees and inspect
-all sanitary plumbing installed or repaired, except for a single-family dwelling
-or a farm or ranch structure, within the State of Nebraska outside of the
-zoning jurisdiction of cities and villages. The city or village nearest the
-construction site shall have jurisdiction to collect such permit fees and
-conduct the inspection of the sanitary plumbing. If the city or village has
-a plumbing ordinance in force and effect, such ordinance will govern the installation
-of the sanitary plumbing. If there is no city ordinance in effect for such
-city or village, the 2009 Uniform
-Plumbing Code accredited by the American National Standards Institute shall
-apply to all buildings except single-family dwellings and farm and ranch structures.</para>
-<para>Any code or ordinance enacted by a city or village which is
-at least equal to the 2009
-Uniform Plumbing Code accredited by the American National Standards
-Institute shall take preference over the provisions
-of the immediately preceding sentence.</para>
-</amendatorysection></section><source><para>Laws 1969, c. 100, &#167; 1, p. 474; </para><para>Laws 1996, LB 1304, &#167; 2; </para><para>Laws 2012, LB42, &#167; 2.</para></source>  </law>
+    <law type="statute"><section><amendatorysection amended="yes" chaptername="Cities And Villages; Laws Applicable To All" id="id12" statutenumber="18-1915"><bookinfo>Revised Statutes Supplement, 2021</bookinfo><statuteno>18-1915</statuteno><catchline id="id15">Permit fees; inspection; provisions applicable.</catchline><para>The State of Nebraska shall permit cities and villages to collect permit fees and inspect all sanitary plumbing installed or repaired, except for a single-family dwelling or a farm or ranch structure, within the State of Nebraska outside of the corporate limits or extraterritorial zoning jurisdiction of cities and villages. The city or village nearest the construction site shall have jurisdiction to collect such permit fees and conduct the inspection of the sanitary plumbing. If such city or village has a plumbing ordinance in force and effect, such ordinance will govern the installation of the sanitary plumbing. If there is no plumbing ordinance in effect for such city or village, the 2018 Uniform Plumbing Code designated by the American National Standards Institute as an American National Standard shall apply to all buildings except single-family dwellings and farm and ranch structures.</para></amendatorysection></section><source><para>Laws 1969, c. 100, &#167; 1, p. 474; </para><para>Laws 1996, LB 1304, &#167; 2; </para><para>Laws 2012, LB42, &#167; 2; </para><para>Laws 2021, LB131, &#167; 17; </para><para>Laws 2021, LB163, &#167; 129. </para><note>The Revisor of Statutes has pursuant to section 49-769 correlated LB131, section 17, with LB163, section 129, to reflect all amendments.</note><note>Changes made by LB131 became operative August 28, 2021. Changes made by LB163 became effective August 28, 2021.</note>
+    </source></law>
 </legaldoc>

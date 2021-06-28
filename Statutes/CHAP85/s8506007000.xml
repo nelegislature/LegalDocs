@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id605">
-<amendatorysection amended="yes" chaptername="State University, State Colleges, And Postsecondary Education" id="id607" statutenumber="85-607"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id609">85-607</statuteno><catchline id="id610">Denial of admission
-of certain qualified student; prohibited.</catchline>
-<para>No publicly funded college or university in this state shall
-prohibit the admission of any student educated in any school
-which elects to meet the requirements of subsections (2) through (6) of section
-79-1601 if the student is qualified for admission
-as shown by testing results.</para>
-</amendatorysection></section><source><para>Laws 1984, LB 928, &#167; 5; </para><para>Laws 1996, LB 900, &#167; 1079; </para><para>Laws 1999, LB 813, &#167; 58; </para><para>Laws 2009, LB549, &#167; 51.</para></source>  </law>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="State University, State Colleges, And Postsecondary Education" id="id607" statutenumber="85-607"><bookinfo>Revised Statutes Supplement, 2021</bookinfo><statuteno>85-607</statuteno><catchline id="id610">Denial of admission of or discrimination against certain qualified student; prohibited.</catchline><para>No publicly funded college or university in this state shall prohibit the admission of any student, or discriminate against any student with regard to determinations of residency status or scholarship eligibility, on the basis that such student was educated in a school which elects to meet the requirements of subsections (2) through (6) of section 79-1601 if the student is qualified for admission as shown by testing results.</para></amendatorysection></section><source><para>Laws 1984, LB 928, &#167; 5; </para><para>Laws 1996, LB 900, &#167; 1079; </para><para>Laws 1999, LB 813, &#167; 58; </para><para>Laws 2009, LB549, &#167; 51; </para><para>Laws 2021, LB92, &#167; 2. </para><effectivedate>August 28, 2021</effectivedate></source></law>
 </legaldoc>

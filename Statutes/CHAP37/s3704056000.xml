@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id216">
-<amendatorysection amended="yes" chaptername="Game And Parks" id="id218" statutenumber="37-456"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id220">37-456</statuteno><catchline id="id221">Limited antelope
-or elk permit; issuance; limitation.</catchline><para>The issuance
-of limited antelope permits pursuant to section 37-455 in any management unit
-shall not exceed fifty percent of the regular
-permits authorized for such antelope management unit. The issuance of limited
-elk permits pursuant to section 37-455 in any management unit shall not exceed
-fifty percent of the regular permits authorized for such elk management unit.</para>
-</amendatorysection></section><source><para>Laws 1974, LB 865, &#167; 2; </para><para>Laws 1975, LB 270, &#167; 2; </para><para>Laws 1985, LB 557, &#167; 7; </para><para>Laws 1996, LB 584, &#167; 8; </para><para>R.S.Supp.,1996, &#167; 37-215.08; </para><para>Laws 1998, LB 922, &#167; 166; </para><para>Laws 2009, LB105, &#167; 21.</para></source>  </law>
+    <law type="statute"><section><amendatorysection amended="yes" chaptername="Game And Parks" id="id218" statutenumber="37-456"><bookinfo>Revised Statutes Supplement, 2021</bookinfo><statuteno>37-456</statuteno><catchline id="id221">Limited antelope or elk permit; issuance; limitation.</catchline><para>The issuance of limited antelope permits pursuant to section 37-455 in any management unit shall not exceed seventy-five percent of the regular permits authorized for such antelope management unit. The issuance of limited elk permits pursuant to section 37-455 in any management unit shall not exceed seventy-five percent of the regular permits authorized for such elk management unit.</para></amendatorysection></section><source><para>Laws 1974, LB 865, &#167; 2; </para><para>Laws 1975, LB 270, &#167; 2; </para><para>Laws 1985, LB 557, &#167; 7; </para><para>Laws 1996, LB 584, &#167; 8; </para><para>R.S.Supp.,1996, &#167; 37-215.08; </para><para>Laws 1998, LB 922, &#167; 166; </para><para>Laws 2009, LB105, &#167; 21; </para><para>Laws 2021, LB507, &#167; 3. </para><effectivedate>May 6, 2021</effectivedate></source></law>
 </legaldoc>

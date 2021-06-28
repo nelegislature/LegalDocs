@@ -1,36 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id4">
-<amendatorysection amended="yes" chaptername="Schools" id="id6" statutenumber="79-760.05"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>79-760.05</statuteno><catchline id="id9">Statewide system
-for tracking individual student achievement; State Board of Education; duties;
-school districts; provide data; analysis and reports.</catchline><para>(1)
-The State Board of Education shall implement a statewide system for tracking
-individual student achievement, using the student identifier system of the
-State Department of Education, that can be aggregated to track student progress
-by demographic characteristics, including, but not limited to, race, poverty,
-high mobility, attendance, and limited English proficiency, on available measures
-of student achievement which include, but need not be limited to, national
-assessment instruments, state assessment instruments, and the indicators used in the accountability
-system required pursuant to section 79-760.06. Such a system shall
-be designed so as to aggregate student data by available educational input
-characteristics, which may include class size, teacher education, teacher
-experience, special education, early childhood programs, federal programs,
-and other targeted education programs. School districts shall provide the
-department with individual student achievement data from assessment instruments
-required pursuant to section 79-760.03 in order to implement the statewide
-system.</para>
-<para>(2) The department shall annually analyze and report on student
-achievement for the state, each school district, each public school, and each learning community
-aggregated by the demographic characteristics described in subsection (1)
-of this section. The department shall report the findings to the Governor,
-the Legislature, school districts, educational service units, and each learning
-community. The report submitted
-to the Legislature shall be submitted electronically. Such analysis
-shall include aggregated data that would indicate differences in achievement
-due to available educational input characteristics described in subsection
-(1) of this section. Such analysis shall include indicators of progress toward
-state achievement goals for students in poverty, limited English proficient
-students, and highly mobile students.</para>
-</amendatorysection></section><source><para>Laws 2007, LB653, &#167; 8; </para><para>Laws 2008, LB1157, &#167; 5; </para><para>Laws 2011, LB333, &#167; 5; </para><para>Laws 2012, LB782, &#167; 153; </para><para>Laws 2012, LB870, &#167; 3.</para></source>  </law>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Schools" id="id6" statutenumber="79-760.05"><bookinfo>Revised Statutes Supplement, 2021</bookinfo><statuteno>79-760.05</statuteno><catchline id="id9">Student achievement; student discipline; statewide systems for tracking individual students; State Board of Education; duties; school districts; schools; provide data; analysis and reports.</catchline><para>(1) The State Board of Education shall implement a statewide system for tracking individual student achievement, using the student identifier system of the State Department of Education, that can be aggregated to track student progress by demographic characteristics, including, but not limited to, race, poverty, high mobility, attendance, and limited English proficiency, on available measures of student achievement which include, but need not be limited to, national assessment instruments, state assessment instruments, and the indicators used in the accountability system required pursuant to section 79-760.06. Such a system shall be designed so as to aggregate student data by available educational input characteristics, which may include class size, teacher education, teacher experience, special education, early childhood programs, federal programs, and other targeted education programs. School districts shall provide the department with individual student achievement data from assessment instruments required pursuant to section 79-760.03 in order to implement the statewide system.</para><para>(2)(a) On or before August 1, 2022, the state board shall also implement a statewide system for tracking individual student discipline, using the student identifier system of the department, that can be aggregated to track student discipline by type of discipline and demographic characteristics, including, but not limited to, race, poverty, high mobility, attendance, disability, and limited English proficiency. The state board shall cause each school district to report, by individual student, any:</para><para>(i) Act resulting in an in-school suspension, a short-term suspension, a long-term suspension, a one-semester expulsion, a two-semester expulsion, an assignment to an alternative school or alternative-learning program, the use of physical intervention with such student, or the restraint or seclusion of such student;</para><para>(ii) Offense constituting grounds for a long-term suspension, an expulsion, or a mandatory reassignment pursuant to section 79-267, regardless of consequences assigned; and</para><para>(iii) Act resulting in law enforcement involvement, including any incident reported to law enforcement or to an onsite school resource officer, and any school-related citation or arrest.</para><para>(b) For purposes of this subsection, school-related citation or arrest shall include a citation or arrest of a student for any activity conducted on school grounds; in a vehicle owned, leased, or contracted by a school being used for a school purpose or in a vehicle being driven for a school purpose by a school employee or by such employee's designee; or at a school-sponsored activity or athletic event.</para><para>(c) The system for tracking individual student discipline may also be used to record other disciplinary incidents.</para><para>(d) Each school shall designate at least one discipline data coordinator for the purposes of gathering and reporting the discipline data required pursuant to this subsection.</para><para>(3) The department shall annually analyze and report on student achievement and on student discipline for the state, each school district, each public school, and each learning community aggregated by the demographic characteristics described in subsection (1) of this section. The department shall report the findings to the Governor, the Legislature, school districts, educational service units, and each learning community. The report submitted to the Legislature shall be submitted electronically. Such analysis shall include aggregated data that would indicate differences in achievement and differences in student discipline due to available educational input characteristics described in subsection (1) of this section. Such analysis shall include indicators of progress toward state achievement goals for students in poverty, limited English proficient students, students with disabilities, and highly mobile students.</para></amendatorysection></section><source><para>Laws 2007, LB653, &#167; 8; </para><para>Laws 2008, LB1157, &#167; 5; </para><para>Laws 2011, LB333, &#167; 5; </para><para>Laws 2012, LB782, &#167; 153; </para><para>Laws 2012, LB870, &#167; 3; </para><para>Laws 2021, LB154, &#167; 1. </para><effectivedate>August 28, 2021</effectivedate></source></law>
 </legaldoc>

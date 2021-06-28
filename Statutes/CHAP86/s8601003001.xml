@@ -1,12 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id17">
-<amendatorysection chaptername="Telecommunications And Technology" id="id19"  statutenumber="86-103.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>86-103.01</statuteno><catchline>Advanced telecommunications capability
-service, defined.</catchline><para>Advanced
-telecommunications capability service means high-speed, broadband telecommunications
-capability provided by a local exchange carrier that enables users to originate
-and receive high-quality voice, data, graphics, and video communications using
-any technology.</para>
-</amendatorysection></section><source><para>Laws 2012, LB715, &#167; 3.</para></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="Telecommunications and Technology" statutenumber="86-103.01"><bookinfo>Revised Statutes Supplement, 2021</bookinfo><statuteno>86-103.01</statuteno><catchline>Repealed. Laws 2021, LB338, &#167; 10.</catchline></amendatorysection></section></law>
 </legaldoc>
