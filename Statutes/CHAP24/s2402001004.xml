@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="Courts" statutenumber="24-201.04"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>24-201.04</statuteno><catchline>Supreme Court judicial districts; population figures and maps; basis.</catchline>
-<para>For purposes
-of section 24-201.02,
-the Legislature adopts the official population figures and maps from the 2010 Census Redistricting (Public Law 94-171) TIGER/Line Shapefiles published by the United States Department
-of Commerce, Bureau of the Census.</para>
-</amendatorysection></section><source><para>Laws 1991, LB 616, &#167; 2; </para><para>Laws 2001, LB 853, &#167; 2; </para><para>Laws 2011, LB699, &#167; 2.</para></source>  </law>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Courts" statutenumber="24-201.04"><bookinfo>Revised Statutes Supplement, 2021</bookinfo><statuteno>24-201.04</statuteno><catchline>Supreme Court judicial districts; population figures and maps; basis.</catchline><para>For purposes of section 24-201.02, the Legislature adopts the official population figures and maps from the 2020 Census Redistricting (Public Law 94-171) TIGER/Line Shapefiles published by the United States Department of Commerce, Bureau of the Census.</para></amendatorysection></section><source><para>Laws 1991, LB 616, &#167; 2; </para><para>Laws 2001, LB 853, &#167; 2; </para><para>Laws 2011, LB699, &#167; 2; </para><para>Laws 2021, First Spec. Sess., LB6, &#167; 2. </para><effectivedate>October 1, 2021</effectivedate></source></law>
 </legaldoc>

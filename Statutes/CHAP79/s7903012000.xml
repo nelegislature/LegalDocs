@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="Schools" statutenumber="79-312"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>79-312</statuteno><catchline>State Board of Education districts; population figures and maps; basis.</catchline>
-<para>For purposes
-of section 79-311,
-the Legislature adopts the official population figures and maps from the 2010 Census Redistricting (Public Law 94-171) TIGER/Line Shapefiles published by the United States Department
-of Commerce, Bureau of the Census.</para>
-</amendatorysection></section><source><para>Laws 1971, LB 735, &#167; 2; </para><para>Laws 1981, LB 554, &#167; 2; </para><para>Laws 1991, LB 619, &#167; 3; </para><para>R.S.1943, (1994), &#167; 79-322.02; </para><para>Laws 1996, LB 900, &#167; 140; </para><para>Laws 2001, LB 856, &#167; 3; </para><para>Laws 2011, LB702, &#167; 2.</para></source>  </law>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Schools" statutenumber="79-312"><bookinfo>Revised Statutes Supplement, 2021</bookinfo><statuteno>79-312</statuteno><catchline>State Board of Education districts; population figures and maps; basis.</catchline><para>For purposes of section 79-311, the Legislature adopts the official population figures and maps from the 2020 Census Redistricting (Public Law 94-171) TIGER/Line Shapefiles published by the United States Department of Commerce, Bureau of the Census.</para></amendatorysection></section><source><para>Laws 1971, LB 735, &#167; 2; </para><para>Laws 1981, LB 554, &#167; 2; </para><para>Laws 1991, LB 619, &#167; 3; </para><para>R.S.1943, (1994), &#167; 79-322.02; </para><para>Laws 1996, LB 900, &#167; 140; </para><para>Laws 2001, LB 856, &#167; 3; </para><para>Laws 2011, LB702, &#167; 2; </para><para>Laws 2021, First Spec. Sess., LB7, &#167; 2. </para><effectivedate>October 1, 2021</effectivedate></source></law>
 </legaldoc>
