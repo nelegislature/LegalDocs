@@ -1,12 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="Interest, Loans, And Debt"  statutenumber="45-736"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>45-736</statuteno><catchline>Unique identifier; use.</catchline>
-<para>The unique identifier of any licensee originating a residential
-mortgage loan shall be clearly shown on all residential mortgage loan application
-forms, solicitations, or advertisements, including business cards or websites,
-and any other documents as established by rule, regulation, or order of the
-director.</para>
-</amendatorysection></section><source><para>Laws 2009, LB328, &#167; 21; </para><para>Laws 2012, LB965, &#167; 18.</para></source>  </law>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Interest, Loans, And Debt" statutenumber="45-736"><bookinfo>Revised Statutes Cumulative Supplement, 2022</bookinfo><statuteno>45-736</statuteno><catchline>Unique identifier; use.</catchline><para>The unique identifier of any licensee shall be clearly shown on all residential mortgage loan application forms, solicitations, or advertisements, including business cards or websites, and any other documents as established by rule, regulation, or order of the director.</para></amendatorysection></section><source><para>Laws 2009, LB328, &#167; 21; </para><para>Laws 2012, LB965, &#167; 18; </para><para>Laws 2022, LB707, &#167; 34. </para><operativedate>July 21, 2022</operativedate></source></law>
 </legaldoc>

@@ -1,27 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id14">
-<amendatorysection amended="yes" chaptername="Crimes And Punishments" id="id16" statutenumber="28-521"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id18">28-521</statuteno><catchline id="id19">Criminal trespass,
-second degree; penalty.</catchline><para>(1) A person commits second
-degree criminal trespass if, knowing that he or she is not licensed or privileged to do so,
-he or she enters
-or remains in any place as to which notice against trespass is given by:</para>
-<para>(a) Actual communication to the actor; or</para>
-<para>(b) Posting in a manner prescribed by law or reasonably likely
-to come to the attention of intruders; or</para>
-<para>(c) Fencing or other enclosure manifestly designed to exclude
-intruders except as otherwise
-provided in section 28-520.</para>
-<para>(2) Second degree criminal trespass is a Class III misdemeanor,
-except as provided for in subsection (3) of this section.</para>
-<para>(3) Second degree criminal trespass is a Class II misdemeanor
-if the offender defies an order to leave personally communicated to him or her by the owner of the
-premises or other authorized person.</para>
-</amendatorysection></section><source><para>Laws 1977, LB 38, &#167; 120; </para><para>Laws 2009, LB238, &#167; 2.</para></source><annotation>
-<para>In a trespass prosecution, a defendant may introduce evidence that an owner or other person empowered to license access to the property told the defendant that he or she could be on the property. Such statements are 
-verbal acts, i.e., nonhearsay statements, because they have legal 
-significance merely because they were spoken. State v. McCave, 282 Neb. 
-500, 805 N.W.2d 290 (2011).</para>
-<para>An automobile, by itself, is not a "place" as to which notice against trespass may be given within the meaning of subsection (1)(c) of this section. In re Interest of W.D., 232 Neb. 581, 441 N.W.2d 608 (1989).</para><para>Criminal trespass is not a lesser-included offense of burglary. State v. Miller, 215 Neb. 145, 337 N.W.2d 424 (1983).</para></annotation>  </law>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Crimes And Punishments" id="id16" statutenumber="28-521"><bookinfo>Revised Statutes Cumulative Supplement, 2022</bookinfo><statuteno>28-521</statuteno><catchline id="id19">Criminal trespass, second degree; penalty.</catchline><para>(1) A person commits second degree criminal trespass if, knowing that he or she is not licensed or privileged to do so, he or she enters or remains in any place as to which notice against trespass is given by:</para><para>(a) Actual communication to the actor; or</para><para>(b) Posting in a manner prescribed by law or reasonably likely to come to the attention of intruders; or</para><para>(c) Fencing or other enclosure manifestly designed to exclude intruders except as otherwise provided in section 28-520.</para><para>(2) A person commits second degree criminal trespass if, knowing that he or she is not licensed or privileged to do so, he or she intentionally causes an electronic device, such as an unmanned aircraft, to enter into, upon, or above the property of another, including such property owned by such person and leased or rented to another, with the intent to observe another person without his or her consent in a place of solitude or seclusion.</para><para>(3) For purposes of this section, unmanned aircraft means an aircraft, including an aircraft commonly known as a drone, which is operated without the possibility of direct human intervention from within or on the aircraft.</para><para>(4) Second degree criminal trespass is a Class III misdemeanor, except as provided for in subsection (5) of this section.</para><para>(5) Second degree criminal trespass is a Class II misdemeanor if the offender defies an order to leave personally communicated to him or her by the owner of the premises or other authorized person.</para></amendatorysection></section><source><para>Laws 1977, LB 38, &#167; 120; </para><para>Laws 2009, LB238, &#167; 2; </para><para>Laws 2022, LB922, &#167; 6. </para><operativedate>July 21, 2022</operativedate></source><annotation><para>In a trespass prosecution, a defendant may introduce evidence that an owner or other person empowered to license access to the property told the defendant that he or she could be on the property. Such statements are verbal acts, i.e., nonhearsay statements, because they have legal significance merely because they were spoken. State v. McCave, 282 Neb. 500, 805 N.W.2d 290 (2011).</para><para>An automobile, by itself, is not a "place" as to which notice against trespass may be given within the meaning of subsection (1)(c) of this section. In re Interest of W.D., 232 Neb. 581, 441 N.W.2d 608 (1989).</para><para>Criminal trespass is not a lesser-included offense of burglary. State v. Miller, 215 Neb. 145, 337 N.W.2d 424 (1983).</para></annotation></law>
 </legaldoc>
