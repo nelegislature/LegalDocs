@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+
 <legaldoc>
 <law type="statute">
 <section id="id4">
-<amendatorysection chaptername="Agriculture" id="id6"  statutenumber="2-1091.02"><bookinfo>Revised Statutes Cumulative Supplement, 2020</bookinfo><statuteno>2-1091.02</statuteno><catchline>Fees; department;
+<amendatorysection chaptername="Agriculture" id="id6"  statutenumber="2-1091.02"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>2-1091.02</statuteno><catchline>Fees; department;
 powers.</catchline><para>(1)
 License fees for the Plant Protection and Plant Pest Act due on January 1,
 2014, shall be the amount in column A of subsection (3) of this section.</para>
@@ -24,54 +24,54 @@ of program cash fund appropriations allocated for the act.</para>
 <para>(3) License
 Fees.</para><para><table frame="all">
 <tgroup cols="3">
-<?PubTbl tgroup crmarg="0.00pt" ctmarg="0.00pt" cbmarg="0.00pt"?>
+
 <colspec colname="col1" colwidth="42.42*" /><colspec colname="col2" colwidth="31.64*" />
 <colspec colname="col3" colwidth="25.91*" />
 <tbody>
 <row>
-<?PubTbl row rht="0.33in"?>
+
 <entry colsep="0" rowsep="1">License
 Fees</entry>
 <entry colsep="0" rowsep="1">A</entry>
 <entry colsep="0" rowsep="1">B</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+
 <entry colsep="0" rowsep="0">Nursery
 stock </entry>
 <entry colsep="0" rowsep="0" />
 <entry colsep="0" rowsep="0" />
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+
 <entry colsep="0" rowsep="0">distributor
 license</entry>
 <entry colsep="0" rowsep="0" />
 <entry colsep="0" rowsep="0" />
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+
 <entry colsep="0" rowsep="0">as
 set forth in</entry>
 <entry colsep="0" rowsep="0" />
 <entry colsep="0" rowsep="0" />
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+
 <entry colsep="0" rowsep="0">section
 2-1091.01</entry>
 <entry colsep="0" rowsep="0" />
 <entry colsep="0" rowsep="0" />
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+
 <entry colsep="0" rowsep="1">for
 the first acre</entry>
 <entry colsep="0" rowsep="1">$115</entry>
 <entry colsep="1" rowsep="1">$140</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+
 <entry colsep="0" rowsep="1">Fee
 for additional acres </entry>
 <entry colsep="0" rowsep="1">$5.00
@@ -80,7 +80,7 @@ per acre</entry>
 per acre</entry>
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+
 <entry colsep="0" rowsep="0">Distributing
 without</entry>
 <entry colsep="0" rowsep="0">25%
@@ -88,7 +88,7 @@ of the fee</entry>
 <entry colsep="0" rowsep="0" />
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+
 <entry colsep="0" rowsep="0">obtaining
 a nursery</entry>
 <entry colsep="0" rowsep="0">per
@@ -96,7 +96,7 @@ month up to</entry>
 <entry colsep="0" rowsep="0" />
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+
 <entry colsep="0" rowsep="0">stock
 distributor</entry>
 <entry colsep="0" rowsep="0">100%
@@ -104,7 +104,7 @@ of the</entry>
 <entry colsep="0" rowsep="0" />
 </row>
 <row>
-<?PubTbl row rht="0.33in"?>
+
 <entry colsep="0" rowsep="0">license
 fee</entry>
 <entry colsep="0" rowsep="0">license
