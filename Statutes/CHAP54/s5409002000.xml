@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<legaldoc>
+<?xml version="1.0" encoding="utf-8"?> <legaldoc>
 <law type="statute">
 <section id="id10">
 <amendatorysection amended="yes" chaptername="Livestock" id="id12"  statutenumber="54-902"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>54-902</statuteno><catchline id="id15">Terms, defined.</catchline><para>For purposes of the Livestock Animal Welfare Act:</para>

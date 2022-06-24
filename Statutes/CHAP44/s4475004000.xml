@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<legaldoc>
+<?xml version="1.0" encoding="utf-8"?> <legaldoc>
 <law type="statute">
 <section id="id184">
 <amendatorysection amended="yes" chaptername="Insurance" id="id186" statutenumber="44-7504"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id188">44-7504</statuteno><catchline id="id189">Terms, defined.</catchline><para>For purposes of the Property and Casualty Insurance Rate

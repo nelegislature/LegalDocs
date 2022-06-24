@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<legaldoc>
+<?xml version="1.0" encoding="utf-8"?> <legaldoc>
 <law type="statute">
 <section id="id3">
 <amendatorysection amended="yes" chaptername="Motor Vehicles" id="id5" statutenumber="60-682.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id7">60-682.01</statuteno><catchline id="id8">Speed limit violations;

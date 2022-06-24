@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<legaldoc>
+<?xml version="1.0" encoding="utf-8"?> <legaldoc>
 <law type="statute">
 <section>
 <amendatorysection amended="yes" chaptername="Motor Vehicles" id="id38" statutenumber="60-658"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>60-658</statuteno><catchline id="id41">School bus, defined.</catchline><para>School bus shall mean any motor vehicle which complies with the general
