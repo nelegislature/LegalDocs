@@ -2,16 +2,18 @@
 <!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN" "legaldoc.dtd">
 <legaldoc><law type="constitution">
 <section>
-<sectno></sectno>
+<sectno/>
 <constitutionalsection chaptername="Constitution" statutenumber="I-22">
 <bookinfo>Reissue Revised Statutes of Nebraska</bookinfo>
 <articlesectno>I-22</articlesectno>
-<catchline>Elections to be free.</catchline>
-<para>All elections shall be free; and there shall be no hindrance or impediment to the right of a qualified voter to exercise the elective franchise.</para>
-</constitutionalsection>
+<catchline>Elections to be free; identification required.</catchline>
+<para>(1) All elections shall be free; and there shall be no hindrance or impediment to the right of a qualified voter to exercise the elective franchise.</para>
+<para>(2) Before casting a ballot in any election, a qualified voter shall present valid photographic
+identification in a manner specified by the Legislature to ensure the preservation of an individual’s rights
+under this Constitution and the Constitution of the United States.</para></constitutionalsection>
 </section>
 <source>
-<para>Neb. Const. art. I, sec. 22 (1875). </para></source>
+<para>Neb. Const. art. I, sec. 22 (1875); Amended 2022, Initiative Measure No. 432.</para></source>
 <annotation>
 <para><emphasis>1. Nominations</emphasis></para>
 <para><emphasis>2. Miscellaneous</emphasis></para>
