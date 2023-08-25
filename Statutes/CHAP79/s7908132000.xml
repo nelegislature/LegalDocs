@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<legaldoc>
-<law type="statute">
-<section id="id38">
-<amendatorysection amended="yes" chaptername="Schools" id="id40" statutenumber="79-8,132"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id42">79-8,132</statuteno><catchline id="id43">Act, how cited.</catchline>
-<para>Sections 79-8,132 to 79-8,140 shall be known and may be cited
-as the Excellence
-in Teaching Act and shall include the Attracting Excellence to Teaching Program
-and the Enhancing Excellence in Teaching Program.</para>
-</amendatorysection></section><source><para>Laws 2000, LB 1399, &#167; 15; </para><para>Laws 2009, LB547, &#167; 3.</para></source><crossreference><para><emphasis>Master Teacher Program Act,</emphasis> see section 79-8,124.</para></crossreference>  </law>
-</legaldoc>
+<?xml version="1.0" encoding="utf-8"?><legaldoc lastbill="LB705"><law type="statute"><section><amendatorysection chaptername="Schools" amended="yes" statutenumber="79-8,132"><bookinfo>Revised Statutes Supplement, 2023</bookinfo><statuteno>79-8,132</statuteno><catchline>Transferred to section 85-3101.</catchline></amendatorysection></section></law></legaldoc>

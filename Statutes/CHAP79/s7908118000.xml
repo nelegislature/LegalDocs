@@ -1,1 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="statute"><section><amendatorysection chaptername="Schools" statutenumber="79-8,118"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>79-8,118</statuteno><catchline>Repealed. Laws 2003, LB 1, &#167; 1; Laws 2003, LB 67, &#167; 34.</catchline></amendatorysection></section></law></legaldoc>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+    <law type="statute"><section id="id730"><amendatorysection chaptername="Schools" statutenumber="79-8,118"><bookinfo>Revised Statutes Supplement, 2023</bookinfo><statuteno>79-8,118</statuteno><catchline>Act, termination.</catchline><para>The Nebraska Teacher Recruitment and Retention Act terminates on January 1, 2028.</para></amendatorysection></section><source><para>Laws 2023, LB705, &#167; 50. </para><operativedate>June 2, 2023</operativedate><terminationdate>January 1, 2028</terminationdate></source></law>
+</legaldoc>

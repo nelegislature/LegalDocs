@@ -1,1 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> <legaldoc> <law type="statute"> <section id="id1157"> <amendatorysection amended="yes" chaptername="Public Health And Welfare" id="id1159" statutenumber="71-8208"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id1161">71-8208</statuteno><catchline id="id1162">Communications system, defined.</catchline><para>Communications system means any network which provides rapid public access, coordinated central dispatching of services, and coordination of personnel, equipment, and facilities in the trauma system.</para> </amendatorysection></section><source><para>Laws 1997, LB 626, &#167; 8; </para><para>Laws 2009, LB195, &#167; 90.</para></source>  </law> </legaldoc>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="statute"><section><amendatorysection chaptername="Public Health and Welfare" statutenumber="71-8208"><bookinfo>Revised Statutes Supplement, 2023</bookinfo><statuteno>71-8208</statuteno><catchline>Repealed. Laws 2023, LB227, &#167; 121.</catchline></amendatorysection></section><source><operativedate>September 2, 2023</operativedate></source></law>
+</legaldoc>

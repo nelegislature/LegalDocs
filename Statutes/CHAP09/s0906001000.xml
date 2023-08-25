@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> <legaldoc>
-<law type="statute">
-<section id="id4">
-<amendatorysection amended="yes" chaptername="Bingo And Other Gambling" id="id6" statutenumber="9-601"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>9-601</statuteno><catchline id="id9">Act, how cited.</catchline>
-<para>Sections 9-601 to 9-653 shall be known and may be cited as
-the Nebraska County and City Lottery Act.</para>
-</amendatorysection></section><source><para>Laws 1986, LB 1027, &#167; 172; </para><para>Laws 1989, LB 767, &#167; 47; </para><para>Laws 1991, LB 427, &#167; 54; </para><para>Laws 1991, LB 795, &#167; 4; </para><para>Laws 1993, LB 563, &#167; 2; </para><para>Laws 2002, LB 545, &#167; 44; </para><para>Laws 2011, LB490, &#167; 1; </para><para>Laws 2014, LB259, &#167; 1.</para></source>  </law>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Bingo And Other Gambling" id="id6" statutenumber="9-601"><bookinfo>Revised Statutes Supplement, 2023</bookinfo><statuteno>9-601</statuteno><catchline id="id9">Act, how cited.</catchline><para>Sections 9-601 to 9-653 shall be known and may be cited as the Nebraska County and City Lottery Act.</para></amendatorysection></section><source><para>Laws 1986, LB 1027, &#167; 172; </para><para>Laws 1989, LB 767, &#167; 47; </para><para>Laws 1991, LB 427, &#167; 54; </para><para>Laws 1991, LB 795, &#167; 4; </para><para>Laws 1993, LB 563, &#167; 2; </para><para>Laws 2002, LB 545, &#167; 44; </para><para>Laws 2011, LB490, &#167; 1; </para><para>Laws 2014, LB259, &#167; 1; </para><para>Laws 2023, LB775, &#167; 4. </para><effectivedate>September 2, 2023</effectivedate></source></law>
 </legaldoc>
