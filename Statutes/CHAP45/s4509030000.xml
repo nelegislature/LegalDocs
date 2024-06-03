@@ -1,17 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id27">
-<amendatorysection chaptername="Interest, Loans, And Debt" id="id29"  statutenumber="45-930"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>45-930</statuteno><catchline>Financial Literacy Cash Fund; created;
-use; investment.</catchline><para>The
-Financial Literacy Cash Fund is created. Amounts credited to the fund shall
-include that portion of each renewal fee as provided in section 45-927 and
-such other revenue as is incidental to administration of the fund. The fund
-shall be administered by the University of Nebraska and shall be used to provide
-assistance to nonprofit entities that offer financial literacy programs to
-students in grades kindergarten through twelve. Any money in the fund available
-for investment shall be invested by the state investment officer pursuant
-to the Nebraska Capital Expansion Act and the Nebraska State Funds Investment
-Act.</para>
-</amendatorysection></section><source><para>Laws 2012, LB269, &#167; 4.</para></source><crossreference><para><emphasis>Nebraska Capital Expansion Act,</emphasis> see section 72-1269.</para><para><emphasis>Nebraska State Funds Investment Act,</emphasis> see section 72-1260.</para></crossreference>  </law>
+<law type="statute"><section><amendatorysection chaptername="Interest, Loans, And Debt" id="id29" statutenumber="45-930" amended="yes"><bookinfo>Revised Statutes Cumulative Supplement, 2024</bookinfo><statuteno>45-930</statuteno><catchline>Financial Literacy Cash Fund; created; use; investment.</catchline><para>The Financial Literacy Cash Fund is created. The fund shall consist of amounts credited to the fund from that portion of each renewal fee as provided in section 45-927, such other revenue as is incidental to administration of the fund, and transfers authorized by the Legislature. The fund shall be administered by the University of Nebraska. The fund shall be used to provide assistance to nonprofit entities that offer financial literacy programs to students in grades kindergarten through twelve and to provide assistance for the tenant assistance project administered by the Housing Justice Clinic at the University of Nebraska College of Law that provides legal services to low-income families facing eviction. Any money in the fund available for investment shall be invested by the state investment officer pursuant to the Nebraska Capital Expansion Act and the Nebraska State Funds Investment Act.</para></amendatorysection></section><source><para>Laws 2012, LB269, &#167; 4; </para><para>Laws 2024, LB1413, &#167; 35. </para><effectivedate>April 2, 2024</effectivedate></source><crossreference><para><emphasis>Nebraska Capital Expansion Act,</emphasis> see section 72-1269.</para><para><emphasis>Nebraska State Funds Investment Act,</emphasis> see section 72-1260.</para></crossreference></law>
 </legaldoc>

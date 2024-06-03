@@ -1,25 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="ucc"><section><amendatorysection chaptername="Uniform Commercial Code" statutenumber="9-628">
-<bookinfo>Uniform Commercial Code, Reissue Revised Statutes of Nebraska</bookinfo>
-<statuteno>9-628</statuteno>
-<catchline>Nonliability and limitation on liability of secured party; liability of secondary obligor.</catchline>
-<para>(a) Unless a secured party knows that a person is a debtor or obligor, knows the identity of the person, and knows how to communicate with the person:</para>
-<para>(1) the secured party is not liable to the person, or to a secured party or lienholder that has filed a financing statement against the person, for failure to comply with this article; and</para>
-<para>(2) the secured party's failure to comply with this article does not affect the liability of the person for a deficiency.</para>
-<para>(b) A secured party is not liable because of its status as secured party:</para>
-<para>(1) to a person that is a debtor or obligor, unless the secured party knows:</para>
-<para>(A) that the person is a debtor or obligor;</para>
-<para>(B) the identity of the person; and</para>
-<para>(C) how to communicate with the person; or</para>
-<para>(2) to a secured party or lienholder that has filed a financing statement against a person, unless the secured party knows:</para>
-<para>(A) that the person is a debtor; and</para>
-<para>(B) the identity of the person.</para>
-<para>(c) A secured party is not liable to any person, and a person's liability for a deficiency is not affected, because of any act or omission arising out of the secured party's reasonable belief that a transaction is not a consumer-goods transaction or a consumer transaction or that goods are not consumer goods, if the secured party's belief is based on its reasonable reliance on: </para>
-<para>(1) a debtor's representation concerning the purpose for which collateral was to be used, acquired, or held; or</para>
-<para>(2) an obligor's representation concerning the purpose for which a secured obligation was incurred.</para>
-<para>(d) A secured party is not liable to any person under section 9-625(c)(2) for its failure to comply with section 9-616.</para>
-<para>(e) A secured party is not liable under section 9-625(c)(2) more than once with respect to any one secured obligation.</para>
-</amendatorysection></section>
-<source>
-<para>Laws 1999, LB 550, &#167; 203.</para>
-</source>
-</law></legaldoc>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="ucc"><section><amendatorysection amended="yes" chaptername="Uniform Commercial Code" statutenumber="9-628"><bookinfo>Uniform Commercial Code, Revised Statutes Cumulative Supplement, 2024</bookinfo><statuteno>9-628</statuteno><catchline>Nonliability and limitation on liability of secured party; liability of secondary obligor.</catchline><para>(a) Subject to subsection (f), unless a secured party knows that a person is a debtor or obligor, knows the identity of the person, and knows how to communicate with the person:</para><para>(1) the secured party is not liable to the person, or to a secured party or lienholder that has filed a financing statement against the person, for failure to comply with this article; and</para><para>(2) the secured party's failure to comply with this article does not affect the liability of the person for a deficiency.</para><para>(b) Subject to subsection (f), a secured party is not liable because of its status as secured party:</para><para>(1) to a person that is a debtor or obligor, unless the secured party knows:</para><para>(A) that the person is a debtor or obligor;</para><para>(B) the identity of the person; and</para><para>(C) how to communicate with the person; or</para><para>(2) to a secured party or lienholder that has filed a financing statement against a person, unless the secured party knows:</para><para>(A) that the person is a debtor; and</para><para>(B) the identity of the person.</para><para>(c) A secured party is not liable to any person, and a person's liability for a deficiency is not affected, because of any act or omission arising out of the secured party's reasonable belief that a transaction is not a consumer-goods transaction or a consumer transaction or that goods are not consumer goods, if the secured party's belief is based on its reasonable reliance on:</para><para>(1) a debtor's representation concerning the purpose for which collateral was to be used, acquired, or held; or</para><para>(2) an obligor's representation concerning the purpose for which a secured obligation was incurred.</para><para>(d) A secured party is not liable to any person under section 9-625(c)(2) for its failure to comply with section 9-616.</para><para>(e) A secured party is not liable under section 9-625(c)(2) more than once with respect to any one secured obligation.</para><para>(f) Subsections (a) and (b) do not apply to limit the liability of a secured party to a person if, at the time the secured party obtains control of collateral that is a controllable account, controllable electronic record, or controllable payment intangible or at the time the security interest attaches to the collateral, whichever is later:</para><para>(1) the person is a debtor or obligor; and</para><para>(2) the secured party knows that the information in subsection (b)(1)(A), (B), or (C) relating to the person is not provided by the collateral, a record attached to or logically associated with the collateral, or the system in which the collateral is recorded.</para></amendatorysection></section><source><para>Laws 1999, LB 550, &#167; 203; </para><para>Laws 2024, LB94, &#167; 92. </para><effectivedate>July 19, 2024</effectivedate></source></law>
+</legaldoc>

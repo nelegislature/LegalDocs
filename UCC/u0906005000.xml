@@ -1,17 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="ucc"><section><amendatorysection chaptername="Uniform Commercial Code" statutenumber="9-605">
-<bookinfo>Uniform Commercial Code, Reissue Revised Statutes of Nebraska</bookinfo>
-<statuteno>9-605</statuteno>
-<catchline>Unknown debtor or secondary obligor.</catchline>
-<para>A secured party does not owe a duty based on its status as secured party:</para>
-<para>(1) to a person that is a debtor or obligor, unless the secured party knows:</para>
-<para>(A) that the person is a debtor or obligor;</para>
-<para>(B) the identity of the person; and</para>
-<para>(C) how to communicate with the person; or</para>
-<para>(2) to a secured party or lienholder that has filed a financing statement against a person, unless the secured party knows:</para>
-<para>(A) that the person is a debtor; and</para>
-<para>(B) the identity of the person.</para>
-</amendatorysection></section>
-<source>
-<para>Laws 1999, LB 550, &#167; 180.</para>
-</source>
-</law></legaldoc>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="ucc"><section><amendatorysection amended="yes" chaptername="Uniform Commercial Code" statutenumber="9-605"><bookinfo>Uniform Commercial Code, Revised Statutes Cumulative Supplement, 2024</bookinfo><statuteno>9-605</statuteno><catchline>Unknown debtor or secondary obligor.</catchline><para>(a) Except as provided in subsection (b), a secured party does not owe a duty based on its status as secured party:</para><para>(1) to a person that is a debtor or obligor, unless the secured party knows:</para><para>(A) that the person is a debtor or obligor;</para><para>(B) the identity of the person; and</para><para>(C) how to communicate with the person; or</para><para>(2) to a secured party or lienholder that has filed a financing statement against a person, unless the secured party knows:</para><para>(A) that the person is a debtor; and</para><para>(B) the identity of the person.</para><para>(b) A secured party owes a duty based on its status as a secured party to a person if, at the time the secured party obtains control of collateral that is a controllable account, controllable electronic record, or controllable payment intangible or at the time the security interest attaches to the collateral, whichever is later:</para><para>(1) the person is a debtor or obligor; and</para><para>(2) the secured party knows that the information in subsection (a)(1)(A), (B), or (C) relating to the person is not provided by the collateral, a record attached to or logically associated with the collateral, or the system in which the collateral is recorded.</para></amendatorysection></section><source><para>Laws 1999, LB 550, &#167; 180; </para><para>Laws 2024, LB94, &#167; 81. </para><effectivedate>July 19, 2024</effectivedate></source></law>
+</legaldoc>

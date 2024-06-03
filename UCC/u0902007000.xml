@@ -1,28 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="ucc"><section><amendatorysection chaptername="Uniform Commercial Code" statutenumber="9-207">
-<bookinfo>Uniform Commercial Code, Reissue Revised Statutes of Nebraska</bookinfo>
-<statuteno>9-207</statuteno>
-<catchline>Rights and duties of secured party having possession or control of collateral.</catchline>
-<para>(a) Except as otherwise provided in subsection (d), a secured party shall use reasonable care in the custody and preservation of collateral in the secured party's possession. In the case of chattel paper or an instrument, reasonable care includes taking necessary steps to preserve rights against prior parties unless otherwise agreed.</para>
-<para>(b) Except as otherwise provided in subsection (d), if a secured party has possession of collateral:</para>
-<para>(1) reasonable expenses, including the cost of insurance and payment of taxes or other charges, incurred in the custody, preservation, use, or operation of the collateral are chargeable to the debtor and are secured by the collateral;</para>
-<para>(2) the risk of accidental loss or damage is on the debtor to the extent of a deficiency in any effective insurance coverage;</para>
-<para>(3) the secured party shall keep the collateral identifiable, but fungible collateral may be commingled; and</para>
-<para>(4) the secured party may use or operate the collateral:</para>
-<para>(A) for the purpose of preserving the collateral or its value;</para>
-<para>(B) as permitted by an order of a court having competent jurisdiction; or</para>
-<para>(C) except in the case of consumer goods, in the manner and to the extent agreed by the debtor.</para>
-<para>(c) Except as otherwise provided in subsection (d), a secured party having possession of collateral or control of collateral under section 7-106, 9-104, 9-105, 9-106, or 9-107:</para>
-<para>(1) may hold as additional security any proceeds, except money or funds, received from the collateral;</para>
-<para>(2) shall apply money or funds received from the collateral to reduce the secured obligation, unless remitted to the debtor; and</para>
-<para>(3) may create a security interest in the collateral.</para>
-<para>(d) If the secured party is a buyer of accounts, chattel paper, payment intangibles, or promissory notes or a consignor:</para>
-<para>(1) subsection (a) does not apply unless the secured party is entitled under an agreement: </para>
-<para>(A) to charge back uncollected collateral; or</para>
-<para>(B) otherwise to full or limited recourse against the debtor or a secondary obligor based on the nonpayment or other default of an account debtor or other obligor on the collateral; and</para>
-<para>(2) subsections (b) and (c) do not apply.</para>
-</amendatorysection></section>
-<source>
-<para>Laws 1999, LB 550, &#167; 90; </para>
-<para>Laws 2005, LB 570, &#167; 103.</para>
-</source>
-</law></legaldoc>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="ucc"><section><amendatorysection amended="yes" chaptername="Uniform Commercial Code" statutenumber="9-207"><bookinfo>Uniform Commercial Code, Revised Statutes Cumulative Supplement, 2024</bookinfo><statuteno>9-207</statuteno><catchline>Rights and duties of secured party having possession or control of collateral.</catchline><para>(a) Except as otherwise provided in subsection (d), a secured party shall use reasonable care in the custody and preservation of collateral in the secured party's possession. In the case of chattel paper or an instrument, reasonable care includes taking necessary steps to preserve rights against prior parties unless otherwise agreed.</para><para>(b) Except as otherwise provided in subsection (d), if a secured party has possession of collateral:</para><para>(1) reasonable expenses, including the cost of insurance and payment of taxes or other charges, incurred in the custody, preservation, use, or operation of the collateral are chargeable to the debtor and are secured by the collateral;</para><para>(2) the risk of accidental loss or damage is on the debtor to the extent of a deficiency in any effective insurance coverage;</para><para>(3) the secured party shall keep the collateral identifiable, but fungible collateral may be commingled; and</para><para>(4) the secured party may use or operate the collateral:</para><para>(A) for the purpose of preserving the collateral or its value;</para><para>(B) as permitted by an order of a court having competent jurisdiction; or</para><para>(C) except in the case of consumer goods, in the manner and to the extent agreed by the debtor.</para><para>(c) Except as otherwise provided in subsection (d), a secured party having possession of collateral or control of collateral under section 7-106, 9-104, 9-105, 9-105A, 9-106, 9-107, or 9-107A:</para><para>(1) may hold as additional security any proceeds, except money or funds, received from the collateral;</para><para>(2) shall apply money or funds received from the collateral to reduce the secured obligation, unless remitted to the debtor; and</para><para>(3) may create a security interest in the collateral.</para><para>(d) If the secured party is a buyer of accounts, chattel paper, payment intangibles, or promissory notes or a consignor:</para><para>(1) subsection (a) does not apply unless the secured party is entitled under an agreement:</para><para>(A) to charge back uncollected collateral; or</para><para>(B) otherwise to full or limited recourse against the debtor or a secondary obligor based on the nonpayment or other default of an account debtor or other obligor on the collateral; and</para><para>(2) subsections (b) and (c) do not apply.</para></amendatorysection></section><source><para>Laws 1999, LB 550, &#167; 90; </para><para>Laws 2005, LB 570, &#167; 103; </para><para>Laws 2024, LB94, &#167; 51. </para><effectivedate>July 19, 2024</effectivedate></source></law>
+</legaldoc>

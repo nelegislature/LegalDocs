@@ -1,12 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="ucc"><section><amendatorysection chaptername="Uniform Commercial Code" statutenumber="2A-202">
-<bookinfo>Uniform Commercial Code, Reissue Revised Statutes of Nebraska</bookinfo>
-<statuteno>2A-202</statuteno>
-<catchline>Final written expression: parol or extrinsic evidence.</catchline>
-<para>Terms with respect to which the confirmatory memoranda of the parties agree or which are otherwise set forth in a writing intended by the parties as a final expression of their agreement with respect to such terms as are included therein may not be contradicted by evidence of any prior agreement or of a contemporaneous oral agreement but may be explained or supplemented:</para>
-<para>(a) by course of dealing or usage of trade or by course of performance; and</para>
-<para>(b) by evidence of consistent additional terms unless the court finds the writing to have been intended also as a complete and exclusive statement of the terms of the agreement.</para>
-</amendatorysection></section>
-<source>
-<para>Laws 1991, LB 159, &#167; 13.</para>
-</source>
-</law></legaldoc>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="ucc"><section><amendatorysection chaptername="Uniform Commercial Code" statutenumber="2A-202" amended="yes"><bookinfo>Uniform Commercial Code, Revised Statutes Cumulative Supplement, 2024</bookinfo><statuteno>2A-202</statuteno><catchline>Final expression: parol or extrinsic evidence.</catchline><para>Terms with respect to which the confirmatory memoranda of the parties agree or which are otherwise set forth in a record intended by the parties as a final expression of their agreement with respect to such terms as are included therein may not be contradicted by evidence of any prior agreement or of a contemporaneous oral agreement but may be explained or supplemented:</para><para>(a) by course of dealing or usage of trade or by course of performance; and</para><para>(b) by evidence of consistent additional terms unless the court finds the record to have been intended also as a complete and exclusive statement of the terms of the agreement.</para></amendatorysection></section><source><para>Laws 1991, LB 159, &#167; 13; </para><para>Laws 2024, LB94, &#167; 17. </para><effectivedate>July 19, 2024</effectivedate></source></law>
+</legaldoc>

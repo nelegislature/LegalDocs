@@ -1,17 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="ucc"><section><amendatorysection chaptername="Uniform Commercial Code" statutenumber="9-621">
-<bookinfo>Uniform Commercial Code, Reissue Revised Statutes of Nebraska</bookinfo>
-<statuteno>9-621</statuteno>
-<catchline>Notification of proposal to accept collateral.</catchline>
-<para>(a) A secured party that desires to accept collateral in full or partial satisfaction of the obligation it secures shall send its proposal to:</para>
-<para>(1) any person from which the secured party has received, before the debtor consented to the acceptance, an authenticated notification of a claim of an interest in the collateral;</para>
-<para>(2) any other secured party or lienholder that, ten days before the debtor consented to the acceptance, held a security interest in or other lien on the collateral perfected by the filing of a financing statement that:</para>
-<para>(A) identified the collateral;</para>
-<para>(B) was indexed under the debtor's name as of that date; and</para>
-<para>(C) was filed in the office or offices in which to file a financing statement against the debtor covering the collateral as of that date; and</para>
-<para>(3) any other secured party that, ten days before the debtor consented to the acceptance, held a security interest in the collateral perfected by compliance with a statute, regulation, or treaty described in section 9-311(a).</para>
-<para>(b) A secured party that desires to accept collateral in partial satisfaction of the obligation it secures shall send its proposal to any secondary obligor in addition to the persons described in subsection (a).</para>
-</amendatorysection></section>
-<source>
-<para>Laws 1999, LB 550, &#167; 196.</para>
-</source>
-</law></legaldoc>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="ucc"><section><amendatorysection amended="yes" chaptername="Uniform Commercial Code" statutenumber="9-621"><bookinfo>Uniform Commercial Code, Revised Statutes Cumulative Supplement, 2024</bookinfo><statuteno>9-621</statuteno><catchline>Notification of proposal to accept collateral.</catchline><para>(a) A secured party that desires to accept collateral in full or partial satisfaction of the obligation it secures shall send its proposal to:</para><para>(1) any person from which the secured party has received, before the debtor consented to the acceptance, a signed notification of a claim of an interest in the collateral;</para><para>(2) any other secured party or lienholder that, ten days before the debtor consented to the acceptance, held a security interest in or other lien on the collateral perfected by the filing of a financing statement that:</para><para>(A) identified the collateral;</para><para>(B) was indexed under the debtor's name as of that date; and</para><para>(C) was filed in the office or offices in which to file a financing statement against the debtor covering the collateral as of that date; and</para><para>(3) any other secured party that, ten days before the debtor consented to the acceptance, held a security interest in the collateral perfected by compliance with a statute, regulation, or treaty described in section 9-311(a).</para><para>(b) A secured party that desires to accept collateral in partial satisfaction of the obligation it secures shall send its proposal to any secondary obligor in addition to the persons described in subsection (a).</para></amendatorysection></section><source><para>Laws 1999, LB 550, &#167; 196; </para><para>Laws 2024, LB94, &#167; 90. </para><effectivedate>July 19, 2024</effectivedate></source></law>
+</legaldoc>

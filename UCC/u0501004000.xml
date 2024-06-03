@@ -1,10 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="ucc"><section><amendatorysection chaptername="Uniform Commercial Code" statutenumber="5-104">
-<bookinfo>Uniform Commercial Code, Reissue Revised Statutes of Nebraska</bookinfo>
-<statuteno>5-104</statuteno>
-<catchline>Formal requirements.</catchline>
-<para>A letter of credit, confirmation, advice, transfer, amendment, or cancellation may be issued in any form that is a record and is authenticated (i) by a signature or (ii) in accordance with the agreement of the parties or the standard practice referred to in section 5-108(e).</para>
-</amendatorysection></section>
-<source>
-<para>Laws 1996, LB 1028, &#167; 6.</para>
-</source>
-</law></legaldoc>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="ucc"><section><amendatorysection chaptername="Uniform Commercial Code" statutenumber="5-104" amended="yes"><bookinfo>Uniform Commercial Code, Revised Statutes Cumulative Supplement, 2024</bookinfo><statuteno>5-104</statuteno><catchline>Formal requirements.</catchline><para>A letter of credit, confirmation, advice, transfer, amendment, or cancellation may be issued in any form that is a signed record.</para></amendatorysection></section><source><para>Laws 1996, LB 1028, &#167; 6; </para><para>Laws 2024, LB94, &#167; 34. </para><effectivedate>July 19, 2024</effectivedate></source></law>
+</legaldoc>

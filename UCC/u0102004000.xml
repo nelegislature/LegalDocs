@@ -1,14 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="ucc"><section><amendatorysection chaptername="Uniform Commercial Code" statutenumber="1-204">
-<bookinfo>Uniform Commercial Code, Reissue Revised Statutes of Nebraska</bookinfo>
-<statuteno>1-204</statuteno>
-<catchline>Value.</catchline>
-<para>Except as otherwise provided in articles 3, 4, and 5, a person gives value for rights if the person acquires them:</para>
-<para>(1) in return for a binding commitment to extend credit or for the extension of immediately available credit, whether or not drawn upon and whether or not a charge back is provided for in the event of difficulties in collection;</para>
-<para>(2) as security for, or in total or partial satisfaction of, a preexisting claim;</para>
-<para>(3) by accepting delivery under a preexisting contract for purchase; or</para>
-<para>(4) in return for any consideration sufficient to support a simple contract.</para>
-</amendatorysection></section>
-<source>
-<para>Laws 2005, LB 570, &#167; 17.</para>
-</source>
-</law></legaldoc>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="ucc"><section><amendatorysection chaptername="Uniform Commercial Code" statutenumber="1-204" amended="yes"><bookinfo>Uniform Commercial Code, Revised Statutes Cumulative Supplement, 2024</bookinfo><statuteno>1-204</statuteno><catchline>Value.</catchline><para>Except as otherwise provided in articles 3, 4, 5, and 12, a person gives value for rights if the person acquires them:</para><para>(1) in return for a binding commitment to extend credit or for the extension of immediately available credit, whether or not drawn upon and whether or not a charge back is provided for in the event of difficulties in collection;</para><para>(2) as security for, or in total or partial satisfaction of, a preexisting claim;</para><para>(3) by accepting delivery under a preexisting contract for purchase; or</para><para>(4) in return for any consideration sufficient to support a simple contract.</para></amendatorysection></section><source><para>Laws 2005, LB 570, &#167; 17; </para><para>Laws 2024, LB94, &#167; 3. </para><effectivedate>July 19, 2024</effectivedate></source></law>
+</legaldoc>

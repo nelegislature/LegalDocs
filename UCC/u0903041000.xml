@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="ucc"><section><amendatorysection chaptername="Uniform Commercial Code" statutenumber="9-341">
-<bookinfo>Uniform Commercial Code, Reissue Revised Statutes of Nebraska</bookinfo>
-<statuteno>9-341</statuteno>
-<catchline>Bank's rights and duties with respect to deposit account.</catchline>
-<para>Except as otherwise provided in section 9-340(c), and unless the bank otherwise agrees in an authenticated record, a bank's rights and duties with respect to a deposit account maintained with the bank are not terminated, suspended, or modified by:</para>
-<para>(1) the creation, attachment, or perfection of a security interest in the deposit account;</para>
-<para>(2) the bank's knowledge of the security interest; or</para>
-<para>(3) the bank's receipt of instructions from the secured party.</para>
-</amendatorysection></section>
-<source>
-<para>Laws 1999, LB 550, &#167; 134.</para>
-</source>
-</law></legaldoc>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="ucc"><section><amendatorysection amended="yes" chaptername="Uniform Commercial Code" statutenumber="9-341"><bookinfo>Uniform Commercial Code, Revised Statutes Cumulative Supplement, 2024</bookinfo><statuteno>9-341</statuteno><catchline>Bank's rights and duties with respect to deposit account.</catchline><para>Except as otherwise provided in section 9-340(c), and unless the bank otherwise agrees in a signed record, a bank's rights and duties with respect to a deposit account maintained with the bank are not terminated, suspended, or modified by:</para><para>(1) the creation, attachment, or perfection of a security interest in the deposit account;</para><para>(2) the bank's knowledge of the security interest; or</para><para>(3) the bank's receipt of instructions from the secured party.</para></amendatorysection></section><source><para>Laws 1999, LB 550, &#167; 134; </para><para>Laws 2024, LB94, &#167; 74. </para><effectivedate>July 19, 2024</effectivedate></source></law>
+</legaldoc>

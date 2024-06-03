@@ -1,10 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="ucc"><section><amendatorysection chaptername="Uniform Commercial Code" statutenumber="2A-102">
-<bookinfo>Uniform Commercial Code, Reissue Revised Statutes of Nebraska</bookinfo>
-<statuteno>2A-102</statuteno>
-<catchline>Scope.</catchline>
-<para>This article applies to any transaction, regardless of form, that creates a lease.</para>
-</amendatorysection></section>
-<source>
-<para>Laws 1991, LB 159, &#167; 4.</para>
-</source>
-</law></legaldoc>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="ucc"><section><amendatorysection chaptername="Uniform Commercial Code" statutenumber="2A-102" amended="yes"><bookinfo>Uniform Commercial Code, Revised Statutes Cumulative Supplement, 2024</bookinfo><statuteno>2A-102</statuteno><catchline>Scope.</catchline><para>(1) This article applies to any transaction, regardless of form, that creates a lease and, in the case of a hybrid lease, it applies to the extent provided in subsection (2).</para><para>(2) In a hybrid lease:</para><para>(a) if the lease-of-goods aspects do not predominate:</para><para>(i) only the provisions of this article which relate primarily to the lease-of-goods aspects of the transaction apply, and the provisions that relate primarily to the transaction as a whole do not apply;</para><para>(ii) section 2A-209 applies if the lease is a finance lease; and</para><para>(iii) section 2A-407 applies to the promises of the lessee in a finance lease to the extent the promises are consideration for the right to possession and use of the leased goods; and</para><para>(b) if the lease-of-goods aspects predominate, this article applies to the transaction, but does not preclude application in appropriate circumstances of other law to aspects of the lease which do not relate to the lease of goods.</para></amendatorysection></section><source><para>Laws 1991, LB 159, &#167; 4; </para><para>Laws 2024, LB94, &#167; 13. </para><effectivedate>July 19, 2024</effectivedate></source></law>
+</legaldoc>

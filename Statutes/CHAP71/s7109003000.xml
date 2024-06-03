@@ -1,10 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id32">
-<amendatorysection amended="yes" chaptername="Public Health And Welfare" id="id34" statutenumber="71-903"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>71-903</statuteno><catchline id="id37">Definitions, where
-found.</catchline><para>For purposes of the Nebraska Mental Health
-Commitment Act, unless the context otherwise requires, the definitions found
-in sections 71-904 to 71-914 shall apply.</para>
-</amendatorysection></section><source><para>Laws 1976, LB 806, &#167; 2; </para><para>Laws 1994, LB 498, &#167; 4; </para><para>R.S.1943, (1999), &#167; 83-1002; </para><para>Laws 2004, LB 1083, &#167; 23; </para><para>Laws 2011, LB512, &#167; 6.</para></source>  </law>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Public Health And Welfare" id="id34" statutenumber="71-903"><bookinfo>Revised Statutes Cumulative Supplement, 2024</bookinfo><statuteno>71-903</statuteno><catchline id="id37">Definitions, where found.</catchline><para>For purposes of the Nebraska Mental Health Commitment Act, unless the context otherwise requires, the definitions found in sections 71-904 to 71-914.02 shall apply.</para></amendatorysection></section><source><para>Laws 1976, LB 806, &#167; 2; </para><para>Laws 1994, LB 498, &#167; 4; </para><para>R.S.1943, (1999), &#167; 83-1002; </para><para>Laws 2004, LB 1083, &#167; 23; </para><para>Laws 2011, LB512, &#167; 6; </para><para>Laws 2024, LB1288, &#167; 8. </para><operativedate>October 1, 2024</operativedate></source></law>
 </legaldoc>

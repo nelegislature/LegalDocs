@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="ucc"><section><amendatorysection chaptername="Uniform Commercial Code" statutenumber="4A-203">
-<bookinfo>Uniform Commercial Code, Reissue Revised Statutes of Nebraska</bookinfo>
-<statuteno>4A-203</statuteno>
-<catchline>Unenforceability of certain verified payment orders.</catchline>
-<para>(a) If an accepted payment order is not, under section 4A-202(a), an authorized order of a customer identified as sender, but is effective as an order of the customer pursuant to section 4A-202(b), the following rules apply:</para>
-<para>(1) By express written agreement, the receiving bank may limit the extent to which it is entitled to enforce or retain payment of the payment order.</para>
-<para>(2) The receiving bank is not entitled to enforce or retain payment of the payment order if the customer proves that the order was not caused, directly or indirectly, by a person (i) entrusted at any time with duties to act for the customer with respect to payment orders or the security procedure, or (ii) who obtained access to transmitting facilities of the customer or who obtained, from a source controlled by the customer and without authority of the receiving bank, information facilitating breach of the security procedure, regardless of how the information was obtained or whether the customer was at fault. Information includes any access device, computer software, or the like.</para>
-<para>(b) This section applies to amendments of payment orders to the same extent it applies to payment orders.</para>
-</amendatorysection></section>
-<source>
-<para>Laws 1991, LB 160, &#167; 12.</para>
-</source>
-</law></legaldoc>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="ucc"><section><amendatorysection chaptername="Uniform Commercial Code" statutenumber="4A-203" amended="yes"><bookinfo>Uniform Commercial Code, Revised Statutes Cumulative Supplement, 2024</bookinfo><statuteno>4A-203</statuteno><catchline>Unenforceability of certain verified payment orders.</catchline><para>(a) If an accepted payment order is not, under section 4A-202(a), an authorized order of a customer identified as sender, but is effective as an order of the customer pursuant to section 4A-202(b), the following rules apply:</para><para>(1) By express agreement evidenced by a record, the receiving bank may limit the extent to which it is entitled to enforce or retain payment of the payment order.</para><para>(2) The receiving bank is not entitled to enforce or retain payment of the payment order if the customer proves that the order was not caused, directly or indirectly, by a person (i) entrusted at any time with duties to act for the customer with respect to payment orders or the security procedure, or (ii) who obtained access to transmitting facilities of the customer or who obtained, from a source controlled by the customer and without authority of the receiving bank, information facilitating breach of the security procedure, regardless of how the information was obtained or whether the customer was at fault. Information includes any access device, computer software, or the like.</para><para>(b) This section applies to amendments of payment orders to the same extent it applies to payment orders.</para></amendatorysection></section><source><para>Laws 1991, LB 160, &#167; 12; </para><para>Laws 2024, LB94, &#167; 28. </para><effectivedate>July 19, 2024</effectivedate></source></law>
+</legaldoc>

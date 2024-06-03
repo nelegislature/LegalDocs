@@ -1,17 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id72">
-<amendatorysection chaptername="Public Assistance" id="id74"  statutenumber="68-1917"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>68-1917</statuteno><catchline>Quality assurance assessment; payment;
-computation.</catchline><para>Except
-for facilities which are exempt under section 68-1918 and facilities referred
-to in section 68-1919, each nursing facility or skilled nursing facility licensed
-under the Health Care Facility Licensure Act shall pay a quality assurance
-assessment based on total resident days, including bed-hold days, less medicare
-days, for the purpose of improving the quality of nursing facility or skilled
-nursing facility care in this state. The assessment shall be three dollars
-and fifty cents for each resident day for the preceding calendar quarter.
-The assessment in the aggregate shall not exceed the amount stated in section
-68-1920.</para>
-</amendatorysection></section><source><para>Laws 2011, LB600, &#167; 17.</para></source><crossreference><para><emphasis>Health Care Facility Licensure Act,</emphasis> see section 71-401.</para></crossreference>  </law>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Public Assistance" id="id74" statutenumber="68-1917"><bookinfo>Revised Statutes Cumulative Supplement, 2024</bookinfo><statuteno>68-1917</statuteno><catchline>Quality assurance assessment; payment; computation.</catchline><para>Except for facilities which are exempt under section 68-1918 and facilities referred to in section 68-1919, each nursing facility or skilled nursing facility licensed under the Health Care Facility Licensure Act shall pay a quality assurance assessment based on total resident days, including bed-hold days, less medicare days, for the purpose of improving the quality of nursing facility or skilled nursing facility care in this state. The assessment shall be nine dollars for each resident day for the preceding calendar quarter. The assessment in the aggregate shall not exceed the amount stated in section 68-1920.</para></amendatorysection></section><source><para>Laws 2011, LB600, &#167; 17; </para><para>Laws 2024, LB130, &#167; 2. </para><effectivedate>July 19, 2024</effectivedate></source><crossreference><para><emphasis>Health Care Facility Licensure Act,</emphasis> see section 71-401.</para></crossreference></law>
 </legaldoc>

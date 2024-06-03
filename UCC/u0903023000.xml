@@ -1,27 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="ucc"><section><amendatorysection chaptername="Uniform Commercial Code" statutenumber="9-323">
-<bookinfo>Uniform Commercial Code, Reissue Revised Statutes of Nebraska</bookinfo>
-<statuteno>9-323</statuteno>
-<catchline>Future advances.</catchline>
-<para>(a) Except as otherwise provided in subsection (c), for purposes of determining the priority of a perfected security interest under section 9-322(a)(1), perfection of the security interest dates from the time an advance is made to the extent that the security interest secures an advance that:</para>
-<para>(1) is made while the security interest is perfected only:</para>
-<para>(A) under section 9-309 when it attaches; or</para>
-<para>(B) temporarily under section 9-312(e), (f), or (g); and</para>
-<para>(2) is not made pursuant to a commitment entered into before or while the security interest is perfected by a method other than under section 9-309 or 9-312(e), (f), or (g).</para>
-<para>(b) Except as otherwise provided in subsection (c), a security interest is subordinate to the rights of a person that becomes a lien creditor to the extent that the security interest secures an advance made more than forty-five days after the person becomes a lien creditor unless the advance is made:</para>
-<para>(1) without knowledge of the lien; or</para>
-<para>(2) pursuant to a commitment entered into without knowledge of the lien.</para>
-<para>(c) Subsections (a) and (b) do not apply to a security interest held by a secured party that is a buyer of accounts, chattel paper, payment intangibles, or promissory notes or a consignor.</para>
-<para>(d) Except as otherwise provided in subsection (e), a buyer of goods other than a buyer in ordinary course of business takes free of a security interest to the extent that it secures advances made after the earlier of:</para>
-<para>(1) the time the secured party acquires knowledge of the buyer's purchase; or</para>
-<para>(2) forty-five days after the purchase.</para>
-<para>(e) Subsection (d) does not apply if the advance is made pursuant to a commitment entered into without knowledge of the buyer's purchase and before the expiration of the forty-five-day period.</para>
-<para>(f) Except as otherwise provided in subsection (g), a lessee of goods, other than a lessee in ordinary course of business, takes the leasehold interest free of a security interest to the extent that it secures advances made after the earlier of:</para>
-<para>(1) the time the secured party acquires knowledge of the lease; or</para>
-<para>(2) forty-five days after the lease contract becomes enforceable.</para>
-<para>(g) Subsection (f) does not apply if the advance is made pursuant to a commitment entered into without knowledge of the lease and before the expiration of the forty-five-day period.</para>
-</amendatorysection></section>
-<source>
-<para>Laws 1999, LB 550, &#167; 116; </para>
-<para>Laws 2000, LB 929, &#167; 30.</para>
-</source>
-</law></legaldoc>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="ucc"><section><amendatorysection amended="yes" chaptername="Uniform Commercial Code" statutenumber="9-323"><bookinfo>Uniform Commercial Code, Revised Statutes Cumulative Supplement, 2024</bookinfo><statuteno>9-323</statuteno><catchline>Future advances.</catchline><para>(a) Except as otherwise provided in subsection (c), for purposes of determining the priority of a perfected security interest under section 9-322(a)(1), perfection of the security interest dates from the time an advance is made to the extent that the security interest secures an advance that:</para><para>(1) is made while the security interest is perfected only:</para><para>(A) under section 9-309 when it attaches; or</para><para>(B) temporarily under section 9-312(e), (f), or (g); and</para><para>(2) is not made pursuant to a commitment entered into before or while the security interest is perfected by a method other than under section 9-309 or 9-312(e), (f), or (g).</para><para>(b) Except as otherwise provided in subsection (c), a security interest is subordinate to the rights of a person that becomes a lien creditor to the extent that the security interest secures an advance made more than forty-five days after the person becomes a lien creditor unless the advance is made:</para><para>(1) without knowledge of the lien; or</para><para>(2) pursuant to a commitment entered into without knowledge of the lien.</para><para>(c) Subsections (a) and (b) do not apply to a security interest held by a secured party that is a buyer of accounts, chattel paper, payment intangibles, or promissory notes or a consignor.</para><para>(d) Except as otherwise provided in subsection (e), a buyer of goods takes free of a security interest to the extent that it secures advances made after the earlier of:</para><para>(1) the time the secured party acquires knowledge of the buyer's purchase; or</para><para>(2) forty-five days after the purchase.</para><para>(e) Subsection (d) does not apply if the advance is made pursuant to a commitment entered into without knowledge of the buyer's purchase and before the expiration of the forty-five-day period.</para><para>(f) Except as otherwise provided in subsection (g), a lessee of goods takes the leasehold interest free of a security interest to the extent that it secures advances made after the earlier of:</para><para>(1) the time the secured party acquires knowledge of the lease; or</para><para>(2) forty-five days after the lease contract becomes enforceable.</para><para>(g) Subsection (f) does not apply if the advance is made pursuant to a commitment entered into without knowledge of the lease and before the expiration of the forty-five-day period.</para></amendatorysection></section><source><para>Laws 1999, LB 550, &#167; 116; </para><para>Laws 2000, LB 929, &#167; 30; </para><para>Laws 2024, LB94, &#167; 67. </para><effectivedate>July 19, 2024</effectivedate></source></law>
+</legaldoc>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id110">
-<amendatorysection amended="yes" chaptername="Trade Practices" id="id112" statutenumber="87-306"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id114">87-306</statuteno><catchline id="id115">Act, how cited.</catchline><para>Sections 87-301 to 87-306 shall be known and may be cited
-as the Uniform Deceptive Trade Practices Act.</para>
-</amendatorysection></section><source><para>Laws 1969, c. 855, &#167; 6, p. 3224; </para><para>Laws 1974, LB 327, &#167; 14; </para><para>Laws 1990, LB 656, &#167; 26; </para><para>Laws 2010, LB801, &#167; 7.</para></source>  </law>
+    <law type="statute"><section><amendatorysection amended="yes" chaptername="Trade Practices" id="id112" statutenumber="87-306"><bookinfo>Revised Statutes Cumulative Supplement, 2024</bookinfo><statuteno>87-306</statuteno><catchline id="id115">Act, how cited.</catchline><para>Sections 87-301 to 87-306 shall be known and may be cited as the Uniform Deceptive Trade Practices Act.</para></amendatorysection></section><source><para>Laws 1969, c. 855, &#167; 6, p. 3224; </para><para>Laws 1974, LB 327, &#167; 14; </para><para>Laws 1990, LB 656, &#167; 26; </para><para>Laws 2010, LB801, &#167; 7; </para><para>Laws 2024, LB934, &#167; 8. </para><effectivedate>April 16, 2024</effectivedate></source></law>
 </legaldoc>

@@ -1,12 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="ucc"><section><amendatorysection chaptername="Uniform Commercial Code" statutenumber="9-624">
-<bookinfo>Uniform Commercial Code, Reissue Revised Statutes of Nebraska</bookinfo>
-<statuteno>9-624</statuteno>
-<catchline>Waiver.</catchline>
-<para>(a) A debtor or secondary obligor may waive the right to notification of disposition of collateral under section 9-611 only by an agreement to that effect entered into and authenticated after default.</para>
-<para>(b) A debtor may waive the right to require disposition of collateral under section 9-620(e) only by an agreement to that effect entered into and authenticated after default.</para>
-<para>(c) Except in a consumer-goods transaction, a debtor or secondary obligor may waive the right to redeem collateral under section 9-623 only by an agreement to that effect entered into and authenticated after default.</para>
-</amendatorysection></section>
-<source>
-<para>Laws 1999, LB 550, &#167; 199.</para>
-</source>
-</law></legaldoc>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="ucc"><section><amendatorysection amended="yes" chaptername="Uniform Commercial Code" statutenumber="9-624"><bookinfo>Uniform Commercial Code, Revised Statutes Cumulative Supplement, 2024</bookinfo><statuteno>9-624</statuteno><catchline>Waiver.</catchline><para>(a) A debtor or secondary obligor may waive the right to notification of disposition of collateral under section 9-611 only by an agreement to that effect entered into and signed after default.</para><para>(b) A debtor may waive the right to require disposition of collateral under section 9-620(e) only by an agreement to that effect entered into and signed after default.</para><para>(c) Except in a consumer-goods transaction, a debtor or secondary obligor may waive the right to redeem collateral under section 9-623 only by an agreement to that effect entered into and signed after default.</para></amendatorysection></section><source><para>Laws 1999, LB 550, &#167; 199; </para><para>Laws 2024, LB94, &#167; 91. </para><effectivedate>July 19, 2024</effectivedate></source></law>
+</legaldoc>

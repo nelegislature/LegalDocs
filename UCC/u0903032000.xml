@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="ucc"><section><amendatorysection chaptername="Uniform Commercial Code" statutenumber="9-332">
-<bookinfo>Uniform Commercial Code, Reissue Revised Statutes of Nebraska</bookinfo>
-<statuteno>9-332</statuteno>
-<catchline>Transfer of money; transfer of funds from deposit account.</catchline>
-<para>(a) A transferee of money takes the money free of a security interest unless the transferee acts in collusion with the debtor in violating the rights of the secured party.</para>
-<para>(b) A transferee of funds from a deposit account takes the funds free of a security interest in the deposit account unless the transferee acts in collusion with the debtor in violating the rights of the secured party.</para>
-</amendatorysection></section>
-<source>
-<para>Laws 1999, LB 550, &#167; 125.</para>
-</source>
-</law></legaldoc>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="ucc"><section><amendatorysection amended="yes" chaptername="Uniform Commercial Code" statutenumber="9-332"><bookinfo>Uniform Commercial Code, Revised Statutes Cumulative Supplement, 2024</bookinfo><statuteno>9-332</statuteno><catchline>Transfer of money; transfer of funds from deposit account.</catchline><para>(a) A transferee of tangible money takes the money free of a security interest if the transferee receives possession of the money without acting in collusion with the debtor in violating the rights of the secured party.</para><para>(b) A transferee of funds from a deposit account takes the funds free of a security interest in the deposit account if the transferee receives the funds without acting in collusion with the debtor in violating the rights of the secured party.</para><para>(c) A transferee of electronic money takes the money free of a security interest if the transferee obtains control of the money without acting in collusion with the debtor in violating the rights of the secured party.</para></amendatorysection></section><source><para>Laws 1999, LB 550, &#167; 125; </para><para>Laws 2024, LB94, &#167; 72. </para><effectivedate>July 19, 2024</effectivedate></source></law>
+</legaldoc>

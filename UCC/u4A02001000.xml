@@ -1,10 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="ucc"><section><amendatorysection chaptername="Uniform Commercial Code" statutenumber="4A-201">
-<bookinfo>Uniform Commercial Code, Reissue Revised Statutes of Nebraska</bookinfo>
-<statuteno>4A-201</statuteno>
-<catchline>Security procedure.</catchline>
-<para>"Security procedure" means a procedure established by agreement of a customer and a receiving bank for the purpose of (i) verifying that a payment order or communication amending or canceling a payment order is that of the customer, or (ii) detecting error in the transmission or the content of the payment order or communication. A security procedure may require the use of algorithms or other codes, identifying words or numbers, encryption, callback procedures, or similar security devices. Comparison of a signature on a payment order or communication with an authorized specimen signature of the customer is not by itself a security procedure.</para>
-</amendatorysection></section>
-<source>
-<para>Laws 1991, LB 160, &#167; 10.</para>
-</source>
-</law></legaldoc>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="ucc"><section><amendatorysection chaptername="Uniform Commercial Code" statutenumber="4A-201" amended="yes"><bookinfo>Uniform Commercial Code, Revised Statutes Cumulative Supplement, 2024</bookinfo><statuteno>4A-201</statuteno><catchline>Security procedure.</catchline><para>"Security procedure" means a procedure established by agreement of a customer and a receiving bank for the purpose of (i) verifying that a payment order or communication amending or canceling a payment order is that of the customer, or (ii) detecting error in the transmission or the content of the payment order or communication. A security procedure may impose an obligation on the receiving bank or the customer and may require the use of algorithms or other codes, identifying words, numbers, symbols, sounds, biometrics, encryption, callback procedures, or similar security devices. Comparison of a signature on a payment order or communication with an authorized specimen signature of the customer or requiring a payment order to be sent from a known email address, IP address, or telephone number is not by itself a security procedure.</para></amendatorysection></section><source><para>Laws 1991, LB 160, &#167; 10; </para><para>Laws 2024, LB94, &#167; 26. </para><effectivedate>July 19, 2024</effectivedate></source></law>
+</legaldoc>

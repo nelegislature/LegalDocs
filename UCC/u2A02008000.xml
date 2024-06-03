@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="ucc"><section><amendatorysection chaptername="Uniform Commercial Code" statutenumber="2A-208">
-<bookinfo>Uniform Commercial Code, Reissue Revised Statutes of Nebraska</bookinfo>
-<statuteno>2A-208</statuteno>
-<catchline>Modification, rescission, and waiver.</catchline>
-<para>(1) An agreement modifying a lease contract needs no consideration to be binding.</para>
-<para>(2) A signed lease agreement that excludes modification or rescission except by a signed writing may not be otherwise modified or rescinded, but, except as between merchants, such a requirement on a form supplied by a merchant must be separately signed by the other party.</para>
-<para>(3) Although an attempt at modification or rescission does not satisfy the requirements of subsection (2), it may operate as a waiver.</para>
-<para>(4) A party who has made a waiver affecting an executory portion of a lease contract may retract the waiver by reasonable notification received by the other party that strict performance will be required of any term waived, unless the retraction would be unjust in view of a material change of position in reliance on the waiver.</para>
-</amendatorysection></section>
-<source>
-<para>Laws 1991, LB 159, &#167; 19.</para>
-</source>
-</law></legaldoc>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="ucc"><section><amendatorysection chaptername="Uniform Commercial Code" statutenumber="2A-208" amended="yes"><bookinfo>Uniform Commercial Code, Revised Statutes Cumulative Supplement, 2024</bookinfo><statuteno>2A-208</statuteno><catchline>Modification, rescission, and waiver.</catchline><para>(1) An agreement modifying a lease contract needs no consideration to be binding.</para><para>(2) A signed lease agreement that excludes modification or rescission except by a signed record may not be otherwise modified or rescinded, but, except as between merchants, such a requirement on a form supplied by a merchant must be separately signed by the other party.</para><para>(3) Although an attempt at modification or rescission does not satisfy the requirements of subsection (2), it may operate as a waiver.</para><para>(4) A party who has made a waiver affecting an executory portion of a lease contract may retract the waiver by reasonable notification received by the other party that strict performance will be required of any term waived, unless the retraction would be unjust in view of a material change of position in reliance on the waiver.</para></amendatorysection></section><source><para>Laws 1991, LB 159, &#167; 19; </para><para>Laws 2024, LB94, &#167; 20. </para><effectivedate>July 19, 2024</effectivedate></source></law>
+</legaldoc>

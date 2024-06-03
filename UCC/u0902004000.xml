@@ -1,14 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="ucc"><section><amendatorysection chaptername="Uniform Commercial Code" statutenumber="9-204">
-<bookinfo>Uniform Commercial Code, Reissue Revised Statutes of Nebraska</bookinfo>
-<statuteno>9-204</statuteno>
-<catchline>After-acquired property; future advances.</catchline>
-<para>(a) Except as otherwise provided in subsection (b), a security agreement may create or provide for a security interest in after-acquired collateral.</para>
-<para>(b) A security interest does not attach under a term constituting an after-acquired property clause to:</para>
-<para>(1) consumer goods, other than an accession when given as additional security, unless the debtor acquires rights in them within ten days after the secured party gives value; or</para>
-<para>(2) a commercial tort claim.</para>
-<para>(c) A security agreement may provide that collateral secures, or that accounts, chattel paper, payment intangibles, or promissory notes are sold in connection with, future advances or other value, whether or not the advances or value are given pursuant to commitment.</para>
-</amendatorysection></section>
-<source>
-<para>Laws 1999, LB 550, &#167; 87.</para>
-</source>
-</law></legaldoc>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="ucc"><section><amendatorysection amended="yes" chaptername="Uniform Commercial Code" statutenumber="9-204"><bookinfo>Uniform Commercial Code, Revised Statutes Cumulative Supplement, 2024</bookinfo><statuteno>9-204</statuteno><catchline>After-acquired property; future advances.</catchline><para>(a) Except as otherwise provided in subsection (b), a security agreement may create or provide for a security interest in after-acquired collateral.</para><para>(b) Subject to subsection (b.1), a security interest does not attach under a term constituting an after-acquired property clause to:</para><para>(1) consumer goods, other than an accession when given as additional security, unless the debtor acquires rights in them within ten days after the secured party gives value; or</para><para>(2) a commercial tort claim.</para><para>(b.1) Subsection (b) does not prevent a security interest from attaching:</para><para>(1) to consumer goods as proceeds under section 9-315(a) or commingled goods under section 9-336(c);</para><para>(2) to a commercial tort claim as proceeds under section 9-315(a); or</para><para>(3) under an after-acquired property clause to property that is proceeds of consumer goods or a commercial tort claim.</para><para>(c) A security agreement may provide that collateral secures, or that accounts, chattel paper, payment intangibles, or promissory notes are sold in connection with, future advances or other value, whether or not the advances or value are given pursuant to commitment.</para></amendatorysection></section><source><para>Laws 1999, LB 550, &#167; 87; </para><para>Laws 2024, LB94, &#167; 50. </para><effectivedate>July 19, 2024</effectivedate></source></law>
+</legaldoc>

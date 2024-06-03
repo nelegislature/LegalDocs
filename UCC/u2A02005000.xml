@@ -1,10 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="ucc"><section><amendatorysection chaptername="Uniform Commercial Code" statutenumber="2A-205">
-<bookinfo>Uniform Commercial Code, Reissue Revised Statutes of Nebraska</bookinfo>
-<statuteno>2A-205</statuteno>
-<catchline>Firm offers.</catchline>
-<para>An offer by a merchant to lease goods to or from another person in a signed writing that by its terms gives assurance it will be held open is not revocable, for lack of consideration, during the time stated or, if no time is stated, for a reasonable time, but in no event may the period of irrevocability exceed three months. Any such term of assurance on a form supplied by the offeree must be separately signed by the offeror.</para>
-</amendatorysection></section>
-<source>
-<para>Laws 1991, LB 159, &#167; 16.</para>
-</source>
-</law></legaldoc>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="ucc"><section><amendatorysection chaptername="Uniform Commercial Code" statutenumber="2A-205" amended="yes"><bookinfo>Uniform Commercial Code, Revised Statutes Cumulative Supplement, 2024</bookinfo><statuteno>2A-205</statuteno><catchline>Firm offers.</catchline><para>An offer by a merchant to lease goods to or from another person in a signed record that by its terms gives assurance it will be held open is not revocable, for lack of consideration, during the time stated or, if no time is stated, for a reasonable time, but in no event may the period of irrevocability exceed three months. Any such term of assurance on a form supplied by the offeree must be separately signed by the offeror.</para></amendatorysection></section><source><para>Laws 1991, LB 159, &#167; 16; </para><para>Laws 2024, LB94, &#167; 19. </para><effectivedate>July 19, 2024</effectivedate></source></law>
+</legaldoc>
