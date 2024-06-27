@@ -1,4 +1,4 @@
 
-<legaldoc>
+<?xml version="1.0" encoding="utf-8"?> <legaldoc>
     <law type="statute"><section id="id131"><amendatorysection statutenumber="86-1014" chaptername="Telecommunications and Technology"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>86-1014</statuteno><catchline>Network, defined.</catchline><para>Network means (1) a legacy telecommunications network that supports basic 911 service and enhanced-911 service or (2) a managed Internet protocol network that is used for 911 calls, that can be shared by all public safety answering points, and that provides the Internet protocol transport infrastructure upon which independent application platforms and core functional processes can be deployed, including, but not limited to, those necessary for providing next-generation 911 service capability. A network may be constructed from a mix of dedicated and shared facilities and may be interconnected at local, regional, state, national, and international levels.</para></amendatorysection></section><source><para>Laws 2016, LB938, &#167; 14. </para></source></law>
 </legaldoc>
