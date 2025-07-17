@@ -1,13 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id11">
-<amendatorysection amended="yes" chaptername="Motor Vehicles" id="id13"  statutenumber="60-135.01"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>60-135.01</statuteno><catchline id="id16">Utility-type
-vehicle, defined.</catchline><para>(1) Utility-type vehicle means
-any motorized off-highway device which (a) is seventy-four
-inches in width or less,
-(b) is not more than one hundred eighty inches, including the bumper, in length,
-(c) has a dry weight of two thousand pounds or less, and (d) travels on four or more nonhighway tires.</para>
-<para>(2) Utility-type vehicle does not include all-terrain vehicles, golf car vehicles, or low-speed vehicles.</para>
-</amendatorysection></section><source><para>Laws 2010, LB650, &#167; 7; </para><para>Laws 2012, LB1155, &#167; 6; </para><para>Laws 2013, LB223, &#167; 1; </para><para>Laws 2014, LB814, &#167; 4.</para></source>  </law>
-</legaldoc>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Motor Vehicles" id="id13" statutenumber="60-135.01"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>60-135.01</statuteno><catchline id="id16">Utility-type vehicle, defined.</catchline><para>(1) Utility-type vehicle means any motorized off-highway device which (a) is seventy-four inches in width or less, (b) is not more than one hundred eighty inches, including the bumper, in length, and (c) travels on four or more nonhighway tires.</para><para>(2) Utility-type vehicle does not include all-terrain vehicles, golf car vehicles, or low-speed vehicles.</para></amendatorysection></section><source><para>Laws 2010, LB650, &#167; 7; </para><para>Laws 2012, LB1155, &#167; 6; </para><para>Laws 2013, LB223, &#167; 1; </para><para>Laws 2014, LB814, &#167; 4; </para><para>Laws 2025, LB98, &#167; 2. </para><effectivedate>March 12, 2025</effectivedate></source></law></legaldoc>

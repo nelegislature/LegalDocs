@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection chaptername="Banks And Banking"  statutenumber="8-2746"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>8-2746</statuteno><catchline>Rules and regulations.</catchline><para>The director may adopt
-and promulgate rules and regulations and issue orders, rulings, findings,
-and demands as may be necessary to carry out the purposes of the Nebraska
-Money Transmitters Act.</para>
-</amendatorysection></section><source><para>Laws 2013, LB616, &#167; 46.</para></source>  </law>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="statute"><section><amendatorysection chaptername="Banks and Banking" statutenumber="8-2746"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>8-2746</statuteno><catchline>Repealed. Laws 2025, LB474, &#167; 114.</catchline></amendatorysection></section><source><operativedate>October 1, 2025</operativedate></source></law>
 </legaldoc>

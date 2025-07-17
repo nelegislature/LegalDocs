@@ -1,16 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection chaptername="Telecommunications And Technology"  statutenumber="86-802"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>86-802</statuteno><catchline>Terms, defined.</catchline><para>For purposes of the Kelsey Smith Act:</para>
-<para>(1) Call location information
-means the best available location information, including, but not limited
-to, information obtained using historical cellular site information or a mobile
-locator tool;</para><para>(2)
-Law enforcement agency means a police department, a town marshal, the office
-of sheriff, and the Nebraska State Patrol;</para><para>(3) Wireless carrier has the same meaning as in section
-86-456; and</para><para>(4)
-Wireless communication device means any wireless electronic communication
-device that provides for voice or data communication between two or more parties,
-including a mobile or cellular telephone.</para></amendatorysection>
-</section><source><para>Laws 2010, LB735, &#167; 2.</para></source>  </law>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="statute"><section id="id252"><amendatorysection chaptername="Telecommunications And Technology" statutenumber="86-802" amended="yes"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>86-802</statuteno><catchline>Terms, defined.</catchline><para>For purposes of the Kelsey Smith Act:</para><para>(1) Call location information means the best available location information, including, but not limited to, information obtained using historical cellular site information or a mobile locator tool;</para><para>(2) Law enforcement agency means a police department, a town marshal, the office of sheriff, and the Nebraska State Patrol;</para><para>(3) Wireless carrier has the same meaning as in section 86-1058; and</para><para>(4) Wireless communication device means any wireless electronic communication device that provides for voice or data communication between two or more parties, including a mobile or cellular telephone.</para></amendatorysection></section><source><para>Laws 2010, LB735, &#167; 2; </para><para>Laws 2025, LB362, &#167; 11. </para><effectivedate>September 3, 2025</effectivedate></source></law>
 </legaldoc>

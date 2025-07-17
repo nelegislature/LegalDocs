@@ -1,17 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="Personal Property" statutenumber="69-2423"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>69-2423</statuteno><catchline>Nebraska State Patrol; annual report;
-contents.</catchline><para>The Nebraska State Patrol shall provide electronically an annual report
-to the Judiciary Committee of the Legislature which includes the number of
-inquiries made pursuant to sections 69-2410 to 69-2423 for the prior calendar
-year, the number of such inquiries resulting in a determination that the potential
-buyer or transferee was prohibited from receipt or possession of a handgun
-pursuant to state or federal law, the estimated costs of administering such
-sections, the number of instances in which a person requested amendment of
-the record pertaining to such person pursuant to section 69-2414, and the
-number of instances in which a county court issued an order directing the
-patrol to amend a record.</para>
-</amendatorysection></section><source><para>Laws 1991, LB 355, &#167; 22; </para><para>Laws 2012, LB782, &#167; 100.</para></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="Personal Property" statutenumber="69-2423"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>69-2423</statuteno><catchline>Repealed. Laws 2025, LB150, &#167; 162.</catchline></amendatorysection></section><source><operativedate>June 5, 2025</operativedate></source></law>
 </legaldoc>

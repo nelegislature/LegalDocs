@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="Telecommunications And Technology" statutenumber="86-450.03"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>86-450.03</statuteno><catchline>Primary place of use, defined.</catchline>
-<para>Primary place of use means the
-street address representative of where the use of wireless service primarily
-occurs. The place of primary use shall be the residential street address or
-the primary business street address of the user of the wireless service and
-shall be within the service area of the home service provider. </para>
-</amendatorysection></section><source><para>Laws 2007, LB661, &#167; 20; </para><para>Laws 2012, LB1091, &#167; 7.</para></source>  </law>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="statute"><section><amendatorysection chaptername="Telecommunications and Technology" statutenumber="86-450.03"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>86-450.03</statuteno><catchline>Repealed. Laws 2025, LB362, &#167; 70.</catchline></amendatorysection></section></law>
 </legaldoc>

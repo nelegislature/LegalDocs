@@ -1,10 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection chaptername="Banks And Banking"  statutenumber="8-2714"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>8-2714</statuteno><catchline>Material litigation, defined.</catchline><para>Material litigation means
-any litigation that, according to generally accepted accounting principles,
-is deemed significant to an applicant's or licensee's financial health and
-would be required to be referenced in an applicant's or licensee's annual
-audited financial statements, report to shareholders, or similar documents.</para>
-</amendatorysection></section><source><para>Laws 2013, LB616, &#167; 14.</para></source>  </law>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Banks And Banking" statutenumber="8-2714"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>8-2714</statuteno><catchline>License renewals.</catchline><para>(1) A license under the Nebraska Money Transmitters Act shall be renewed annually.</para><para>(2) An annual renewal fee of seven hundred fifty dollars shall be paid no more than sixty days before the license expiration.</para><para>(3) The renewal term shall be for a period of one year and shall begin on January 1 of each year after the initial license term and shall expire on December 31 of the year the renewal term begins.</para><para>(4) A licensee shall submit a renewal report with the renewal fee, in a form and in a medium prescribed by the director. The renewal report shall state or contain a description of each material change in information submitted by the licensee in its original license application which has not been reported to the director.</para><para>(5) The director may, for good cause, grant an extension to when the submission of the renewal fee and report is due for renewal for a licensee.</para><para>(6) The director is authorized to utilize the Nationwide Mortgage Licensing System and Registry to process license renewals provided that such functionality is consistent with this section.</para></amendatorysection></section><source><para>Laws 2013, LB616, &#167; 14; </para><para>Laws 2025, LB474, &#167; 19. </para><operativedate>October 1, 2025</operativedate></source></law>
 </legaldoc>

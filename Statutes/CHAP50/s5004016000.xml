@@ -1,14 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection chaptername="Legislature"  statutenumber="50-416"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>50-416</statuteno><catchline>Legislative Research; Director of
-Research.</catchline><para>The
-office of Legislative Research is established within the Legislative Council.
-The office shall provide nonpartisan public policy and legal research for
-members of the Legislature and their staffs and maintain a legislative reference
-library for the use of members of the Legislature and their staffs. The Director
-of Research shall be responsible for hiring, firing, and supervising the research
-office staff.</para>
-</amendatorysection></section><source><para>Laws 2009, LB620, &#167; 2.</para></source>  </law>
+<law type="statute"><section id="id492"><amendatorysection amended="yes" chaptername="Legislature" statutenumber="50-416"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>50-416</statuteno><catchline>Legislative Research Office; Director of Research; powers and duties.</catchline><para>(1) The Legislative Research Office is established within the Legislative Council. The office shall provide nonpartisan public policy and legal research for members of the Legislature and their staffs and maintain a legislative reference library for the use of members of the Legislature and their staffs. The Director of Research shall be responsible for hiring, firing, and supervising the research office staff.</para><para>(2) At the request of the Director of Research, the Executive Board of the Legislative Council may issue subpoenas as provided in subsection (2) of section 50-406 for information related to a research request from the Legislative Research Office pursuant to this section.</para></amendatorysection></section><source><para>Laws 2009, LB620, &#167; 2; </para><para>Laws 2025, LB298, &#167; 79. </para><effectivedate>June 5, 2025</effectivedate></source></law>
 </legaldoc>

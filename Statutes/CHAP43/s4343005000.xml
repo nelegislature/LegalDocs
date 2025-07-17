@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id85">
-<amendatorysection chaptername="Infants And Juveniles" id="id87"  statutenumber="43-4305"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>43-4305</statuteno><catchline>Department, defined.</catchline>
-<para>Department
-means the Department of Health and Human Services.</para>
-</amendatorysection></section><source><para>Laws 2012, LB821, &#167; 12.</para></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="Infants and Juveniles" statutenumber="43-4305"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>43-4305</statuteno><catchline>Repealed. Laws 2025, LB298, &#167; 109.</catchline></amendatorysection></section></law>
 </legaldoc>

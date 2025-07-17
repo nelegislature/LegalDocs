@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id4">
-<amendatorysection chaptername="Real Property" id="id6"  statutenumber="76-3401"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>76-3401</statuteno><catchline>Act, how cited.</catchline><para>Sections 76-3401
-to 76-3423 shall be known and may be cited as the Nebraska Uniform Real Property
-Transfer on Death Act.</para>
-</amendatorysection></section><source><para>Laws 2012, LB536, &#167; 1.</para></source>  </law>
+<law type="statute"><section id="id127"><amendatorysection amended="yes" chaptername="Real Property" id="id6" statutenumber="76-3401"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>76-3401</statuteno><catchline>Act, how cited.</catchline><para>Sections 76-3401 to 76-3424 shall be known and may be cited as the Nebraska Uniform Real Property Transfer on Death Act.</para></amendatorysection></section><source><para>Laws 2012, LB536, &#167; 1; </para><para>Laws 2025, LB422, &#167; 1. </para><effectivedate>September 3, 2025</effectivedate></source></law>
 </legaldoc>

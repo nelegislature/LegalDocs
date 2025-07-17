@@ -1,2 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<legaldoc><law type="statute"><section><amendatorysection chaptername="Irrigation And Regulation Of Water" statutenumber="46-1613"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>46-1613</statuteno><catchline>Department, defined.</catchline><para>Department means the Department of Natural Resources.</para></amendatorysection></section><source><para>Laws 2005, LB 335, &#167; 13. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Irrigation And Regulation Of Water" statutenumber="46-1613"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>46-1613</statuteno><catchline>Department, defined.</catchline><para>Department means the Department of Water, Energy, and Environment.</para></amendatorysection></section><source><para>Laws 2005, LB 335, &#167; 13; </para><para>Laws 2025, LB317, &#167; 275. </para><operativedate>July 1, 2025</operativedate></source></law>
+</legaldoc>

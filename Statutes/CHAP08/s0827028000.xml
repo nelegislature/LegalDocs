@@ -1,19 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection chaptername="Banks And Banking"  statutenumber="8-2728"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>8-2728</statuteno><catchline>Licensee; investments
-required; waiver.</catchline><para>(1)
-Each licensee shall at all times possess permissible investments having an
-aggregate market value, calculated in accordance with generally accepted accounting
-principles, of not less than the aggregate face amount of all outstanding
-payment instruments and stored value issued or sold by the licensee in the
-United States. This requirement may be waived by the director if the dollar
-volume of a licensee's outstanding payment instruments and stored value does
-not exceed the bond or other security posted by the licensee pursuant to section
-8-2727.</para>
-<para>(2) Permissible investments,
-even if commingled with other assets of the licensee, are deemed by operation
-of law to be held in trust for the benefit of the purchasers and holders of
-the licensee's outstanding payment instruments in the event of the bankruptcy
-of the licensee.</para></amendatorysection></section><source><para>Laws 2013, LB616, &#167; 28.</para></source>  </law>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Banks And Banking" statutenumber="8-2728"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>8-2728</statuteno><catchline>Receipt for money received for transmission.</catchline><para>(1) This section does not apply to:</para><para>(a) Money received for transmission subject to the federal remittance rule; or</para><para>(b) Money received for transmission that is not primarily for personal, family, or household purposes;</para><para>(c) Money received for transmission pursuant to a written agreement between the licensee and payee to process payments for goods or services provided by the payee; or</para><para>(d) Payroll processing services.</para><para>(2)(a) Every licensee or authorized delegate shall provide the sender a receipt for money received for transmission.</para><para>(b) The receipt shall contain the following information, as applicable:</para><para>(i) The name of the sender;</para><para>(ii) The name of the designated recipient;</para><para>(iii) The date of the transaction;</para><para>(iv) The unique transaction or identification number;</para><para>(v) The name of the licensee, the Nationwide Mortgage Licensing System and Registry unique identification, the licensee's business address, and the licensee's customer service telephone number;</para><para>(vi) If not available on the licensee's website or mobile application, the name and telephone number of the department and a statement that the licensee's customers can contact the department with questions or complaints about the licensee's money transmission services;</para><para>(vii) The amount of the transaction in United States dollars;</para><para>(viii) Any fee charged by the licensee to the sender for the transaction; and</para><para>(ix) Any tax collected by the licensee from the sender for the transaction.</para><para>(c) For a transaction conducted in person, the receipt may be provided electronically if the sender requests or agrees to receive an electronic receipt. For a transaction conducted electronically or by telephone, a receipt may be provided electronically. All electronic receipts shall be provided in a retainable form.</para><para>(d) The receipt required by this subsection shall be in English and in the language principally used by the licensee or authorized delegate to advertise, solicit, or negotiate, either orally or in writing, for a transaction conducted in person, electronically, or by telephone, if other than English.</para></amendatorysection></section><source><para>Laws 2013, LB616, &#167; 28; </para><para>Laws 2025, LB474, &#167; 33. </para><operativedate>October 1, 2025</operativedate></source></law>
 </legaldoc>

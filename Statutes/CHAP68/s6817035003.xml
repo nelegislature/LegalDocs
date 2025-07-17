@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection chaptername="Public Assistance"  statutenumber="68-1735.03"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>68-1735.03</statuteno><catchline>Legislative intent.</catchline>
-<para>It is the intent of the
-Legislature that the Department of Health and Human Services carry out the
-requirements of sections 68-1735 to 68-1735.02 within the limits of its annual
-appropriation.</para>
-</amendatorysection></section><source><para>Laws 2012, LB507, &#167; 5.</para></source>  </law>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Public Assistance" statutenumber="68-1735.03"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>68-1735.03</statuteno><catchline>Legislative intent.</catchline><para>It is the intent of the Legislature that the Department of Health and Human Services carry out the requirements of sections 68-1735 and 68-1735.01 within the limits of its annual appropriation.</para></amendatorysection></section><source><para>Laws 2012, LB507, &#167; 5; </para><para>Laws 2025, LB376, &#167; 17. </para><effectivedate>September 3, 2025</effectivedate></source></law>
 </legaldoc>

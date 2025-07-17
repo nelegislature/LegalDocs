@@ -1,12 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection chaptername="Banks And Banking"  statutenumber="8-2717"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>8-2717</statuteno><catchline>Nationwide Mortgage Licensing System
-and Registry, defined.</catchline><para>Nationwide
-Mortgage Licensing System and Registry means a licensing system developed
-and maintained by the Conference of State Bank Supervisors and the American
-Association of Residential Mortgage Regulators for the licensing and registration
-of mortgage loan originators, mortgage bankers, installment loan companies,
-and other state-regulated financial services entities and industries.</para>
-</amendatorysection></section><source><para>Laws 2013, LB616, &#167; 17.</para></source>  </law>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+    <law type="statute"><section><amendatorysection amended="yes" chaptername="Banks And Banking" statutenumber="8-2717"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>8-2717</statuteno><catchline>Key individual; add or replace; notice; disapproval; conditions; appeal.</catchline><para>(1) A licensee adding or replacing any key individual shall:</para><para>(a) Provide notice in a manner prescribed by the director within fifteen days after the date the key individual's appointment became effective; and</para><para>(b) Provide the information required by section 8-2712 within forty-five days of the date after the key individual's appointment.</para><para>(2) Within ninety days after the date on which the notice provided pursuant to this section was determined to be complete, the director may issue a notice of disapproval of an added or replacement key individual if the director determines that, given the competence, experience, character, or integrity of the individual, permitting the individual to be a key individual of such licensee would not be in the best interest of the public or the customers of the licensee.</para><para>(3) A notice of disapproval shall contain a statement of the basis for disapproval and shall be sent to the licensee and the disapproved individual. A licensee may appeal a notice of disapproval within thirty days after receipt of such notice of disapproval. The appeal shall be in accordance with the Administrative Procedure Act.</para><para>(4) If the notice provided pursuant to this section is not disapproved within ninety days after the date on which the notice was determined to be complete, the key individual is deemed approved.</para></amendatorysection></section><source><para>Laws 2013, LB616, &#167; 17; </para><para>Laws 2025, LB474, &#167; 22. </para><operativedate>October 1, 2025</operativedate></source><crossreference><para><emphasis>Administrative Procedure Act,</emphasis> see section 84-920.</para></crossreference></law>
 </legaldoc>

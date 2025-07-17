@@ -1,18 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id243">
-<amendatorysection amended="yes" chaptername="Public Lettings And Contracts" id="id245" statutenumber="73-401"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>73-401</statuteno><catchline id="id248">Contract with
-state agency; Public Counsel; jurisdiction.</catchline><para>Except
-for long-term care facilities subject to the jurisdiction of the state long-term
-care ombudsman pursuant to the Long-Term Care Ombudsman Act, the contracting
-agency shall ensure that any contract which a state agency enters into or
-renews which agrees that a corporation, partnership, business, firm, governmental
-entity, or person shall provide health and human services to individuals or service delivery, service coordination,
-or case management on behalf of the State of Nebraska shall contain
-a clause requiring the corporation, partnership, business, firm, governmental
-entity, or person to submit to the jurisdiction of the Public Counsel under
-sections 81-8,240 to 81-8,254 with respect to the provision of services under
-the contract.</para>
-</amendatorysection></section><source><para>Laws 1997, LB 622, &#167; 120; </para><para>Laws 2012, LB821, &#167; 40.</para></source><crossreference><para><emphasis>Long-Term Care Ombudsman Act,</emphasis> see section 81-2237.</para></crossreference>  </law>
+    <law type="statute"><section id="id542"><amendatorysection amended="yes" chaptername="Public Lettings And Contracts" id="id245" statutenumber="73-401"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>73-401</statuteno><catchline id="id248">Contract with state agency; Public Counsel; jurisdiction.</catchline><para>Except for long-term care facilities subject to the jurisdiction of the state long-term care ombudsman pursuant to the Long-Term Care Ombudsman Act, the contracting agency shall ensure that any contract which a state agency enters into or renews which agrees that a corporation, partnership, business, firm, governmental entity, or person shall provide health and human services to individuals or service delivery, service coordination, or case management on behalf of the State of Nebraska shall contain a clause requiring the corporation, partnership, business, firm, governmental entity, or person to submit to the jurisdiction of the Public Counsel pursuant to the Office of Public Counsel Act with respect to the provision of services under the contract.</para></amendatorysection></section><source><para>Laws 1997, LB 622, &#167; 120; </para><para>Laws 2012, LB821, &#167; 40; </para><para>Laws 2025, LB298, &#167; 97. </para><effectivedate>June 5, 2025</effectivedate></source><crossreference><para><emphasis>Long-Term Care Ombudsman Act,</emphasis> see section 81-2237.</para>><para><emphasis>Office of Public Counsel Act,</emphasis> see section 50-2001.</para></crossreference></law>
 </legaldoc>

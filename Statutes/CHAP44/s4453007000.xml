@@ -1,31 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id40">
-<amendatorysection amended="yes" chaptername="Insurance" id="id42" statutenumber="44-5307"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id44">44-5307</statuteno><catchline id="id45">Policy or contract;
-benefits required; coverage
-authorized; prohibitions.</catchline><para>(1) An uninsured access coverage policy or contract may include hospital-only and surgical-only
-benefits which shall mean:</para>
-<para>(a) Inhospital benefits for not less than thirty continuous
-days nor more than ninety continuous days for each spell of illness; and</para>
-<para>(b) Surgical benefits for both inpatient and outpatient surgery.</para>
-<para>(2) An uninsured
-access coverage policy or contract may include prescription drug benefit coverage.</para>
-<para>(3) An uninsured
-access coverage policy or contract may include preventative health care coverage,
-including, but not limited to, primary care physician visits, immunizations
-for adults and children, laboratory and X-ray procedures, and preventative
-cancer screenings such as mammograms, cervical cancer screenings, and noninvasive
-colorectal or prostate screenings.</para><para>(4) An uninsured access coverage policy or contract
-may not:</para>
-<para>(a) Use a definition of spell of illness more restrictive
-than the definition found in section 44-5303; or</para>
-<para>(b) Use a definition of preexisting condition more restrictive
-than the definition normally used by the insurer for its regular individual
-health insurance contracts.</para>
-<para>(5) Every uninsured access
-coverage policy or contract shall provide that the benefit payment shall be
-accepted as payment in full by the provider and there shall be no deductible
-or coinsurance charged to the insured.</para>
-</amendatorysection></section><source><para>Laws 1991, LB 419, &#167; 35; </para><para>Laws 2009, LB445, &#167; 5.</para></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="Insurance" statutenumber="44-5307"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>44-5307</statuteno><catchline>Repealed. Laws 2025, LB326, &#167; 16.</catchline></amendatorysection></section></law>
 </legaldoc>

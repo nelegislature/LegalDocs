@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection chaptername="Banks And Banking"  statutenumber="8-2705"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>8-2705</statuteno><catchline>Breach of security of the system,
-defined.</catchline><para>Breach
-of security of the system means unauthorized acquisition of data that compromises
-the security, confidentiality, or integrity of the information maintained
-by the Nationwide Mortgage Licensing System and Registry, its affiliates,
-or its subsidiaries.</para>
-</amendatorysection></section><source><para>Laws 2013, LB616, &#167; 5.</para></source>  </law>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Banks And Banking" statutenumber="8-2705"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>8-2705</statuteno><catchline>Director; implementation; broad administrative authority.</catchline><para>(1) In order to carry out the purposes of the Nebraska Money Transmitters Act, the director may, subject to subsections (1) and (2) of section 8-2706:</para><para>(a) Enter into agreements or relationships with other government officials or federal and state regulatory agencies and regulatory associations in order to improve efficiencies and reduce regulatory burden by standardizing methods or procedures and sharing resources, records, or related information obtained under the Nebraska Money Transmitters Act;</para><para>(b) Use, hire, contract, or employ analytical systems, methods, or software to examine or investigate any person subject to the Nebraska Money Transmitters Act;</para><para>(c) Accept, from other state or federal governmental agencies or officials, licensing, examination, or investigation reports made by such other state or federal governmental agencies or officials; and</para><para>(d) Accept audit reports made by an independent certified public accountant or other qualified third-party auditor for an applicant or licensee and incorporate the audit report in any report of examination or investigation.</para><para>(2) The director shall have the broad administrative authority to administer, interpret, and enforce the Nebraska Money Transmitters Act, to adopt and promulgate rules or regulations implementing the act, and to recover the cost of administering and enforcing the act by imposing and collecting proportionate and equitable fees and costs associated with applications, examinations, investigations, and other actions required to achieve the purposes of the act.</para></amendatorysection></section><source><para>Laws 2013, LB616, &#167; 5; </para><para>Laws 2025, LB474, &#167; 10. </para><operativedate>October 1, 2025</operativedate></source></law>
 </legaldoc>

@@ -1,12 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id414">
-<amendatorysection amended="yes" chaptername="Health Occupations And Professions" id="id416" statutenumber="38-1506"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id418">38-1506</statuteno><catchline id="id419">Sell, sale,
-or dispense, defined.</catchline><para>Sell, sale, or dispense
-means any transfer of title or of the right to use by lease, bailment, or
-any other contract, excluding (1) wholesale transactions with distributors
-or dispensers and (2) distribution of hearing instruments by
-nonprofit service organizations at no cost to the recipient for the hearing instrument.</para>
-</amendatorysection></section><source><para>Laws 2007, LB463, &#167; 570; </para><para>Laws 2009, LB195, &#167; 24.</para></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="Health Occupations and Professions" statutenumber="38-1506"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>38-1506</statuteno><catchline>Repealed. Laws 2025, LB332, &#167; 41.</catchline></amendatorysection></section><source><operativedate>September 3, 2025</operativedate></source></law>
 </legaldoc>

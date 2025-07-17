@@ -1,15 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="State Officers" statutenumber="84-322"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>84-322</statuteno><catchline>Performance audits; authorized; report.</catchline><para>The
-Auditor of Public Accounts, when expressly authorized by a majority vote of
-the members of the Legislative Performance Audit Committee, may conduct performance
-audits of state executive branch offices, state agencies, state bureaus, state
-boards, state commissions, the state library, societies and associations supported
-by the state, state institutions, state colleges, and the University of Nebraska.
-The auditor shall issue the performance audit report to the Governor, the
-appropriate standing committee of the Legislature, and the Legislative Performance
-Audit Committee. The report
-submitted to the committees of the Legislature shall be submitted electronically.</para>
-</amendatorysection></section><source><para>Laws 2003, LB 607, &#167; 21; </para><para>Laws 2012, LB782, &#167; 223.</para></source>  </law>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="statute"><section id="id465"><amendatorysection amended="yes" chaptername="State Officers" statutenumber="84-322"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>84-322</statuteno><catchline>Performance audits; authorized; report.</catchline><para>The Auditor of Public Accounts, when expressly authorized by a majority vote of the members of the Legislative Oversight Committee, may conduct performance audits of state executive branch offices, state agencies, state bureaus, state boards, state commissions, the state library, societies and associations supported by the state, state institutions, state colleges, and the University of Nebraska. The auditor shall issue the performance audit report to the Governor, the appropriate standing committee of the Legislature, and the Legislative Oversight Committee. The report submitted to the committees of the Legislature shall be submitted electronically.</para></amendatorysection></section><source><para>Laws 2003, LB 607, &#167; 21; </para><para>Laws 2012, LB782, &#167; 223; </para><para>Laws 2025, LB298, &#167; 105. </para><effectivedate>June 5, 2025</effectivedate></source></law>
 </legaldoc>

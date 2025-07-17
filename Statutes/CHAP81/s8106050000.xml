@@ -1,10 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="State Administrative Departments" statutenumber="81-650"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>81-650</statuteno><catchline>Cancer registry; Department of Health
-and Human Services; annual report.</catchline><para>The department shall submit electronically an annual report to the
-Legislature's Health and Human Services Committee with the documentation on
-the operation and performance of the cancer registry program established pursuant
-to sections 81-642 to 81-650.</para>
-</amendatorysection></section><source><para>Laws 1982, LB 212, &#167; 9; </para><para>Laws 1992, LB 965, &#167; 4; </para><para>Laws 2012, LB782, &#167; 168.</para></source>  </law>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="statute"><section><amendatorysection chaptername="State Administrative Departments" statutenumber="81-650"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>81-650</statuteno><catchline>Repealed. Laws 2025, LB376, &#167; 42.</catchline></amendatorysection></section></law>
 </legaldoc>

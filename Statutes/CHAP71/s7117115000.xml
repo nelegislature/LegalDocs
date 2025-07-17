@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="Public Health And Welfare" statutenumber="71-17,115"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>71-17,115</statuteno><catchline>Report required.</catchline><para>The
-department shall annually provide a report to the Governor and the Clerk of
-the Legislature on the status of the program, the status of the loan recipients,
-and the impact of the program on the number of nursing faculty in Nebraska. The report submitted to the Clerk of the
-Legislature shall be submitted electronically. Any report which
-includes information about loan recipients shall exclude confidential information
-or any other information which specifically identifies a loan recipient.</para>
-</amendatorysection></section><source><para>Laws 2005, LB 146, &#167; 8; </para><para>Laws 2012, LB782, &#167; 113.</para></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="Public Health and Welfare" statutenumber="71-17,115"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>71-17,115</statuteno><catchline>Repealed. Laws 2025, LB376, &#167; 42.</catchline></amendatorysection></section></law>
 </legaldoc>

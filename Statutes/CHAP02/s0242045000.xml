@@ -1,16 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="Agriculture" statutenumber="2-4245"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>2-4245</statuteno><catchline>Annual report; contents; audit.</catchline>
-<para>The corporation shall, following the close of each fiscal year, submit
-an annual report of its activities for the preceding year to the Governor
-and the Clerk of the Legislature. The
-report submitted to the Clerk of the Legislature shall be submitted electronically. Each
-member of the Legislature shall receive an electronic copy of such
-report by making a request for it to the administrator of the corporation.
-Each report shall set forth a complete operating and financial statement for
-the corporation during the fiscal year it covers. An independent certified
-public accountant shall at least once in each year audit the books and accounts
-of the corporation.</para>
-</amendatorysection></section><source><para>Laws 1981, LB 385, &#167; 45; </para><para>Laws 2012, LB782, &#167; 7.</para></source>  </law>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="statute"><section><amendatorysection chaptername="Agriculture" statutenumber="2-4245"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>2-4245</statuteno><catchline>Repealed. Laws 2025, LB317, &#167; 470.</catchline></amendatorysection></section><source><operativedate>July 1, 2025</operativedate></source></law>
 </legaldoc>

@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection chaptername="Banks And Banking"  statutenumber="8-2723"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>8-2723</statuteno><catchline>Stored value, defined.</catchline><para>Stored value means monetary
-value that is evidenced by an electronic record. Stored value does not include
-any item that is redeemable by the issuer or its affiliates in goods or services
-of the issuer or its affiliates.</para>
-</amendatorysection></section><source><para>Laws 2013, LB616, &#167; 23.</para></source>  </law>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Banks And Banking" statutenumber="8-2723"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>8-2723</statuteno><catchline>Records; maintenance; requirements.</catchline><para>(1) A licensee shall maintain the following records, for determining the licensee's compliance with the Nebraska Money Transmitters Act, for at least five years:</para><para>(a) A record of each outstanding money transmission obligation sold;</para><para>(b) A general ledger posted at least monthly containing all asset, liability, capital, income, and expense accounts;</para><para>(c) Bank statements and bank reconciliation records;</para><para>(d) Records of outstanding money transmission obligations;</para><para>(e) Records of each outstanding money transmission obligation paid;</para><para>(f) A list of the last-known names and addresses of all of the licensee's authorized delegates; and</para><para>(g) Any other records the director reasonably requires by rule or regulation.</para><para>(2) The items specified in subsection (1) of this section may be maintained in any form of record.</para><para>(3) Records specified in subsection (1) of this section may be maintained outside this state if they are made accessible to the director within seven business days after notice.</para><para>(4) All records maintained by the licensee as required in subsection (1) of this section are subject to inspection by the director pursuant to section 8-2707.</para></amendatorysection></section><source><para>Laws 2013, LB616, &#167; 23; </para><para>Laws 2025, LB474, &#167; 28. </para><operativedate>October 1, 2025</operativedate></source></law>
 </legaldoc>

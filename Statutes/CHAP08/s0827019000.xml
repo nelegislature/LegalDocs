@@ -1,12 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection chaptername="Banks And Banking"  statutenumber="8-2719"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>8-2719</statuteno><catchline>Payment instrument, defined.</catchline><para>Payment instrument means
-any electronic or written check, draft, money order, travelers check, or other
-electronic or written instrument or order for the transmission or payment
-of money, sold or issued to one or more persons, whether or not such instrument
-is negotiable. Payment instrument does not include any credit card, any voucher,
-any letter of credit, or any instrument that is redeemable by the issuer or
-its affiliates in goods or services of the issuer or its affiliates.</para>
-</amendatorysection></section><source><para>Laws 2013, LB616, &#167; 19.</para></source>  </law>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Banks And Banking" statutenumber="8-2719"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>8-2719</statuteno><catchline>Audited financial statement; other information; filing; requirements.</catchline><para>(1) Each licensee shall, within ninety days after the end of each fiscal year or within any time period after the end of the fiscal year as the director may prescribe, file with the director:</para><para>(a) An audited financial statement of the licensee for the fiscal year prepared in accordance with United States generally accepted accounting principles; and</para><para>(b) Any other information as the director may reasonably require.</para><para>(2) Such audited financial statement shall be prepared by an independent certified public accountant or independent public accountant who is satisfactory to the director.</para><para>(3) Such audited financial statement shall include or be accompanied by a certificate of opinion of the independent certified public accountant or independent public accountant that is satisfactory in form and content to the director. If the certificate or opinion is qualified, the director may order the licensee to take any action as the director may find necessary to enable the independent certified public accountant or independent public accountant to remove the qualification.</para></amendatorysection></section><source><para>Laws 2013, LB616, &#167; 19; </para><para>Laws 2025, LB474, &#167; 24. </para><operativedate>October 1, 2025</operativedate></source></law>
 </legaldoc>

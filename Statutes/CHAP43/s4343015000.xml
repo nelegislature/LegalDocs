@@ -1,12 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id125">
-<amendatorysection chaptername="Infants And Juveniles" id="id127"  statutenumber="43-4315"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>43-4315</statuteno><catchline>Record, defined.</catchline><para>Record means any
-recording, in written, audio, electronic transmission, or computer storage
-form, including, but not limited to, a draft, memorandum, note, report, computer
-printout, notation, or message, and includes, but is not limited to, medical
-records, mental health records, case files, clinical records, financial records,
-and administrative records.</para>
-</amendatorysection></section><source><para>Laws 2012, LB821, &#167; 22.</para></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="Infants and Juveniles" statutenumber="43-4315"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>43-4315</statuteno><catchline>Repealed. Laws 2025, LB298, &#167; 109.</catchline></amendatorysection></section></law>
 </legaldoc>

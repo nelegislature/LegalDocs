@@ -1,34 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="Telecommunications And Technology" statutenumber="86-313"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>86-313</statuteno><catchline>Surcharge; amount; hearing; commission;
-powers and duties.</catchline><para>(1)(a) Each telephone company in Nebraska
-shall collect from each of the telephone subscribers a surcharge not to exceed
-twenty cents per month on each telephone number or functional equivalent in
-Nebraska, including wireless service as defined in section 86-456.01. Except
-for wireless service, the surcharge shall only be collected on the first one
-hundred telephone numbers or functional equivalents per subscriber. The companies
-shall add the surcharge to each subscriber's bill. The surcharge shall not be collected with respect to prepaid
-wireless telecommunications service as defined in the Prepaid Wireless Surcharge
-Act.</para>
-<para>(b) The telephone companies are not liable for any surcharge not paid
-by a subscriber.</para>
-<para>(2) Before April 1 of each year, the commission shall hold a public
-hearing to determine the amount of surcharge necessary to carry out the Telecommunications
-Relay System Act. After the hearing, the commission shall set the surcharge
-at the level necessary to fund the statewide telecommunications relay system
-and the specialized telecommunications equipment program for the following
-year plus a reasonable reserve. The surcharge shall become effective on July
-1 following the change.</para>
-<para>(3) In an emergency the commission may adjust the amount of the surcharge
-to become effective before such date but only after a public hearing for such
-purpose.</para>
-<para>(4) Each telephone company shall remit the proceeds from the surcharge
-to the commission. The commission shall remit the funds to the State Treasurer
-for credit to the fund.</para>
-<para>(5) The commission may require an audit of any company collecting the
-surcharge pursuant to the act.</para>
-<para>(6) This section shall not apply to subscribers who have no access to
-relay service.</para>
-</amendatorysection></section><source><para>Laws 1990, LB 240, &#167; 4; </para><para>R.S.Supp.,1992, &#167; 86-904; </para><para>Laws 1993, LB 305, &#167; 27; </para><para>Laws 1995, LB 146, &#167; 4; </para><para>R.S.1943, (1999), &#167; 86-1305; </para><para>Laws 2002, LB 1105, &#167; 191; </para><para>Laws 2003, LB 187, &#167; 28; </para><para>Laws 2007, LB661, &#167; 3; </para><para>Laws 2010, LB723, &#167; 1; </para><para>Laws 2012, LB1091, &#167; 6.</para></source><crossreference><para><emphasis>Prepaid Wireless Surcharge Act,</emphasis> see section 86-901.</para></crossreference>  </law>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="statute"><section id="id923"><amendatorysection amended="yes" chaptername="Telecommunications And Technology" statutenumber="86-313"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>86-313</statuteno><catchline>Surcharge; amount; hearing; commission; powers and duties.</catchline><para>(1)(a) Each telephone company in Nebraska shall collect from each of the telephone subscribers a surcharge not to exceed twenty cents per month on each telephone number or functional equivalent in Nebraska, including wireless service as defined in section 86-1059. Except for wireless service, the surcharge shall only be collected on the first one hundred telephone numbers or functional equivalents per subscriber. The companies shall add the surcharge to each subscriber's bill. The surcharge shall not be collected with respect to prepaid wireless telecommunications service as defined in the Prepaid Wireless Surcharge Act.</para><para>(b) The telephone companies are not liable for any surcharge not paid by a subscriber.</para><para>(2) Before April 1 of each year, the commission shall hold a public hearing to determine the amount of surcharge necessary to carry out the Telecommunications Relay System Act. After the hearing, the commission shall set the surcharge at the level necessary to fund the statewide telecommunications relay system and the specialized telecommunications equipment program for the following year plus a reasonable reserve. The surcharge shall become effective on July 1 following the change.</para><para>(3) In an emergency the commission may adjust the amount of the surcharge to become effective before such date but only after a public hearing for such purpose.</para><para>(4) Each telephone company shall remit the proceeds from the surcharge to the commission. The commission shall remit the funds to the State Treasurer for credit to the fund.</para><para>(5) The commission may require an audit of any company collecting the surcharge pursuant to the act.</para><para>(6) This section shall not apply to subscribers who have no access to relay service.</para></amendatorysection></section><source><para>Laws 1990, LB 240, &#167; 4; </para><para>R.S.Supp.,1992, &#167; 86-904; </para><para>Laws 1993, LB 305, &#167; 27; </para><para>Laws 1995, LB 146, &#167; 4; </para><para>R.S.1943, (1999), &#167; 86-1305; </para><para>Laws 2002, LB 1105, &#167; 191; </para><para>Laws 2003, LB 187, &#167; 28; </para><para>Laws 2007, LB661, &#167; 3; </para><para>Laws 2010, LB723, &#167; 1; </para><para>Laws 2012, LB1091, &#167; 6; </para><para>Laws 2025, LB362, &#167; 9. </para><effectivedate>September 3, 2025</effectivedate></source><crossreference><para><emphasis>Prepaid Wireless Surcharge Act,</emphasis> see section 86-901.</para></crossreference></law>
 </legaldoc>

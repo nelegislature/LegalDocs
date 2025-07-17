@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection chaptername="Banks And Banking"  statutenumber="8-2704"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>8-2704</statuteno><catchline>Authorized delegate, defined.</catchline><para>Authorized delegate means
-an entity designated by the licensee or an exempt entity under the Nebraska
-Money Transmitters Act to engage in the business of money transmission on
-behalf of the licensee or exempt entity.</para>
-</amendatorysection></section><source><para>Laws 2013, LB616, &#167; 4.</para></source>  </law>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Banks And Banking" statutenumber="8-2704"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>8-2704</statuteno><catchline>Authority to require demonstration of exemption.</catchline><para>The director may require that any person claiming to be exempt from licensing under the Nebraska Money Transmitters Act pursuant to section 8-2703 provide information and documentation to the director demonstrating that such person qualifies for exemption.</para></amendatorysection></section><source><para>Laws 2013, LB616, &#167; 4; </para><para>Laws 2025, LB474, &#167; 9. </para><operativedate>October 1, 2025</operativedate></source></law>
 </legaldoc>

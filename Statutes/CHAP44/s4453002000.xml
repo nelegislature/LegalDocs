@@ -1,17 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id3">
-<amendatorysection amended="yes" chaptername="Insurance" id="id5" statutenumber="44-5302"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id7">44-5302</statuteno><catchline id="id8">Legislative findings
-and declarations.</catchline><para>The Legislature finds and declares
-that there is a significant number of Nebraskans
-who lack health insurance and that these uninsured people include many individuals and families who cannot afford
-the rising cost of medical care but do not qualify for the various income-based
-assistance programs. The lack of financial means of uninsured people and families to pay for their
-medical care leaves health care providers with uncollectible debts which are
-transferred to other patients and to insurers. It is the purpose and intent
-of the Legislature to provide a mechanism to allow insurers to provide basic
-levels of health insurance to those people who are uninsured and are not
-qualified for income-based assistance programs.</para>
-</amendatorysection></section><source><para>Laws 1991, LB 419, &#167; 30; </para><para>Laws 2009, LB445, &#167; 1.</para></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="Insurance" statutenumber="44-5302"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>44-5302</statuteno><catchline>Repealed. Laws 2025, LB326, &#167; 16.</catchline></amendatorysection></section></law>
 </legaldoc>

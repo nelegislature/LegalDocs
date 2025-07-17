@@ -1,10 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id335">
-<amendatorysection amended="yes" chaptername="Infants And Juveniles" id="id337"  statutenumber="43-4308"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>43-4308</statuteno><catchline id="id340">Licensed child
-care facility, defined.</catchline><para>Licensed child care facility
-means a facility or program licensed under the Child Care Licensing Act, the Children's Residential Facilities
-and Placing Licensure Act, or sections 71-1901 to 71-1906.01.</para>
-</amendatorysection></section><source><para>Laws 2012, LB821, &#167; 15; </para><para>Laws 2013, LB265, &#167; 36.</para></source><crossreference><para><emphasis>Child Care Licensing Act,</emphasis> see section 71-1908.</para><para><emphasis>Children's Residential Facilities and Placing Licensure Act,</emphasis> see section 71-1924.</para></crossreference>  </law>
+<law type="statute"><section><amendatorysection chaptername="Infants and Juveniles" statutenumber="43-4308"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>43-4308</statuteno><catchline>Repealed. Laws 2025, LB298, &#167; 109.</catchline></amendatorysection></section></law>
 </legaldoc>

@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection chaptername="Banks And Banking"  statutenumber="8-2744"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>8-2744</statuteno><catchline>Violations; orders authorized.</catchline><para>If the director finds,
-after notice and hearing in accordance with the Administrative Procedure Act,
-that any person has violated the Nebraska Money Transmitters Act or any rule,
-regulation, or order of the director thereunder, the director may order such
-person to pay (1) an administrative fine of not more than five thousand dollars
-for each separate violation and (2) the costs of investigation.</para>
-</amendatorysection></section><source><para>Laws 2013, LB616, &#167; 44.</para></source><crossreference><para><emphasis>Administrative Procedure Act,</emphasis> see section 84-920.</para></crossreference>  </law>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="statute"><section><amendatorysection chaptername="Banks and Banking" statutenumber="8-2744"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>8-2744</statuteno><catchline>Repealed. Laws 2025, LB474, &#167; 114.</catchline></amendatorysection></section><source><operativedate>October 1, 2025</operativedate></source></law>
 </legaldoc>

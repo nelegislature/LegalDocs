@@ -1,25 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id10">
-<amendatorysection amended="yes" chaptername="Insurance" id="id12" statutenumber="44-5303"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id14">44-5303</statuteno><catchline id="id15">Terms, defined.</catchline>
-<para>For purposes of the Health Insurance Access Act:</para>
-<para>(1) Insurer shall mean any insurance company as defined in
-section 44-103 authorized to transact health insurance business in the State
-of Nebraska or a health maintenance organization which has obtained a valid
-certificate of authority;</para>
-<para>(2) Medicare shall mean parts A, B, C, and D of Title XVIII of the Social Security Act, 42 U.S.C. 1395 et
-seq., as amended;</para>
-<para>(3) Provider shall mean any physician or hospital who is licensed
-or authorized in this state to furnish medical care or hospitalization to
-any individual;</para>
-<para>(4) Spell of illness shall mean a continuous period as a hospital
-inpatient or successive periods as a hospital inpatient when the date of discharge
-and the following date of admission are less than sixty consecutive days apart;
-and</para>
-<para>(5) Uninsured access coverage shall mean a policy of sickness
-and accident insurance or a contract for health care services covering individuals,
-with or without their dependents, issued by an insurer subject to the limitations
-and requirements in the act.</para>
-</amendatorysection></section><source><para>Laws 1991, LB 419, &#167; 31; </para><para>Laws 2009, LB445, &#167; 2.</para></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="Insurance" statutenumber="44-5303"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>44-5303</statuteno><catchline>Repealed. Laws 2025, LB326, &#167; 16.</catchline></amendatorysection></section></law>
 </legaldoc>

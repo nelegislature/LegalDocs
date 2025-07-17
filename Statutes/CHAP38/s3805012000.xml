@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id269">
-<amendatorysection amended="yes" chaptername="Health Occupations And Professions" id="id271" statutenumber="38-512"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id273">38-512</statuteno><catchline id="id274">Sale of hearing instruments; audiologist; applicability of act.</catchline>
-<para>Any audiologist who engages in the sale of hearing instruments shall not be exempt from the Hearing Instrument Specialists Practice Act.</para>
-</amendatorysection></section><source><para>Laws 1978, LB 406, &#167; 23; </para><para>R.S.1943, (2003), &#167; 71-1,196; </para><para>Laws 2007, LB463, &#167; 197; </para><para>Laws 2009, LB195, &#167; 10.</para></source><crossreference><para><emphasis>Hearing Instrument Specialists Practice Act,</emphasis> see section 38-1501.</para></crossreference>  </law>
+<law type="statute"><section><amendatorysection chaptername="Health Occupations and Professions" statutenumber="38-512"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>38-512</statuteno><catchline>Repealed. Laws 2025, LB332, &#167; 41.</catchline></amendatorysection></section><source><operativedate>September 3, 2025</operativedate></source></law>
 </legaldoc>

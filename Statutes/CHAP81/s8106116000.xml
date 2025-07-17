@@ -1,20 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="State Administrative Departments" statutenumber="81-6,116"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>81-6,116</statuteno><catchline>Information; use.</catchline><para>(1)
-Information reported under section 81-6,114 may be used by the department
-for statistical and public health planning purposes and for other public health
-purposes as identified by the department in rule and regulation.</para>
-<para>(2) The department shall periodically review information collected under
-section 81-6,114 for the purpose of identifying potential policies or practices
-of any reporting facility which may be detrimental to the public health, including,
-but not limited to, policies and practices which may have the effect of limiting
-access to needed health care services for Nebraska residents. The department
-shall provide electronically recommendations
-to the Health and Human Services Committee of the Legislature relating to
-appropriate administrative and legislative responses to such policies and
-practices and shall provide electronically an
-annual report to the chairperson of such committee of its findings and its
-current or planned activities under this section, if any.</para>
-</amendatorysection></section><source><para>Laws 2003, LB 73, &#167; 6; </para><para>Laws 2012, LB782, &#167; 169.</para></source>  </law>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="State Administrative Departments" statutenumber="81-6,116"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>81-6,116</statuteno><catchline>Information; use.</catchline><para>Information reported under section 81-6,114 may be used by the department for statistical and public health planning purposes and for other public health purposes as identified by the department in rule and regulation.</para></amendatorysection></section><source><para>Laws 2003, LB 73, &#167; 6; </para><para>Laws 2012, LB782, &#167; 169; </para><para>Laws 2025, LB376, &#167; 35. </para><effectivedate>September 3, 2025</effectivedate></source></law>
 </legaldoc>

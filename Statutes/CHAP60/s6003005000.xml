@@ -1,19 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id19">
-<amendatorysection amended="yes" chaptername="Motor Vehicles" id="id21" statutenumber="60-305">
-<bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>60-305</statuteno><catchline id="id24">All-terrain vehicle,
-defined.</catchline><para>All-terrain vehicle means any motorized
-off-highway vehicle which (1) is fifty inches or less in width, (2) has a
-dry weight of twelve hundred pounds or less,
-(3) travels on three or more nonhighway tires, and (4) is designed for operator
-use only with no passengers or is specifically designed by the original manufacturer
-for the operator and one passenger.
-All-terrain vehicles which have been modified or retrofitted with after-market
-parts to include additional equipment not required by sections 60-6,357 and
-60-6,358 shall not be registered under the Motor Vehicle Registration Act,
-nor shall such modified or retrofitted vehicles be eligible for registration
-in any other category of vehicle defined in the act.</para>
-</amendatorysection></section><source><para>Laws 2005, LB 274, &#167; 5; </para><para>Laws 2014, LB814, &#167; 5.</para></source>  </law>
-</legaldoc>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Motor Vehicles" id="id21" statutenumber="60-305"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>60-305</statuteno><catchline id="id24">All-terrain vehicle, defined.</catchline><para>All-terrain vehicle means any motorized off-highway vehicle which (1) is fifty inches or less in width, (2) travels on three or more nonhighway tires, and (3) is designed for operator use only with no passengers or is specifically designed by the original manufacturer for the operator and one passenger. All-terrain vehicles which have been modified or retrofitted with after-market parts to include additional equipment not required by sections 60-6,357 and 60-6,358 shall not be registered under the Motor Vehicle Registration Act, nor shall such modified or retrofitted vehicles be eligible for registration in any other category of vehicle defined in the act.</para></amendatorysection></section><source><para>Laws 2005, LB 274, &#167; 5; </para><para>Laws 2014, LB814, &#167; 5; </para><para>Laws 2025, LB98, &#167; 3. </para><effectivedate>March 12, 2025</effectivedate></source></law></legaldoc>

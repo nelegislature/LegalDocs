@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="Legislature"  statutenumber="50-421"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>50-421</statuteno><catchline>Office of Legislative Audit; Legislative
-Auditor.</catchline><para>The office of Legislative Audit is established within the Legislative
-Council. The office shall conduct performance audits. The
-Legislative Auditor shall be responsible for hiring, firing, and supervising
-the performance audit staff.</para>
-</amendatorysection></section><source><para>Laws 2006, LB 956, &#167; 2; </para><para>Laws 2009, LB620, &#167; 1.</para></source>  </law>
+<law type="statute"><section><amendatorysection chaptername="Legislature" statutenumber="50-421"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>50-421</statuteno><catchline>Repealed. Laws 2025, LB298, &#167; 109.</catchline></amendatorysection></section></law>
 </legaldoc>

@@ -1,10 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection chaptername="Banks And Banking"  statutenumber="8-2722"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>8-2722</statuteno><catchline>Remit, defined.</catchline><para>Remit, except as used in section 8-2747,
-means either to make direct payment of the funds to a licensee or its representatives
-authorized to receive those funds or to deposit the funds in a bank, credit
-union, or savings and loan association or other similar financial institution
-in an account specified by a licensee.</para>
-</amendatorysection></section><source><para>Laws 2013, LB616, &#167; 22.</para></source>  </law>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Banks And Banking" statutenumber="8-2722"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>8-2722</statuteno><catchline>Bank Secrecy Act; reporting requirements.</catchline><para>A licensee and an authorized delegate shall file all reports required by the federal currency reporting, record-keeping, and suspicious activity reporting requirements set forth in the Bank Secrecy Act and other federal and state laws pertaining to money laundering. The timely filing of a complete and accurate report required under this section with the appropriate federal agency is deemed to be in compliance with the requirements of this section.</para></amendatorysection></section><source><para>Laws 2013, LB616, &#167; 22; </para><para>Laws 2025, LB474, &#167; 27. </para><operativedate>October 1, 2025</operativedate></source></law>
 </legaldoc>

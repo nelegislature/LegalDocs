@@ -1,17 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection chaptername="Banks And Banking"  statutenumber="8-2706"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>8-2706</statuteno><catchline>Control, defined.</catchline><para>Control means the power, directly or indirectly,
-to direct the management or policies of a licensee, whether through ownership
-of securities, by contract, or otherwise. Any person who (1) has the power
-to elect a majority of executive officers, managers, directors, trustees,
-or other persons exercising managerial authority of a licensee or any person
-in control of a licensee, (2) directly or indirectly has the right to vote
-ten percent or more of a class of stock or directly or indirectly has the
-power to sell or direct the sale of ten percent or more of a class of stock,
-(3) in the case of a limited liability company, is a managing member, or (4)
-in the case of a partnership, has the right to receive, upon dissolution,
-or has contributed, ten percent or more of the capital, is presumed to control
-that licensee.</para>
-</amendatorysection></section><source><para>Laws 2013, LB616, &#167; 6.</para></source>  </law>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Banks And Banking" statutenumber="8-2706"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>8-2706</statuteno><catchline>Information; reports; records; confidentiality; disclosure; director; powers.</catchline><para>(1) Except as otherwise provided in subsection (2) of this section, all information or reports obtained by the director from an applicant, licensee, or authorized delegate, related to an examination or investigation, on behalf of, or for the use of the director, are not public record and are not subject to disclosure pursuant to sections 84-712 to 84-712.09.</para><para>(2) The director may disclose information not otherwise subject to disclosure under subsection (1) of this section to a representative of state or federal agencies who promises in a record that the representative will maintain the confidentiality of the information or if the director finds that the disclosure is reasonably necessary for the protection and interest of the public pursuant to sections 84-712 to 84-712.09.</para><para>(3) This section does not prohibit the director from disclosing to the public a list of all licensees or the aggregated financial or transactional data concerning those licensees.</para><para>(4) Information contained in the records of the department that is public record and may be made available to the public either on the department's website, upon receipt by the department of a written request, or in the Nationwide Mortgage Licensing System and Registry shall include:</para><para>(a) The name, business address, telephone number, and unique identifier of any licensee;</para><para>(b) The business address of any registered agent of a licensee for service;</para><para>(c) The name, business address, and telephone number of all authorized delegates;</para><para>(d) The terms of, or a copy of, any bond filed by a licensee, provided that confidential information, including, but not limited to, prices and fees for such bond is redacted;</para><para>(e) Copies of any nonconfidential final orders of the department relating to any violation of the Nebraska Money Transmitters Act or the rules and regulations implementing the act; and</para><para>(f) Imposition of an administrative fine or penalty under the act.</para></amendatorysection></section><source><para>Laws 2013, LB616, &#167; 6; </para><para>Laws 2025, LB474, &#167; 11. </para><operativedate>October 1, 2025</operativedate></source></law>
 </legaldoc>

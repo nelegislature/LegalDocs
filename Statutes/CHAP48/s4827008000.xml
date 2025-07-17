@@ -1,24 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id128">
-<amendatorysection chaptername="Labor" id="id130"  statutenumber="48-2708"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>48-2708</statuteno><catchline>Retirement and employee welfare benefit
-plans.</catchline><para>(1)
-A client and a professional employer organization shall each be deemed an
-employer under the laws of this state for purposes of sponsoring retirement
-and employee welfare benefit plans for its covered employees.</para>
-<para>(2) A fully
-insured employee welfare benefit plan offered to the covered employees of
-a single professional employer organization shall be for purposes of state
-law a single employee welfare benefit plan and shall not be considered a multiple
-employer welfare arrangement, as defined in section 44-7603, and shall be
-exempt from the registration requirements of the Multiple Employer Welfare
-Arrangement Act.</para><para>(3) For purposes of the Small Employer Health Insurance Availability
-Act, a professional employer organization shall be considered the employer
-of all of its covered employees and all covered employees of any client participating
-in a health benefit plan sponsored by a single professional employer organization
-shall be considered employees of the professional employer organization. Subject
-to any eligibility requirements imposed by the plan or policy, the insurer
-shall accept and insure all employees of the client and all beneficiaries
-of those employees.</para></amendatorysection></section><source><para>Laws 2010, LB579, &#167; 8.</para></source><crossreference><para><emphasis>Multiple Employer Welfare Arrangement Act,</emphasis> see section 44-7601.</para><para><emphasis>Small Employer Health Insurance Availability Act,</emphasis> see section 44-5223.</para></crossreference>  </law>
+<law type="statute"><section><amendatorysection chaptername="Labor" id="id130" statutenumber="48-2708" amended="yes"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>48-2708</statuteno><catchline>Retirement and employee welfare benefit plans.</catchline><para>(1) A client and a professional employer organization shall each be deemed an employer under the laws of this state for purposes of sponsoring retirement and employee welfare benefit plans for its covered employees.</para><para>(2) An employee welfare benefit plan that includes a health benefit plan offered to the covered employees of a single professional employer organization shall be for purposes of state law a single employee welfare benefit plan and shall not be considered a multiple employer welfare arrangement, as defined in section 44-7603, and shall be exempt from the registration requirements of the Multiple Employer Welfare Arrangement Act.</para><para>(3) For purposes of the Small Employer Health Insurance Availability Act, a professional employer organization shall be considered the employer of all of its covered employees and all covered employees of any client participating in a health benefit plan sponsored by a single professional employer organization shall be considered employees of the professional employer organization. Subject to any eligibility requirements imposed by the plan or policy, the insurer shall accept and insure all employees of the client and all beneficiaries of those employees.</para></amendatorysection></section><source><para>Laws 2010, LB579, &#167; 8; </para><para>Laws 2025, LB293, &#167; 2. </para><effectivedate>September 3, 2025</effectivedate></source><crossreference><para><emphasis>Multiple Employer Welfare Arrangement Act,</emphasis> see section 44-7601.</para><para><emphasis>Small Employer Health Insurance Availability Act,</emphasis> see section 44-5223.</para></crossreference></law>
 </legaldoc>

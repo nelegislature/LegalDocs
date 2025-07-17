@@ -1,1 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><legaldoc><law type="statute"><section><amendatorysection chaptername="Health Occupations And Professions" statutenumber="38-204"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>38-204</statuteno><catchline>Board, defined.</catchline><para>Board means the Board of Advanced Practice Registered Nurses.</para></amendatorysection></section><source><para>Laws 2007, LB463, &#167; 143. </para></source></law></legaldoc>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="statute"><section id="id61"><amendatorysection amended="yes" chaptername="Health Occupations And Professions" statutenumber="38-204"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>38-204</statuteno><catchline>Board, defined.</catchline><para>Prior to July 1, 2026, board means the Board of Advanced Practice Registered Nurses. Beginning July 1, 2026, board means the Board of Nursing.</para></amendatorysection></section><source><para>Laws 2007, LB463, &#167; 143; </para><para>Laws 2025, LB346, &#167; 8. </para><operativedate>September 3, 2025</operativedate></source></law>
+</legaldoc>

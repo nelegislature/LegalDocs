@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection chaptername="Banks And Banking"  statutenumber="8-2718"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>8-2718</statuteno><catchline>Outstanding payment instrument, defined.</catchline><para>Outstanding payment instrument
-means any payment instrument issued by a licensee which has been sold in the
-United States directly by the licensee or any payment instrument issued by
-a licensee which has been sold by an authorized delegate of the licensee in
-the United States, which has been reported to the licensee as having been
-sold, and which has not yet been paid by or for the licensee.</para>
-</amendatorysection></section><source><para>Laws 2013, LB616, &#167; 18.</para></source>  </law>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Banks And Banking" statutenumber="8-2718"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>8-2718</statuteno><catchline>Report of condition.</catchline><para>(1) Each licensee shall submit a report of condition within forty-five days after the end of a calendar quarter, or within any extended time as the director may prescribe.</para><para>(2) The report of condition shall include:</para><para>(a) Financial information at the licensee level;</para><para>(b) Nationwide and state-specific money transmission transaction information in every jurisdiction in the United States where the licensee is licensed to engage in money transmission;</para><para>(c) A permissible investments report of the licensee;</para><para>(d) Transaction destination country reporting for money received for transmission, if applicable; and</para><para>(e) Any other information the director reasonably requires with respect to the licensee.</para><para>(3) The director is authorized to utilize the Nationwide Mortgage Licensing System and Registry for the submission of the report required by this section and is authorized to update as necessary the requirements of this section to carry out the purposes of the Nebraska Money Transmitters Act and maintain consistency with Nationwide Mortgage Licensing System and Registry reporting.</para><para>(4) The information required by subdivision (2)(d) of this section shall only be included in a report of condition submitted within forty-five days after the end of the fourth calendar quarter.</para></amendatorysection></section><source><para>Laws 2013, LB616, &#167; 18; </para><para>Laws 2025, LB474, &#167; 23. </para><operativedate>October 1, 2025</operativedate></source></law>
 </legaldoc>

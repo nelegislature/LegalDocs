@@ -1,10 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id400">
-<amendatorysection amended="yes" chaptername="Health Occupations And Professions" id="id402" statutenumber="38-1504"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id404">38-1504</statuteno><catchline id="id405">Hearing instrument, defined.</catchline><para>Hearing instrument means any wearable instrument or
-device designed for or offered for the purpose of aiding or compensating for
-impaired human hearing and any parts, attachments, or accessories, including
-earmold, but excluding batteries and cords.</para>
-</amendatorysection></section><source><para>Laws 2007, LB463, &#167; 568; </para><para>Laws 2009, LB195, &#167; 22.</para></source>  </law>
+<law type="statute"><section id="id167"><amendatorysection amended="yes" chaptername="Health Occupations And Professions" id="id402" statutenumber="38-1504"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>38-1504</statuteno><catchline id="id405">Hearing instrument, defined.</catchline><para>Hearing instrument means any wearable instrument or device designed for, offered for the purpose of, or represented as aiding persons with or compensating for impaired hearing. Hearing instrument does not include a wearable instrument or device with an implantable component such as a wearable processor for a cochlear implant or bone-anchored implant.</para></amendatorysection></section><source><para>Laws 2007, LB463, &#167; 568; </para><para>Laws 2009, LB195, &#167; 22; </para><para>Laws 2025, LB332, &#167; 13. </para><operativedate>September 3, 2025</operativedate></source></law>
 </legaldoc>

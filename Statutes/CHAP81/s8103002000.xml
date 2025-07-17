@@ -1,19 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> <legaldoc>
-<law type="statute">
-<section id="id39">
-<amendatorysection chaptername="State Administrative Departments" id="id41"  statutenumber="81-302"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>81-302</statuteno><catchline>Department of Banking and Finance
-Settlement Cash Fund; created; use; investment.</catchline><para>The Department of Banking and Finance
-Settlement Cash Fund is created. The fund shall be administered by the Department
-of Banking and Finance. The fund shall consist of money received by the state
-in settlements resulting from regulatory or judicial resolution of financial,
-securities, or consumer issues in which the department is designated as a
-recipient and any investment income earned on the fund. The Department of
-Administrative Services may for accounting purposes create subfunds of the
-fund to segregate awards or allocations received pursuant to different orders
-or settlements. The fund may be used by the Department of Banking and Finance
-for any allowable legal purposes as determined by the Director of Banking
-and Finance. Any money in the fund available for investment shall be invested
-by the state investment officer pursuant to the Nebraska Capital Expansion
-Act and the Nebraska State Funds Investment Act.</para>
-</amendatorysection></section><source><para>Laws 2013, LB199, &#167; 14.</para></source><crossreference><para><emphasis>Nebraska Capital Expansion Act,</emphasis> see section 72-1269.</para><para><emphasis>Nebraska State Funds Investment Act,</emphasis> see section 72-1260.</para></crossreference>  </law>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="State Administrative Departments" id="id41" statutenumber="81-302"><bookinfo>Revised Statutes Supplement, 2025</bookinfo><statuteno>81-302</statuteno><catchline>Department of Banking and Finance Settlement Cash Fund; created; use; investment.</catchline><para>The Department of Banking and Finance Settlement Cash Fund is created. The fund shall be administered by the Department of Banking and Finance. The fund shall consist of money received by the state in settlements resulting from regulatory or judicial resolution of financial, securities, or consumer issues in which the department is designated as a recipient and any investment income earned on the fund. The Department of Administrative Services may for accounting purposes create subfunds of the fund to segregate awards or allocations received pursuant to different orders or settlements. The fund may be used by the Department of Banking and Finance for any allowable legal purposes as determined by the Director of Banking and Finance. Transfers may be made from the fund to the General Fund at the direction of the Legislature. Any money in the Department of Banking and Finance Settlement Cash Fund available for investment shall be invested by the state investment officer pursuant to the Nebraska Capital Expansion Act and the Nebraska State Funds Investment Act.</para></amendatorysection></section><source><para>Laws 2013, LB199, &#167; 14; </para><para>Laws 2025, LB264, &#167; 172. </para><operativedate>May 22, 2025</operativedate></source><crossreference><para><emphasis>Nebraska Capital Expansion Act,</emphasis> see section 72-1269.</para><para><emphasis>Nebraska State Funds Investment Act,</emphasis> see section 72-1260.</para></crossreference></law>
 </legaldoc>
