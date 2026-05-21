@@ -1,14 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="Labor" id="id49"  statutenumber="48-2909"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>48-2909</statuteno><catchline>Report; contents.</catchline><para>The
-department shall provide electronically an annual report to the Legislature
-regarding compliance with and enforcement of the Employee Classification Act.
-The report shall include, but not be limited to, the number of reports received
-from both its hotline and website, the number of investigated reports, the
-findings of the reports, the amount of combined tax, interest, and fines collected,
-the number of referrals to the Department of Revenue, Nebraska Workers' Compensation
-Court, and appropriate prosecuting authority, and the outcome of such referrals.</para>
-</amendatorysection></section><source><para>Laws 2010, LB563, &#167; 9; </para><para>Laws 2012, LB782, &#167; 67.</para></source>  </law>
+    <law type="statute"><section><amendatorysection chaptername="Labor" statutenumber="48-2909"><bookinfo>Revised Statutes Cumulative Supplement, 2026</bookinfo><statuteno>48-2909</statuteno><catchline>Repealed. Laws 2026, LB847, &#167; 38; Laws 2026, LB1048, &#167; 46.</catchline></amendatorysection></section></law>
 </legaldoc>

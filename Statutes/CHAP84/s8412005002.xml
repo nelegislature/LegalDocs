@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="State Officers" statutenumber="84-1205.02"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>84-1205.02</statuteno><catchline>Board; establish fees.</catchline>
-<para>Except as provided in sections
-49-509, 52-1316, and 60-483 and article 9, Uniform Commercial Code, the board
-may establish reasonable fees for electronic access to (1) public records or (2) electronic information and services, through
-the portal. Fees for electronic access to public records shall
-not exceed the statutory fee for copies of public records in other forms. Any
-fees collected under this section shall be deposited in the Records Management
-Cash Fund.</para>
-</amendatorysection></section><source><para>Laws 1997, LB 590, &#167; 8; </para><para>Laws 1998, LB 924, &#167; 53; </para><para>Laws 1999, LB 550, &#167; 49; </para><para>Laws 2000, LB 534, &#167; 7; </para><para>Laws 2012, LB719, &#167; 12.</para></source>  </law>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="statute"><section id="id331"><amendatorysection amended="yes" chaptername="State Officers" statutenumber="84-1205.02"><bookinfo>Revised Statutes Cumulative Supplement, 2026</bookinfo><statuteno>84-1205.02</statuteno><catchline>Board; establish fees.</catchline><para>Except as provided in sections 52-1316 and 60-483 and article 9, Uniform Commercial Code, the board may establish reasonable fees for electronic access to (1) public records or (2) electronic information and services, through the portal. Fees for electronic access to public records shall not exceed the statutory fee for copies of public records in other forms. Any fees collected under this section shall be deposited in the Records Management Cash Fund.</para></amendatorysection></section><source><para>Laws 1997, LB 590, &#167; 8; </para><para>Laws 1998, LB 924, &#167; 53; </para><para>Laws 1999, LB 550, &#167; 49; </para><para>Laws 2000, LB 534, &#167; 7; </para><para>Laws 2012, LB719, &#167; 12; </para><para>Laws 2026, LB1236, &#167; 21. </para><operativedate>January 1, 2027</operativedate></source></law>
 </legaldoc>

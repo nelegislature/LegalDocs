@@ -1,15 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id38"><?Pub Caret1?>
-<amendatorysection chaptername="Revenue And Taxation" id="id40"  statutenumber="77-2701.54"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>77-2701.54</statuteno><catchline>Data center, defined.</catchline>
-<para>Data center
-means computers, supporting equipment, and other organized assembly of hardware
-or software that are designed to centralize the storage, management, or dissemination
-of data and information, environmentally controlled structures or facilities
-or interrelated structures or facilities that provide the infrastructure for
-housing the equipment, such as raised flooring, electricity supply, communication
-and data lines, Internet access, cooling, security, and fire suppression,
-and any building housing the foregoing.</para>
-</amendatorysection></section><source><para>Laws 2012, LB1080, &#167; 4.</para></source>  </law>
-</legaldoc>
+<law type="statute"><section><amendatorysection chaptername="Revenue and Taxation" statutenumber="77-2701.54"><bookinfo>Revised Statutes Cumulative Supplement, 2026</bookinfo><statuteno>77-2701.54</statuteno><catchline>Repealed. Laws 2026, LB901, &#167; 43.</catchline></amendatorysection></section><source><operativedate>July 1, 2026</operativedate></source></law></legaldoc>

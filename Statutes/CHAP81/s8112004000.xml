@@ -1,27 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="State Administrative Departments" statutenumber="81-1204"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>81-1204</statuteno><catchline>Job training grant; approval; limitations.</catchline>
-<para>(1) Except
-as otherwise provided in subsection
-(2) of this section, the Department of Economic Development shall
-not approve a job training grant (a) which
-exceeds an average expenditure of five thousand dollars per job created if
-the proposed wage levels do not exceed thirty thousand dollars per year, (b) which exceeds an average expenditure of ten
-thousand dollars per job if the proposed wage levels exceed thirty thousand
-dollars per year but do not
-exceed fifty thousand dollars per year, or (c) which exceeds an average expenditure
-of twenty thousand dollars per job if the proposed wage levels exceed fifty
-thousand dollars per year or if the jobs created are located in a high-poverty
-area as defined in section 81-1203.</para>
-<para>(2) If the application is approved with
-provisions described in subsection (3) of section 81-1203, the Department
-of Economic Development may approve a job training grant (a) up to ten thousand dollars per job created
-if the proposed wage levels do not exceed thirty thousand dollars per year, (b) up to fifteen thousand
-dollars per job if the proposed wage levels exceed thirty thousand dollars
-per year but do not exceed fifty thousand dollars
-per year, or (c) up to twenty-five thousand dollars per job if the proposed
-wage levels exceed fifty thousand dollars per year or if the jobs created
-are located in a high-poverty area as defined in section 81-1203.</para>
-</amendatorysection></section><source><para>Laws 1995, LB 326, &#167; 3; </para><para>Laws 2008, LB1154, &#167; 28; </para><para>Laws 2014, LB906, &#167; 19.</para></source>  </law>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="statute"><section id="id946"><amendatorysection amended="yes" chaptername="State Administrative Departments" statutenumber="81-1204"><bookinfo>Revised Statutes Cumulative Supplement, 2026</bookinfo><statuteno>81-1204</statuteno><catchline>Job training grant; approval; limitations.</catchline><para>The Department of Economic Development shall not approve a job training grant which exceeds an average expenditure of five thousand dollars per job created if the proposed wage levels do not exceed thirty thousand dollars per year, which exceeds an average expenditure of ten thousand dollars per job if the proposed wage levels exceed thirty thousand dollars per year but do not exceed fifty thousand dollars per year, or which exceeds an average expenditure of twenty thousand dollars per job if the proposed wage levels exceed fifty thousand dollars per year.</para></amendatorysection></section><source><para>Laws 1995, LB 326, &#167; 3; </para><para>Laws 2008, LB1154, &#167; 28; </para><para>Laws 2014, LB906, &#167; 19; </para><para>Laws 2026, LB1072, &#167; 187. </para><operativedate>December 31, 2026</operativedate></source></law>
 </legaldoc>

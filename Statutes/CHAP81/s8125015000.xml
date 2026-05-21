@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> <legaldoc>
-<law type="statute">
-<section id="id38">
-<amendatorysection chaptername="State Administrative Departments" id="id40"  statutenumber="81-2515"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>81-2515</statuteno><catchline>State assistance to political subdivisions and nonprofit corporations;
-sections; termination.</catchline><para>Sections 81-2509 to 81-2515 terminate on June 30, 2018.</para>
-</amendatorysection></section><source><para>Laws 2010, LB1002, &#167; 7.</para><terminationdate>June 30, 2018</terminationdate></source>  </law>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="statute"><section><amendatorysection chaptername="State Administrative Departments" statutenumber="81-2515"><bookinfo>Revised Statutes Cumulative Supplement, 2026</bookinfo><statuteno>81-2515</statuteno><catchline>Repealed. Laws 2026, LB1072, &#167; 241.</catchline></amendatorysection></section><source><operativedate>April 8, 2026</operativedate></source></law>
 </legaldoc>

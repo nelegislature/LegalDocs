@@ -1,16 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> <legaldoc>
-<law type="statute">
-<section id="id63">
-<amendatorysection amended="yes" chaptername="State Administrative Departments" id="id65"  statutenumber="81-12,155"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>81-12,155</statuteno><catchline id="id68">Qualified action
-plan; department; duties; contents.</catchline><para>In selecting
-projects to receive financial assistance under the Business Innovation Act,
-the department shall develop a qualified action plan by January 1 of each
-even-numbered year. The plan shall set forth selection criteria to be used
-to determine priorities which are appropriate to local conditions and the
-state's economy, including the state's immediate need for innovation development,
-proposed increases in jobs and investment, private dollars leveraged, industry
-support and participation, and repayment, in part or in whole, of financial
-assistance awarded under the act. The department shall
-submit the plan to the Governor for approval.</para>
-</amendatorysection></section><source><para>Laws 2011, LB387, &#167; 4; </para><para>Laws 2013, LB78, &#167; 16.</para></source>  </law>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="statute"><section id="id605"><amendatorysection amended="yes" chaptername="State Administrative Departments" id="id65" statutenumber="81-12,155"><bookinfo>Revised Statutes Cumulative Supplement, 2026</bookinfo><statuteno>81-12,155</statuteno><catchline id="id68">Qualified action plan; department; duties; contents.</catchline><para>In selecting projects to receive financial assistance under the Business Innovation Act, the department shall develop a qualified action plan by January 1 of each even-numbered year. The plan shall set forth selection criteria to be used to determine priorities which are appropriate to local conditions and the state's economy, including the state's immediate need for innovation development, proposed increases in jobs and investment, private dollars leveraged, industry support and participation, and repayment, in part or in whole, of financial assistance awarded under the act. The plan shall also include selection criteria establishing that any entity applying for financial assistance under the Business Innovation Act that employs any person in this state, whether or not such entity is subject to the Employment Security Law, shall be required to submit to the Department of Labor quarterly wage reports on such forms and in such manner as the Commissioner of Labor may require.</para></amendatorysection></section><source><para>Laws 2011, LB387, &#167; 4; </para><para>Laws 2013, LB78, &#167; 16; </para><para>Laws 2026, LB847, &#167; 31. </para><effectivedate>July 18, 2026</effectivedate></source><crossreference><para><emphasis>Employment Security Law,</emphasis> see section 48-601.</para></crossreference></law>
 </legaldoc>

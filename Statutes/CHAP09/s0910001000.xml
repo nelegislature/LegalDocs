@@ -1,12 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> <legaldoc>
-<law type="statute">
-<section id="id3">
-<amendatorysection chaptername="Bingo And Other Gambling" id="id5"  statutenumber="9-1001"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>9-1001</statuteno><catchline>Funding for assistance to problem
-gamblers; legislative findings and intent.</catchline><para>The Legislature finds that the main sources
-of funding for assistance to problem gamblers are the Charitable Gaming Operations
-Fund as provided in section 9-1,101 and the State Lottery Operation Trust
-Fund as provided in section 9-812. It is the intent of the Legislature that
-such funding be used primarily for counseling and treatment services for problem
-gamblers and their families who are residents of Nebraska.</para>
-</amendatorysection></section><source><para>Laws 2013, LB6, &#167; 1.</para></source>  </law>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="Bingo And Other Gambling" id="id5" statutenumber="9-1001"><bookinfo>Revised Statutes Cumulative Supplement, 2026</bookinfo><statuteno>9-1001</statuteno><catchline>Funding for assistance to problem gamblers; legislative findings and intent.</catchline><para>The Legislature finds that the main sources of funding for assistance to problem gamblers are the Charitable Gaming Operations Fund as provided in section 9-1,101, annual gaming tax proceeds as provided in section 9-1204, and the State Lottery Operation Trust Fund as provided in section 9-812. It is the intent of the Legislature that such funding be used primarily for counseling and treatment services for problem gamblers and their families who are residents of Nebraska.</para></amendatorysection></section><source><para>Laws 2013, LB6, &#167; 1; </para><para>Laws 2026, LB1001, &#167; 33. </para><operativedate>July 1, 2026</operativedate></source></law>
 </legaldoc>

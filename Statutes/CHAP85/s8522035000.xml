@@ -1,12 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> <legaldoc>
-<law type="statute">
-<section id="id33">
-<amendatorysection chaptername="State University, State Colleges, And Postsecondary Education" id="id35"  statutenumber="85-2235"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>85-2235</statuteno><catchline>Community College Aid Fund; created;
-use; investment.</catchline><para>The
-Community College Aid Fund is created. The fund shall be used to provide state
-aid to community college areas pursuant to the Community College Aid Act.
-Any money in the fund available for investment shall be invested by the state
-investment officer pursuant to the Nebraska Capital Expansion Act and the
-Nebraska State Funds Investment Act.</para>
-</amendatorysection></section><source><para>Laws 2012, LB946, &#167; 5.</para></source><crossreference><para><emphasis>Nebraska Capital Expansion Act,</emphasis> see section 72-1269.</para><para><emphasis>Nebraska State Funds Investment Act,</emphasis> see section 72-1260.</para></crossreference>  </law>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="statute"><section><amendatorysection chaptername="State University State Colleges and Postsecondary Education" statutenumber="85-2235"><bookinfo>Revised Statutes Cumulative Supplement, 2026</bookinfo><statuteno>85-2235</statuteno><catchline>Repealed. Laws 2026, LB1072, &#167; 241.</catchline></amendatorysection></section><source><operativedate>April 8, 2026</operativedate></source></law>
 </legaldoc>

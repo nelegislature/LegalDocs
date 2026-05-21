@@ -1,18 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="State Institutions" statutenumber="83-963"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>83-963</statuteno><catchline>Department; annual report; contents.</catchline>
-<para>The department shall prepare an annual report on committed offenders
-who are paroled or granted controlled release pursuant to the Correctional
-System Overcrowding Emergency Act. The report shall summarize each such former
-committed offender's behavior since parole and generally evaluate his or her
-success or lack of success in becoming a law-abiding member of society. The
-annual report shall be filed electronically with
-the Executive Board of the Legislative Council on or before December 31, with
-the first such report submitted by December 31 of the first year that committed
-offenders are paroled pursuant to the act. A notice of the filing of the report
-shall be submitted electronically to
-each member of the Legislature when the annual report is filed with the Executive
-Board.</para>
-</amendatorysection></section><source><para>Laws 2003, LB 46, &#167; 49; </para><para>Laws 2012, LB782, &#167; 219.</para></source>  </law>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="State Institutions" statutenumber="83-963"><bookinfo>Revised Statutes Cumulative Supplement, 2026</bookinfo><statuteno>83-963</statuteno><catchline>Department; board; reports; contents.</catchline><para>(1) The department shall prepare an annual report on committed offenders who are paroled or granted controlled release pursuant to the Correctional System Overcrowding Emergency Act for each year the department is operating under an overcrowding emergency as defined in section 83-962. The report shall summarize each such former committed offender's behavior since parole and generally evaluate his or her success or lack of success in becoming a law-abiding member of society. The annual report shall be filed electronically with the Executive Board of the Legislative Council on or before February 1, with the first such report submitted by February 1 of the first year that committed offenders are paroled pursuant to the act. A notice of the filing of the report shall be submitted electronically to each member of the Legislature when the annual report is filed with the Executive Board.</para><para>(2) By February 1 of each year, the board and the department shall electronically submit a report to the Legislature, the Supreme Court, and the Governor. The report shall:</para><para>(a) Describe the percentage of offenders sentenced to the custody of the department who complete their entire sentence and are released with no supervision;</para><para>(b) Document characteristics of the individuals released without supervision, including the highest felony class of conviction, offense type of conviction, most recent risk assessment, status of the individualized release or reentry plan, and reasons for the release without supervision;</para><para>(c) Provide recommendations from the department and board for changes to policy and practice to meet the goal of achieving a reduction in the number of inmates under the custody of the department who serve their entire sentence in a correctional facility and are released without supervision; and</para><para>(d) Contain information regarding:</para><para>(i) The number of inmates eligible for parole who remain incarcerated, disaggregated by the reason for such status;</para><para>(ii) Revocations of parole during the preceding year, disaggregated by the reason for revocation;</para><para>(iii) Hearings to grant or revoke parole conducted in the preceding year;</para><para>(iv) Rehabilitation and recidivism of parolees;</para><para>(v) Cost savings to the state resulting from individuals being paroled rather than incarcerated; and</para><para>(vi) Other matters the director deems appropriate.</para></amendatorysection></section><source><para>Laws 2003, LB 46, &#167; 49; </para><para>Laws 2012, LB782, &#167; 219; </para><para>Laws 2026, LB1048, &#167; 43. </para><effectivedate>July 18, 2026</effectivedate></source></law>
 </legaldoc>

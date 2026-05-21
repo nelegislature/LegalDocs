@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> <legaldoc>
-<law type="statute">
-<section id="id18">
-<amendatorysection amended="yes" chaptername="State Administrative Departments" id="id20" statutenumber="81-2,162.22"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno id="id22">81-2,162.22</statuteno><catchline id="id23">Act, how
-cited.</catchline><para>Sections 81-2,162.01 to 81-2,162.28 shall
-be known and may be cited as the Nebraska Commercial Fertilizer and Soil Conditioner
-Act.</para>
-</amendatorysection></section><source><para>Laws 1955, c. 334, &#167; 22, p. 1046; </para><para>Laws 1975, LB 333, &#167; 23; </para><para>Laws 1987, LB 201, &#167; 5; </para><para>Laws 2009, LB263, &#167;  4.</para></source>  </law>
+<?xml version="1.0" encoding="UTF-8"?>
+<legaldoc>
+<law type="statute"><section><amendatorysection amended="yes" chaptername="State Administrative Departments" id="id20" statutenumber="81-2,162.22"><bookinfo>Revised Statutes Cumulative Supplement, 2026</bookinfo><statuteno>81-2,162.22</statuteno><catchline id="id23">Nebraska Commercial Fertilizer and Beneficial Substances Act, how cited.</catchline><para>Sections 81-2,162.01 to 81-2,162.28 shall be known and may be cited as the Nebraska Commercial Fertilizer and Beneficial Substances Act.</para></amendatorysection></section><source><para>Laws 1955, c. 334, &#167; 22, p. 1046; </para><para>Laws 1975, LB 333, &#167; 23; </para><para>Laws 1987, LB 201, &#167; 5; </para><para>Laws 2009, LB263, &#167; 4; </para><para>Laws 2026, LB948, &#167; 29. </para><effectivedate>March 17, 2026</effectivedate></source></law>
 </legaldoc>

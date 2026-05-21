@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="Law" statutenumber="49-508"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>49-508</statuteno><catchline>Distribution to new members of Legislature.</catchline><para>The new members of each Legislature shall be furnished by the State
-Librarian or his or her designee, at the commencement of the first session
-for which they are elected, with one copy of
-each of the session laws and journals of the preceding session, with a second copy furnished to any such member upon his
-or her request.</para>
-</amendatorysection></section><source><para>Laws 1907, c. 78, &#167; 8, p. 291; </para><para>R.S.1913, &#167; 3740; </para><para>C.S.1922, &#167; 3133; </para><para>C.S.1929, &#167; 49-508; </para><para>R.S.1943, &#167; 49-508; </para><para>Laws 1975, LB 59, &#167; 2; </para><para>Laws 1980, LB 598, &#167; 1; </para><para>Laws 1987, LB 572, &#167; 4; </para><para>Laws 2010, LB770, &#167; 2.</para></source>  </law>
+<law type="statute"><section id="id563"><amendatorysection amended="yes" chaptername="Law" statutenumber="49-508"><bookinfo>Revised Statutes Cumulative Supplement, 2026</bookinfo><statuteno>49-508</statuteno><catchline>Distribution to new members of Legislature; section, termination.</catchline><para>The new members of each Legislature shall be furnished by the State Librarian or his or her designee, at the commencement of the first session for which they are elected, with one copy of each of the session laws and journals of the preceding session, with a second copy furnished to any such member upon such member's request.</para><para>This section terminates on January 1, 2027.</para></amendatorysection></section><source><para>Laws 1907, c. 78, &#167; 8, p. 291; </para><para>R.S.1913, &#167; 3740; </para><para>C.S.1922, &#167; 3133; </para><para>C.S.1929, &#167; 49-508; </para><para>R.S.1943, &#167; 49-508; </para><para>Laws 1975, LB 59, &#167; 2; </para><para>Laws 1980, LB 598, &#167; 1; </para><para>Laws 1987, LB 572, &#167; 4; </para><para>Laws 2010, LB770, &#167; 2; </para><para>Laws 2026, LB1236, &#167; 10. </para><operativedate>July 18, 2026</operativedate></source></law>
 </legaldoc>

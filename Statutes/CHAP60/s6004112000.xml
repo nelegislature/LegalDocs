@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<legaldoc>
-<law type="statute">
-<section>
-<amendatorysection amended="yes" chaptername="Motor Vehicles" id="id100" statutenumber="60-4,112"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>60-4,112</statuteno><catchline id="id103">Sections; applicability.</catchline>
-<para>Sections 60-4,114.01 and 60-4,118.01 to 60-4,130.05
-shall apply to the operation of any motor vehicle except a commercial motor
-vehicle.</para>
-</amendatorysection></section><source><para>Laws
-1989, LB 285, &#167; 62; </para><para>Laws 1991, LB 44, &#167; 2; </para><para>Laws 1993, LB 105, &#167; 8; </para><para>Laws 1994, LB 211, &#167; 4; </para><para>Laws 1998, LB 320, &#167; 4; </para><para>Laws 2001, LB 38, &#167; 27; </para><para>Laws 2003, LB 562, &#167; 5; </para><para>Laws 2008, LB911, &#167; 10; </para><para>Laws 2011, LB158, &#167; 2; </para><para>Laws 2014, LB983, &#167; 16.</para></source>  </law>
-</legaldoc>
+<?xml version="1.0" encoding="utf-8"?><legaldoc lastbill="LB972"><law type="statute"><section><amendatorysection chaptername="Motor Vehicles" amended="yes" statutenumber="60-4,112"><bookinfo>Revised Statutes Cumulative Supplement, 2026</bookinfo><statuteno>60-4,112</statuteno><catchline>Transferred to section 60-4,118.02.</catchline></amendatorysection></section></law></legaldoc>

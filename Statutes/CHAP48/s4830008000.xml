@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <legaldoc>
-<law type="statute">
-<section id="id63">
-<amendatorysection chaptername="Labor" id="id65"  statutenumber="48-3008"><bookinfo>Reissue Revised Statutes of Nebraska</bookinfo><statuteno>48-3008</statuteno><catchline>Department of Economic Development;
-audit employer.</catchline><para>The
-Department of Economic Development shall, prior to making the job training
-reimbursement, audit the employer for compliance with the Teleworker Job Creation
-Act. The department may utilize the subaccount created under subsection (3)
-of section 81-1201.21 to support the costs of audits and administration of
-the Teleworker Job Creation Act.</para>
-</amendatorysection></section><source><para>Laws 2010, LB1081, &#167; 8.</para></source>  </law>
+<law type="statute"><section id="id626"><amendatorysection amended="yes" chaptername="Labor" id="id65" statutenumber="48-3008"><bookinfo>Revised Statutes Cumulative Supplement, 2026</bookinfo><statuteno>48-3008</statuteno><catchline>Department of Economic Development; audit employer.</catchline><para>The Department of Economic Development shall, prior to making the job training reimbursement, audit the employer for compliance with the Teleworker Job Creation Act. The department may utilize the Administrative Cash Fund to support the costs of audits and administration of the Teleworker Job Creation Act.</para></amendatorysection></section><source><para>Laws 2010, LB1081, &#167; 8; </para><para>Laws 2026, LB1072, &#167; 144. </para><operativedate>December 31, 2026</operativedate></source></law>
 </legaldoc>
