@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE legaldoc PUBLIC "Nebraska Unicameral//DTD legaldoc XML v1.0//EN"
- "legaldoc.dtd">
+
+
 <legaldoc><law type="appendix">
 <section><sectno></sectno>
 <amendatorysection chaptername="Appendix" statutenumber="1-115">
@@ -198,49 +197,49 @@ may be relocated at such other places as may be designated state-line gaging
 stations by the Administration) during each month as follows:</para>
 <para><table frame="none">
 <tgroup cols="4">
-<?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
+
 <colspec colname="col1" colwidth="1.04*"/><colspec colname="col2" colwidth="1.10*"/>
 <colspec colname="col3" colwidth="0.93*"/><colspec colname="col4" colwidth="0.93*"/>
 <tbody>
 <row>
-<?PubTbl row rht="0.31in"?>
-<entry colsep="0" rowsep="0" align="right"><?Pub _font Underline="yes"?>Little
-Blue River<?Pub /_font?></entry>
+
+<entry colsep="0" rowsep="0" align="right">Little
+Blue River</entry>
 <entry colsep="0" rowsep="0"></entry>
-<entry colsep="0" rowsep="0" align="right"><?Pub _font Underline="yes"?>Big
-Blue River<?Pub /_font?></entry>
+<entry colsep="0" rowsep="0" align="right">Big
+Blue River</entry>
 <entry colsep="0" rowsep="0"></entry>
 </row>
 <row>
-<?PubTbl row rht="0.31in"?>
+
 <entry colsep="0" rowsep="0">May</entry>
 <entry colsep="0" rowsep="0">45 cfs</entry>
 <entry colsep="0" rowsep="0">May</entry>
 <entry colsep="0" rowsep="0">45 cfs</entry>
 </row>
 <row>
-<?PubTbl row rht="0.31in"?>
+
 <entry colsep="0" rowsep="0">June</entry>
 <entry colsep="0" rowsep="0">45 cfs</entry>
 <entry colsep="0" rowsep="0">June</entry>
 <entry colsep="0" rowsep="0">45 cfs</entry>
 </row>
 <row>
-<?PubTbl row rht="0.31in"?>
-<entry colsep="0" rowsep="0">July<?Pub Caret?></entry>
+
+<entry colsep="0" rowsep="0">July</entry>
 <entry colsep="0" rowsep="0">75 cfs</entry>
 <entry colsep="0" rowsep="0">July</entry>
 <entry colsep="0" rowsep="0">80 cfs</entry>
 </row>
 <row>
-<?PubTbl row rht="0.31in"?>
+
 <entry colsep="0" rowsep="0">August</entry>
 <entry colsep="0" rowsep="0">80 cfs</entry>
 <entry colsep="0" rowsep="0">August</entry>
 <entry colsep="0" rowsep="0">90 cfs</entry>
 </row>
 <row>
-<?PubTbl row rht="0.31in"?>
+
 <entry colsep="0" rowsep="0">September</entry>
 <entry colsep="0" rowsep="0">60 cfs</entry>
 <entry colsep="0" rowsep="0">September</entry>

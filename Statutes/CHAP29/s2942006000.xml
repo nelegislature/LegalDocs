@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+
 <legaldoc>
 <law type="statute">
 <section id="id10">
@@ -20,7 +20,7 @@ the following form:</para>
 <para>
 <table frame="none">
 <tgroup cols="3">
-<?PubTbl tgroup clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
+
 <colspec colname="col1" colwidth="1.03*"/>
 <colspec colname="COLSPEC0" colwidth="1*"/>
 <colspec colname="col2" colwidth="1.18*" align="left"/>
@@ -41,7 +41,7 @@ the following form:</para>
 <entry colsep="0" rowsep="0">Case No. ...........</entry>
 </row>
 <row>
-<?PubTbl row rht="0.28in"?>
+
 <entry colsep="0" rowsep="0" namest="col1" nameend="COLSPEC0">................................,</entry>
 <entry colsep="0" rowsep="0">Arrest No. .........</entry>
 </row>
@@ -73,7 +73,7 @@ appearance dates in this matter.</para>
 <para>
 <table frame="none">
 <tgroup align="center" cols="2">
-<?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
+
 <colspec colname="col1" align="left" colwidth="1*"/>
 <colspec colname="COLSPEC0" align="left" colwidth="1.94*"/>
 <tbody>
@@ -98,12 +98,12 @@ me to represent the defendant in all hearings before the court in this matter.</
 <para>
 <table frame="none">
 <tgroup cols="2">
-<?PubTbl tgroup rth="0.00pt" clmarg="0.00pt" crmarg="0.00pt" ctmarg="0.00pt" cbmarg="2.10pt"?>
+
 <colspec colname="col1" colwidth="1*" align="left"/>
 <colspec colname="col2" colwidth="1.12*" align="left"/>
 <tbody>
 <row>
-<?PubTbl row rht="0.27in"?>
+
 <entry colsep="0" rowsep="0">(Please Print or Type)</entry>
 <entry colsep="0" rowsep="0"/>
 </row>
